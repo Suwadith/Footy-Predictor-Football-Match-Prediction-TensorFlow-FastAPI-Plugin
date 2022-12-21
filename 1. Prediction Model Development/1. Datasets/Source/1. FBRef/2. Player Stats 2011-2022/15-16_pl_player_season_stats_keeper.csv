@@ -1,0 +1,90 @@
+,,,,Nation,Pos,Age,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks
+,,,,,,,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%
+league,season,team,player,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1516,Arsenal,David Ospina,COL,GK,26.0,4,4,360,4.0,5,1.25,22,17,77.3,2,2,0,2,50.0,,,,,
+ENG-Premier League,1516,Arsenal,Opponent Total,,,26.7,38,38,3420,38.0,65,1.71,204,140,68.6,7,11,20,8,21.1,2.0,1.0,0.0,1.0,0.0
+ENG-Premier League,1516,Arsenal,Petr Čech,CZE,GK,33.0,34,34,3060,34.0,31,0.91,126,95,75.4,18,9,7,16,47.1,,,,,
+ENG-Premier League,1516,Arsenal,Squad Total,,,27.0,38,38,3420,38.0,36,0.95,148,112,75.7,20,11,7,18,47.4,,,,,
+ENG-Premier League,1516,Aston Villa,Brad Guzan,USA,GK,30.0,28,28,2520,28.0,58,2.07,144,86,59.7,1,5,22,2,7.1,,,,,
+ENG-Premier League,1516,Aston Villa,Mark Bunn,ENG,GK,30.0,10,10,900,10.0,18,1.8,42,24,57.1,2,3,5,4,40.0,,,,,
+ENG-Premier League,1516,Aston Villa,Opponent Total,,,27.1,38,38,3420,38.0,27,0.71,109,84,77.1,27,8,3,18,47.4,2.0,2.0,0.0,0.0,0.0
+ENG-Premier League,1516,Aston Villa,Squad Total,,,26.6,38,38,3420,38.0,76,2.0,186,110,59.1,3,8,27,6,15.8,,,,,
+ENG-Premier League,1516,Bournemouth,Adam Federici,AUS,GK,30.0,6,6,495,5.5,15,2.73,27,12,44.4,0,2,4,0,0.0,,,,,
+ENG-Premier League,1516,Bournemouth,Artur Boruc,POL,GK,35.0,32,32,2880,32.0,51,1.59,123,72,58.5,11,7,14,7,21.9,,,,,
+ENG-Premier League,1516,Bournemouth,Opponent Total,,,26.7,38,38,3420,38.0,45,1.18,136,95,69.1,18,9,11,11,28.9,4.0,3.0,1.0,0.0,25.0
+ENG-Premier League,1516,Bournemouth,Ryan Allsop,ENG,GK,23.0,1,0,45,0.5,1,2.0,2,1,50.0,0,0,0,0,,,,,,
+ENG-Premier League,1516,Bournemouth,Squad Total,,,27.7,38,38,3420,38.0,67,1.76,152,85,55.9,11,9,18,7,18.4,,,,,
+ENG-Premier League,1516,Chelsea,Asmir Begović,BIH,GK,28.0,17,15,1399,15.5,24,1.54,79,55,69.6,4,5,7,4,26.7,,,,,
+ENG-Premier League,1516,Chelsea,Opponent Total,,,27.1,38,38,3420,38.0,59,1.55,168,113,67.3,12,14,12,8,21.1,5.0,4.0,0.0,1.0,0.0
+ENG-Premier League,1516,Chelsea,Squad Total,,,26.8,38,38,3419,38.0,53,1.4,172,119,69.2,12,14,12,9,23.7,,,,,
+ENG-Premier League,1516,Chelsea,Thibaut Courtois,BEL,GK,23.0,23,23,2020,22.4,29,1.29,93,64,68.8,8,9,5,5,21.7,,,,,
+ENG-Premier League,1516,Crystal Palace,Alex McCarthy,ENG,GK,25.0,7,7,630,7.0,9,1.29,39,30,76.9,3,0,4,0,0.0,,,,,
+ENG-Premier League,1516,Crystal Palace,Julián Speroni,ARG,GK,36.0,2,2,180,2.0,6,3.0,15,9,60.0,0,0,2,0,0.0,,,,,
+ENG-Premier League,1516,Crystal Palace,Opponent Total,,,26.8,38,38,3420,38.0,39,1.03,144,110,75.7,18,9,11,14,36.8,6.0,4.0,1.0,1.0,20.0
+ENG-Premier League,1516,Crystal Palace,Squad Total,,,27.7,38,38,3420,38.0,51,1.34,168,117,69.6,11,9,18,8,21.1,,,,,
+ENG-Premier League,1516,Crystal Palace,Wayne Hennessey,WAL,GK,28.0,29,29,2610,29.0,36,1.24,114,78,68.4,8,9,12,8,27.6,,,,,
+ENG-Premier League,1516,Everton,Joel Robles,ESP,GK,25.0,13,13,1170,13.0,20,1.54,64,44,68.8,3,3,7,3,23.1,,,,,
+ENG-Premier League,1516,Everton,Opponent Total,,,27.0,38,38,3420,38.0,59,1.55,169,115,67.5,13,14,11,11,28.9,5.0,4.0,1.0,0.0,20.0
+ENG-Premier League,1516,Everton,Squad Total,,,26.5,38,38,3420,38.0,55,1.45,179,124,69.3,11,14,13,10,26.3,,,,,
+ENG-Premier League,1516,Everton,Tim Howard,USA,GK,36.0,25,25,2250,25.0,35,1.4,115,80,69.6,8,11,6,7,28.0,,,,,
+ENG-Premier League,1516,Leicester City,Kasper Schmeichel,DEN,GK,28.0,38,38,3420,38.0,36,0.95,136,100,73.5,23,12,3,15,39.5,,,,,
+ENG-Premier League,1516,Leicester City,Opponent Total,,,26.9,38,38,3419,38.0,68,1.79,167,111,65.3,3,12,23,3,7.9,13.0,10.0,2.0,1.0,16.7
+ENG-Premier League,1516,Leicester City,Squad Total,,,27.7,38,38,3420,38.0,36,0.95,136,100,73.5,23,12,3,15,39.5,,,,,
+ENG-Premier League,1516,Liverpool,Danny Ward,WAL,GK,22.0,2,2,180,2.0,4,2.0,13,9,69.2,1,0,1,0,0.0,,,,,
+ENG-Premier League,1516,Liverpool,Opponent Total,,,27.1,38,38,3420,38.0,63,1.66,198,137,69.2,10,12,16,8,21.1,2.0,2.0,0.0,0.0,0.0
+ENG-Premier League,1516,Liverpool,Simon Mignolet,BEL,GK,27.0,34,34,3060,34.0,42,1.24,111,69,62.2,15,11,8,0,0.0,,,,,
+ENG-Premier League,1516,Liverpool,Squad Total,,,25.2,38,38,3420,38.0,50,1.32,130,80,61.5,16,12,10,11,28.9,,,,,
+ENG-Premier League,1516,Liverpool,Ádám Bogdán,HUN,GK,27.0,2,2,180,2.0,4,2.0,6,2,33.3,0,1,1,0,0.0,,,,,
+ENG-Premier League,1516,Manchester City,Joe Hart,ENG,GK,28.0,35,35,3109,34.5,36,1.04,106,70,66.0,17,9,9,15,42.9,,,,,
+ENG-Premier League,1516,Manchester City,Opponent Total,,,27.0,38,38,3418,38.0,71,1.87,204,138,67.6,10,9,19,8,21.1,8.0,5.0,0.0,3.0,0.0
+ENG-Premier League,1516,Manchester City,Squad Total,,,28.3,38,38,3420,38.0,41,1.08,125,84,67.2,19,9,10,16,42.1,,,,,
+ENG-Premier League,1516,Manchester City,Willy Caballero,ARG,GK,33.0,4,3,311,3.5,5,1.45,19,14,73.7,2,0,1,1,33.3,,,,,
+ENG-Premier League,1516,Manchester Utd,David de Gea,ESP,GK,24.0,34,34,3060,34.0,33,0.97,111,78,70.3,17,8,9,15,44.1,,,,,
+ENG-Premier League,1516,Manchester Utd,Opponent Total,,,27.2,38,38,3420,38.0,49,1.29,143,97,67.8,10,9,19,10,26.3,3.0,3.0,0.0,0.0,0.0
+ENG-Premier League,1516,Manchester Utd,Sergio Romero,ARG,GK,28.0,4,4,360,4.0,2,0.5,9,7,77.8,2,1,1,3,75.0,,,,,
+ENG-Premier League,1516,Manchester Utd,Squad Total,,,25.6,38,38,3420,38.0,35,0.92,120,85,70.8,19,9,10,18,47.4,,,,,
+ENG-Premier League,1516,Newcastle Utd,Karl Darlow,ENG,GK,24.0,9,9,810,9.0,11,1.22,34,23,67.6,3,3,3,3,33.3,,,,,
+ENG-Premier League,1516,Newcastle Utd,Opponent Total,,,27.1,38,38,3420,38.0,44,1.16,147,106,72.1,19,10,9,14,36.8,3.0,3.0,0.0,0.0,0.0
+ENG-Premier League,1516,Newcastle Utd,Rob Elliot,IRL,GK,29.0,21,21,1890,21.0,37,1.76,94,57,60.6,6,4,11,4,19.0,,,,,
+ENG-Premier League,1516,Newcastle Utd,Squad Total,,,25.4,38,38,3420,38.0,65,1.71,178,113,63.5,9,10,19,8,21.1,,,,,
+ENG-Premier League,1516,Newcastle Utd,Tim Krul,NED,GK,27.0,8,8,720,8.0,17,2.12,50,33,66.0,0,3,5,1,12.5,,,,,
+ENG-Premier League,1516,Norwich City,Declan Rudd,ENG,GK,24.0,11,11,990,11.0,23,2.09,54,31,57.4,3,1,7,2,18.2,,,,,
+ENG-Premier League,1516,Norwich City,John Ruddy,ENG,GK,28.0,27,27,2430,27.0,44,1.63,111,67,60.4,6,6,15,3,11.1,,,,,
+ENG-Premier League,1516,Norwich City,Opponent Total,,,26.9,38,38,3420,38.0,39,1.03,124,86,69.4,22,7,9,16,42.1,1.0,1.0,0.0,0.0,0.0
+ENG-Premier League,1516,Norwich City,Squad Total,,,27.7,38,38,3420,38.0,67,1.76,165,98,59.4,9,7,22,5,13.2,,,,,
+ENG-Premier League,1516,Southampton,Fraser Forster,ENG,GK,27.0,18,18,1620,18.0,17,0.94,67,50,74.6,12,3,3,6,33.3,,,,,
+ENG-Premier League,1516,Southampton,Kelvin Davis,ENG,GK,38.0,1,1,90,1.0,2,2.0,7,5,71.4,0,1,0,0,0.0,,,,,
+ENG-Premier League,1516,Southampton,Maarten Stekelenburg,NED,GK,32.0,17,17,1530,17.0,19,1.12,48,29,60.4,6,5,6,6,35.3,,,,,
+ENG-Premier League,1516,Southampton,Opponent Total,,,27.0,38,38,3420,38.0,59,1.55,157,102,64.3,11,9,18,10,26.3,4.0,3.0,1.0,0.0,25.0
+ENG-Premier League,1516,Southampton,Paulo Gazzaniga,ARG,GK,23.0,2,2,180,2.0,3,1.5,11,8,72.7,0,0,2,0,0.0,,,,,
+ENG-Premier League,1516,Southampton,Squad Total,,,26.4,38,38,3420,38.0,41,1.08,133,92,69.2,18,9,11,12,31.6,,,,,
+ENG-Premier League,1516,Stoke City,Jack Butland,ENG,GK,22.0,31,31,2790,31.0,37,1.19,139,102,73.4,13,7,11,10,32.3,,,,,
+ENG-Premier League,1516,Stoke City,Jakob Haugaard,DEN,GK,23.0,5,4,405,4.5,11,2.44,22,11,50.0,0,2,2,0,0.0,,,,,
+ENG-Premier League,1516,Stoke City,Opponent Total,,,27.0,38,38,3420,38.0,41,1.08,123,87,70.7,15,9,14,13,34.2,5.0,5.0,0.0,0.0,0.0
+ENG-Premier League,1516,Stoke City,Shay Given,IRL,GK,39.0,3,3,225,2.5,7,2.8,14,7,50.0,1,0,2,0,0.0,,,,,
+ENG-Premier League,1516,Stoke City,Squad Total,,,27.4,38,38,3420,38.0,55,1.45,175,120,68.6,14,9,15,10,26.3,,,,,
+ENG-Premier League,1516,Sunderland,Costel Pantilimon,ROU,GK,28.0,17,17,1530,17.0,33,1.94,101,68,67.3,3,3,11,3,17.6,,,,,
+ENG-Premier League,1516,Sunderland,Jordan Pickford,ENG,GK,21.0,2,2,180,2.0,6,3.0,17,11,64.7,0,1,1,0,0.0,,,,,
+ENG-Premier League,1516,Sunderland,Opponent Total,,,26.9,38,38,3420,38.0,48,1.26,138,93,67.4,17,12,9,12,31.6,3.0,3.0,0.0,0.0,0.0
+ENG-Premier League,1516,Sunderland,Squad Total,,,27.3,38,38,3420,38.0,62,1.63,213,151,70.9,9,12,17,7,18.4,,,,,
+ENG-Premier League,1516,Sunderland,Vito Mannone,ITA,GK,27.0,19,19,1710,19.0,23,1.21,95,72,75.8,6,8,5,4,21.1,,,,,
+ENG-Premier League,1516,Swansea City,Kristoffer Nordfeldt,SWE,GK,26.0,1,1,90,1.0,1,1.0,5,4,80.0,0,1,0,0,0.0,,,,,
+ENG-Premier League,1516,Swansea City,Opponent Total,,,27.0,38,38,3417,38.0,42,1.11,131,94,71.8,15,11,12,12,31.6,5.0,5.0,0.0,0.0,0.0
+ENG-Premier League,1516,Swansea City,Squad Total,,,27.6,38,38,3420,38.0,52,1.37,165,113,68.5,12,11,15,9,23.7,,,,,
+ENG-Premier League,1516,Swansea City,Łukasz Fabiański,POL,GK,30.0,37,37,3330,37.0,51,1.38,160,109,68.1,12,10,15,9,24.3,,,,,
+ENG-Premier League,1516,Tottenham,Hugo Lloris,FRA,GK,28.0,37,37,3330,37.0,34,0.92,119,85,71.4,19,13,5,13,35.1,,,,,
+ENG-Premier League,1516,Tottenham,Michel Vorm,NED,GK,31.0,1,1,90,1.0,1,1.0,2,1,50.0,0,0,1,0,0.0,,,,,
+ENG-Premier League,1516,Tottenham,Opponent Total,,,27.3,38,38,3420,38.0,69,1.82,247,183,74.1,6,13,19,6,15.8,5.0,5.0,0.0,0.0,0.0
+ENG-Premier League,1516,Tottenham,Squad Total,,,24.5,38,38,3420,38.0,35,0.92,121,86,71.1,19,13,6,13,34.2,,,,,
+ENG-Premier League,1516,Watford,Giedrius Arlauskis,LTU,GK,27.0,1,0,24,0.3,1,3.75,2,1,50.0,0,0,0,0,,,,,,
+ENG-Premier League,1516,Watford,Heurelho Gomes,BRA,GK,34.0,38,38,3396,37.7,49,1.3,121,72,59.5,12,9,17,11,28.9,,,,,
+ENG-Premier League,1516,Watford,Opponent Total,,,26.7,38,38,3420,38.0,40,1.05,131,98,74.0,17,9,12,14,36.8,7.0,6.0,1.0,0.0,14.3
+ENG-Premier League,1516,Watford,Squad Total,,,28.2,38,38,3420,38.0,50,1.32,123,73,59.3,12,9,17,11,28.9,,,,,
+ENG-Premier League,1516,West Brom,Ben Foster,ENG,GK,32.0,15,15,1350,15.0,17,1.13,60,43,71.7,3,6,6,4,26.7,,,,,
+ENG-Premier League,1516,West Brom,Boaz Myhill,WAL,GK,32.0,23,23,2070,23.0,31,1.35,95,64,67.4,7,7,9,7,30.4,,,,,
+ENG-Premier League,1516,West Brom,Opponent Total,,,26.8,38,38,3420,38.0,34,0.89,99,69,66.7,15,13,10,14,36.8,5.0,1.0,3.0,1.0,75.0
+ENG-Premier League,1516,West Brom,Squad Total,,,29.1,38,38,3420,38.0,48,1.26,155,107,69.0,10,13,15,11,28.9,,,,,
+ENG-Premier League,1516,West Ham,Adrián,ESP,GK,28.0,32,32,2880,32.0,39,1.22,138,99,71.7,13,14,5,9,28.1,,,,,
+ENG-Premier League,1516,West Ham,Darren Randolph,IRL,GK,28.0,6,6,540,6.0,12,2.0,24,12,50.0,3,0,3,2,33.3,,,,,
+ENG-Premier League,1516,West Ham,Opponent Total,,,27.0,38,38,3420,38.0,65,1.71,178,117,65.7,8,14,16,5,13.2,4.0,4.0,0.0,0.0,0.0
+ENG-Premier League,1516,West Ham,Squad Total,,,26.6,38,38,3420,38.0,51,1.34,162,111,68.5,16,14,8,11,28.9,,,,,

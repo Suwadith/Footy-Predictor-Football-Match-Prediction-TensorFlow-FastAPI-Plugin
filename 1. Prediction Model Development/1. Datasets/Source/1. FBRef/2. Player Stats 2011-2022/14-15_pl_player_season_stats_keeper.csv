@@ -1,0 +1,88 @@
+,,,,Nation,Pos,Age,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks
+,,,,,,,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%
+league,season,team,player,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1415,Arsenal,David Ospina,COL,GK,25.0,18,18,1620,18.0,11,0.61,57,46,80.7,13,3,2,8,44.4,,,,,
+ENG-Premier League,1415,Arsenal,Emiliano Martínez,ARG,GK,21.0,4,3,302,3.4,4,1.19,8,4,50.0,2,0,1,2,66.7,,,,,
+ENG-Premier League,1415,Arsenal,Opponent Total,,,27.0,38,38,3420,38.0,67,1.76,209,148,70.8,7,9,22,5,13.2,7.0,6.0,0.0,1.0,0.0
+ENG-Premier League,1415,Arsenal,Squad Total,,,26.1,38,38,3420,38.0,36,0.95,128,92,71.9,22,9,7,13,34.2,,,,,
+ENG-Premier League,1415,Arsenal,Wojciech Szczęsny,POL,GK,24.0,17,17,1498,16.6,21,1.26,63,42,66.7,7,6,4,3,17.6,,,,,
+ENG-Premier League,1415,Aston Villa,Brad Guzan,USA,GK,29.0,34,34,3060,34.0,48,1.41,148,100,67.6,8,8,18,9,26.5,,,,,
+ENG-Premier League,1415,Aston Villa,Jed Steer,ENG,GK,21.0,1,1,90,1.0,1,1.0,3,2,66.7,0,0,1,0,0.0,,,,,
+ENG-Premier League,1415,Aston Villa,Opponent Total,,,27.0,38,38,3420,38.0,31,0.82,123,93,75.6,20,8,10,18,47.4,1.0,1.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Shay Given,IRL,GK,38.0,3,3,270,3.0,8,2.67,17,9,52.9,2,0,1,1,33.3,,,,,
+ENG-Premier League,1415,Aston Villa,Squad Total,,,26.3,38,38,3420,38.0,57,1.5,168,111,66.1,10,8,20,10,26.3,,,,,
+ENG-Premier League,1415,Burnley,Opponent Total,,,26.8,38,38,3420,38.0,26,0.68,119,94,79.0,19,12,7,18,47.4,3.0,1.0,0.0,2.0,0.0
+ENG-Premier League,1415,Burnley,Squad Total,,,27.2,38,38,3420,38.0,53,1.39,178,125,70.2,7,12,19,10,26.3,,,,,
+ENG-Premier League,1415,Burnley,Tom Heaton,ENG,GK,28.0,38,38,3420,38.0,53,1.39,178,125,70.2,7,12,19,10,26.3,,,,,
+ENG-Premier League,1415,Chelsea,Opponent Total,,,26.8,38,38,3420,38.0,73,1.92,202,134,65.8,3,9,26,3,7.9,6.0,4.0,1.0,1.0,20.0
+ENG-Premier League,1415,Chelsea,Petr Čech,CZE,GK,32.0,7,6,607,6.7,2,0.3,18,16,88.9,7,0,0,5,83.3,,,,,
+ENG-Premier League,1415,Chelsea,Squad Total,,,27.0,38,38,3420,38.0,32,0.84,121,89,73.6,26,9,3,17,44.7,,,,,
+ENG-Premier League,1415,Chelsea,Thibaut Courtois,BEL,GK,22.0,32,32,2813,31.3,30,0.96,103,73,70.9,19,9,3,12,37.5,,,,,
+ENG-Premier League,1415,Crystal Palace,Julián Speroni,ARG,GK,35.0,36,36,3204,35.6,49,1.38,138,89,64.5,12,8,16,6,16.7,,,,,
+ENG-Premier League,1415,Crystal Palace,Opponent Total,,,26.9,38,38,3420,38.0,47,1.24,128,87,67.2,16,9,13,13,34.2,7.0,5.0,1.0,1.0,16.7
+ENG-Premier League,1415,Crystal Palace,Squad Total,,,27.8,38,38,3420,38.0,51,1.34,144,93,64.6,13,9,16,7,18.4,,,,,
+ENG-Premier League,1415,Crystal Palace,Wayne Hennessey,WAL,GK,27.0,3,2,216,2.4,2,0.83,6,4,66.7,1,1,0,1,50.0,,,,,
+ENG-Premier League,1415,Everton,Joel Robles,ESP,GK,24.0,7,6,585,6.5,6,0.92,21,15,71.4,1,3,3,3,50.0,,,,,
+ENG-Premier League,1415,Everton,Opponent Total,,,26.8,38,38,3420,38.0,48,1.26,157,115,72.0,15,11,12,12,31.6,9.0,4.0,2.0,3.0,33.3
+ENG-Premier League,1415,Everton,Squad Total,,,27.9,38,38,3420,38.0,50,1.32,128,78,60.9,12,11,15,10,26.3,,,,,
+ENG-Premier League,1415,Everton,Tim Howard,USA,GK,35.0,32,32,2835,31.5,44,1.4,107,63,58.9,11,8,12,7,21.9,,,,,
+ENG-Premier League,1415,Hull City,Allan McGregor,SCO,GK,32.0,26,26,2340,26.0,39,1.5,102,63,61.8,5,7,13,5,19.2,,,,,
+ENG-Premier League,1415,Hull City,Eldin Jakupović,SUI,GK,29.0,3,2,228,2.5,2,0.79,11,9,81.8,0,2,1,1,50.0,,,,,
+ENG-Premier League,1415,Hull City,Opponent Total,,,27.1,38,38,3420,38.0,33,0.87,128,96,75.0,19,11,8,17,44.7,1.0,1.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Squad Total,,,27.4,38,38,3420,38.0,51,1.34,153,102,66.7,8,11,19,10,26.3,,,,,
+ENG-Premier League,1415,Hull City,Steve Harper,ENG,GK,39.0,10,10,852,9.5,10,1.06,40,30,75.0,3,2,5,4,40.0,,,,,
+ENG-Premier League,1415,Leicester City,Ben Hamer,ENG,GK,26.0,8,8,720,8.0,8,1.0,29,21,72.4,3,1,4,3,37.5,,,,,
+ENG-Premier League,1415,Leicester City,Kasper Schmeichel,DEN,GK,27.0,24,24,2160,24.0,37,1.54,112,75,67.0,8,5,11,6,25.0,,,,,
+ENG-Premier League,1415,Leicester City,Mark Schwarzer,AUS,GK,41.0,6,6,540,6.0,10,1.67,31,21,67.7,0,2,4,1,16.7,,,,,
+ENG-Premier League,1415,Leicester City,Opponent Total,,,26.9,38,38,3420,38.0,46,1.21,130,88,66.9,19,8,11,14,36.8,5.0,3.0,1.0,1.0,25.0
+ENG-Premier League,1415,Leicester City,Squad Total,,,27.9,38,38,3420,38.0,55,1.45,172,117,68.0,11,8,19,10,26.3,,,,,
+ENG-Premier League,1415,Liverpool,Brad Jones,AUS,GK,32.0,3,3,195,2.2,5,2.31,9,4,44.4,1,1,0,0,0.0,,,,,
+ENG-Premier League,1415,Liverpool,Opponent Total,,,26.8,38,38,3420,38.0,52,1.37,179,133,73.7,12,8,18,8,21.1,7.0,5.0,1.0,1.0,16.7
+ENG-Premier League,1415,Liverpool,Simon Mignolet,BEL,GK,26.0,36,35,3225,35.8,43,1.2,130,87,66.9,17,7,12,14,40.0,,,,,
+ENG-Premier League,1415,Liverpool,Squad Total,,,25.2,38,38,3420,38.0,48,1.26,139,91,65.5,18,8,12,14,36.8,,,,,
+ENG-Premier League,1415,Manchester City,Joe Hart,ENG,GK,27.0,36,36,3240,36.0,34,0.94,119,85,71.4,22,7,7,14,38.9,,,,,
+ENG-Premier League,1415,Manchester City,Opponent Total,,,26.9,38,38,3420,38.0,83,2.18,219,144,65.3,7,7,24,3,7.9,8.0,7.0,1.0,0.0,12.5
+ENG-Premier League,1415,Manchester City,Squad Total,,,28.6,38,38,3420,38.0,38,1.0,128,90,70.3,24,7,7,14,36.8,,,,,
+ENG-Premier League,1415,Manchester City,Willy Caballero,ARG,GK,32.0,2,2,180,2.0,4,2.0,9,5,55.6,2,0,0,0,0.0,,,,,
+ENG-Premier League,1415,Manchester Utd,David de Gea,ESP,GK,23.0,37,37,3313,36.8,36,0.98,127,91,71.7,20,9,8,11,29.7,,,,,
+ENG-Premier League,1415,Manchester Utd,Opponent Total,,,27.0,38,38,3420,38.0,62,1.63,168,111,64.9,8,10,20,8,21.1,7.0,3.0,2.0,2.0,40.0
+ENG-Premier League,1415,Manchester Utd,Squad Total,,,26.0,38,38,3420,38.0,37,0.97,134,97,72.4,20,10,8,11,28.9,,,,,
+ENG-Premier League,1415,Manchester Utd,Víctor Valdés,ESP,GK,32.0,2,1,107,1.2,1,0.84,7,6,85.7,0,1,0,0,0.0,,,,,
+ENG-Premier League,1415,Newcastle Utd,Jak Alnwick,ENG,GK,21.0,6,5,495,5.5,14,2.55,23,9,39.1,2,1,3,0,0.0,,,,,
+ENG-Premier League,1415,Newcastle Utd,Opponent Total,,,26.9,38,38,3420,38.0,40,1.05,137,98,71.5,19,9,10,13,34.2,1.0,1.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Rob Elliot,IRL,GK,28.0,3,3,225,2.5,2,0.8,7,5,71.4,1,1,1,1,33.3,,,,,
+ENG-Premier League,1415,Newcastle Utd,Squad Total,,,25.9,38,38,3420,38.0,63,1.66,161,98,60.9,10,9,19,8,21.1,,,,,
+ENG-Premier League,1415,Newcastle Utd,Tim Krul,NED,GK,26.0,30,30,2700,30.0,47,1.57,131,84,64.1,7,7,15,7,23.3,,,,,
+ENG-Premier League,1415,QPR,Alex McCarthy,ENG,GK,24.0,3,2,237,2.6,8,3.04,17,9,52.9,1,0,2,1,50.0,,,,,
+ENG-Premier League,1415,QPR,Opponent Total,,,27.0,38,38,3420,38.0,42,1.11,142,104,72.5,24,6,8,12,31.6,6.0,3.0,1.0,2.0,25.0
+ENG-Premier League,1415,QPR,Robert Green,ENG,GK,34.0,36,36,3183,35.4,65,1.84,192,127,66.1,7,6,22,5,13.9,,,,,
+ENG-Premier League,1415,QPR,Squad Total,,,28.2,38,38,3420,38.0,73,1.92,209,136,65.1,8,6,24,6,15.8,,,,,
+ENG-Premier League,1415,Southampton,Fraser Forster,ENG,GK,26.0,30,30,2623,29.1,21,0.72,80,59,73.8,15,5,9,13,43.3,,,,,
+ENG-Premier League,1415,Southampton,Kelvin Davis,ENG,GK,37.0,7,6,617,6.9,9,1.31,22,13,59.1,2,1,4,2,33.3,,,,,
+ENG-Premier League,1415,Southampton,Opponent Total,,,26.9,38,38,3417,38.0,52,1.37,162,111,69.1,14,6,18,12,31.6,3.0,2.0,0.0,1.0,0.0
+ENG-Premier League,1415,Southampton,Paulo Gazzaniga,ARG,GK,22.0,2,2,180,2.0,3,1.5,7,4,57.1,1,0,1,0,0.0,,,,,
+ENG-Premier League,1415,Southampton,Squad Total,,,26.0,38,38,3420,38.0,33,0.87,109,76,69.7,18,6,14,15,39.5,,,,,
+ENG-Premier League,1415,Stoke City,Asmir Begović,BIH,GK,27.0,35,35,3150,35.0,43,1.23,129,86,66.7,14,8,13,7,20.0,,,,,
+ENG-Premier League,1415,Stoke City,Jack Butland,ENG,GK,21.0,3,3,270,3.0,2,0.67,10,8,80.0,1,1,1,2,66.7,,,,,
+ENG-Premier League,1415,Stoke City,Opponent Total,,,27.1,38,38,3420,38.0,48,1.26,132,87,65.9,14,9,15,9,23.7,3.0,3.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Squad Total,,,27.4,38,38,3420,38.0,45,1.18,139,94,67.6,15,9,14,9,23.7,,,,,
+ENG-Premier League,1415,Sunderland,Costel Pantilimon,ROU,GK,27.0,28,28,2520,28.0,33,1.18,139,106,76.3,6,12,10,11,39.3,,,,,
+ENG-Premier League,1415,Sunderland,Opponent Total,,,27.0,38,38,3420,38.0,31,0.82,124,97,78.2,14,17,7,17,44.7,4.0,4.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Squad Total,,,27.8,38,38,3420,38.0,53,1.39,191,138,72.3,7,17,14,13,34.2,,,,,
+ENG-Premier League,1415,Sunderland,Vito Mannone,ITA,GK,26.0,10,10,900,10.0,20,2.0,52,32,61.5,1,5,4,2,20.0,,,,,
+ENG-Premier League,1415,Swansea City,Gerhard Tremmel,GER,GK,35.0,2,1,112,1.2,3,2.41,7,4,57.1,0,0,1,0,0.0,,,,,
+ENG-Premier League,1415,Swansea City,Opponent Total,,,26.8,38,38,3420,38.0,46,1.21,141,97,68.8,14,8,16,8,21.1,2.0,2.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Squad Total,,,26.6,38,38,3420,38.0,49,1.29,188,139,73.9,16,8,14,13,34.2,,,,,
+ENG-Premier League,1415,Swansea City,Łukasz Fabiański,POL,GK,29.0,37,37,3308,36.8,46,1.25,181,135,74.6,16,8,13,13,35.1,,,,,
+ENG-Premier League,1415,Tottenham,Hugo Lloris,FRA,GK,27.0,35,35,3063,34.0,48,1.41,153,105,68.6,17,6,11,8,22.9,,,,,
+ENG-Premier League,1415,Tottenham,Michel Vorm,NED,GK,30.0,4,3,357,4.0,5,1.26,17,12,70.6,2,1,1,1,33.3,,,,,
+ENG-Premier League,1415,Tottenham,Opponent Total,,,27.0,38,38,3420,38.0,56,1.47,163,112,67.5,12,7,19,10,26.3,6.0,3.0,2.0,1.0,40.0
+ENG-Premier League,1415,Tottenham,Squad Total,,,24.4,38,38,3420,38.0,53,1.39,170,117,68.8,19,7,12,9,23.7,,,,,
+ENG-Premier League,1415,West Brom,Ben Foster,ENG,GK,31.0,28,28,2485,27.6,34,1.23,108,74,68.5,7,8,12,11,39.3,,,,,
+ENG-Premier League,1415,West Brom,Boaz Myhill,WAL,GK,31.0,11,10,935,10.4,17,1.64,74,57,77.0,4,3,4,5,50.0,,,,,
+ENG-Premier League,1415,West Brom,Opponent Total,,,26.8,38,38,3420,38.0,38,1.0,127,93,73.2,16,11,11,13,34.2,5.0,4.0,0.0,1.0,0.0
+ENG-Premier League,1415,West Brom,Squad Total,,,28.0,38,38,3420,38.0,51,1.34,182,131,72.0,11,11,16,16,42.1,,,,,
+ENG-Premier League,1415,West Ham,Adrián,ESP,GK,27.0,38,38,3392,37.7,47,1.25,171,124,72.5,12,10,15,8,21.1,,,,,
+ENG-Premier League,1415,West Ham,Jussi Jääskeläinen,FIN,GK,39.0,1,0,28,0.3,0,0.0,3,3,100.0,0,1,0,1,,,,,,
+ENG-Premier League,1415,West Ham,Opponent Total,,,26.9,38,38,3417,38.0,44,1.16,149,106,71.1,15,11,12,11,28.9,2.0,1.0,0.0,1.0,0.0
+ENG-Premier League,1415,West Ham,Squad Total,,,26.8,38,38,3420,38.0,47,1.24,174,127,73.0,12,11,15,9,23.7,,,,,

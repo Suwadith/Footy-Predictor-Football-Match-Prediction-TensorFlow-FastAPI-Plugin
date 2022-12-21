@@ -1,0 +1,23 @@
+,,,# Pl,Age,Poss,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Expected,Expected,Expected,Expected,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,url
+,,,,,,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA,
+league,season,team,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1920,Arsenal,29,25.8,54.0,38,418,3420,38.0,56,35,53,3,3,88,5,1.47,0.92,2.39,1.39,2.32,49.2,46.9,29.9,76.9,1.3,0.79,2.08,1.24,2.02,/en/squads/18bb7c10/2019-2020/Arsenal-Stats
+ENG-Premier League,1920,Aston Villa,28,25.7,43.9,38,418,3420,38.0,40,32,39,1,3,70,1,1.05,0.84,1.89,1.03,1.87,40.1,37.7,30.4,68.1,1.05,0.8,1.85,0.99,1.79,/en/squads/8602292d/2019-2020/Aston-Villa-Stats
+ENG-Premier League,1920,Bournemouth,27,25.2,43.8,38,418,3420,38.0,38,24,34,4,4,78,3,1.0,0.63,1.63,0.89,1.53,42.7,39.7,27.4,67.0,1.12,0.72,1.84,1.04,1.76,/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats
+ENG-Premier League,1920,Brighton,25,26.4,52.2,38,418,3420,38.0,35,24,34,1,2,59,2,0.92,0.63,1.55,0.89,1.53,41.2,39.7,26.5,66.2,1.08,0.7,1.78,1.04,1.74,/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,1920,Burnley,22,28.0,41.4,38,418,3420,38.0,41,30,38,3,3,67,0,1.08,0.79,1.87,1.0,1.79,43.9,41.6,27.2,68.8,1.15,0.72,1.87,1.09,1.81,/en/squads/943e8050/2019-2020/Burnley-Stats
+ENG-Premier League,1920,Chelsea,27,25.5,60.7,38,418,3420,38.0,69,46,62,7,7,60,0,1.82,1.21,3.03,1.63,2.84,66.6,61.7,46.2,107.9,1.75,1.22,2.97,1.62,2.84,/en/squads/cff3d9bb/2019-2020/Chelsea-Stats
+ENG-Premier League,1920,Crystal Palace,25,29.4,44.5,38,418,3420,38.0,29,20,26,3,3,62,2,0.76,0.53,1.29,0.68,1.21,34.0,31.9,23.6,55.5,0.9,0.62,1.52,0.84,1.46,/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats
+ENG-Premier League,1920,Everton,24,25.5,49.2,38,418,3420,38.0,42,32,41,1,1,76,3,1.11,0.84,1.95,1.08,1.92,49.3,48.5,30.9,79.4,1.3,0.81,2.11,1.28,2.09,/en/squads/d3fd31cc/2019-2020/Everton-Stats
+ENG-Premier League,1920,Leicester City,24,26.1,57.6,38,418,3420,38.0,65,48,60,5,7,43,3,1.71,1.26,2.97,1.58,2.84,61.6,56.2,44.0,100.3,1.62,1.16,2.78,1.48,2.64,/en/squads/a2d435b3/2019-2020/Leicester-City-Stats
+ENG-Premier League,1920,Liverpool,24,26.6,63.4,38,418,3420,38.0,83,69,78,5,5,38,1,2.18,1.82,4.0,2.05,3.87,71.5,67.7,51.8,119.5,1.88,1.36,3.25,1.78,3.15,/en/squads/822bd0ba/2019-2020/Liverpool-Stats
+ENG-Premier League,1920,Manchester City,24,26.9,66.9,38,418,3420,38.0,100,69,94,6,11,64,4,2.63,1.82,4.45,2.47,4.29,93.1,84.7,66.2,150.9,2.45,1.74,4.19,2.23,3.97,/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats
+ENG-Premier League,1920,Manchester Utd,29,24.8,56.2,38,418,3420,38.0,65,43,55,10,14,73,0,1.71,1.13,2.84,1.45,2.58,59.4,48.8,37.0,85.8,1.56,0.97,2.54,1.28,2.26,/en/squads/19538871/2019-2020/Manchester-United-Stats
+ENG-Premier League,1920,Newcastle Utd,28,26.5,38.6,38,418,3420,38.0,38,29,38,0,1,66,3,1.0,0.76,1.76,1.0,1.76,33.1,32.3,23.2,55.6,0.87,0.61,1.48,0.85,1.46,/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats
+ENG-Premier League,1920,Norwich City,30,26.0,49.3,38,418,3420,38.0,25,18,23,2,2,68,3,0.66,0.47,1.13,0.61,1.08,38.0,36.6,26.1,62.7,1.0,0.69,1.69,0.96,1.65,/en/squads/1c781004/2019-2020/Norwich-City-Stats
+ENG-Premier League,1920,Sheffield Utd,26,26.9,43.1,38,418,3420,38.0,36,25,35,1,1,63,2,0.95,0.66,1.61,0.92,1.58,41.5,40.8,31.5,72.3,1.09,0.83,1.92,1.07,1.9,/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats
+ENG-Premier League,1920,Southampton,25,25.9,49.3,38,418,3420,38.0,51,32,49,2,5,55,4,1.34,0.84,2.18,1.29,2.13,53.9,49.9,31.3,81.2,1.42,0.82,2.24,1.31,2.14,/en/squads/33c895d4/2019-2020/Southampton-Stats
+ENG-Premier League,1920,Tottenham,29,26.7,52.2,38,418,3420,38.0,56,39,53,3,4,84,3,1.47,1.03,2.5,1.39,2.42,46.1,43.0,30.8,73.8,1.21,0.81,2.02,1.13,1.94,/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats
+ENG-Premier League,1920,Watford,26,28.9,42.5,38,418,3420,38.0,35,21,28,7,8,80,3,0.92,0.55,1.47,0.74,1.29,45.1,39.1,28.2,67.3,1.19,0.74,1.93,1.03,1.77,/en/squads/2abfe087/2019-2020/Watford-Stats
+ENG-Premier League,1920,West Ham,29,27.4,44.0,38,418,3420,38.0,49,36,45,4,4,64,1,1.29,0.95,2.24,1.18,2.13,46.1,43.1,31.8,74.9,1.21,0.84,2.05,1.13,1.97,/en/squads/7c21e445/2019-2020/West-Ham-United-Stats
+ENG-Premier League,1920,Wolves,21,26.6,48.3,38,418,3420,38.0,49,34,45,4,4,61,2,1.29,0.89,2.18,1.18,2.08,47.1,44.1,32.3,76.3,1.24,0.85,2.09,1.16,2.01,/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats

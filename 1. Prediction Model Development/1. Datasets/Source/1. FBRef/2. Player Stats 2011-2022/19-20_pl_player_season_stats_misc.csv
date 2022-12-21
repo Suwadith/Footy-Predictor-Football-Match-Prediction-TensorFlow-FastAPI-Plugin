@@ -1,0 +1,565 @@
+,,,,Nation,Pos,Age,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+league,season,team,player,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1920,Arsenal,Ainsley Maitland-Niles,ENG,DF,21.0,15.4,6,1,1,16,15,0,20,17,27,0,0,0,131,14,13,51.9
+ENG-Premier League,1920,Arsenal,Alexandre Lacazette,FRA,FW,28.0,20.8,8,0,0,56,56,13,17,10,19,1,0,0,102,22,64,25.6
+ENG-Premier League,1920,Arsenal,Bernd Leno,GER,GK,27.0,29.4,2,0,0,0,5,0,0,0,0,0,0,0,150,0,0,
+ENG-Premier League,1920,Arsenal,Bukayo Saka,ENG,"DF,FW",17.0,19.5,6,0,0,22,35,10,45,9,22,0,0,0,138,12,37,24.5
+ENG-Premier League,1920,Arsenal,Calum Chambers,ENG,DF,24.0,12.2,5,0,0,17,4,0,27,13,18,0,1,0,123,37,27,57.8
+ENG-Premier League,1920,Arsenal,Cédric Soares,POR,DF,27.0,2.8,0,0,0,7,1,0,17,3,5,0,0,0,23,2,3,40.0
+ENG-Premier League,1920,Arsenal,Dani Ceballos,ESP,MF,22.0,18.8,1,0,0,25,39,0,22,20,28,0,0,0,190,11,22,33.3
+ENG-Premier League,1920,Arsenal,David Luiz,BRA,DF,32.0,31.2,5,2,0,30,14,1,5,19,20,0,3,0,210,58,34,63.0
+ENG-Premier League,1920,Arsenal,Eddie Nketiah,ENG,FW,20.0,7.0,0,1,0,16,12,3,3,5,7,0,0,0,30,6,8,42.9
+ENG-Premier League,1920,Arsenal,Emile Smith Rowe,ENG,MF,19.0,1.1,0,0,0,1,1,0,1,1,1,0,0,0,4,0,0,
+ENG-Premier League,1920,Arsenal,Emiliano Martínez,ARG,GK,26.0,8.6,2,0,0,0,0,0,0,0,0,0,0,0,39,0,0,
+ENG-Premier League,1920,Arsenal,Granit Xhaka,SUI,MF,26.0,28.7,10,0,0,65,38,0,13,11,27,0,1,0,319,51,52,49.5
+ENG-Premier League,1920,Arsenal,Henrikh Mkhitaryan,ARM,FW,30.0,1.2,1,0,0,2,2,1,3,1,0,0,0,0,12,2,1,66.7
+ENG-Premier League,1920,Arsenal,Héctor Bellerín,ESP,DF,24.0,12.9,2,0,0,15,4,1,22,10,16,0,0,0,100,13,17,43.3
+ENG-Premier League,1920,Arsenal,Joe Willock,ENG,"MF,FW",19.0,9.5,2,0,0,12,18,0,12,6,15,0,0,0,100,9,15,37.5
+ENG-Premier League,1920,Arsenal,Kieran Tierney,SCO,DF,22.0,11.0,2,0,0,8,14,0,36,10,11,0,1,0,98,10,10,50.0
+ENG-Premier League,1920,Arsenal,Lucas Torreira,URU,MF,23.0,16.8,7,0,0,36,52,1,5,24,24,0,0,0,215,9,18,33.3
+ENG-Premier League,1920,Arsenal,Martinelli,BRA,FW,18.0,7.4,1,0,0,12,9,2,16,2,13,0,0,0,34,7,32,17.9
+ENG-Premier League,1920,Arsenal,Mattéo Guendouzi,FRA,MF,20.0,19.4,6,0,0,25,59,0,6,22,13,1,0,0,192,11,18,37.9
+ENG-Premier League,1920,Arsenal,Mesut Özil,GER,MF,30.0,16.0,1,0,0,17,22,6,19,3,10,0,0,0,92,3,3,50.0
+ENG-Premier League,1920,Arsenal,Nacho Monreal,ESP,DF,33.0,3.0,0,0,0,1,3,2,3,4,4,0,0,0,17,7,7,50.0
+ENG-Premier League,1920,Arsenal,Nicolas Pépé,CIV,FW,24.0,22.3,4,0,0,15,48,4,59,10,19,0,0,0,134,13,41,24.1
+ENG-Premier League,1920,Arsenal,Opponent Total,,,26.6,38.0,79,1,0,547,485,52,501,266,400,8,3,0,3147,573,499,53.5
+ENG-Premier League,1920,Arsenal,Pablo Marí,ESP,DF,25.0,1.3,0,0,0,2,0,0,0,2,1,0,0,0,8,4,3,57.1
+ENG-Premier League,1920,Arsenal,Pierre-Emerick Aubameyang,GAB,FW,30.0,34.8,3,1,0,21,23,20,84,9,24,0,0,0,125,37,59,38.5
+ENG-Premier League,1920,Arsenal,Reiss Nelson,ENG,FW,19.0,7.0,1,0,0,9,11,4,12,4,6,0,0,0,34,0,7,0.0
+ENG-Premier League,1920,Arsenal,Rob Holding,ENG,DF,23.0,6.5,1,0,0,7,2,0,1,3,3,0,0,0,37,16,14,53.3
+ENG-Premier League,1920,Arsenal,Sead Kolašinac,BIH,DF,26.0,18.9,4,0,0,25,18,5,29,15,18,0,0,0,193,24,18,57.1
+ENG-Premier League,1920,Arsenal,Shkodran Mustafi,GER,DF,27.0,13.4,2,0,0,15,5,0,0,8,9,0,0,0,126,68,22,75.6
+ENG-Premier League,1920,Arsenal,Sokratis Papastathopoulos,GRE,DF,31.0,18.8,6,0,0,20,15,1,1,3,13,0,0,0,109,53,28,65.4
+ENG-Premier League,1920,Arsenal,Squad Total,,,25.8,38.0,88,5,1,497,525,74,478,244,373,2,6,0,3085,499,573,46.5
+ENG-Premier League,1920,Aston Villa,Ahmed Elmohamady,EGY,DF,31.0,11.5,1,0,0,14,5,2,50,6,17,0,0,0,114,25,20,55.6
+ENG-Premier League,1920,Aston Villa,Anwar El Ghazi,NED,"FW,MF",24.0,22.8,3,0,0,21,19,12,68,11,10,0,0,0,122,31,52,37.3
+ENG-Premier League,1920,Aston Villa,Björn Engels,BEL,DF,24.0,16.1,1,0,0,6,6,1,3,12,4,0,2,0,128,58,28,67.4
+ENG-Premier League,1920,Aston Villa,Borja Bastón,ESP,"MF,FW",26.0,0.2,0,0,0,1,0,0,0,0,0,0,0,0,2,1,3,25.0
+ENG-Premier League,1920,Aston Villa,Conor Hourihane,IRL,MF,28.0,17.0,4,0,0,19,24,4,45,3,14,1,0,0,127,11,10,52.4
+ENG-Premier League,1920,Aston Villa,Danny Drinkwater,ENG,MF,29.0,2.9,1,0,0,11,1,0,1,7,5,0,0,0,46,2,2,50.0
+ENG-Premier League,1920,Aston Villa,Douglas Luiz,BRA,MF,21.0,29.0,8,0,0,64,40,0,17,21,33,0,1,0,320,32,33,49.2
+ENG-Premier League,1920,Aston Villa,Ezri Konsa,ENG,DF,21.0,22.7,3,0,0,21,35,1,8,14,18,0,1,0,205,48,45,51.6
+ENG-Premier League,1920,Aston Villa,Frederic Guilbert,FRA,DF,24.0,22.7,7,0,0,45,26,2,64,30,38,0,0,0,220,42,60,41.2
+ENG-Premier League,1920,Aston Villa,Henri Lansbury,ENG,"MF,FW",28.0,2.2,0,0,0,5,1,0,2,0,2,0,0,0,26,2,6,25.0
+ENG-Premier League,1920,Aston Villa,Indiana Vassilev,USA,"FW,MF",18.0,0.6,0,0,0,0,2,2,0,0,1,0,0,0,3,0,2,0.0
+ENG-Premier League,1920,Aston Villa,Jack Grealish,ENG,"FW,MF",23.0,35.9,8,0,0,37,180,4,67,15,28,0,0,0,253,17,35,32.7
+ENG-Premier League,1920,Aston Villa,Jed Steer,ENG,GK,26.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Aston Villa,John McGinn,SCO,MF,24.0,25.7,3,0,0,39,79,0,42,20,40,0,0,0,205,22,30,42.3
+ENG-Premier League,1920,Aston Villa,Jonathan Kodjia,CIV,"FW,MF",29.0,1.3,1,0,0,2,2,0,0,0,0,0,0,0,5,5,4,55.6
+ENG-Premier League,1920,Aston Villa,Jota,ESP,"FW,MF",28.0,3.7,0,0,0,7,3,0,1,2,2,0,0,0,24,1,5,16.7
+ENG-Premier League,1920,Aston Villa,Keinan Davis,ENG,FW,21.0,6.1,0,0,0,14,12,3,2,0,2,0,0,0,28,24,39,38.1
+ENG-Premier League,1920,Aston Villa,Kortney Hause,ENG,DF,24.0,17.2,3,0,0,26,8,1,0,11,22,0,0,0,245,102,37,73.4
+ENG-Premier League,1920,Aston Villa,Marvelous Nakamba,ZIM,MF,25.0,20.4,5,0,0,24,28,0,1,28,47,0,0,0,236,16,33,32.7
+ENG-Premier League,1920,Aston Villa,Matt Targett,ENG,DF,23.0,25.5,4,0,0,31,19,0,55,21,33,0,0,0,240,32,37,46.4
+ENG-Premier League,1920,Aston Villa,Mbwana Samatta,TAN,FW,26.0,10.5,1,0,0,13,19,8,3,0,7,0,0,0,35,34,78,30.4
+ENG-Premier League,1920,Aston Villa,Neil Taylor,WAL,DF,30.0,12.1,2,0,0,11,5,0,9,11,10,0,0,0,94,10,16,38.5
+ENG-Premier League,1920,Aston Villa,Opponent Total,,,26.6,38.0,90,7,6,602,507,43,577,223,351,5,3,1,3442,753,668,53.0
+ENG-Premier League,1920,Aston Villa,Pepe Reina,ESP,GK,36.0,12.0,1,0,0,1,4,0,0,0,0,0,0,0,51,0,0,
+ENG-Premier League,1920,Aston Villa,Squad Total,,,25.7,38.0,70,1,1,527,591,61,492,254,388,2,6,1,3321,668,753,47.0
+ENG-Premier League,1920,Aston Villa,Tom Heaton,ENG,GK,33.0,19.9,0,0,0,1,3,0,0,0,0,0,1,1,84,1,0,100.0
+ENG-Premier League,1920,Aston Villa,Trézéguet,EGY,"FW,MF",24.0,21.7,4,1,1,38,36,5,41,17,28,1,0,0,94,28,46,37.8
+ENG-Premier League,1920,Aston Villa,Tyrone Mings,ENG,DF,26.0,32.2,7,0,0,27,13,2,6,20,17,0,1,0,330,66,40,62.3
+ENG-Premier League,1920,Aston Villa,Wesley Moraes,BRA,FW,22.0,19.8,3,0,0,49,19,14,7,5,10,0,0,0,60,58,92,38.7
+ENG-Premier League,1920,Aston Villa,Ørjan Nyland,NOR,GK,28.0,6.0,0,0,0,0,2,0,0,0,0,0,0,0,24,0,0,
+ENG-Premier League,1920,Bournemouth,Aaron Ramsdale,ENG,GK,21.0,37.0,0,0,0,0,5,0,0,0,0,0,0,0,198,0,0,
+ENG-Premier League,1920,Bournemouth,Adam Smith,ENG,DF,28.0,22.8,7,0,0,30,43,2,21,23,30,0,2,0,194,36,30,54.5
+ENG-Premier League,1920,Bournemouth,Andrew Surman,ENG,MF,32.0,2.6,1,0,0,1,1,0,1,1,2,0,0,0,40,5,7,41.7
+ENG-Premier League,1920,Bournemouth,Arnaut Groeneveld,NED,MF,22.0,7.0,0,0,0,0,6,5,6,5,5,0,0,0,36,3,10,23.1
+ENG-Premier League,1920,Bournemouth,Callum Wilson,ENG,FW,27.0,32.3,10,0,0,61,47,34,31,3,12,2,0,0,125,54,152,26.2
+ENG-Premier League,1920,Bournemouth,Charlie Daniels,ENG,DF,32.0,1.4,0,0,0,0,0,0,3,4,0,0,0,0,9,2,1,66.7
+ENG-Premier League,1920,Bournemouth,Chris Mepham,WAL,DF,21.0,10.1,1,0,0,13,4,1,0,13,13,0,0,0,106,36,21,63.2
+ENG-Premier League,1920,Bournemouth,Dan Gosling,ENG,MF,29.0,14.0,3,0,0,25,24,2,3,12,20,0,0,0,130,22,30,42.3
+ENG-Premier League,1920,Bournemouth,David Brooks,WAL,MF,22.0,5.6,1,0,0,5,7,0,14,1,3,0,0,0,26,0,6,0.0
+ENG-Premier League,1920,Bournemouth,Diego Rico,ESP,DF,26.0,25.9,6,0,0,23,27,2,77,32,42,0,0,0,315,37,25,59.7
+ENG-Premier League,1920,Bournemouth,Dominic Solanke,ENG,"FW,MF",21.0,18.3,1,0,0,20,25,4,9,7,10,0,0,0,120,51,102,33.3
+ENG-Premier League,1920,Bournemouth,Harry Wilson,WAL,"MF,FW",22.0,18.3,2,0,0,14,50,1,22,7,11,0,2,0,146,10,19,34.5
+ENG-Premier League,1920,Bournemouth,Jack Simpson,ENG,DF,22.0,2.7,0,0,0,1,1,0,0,6,2,0,0,0,22,4,2,66.7
+ENG-Premier League,1920,Bournemouth,Jack Stacey,ENG,DF,23.0,17.2,2,0,0,17,12,1,16,14,13,0,0,0,185,22,18,55.0
+ENG-Premier League,1920,Bournemouth,Jefferson Lerma,COL,MF,24.0,30.0,13,1,1,51,44,1,3,34,49,0,0,0,452,53,36,59.6
+ENG-Premier League,1920,Bournemouth,Jordon Ibe,ENG,DF,23.0,0.6,0,0,0,0,2,0,1,1,3,0,0,0,7,0,0,
+ENG-Premier League,1920,Bournemouth,Joshua King,NOR,"FW,MF",27.0,22.3,0,0,0,37,38,7,25,5,15,0,0,0,129,39,67,36.8
+ENG-Premier League,1920,Bournemouth,Junior Stanislas,ENG,"MF,DF",29.0,7.9,1,0,0,5,7,1,13,1,6,0,0,0,60,9,6,60.0
+ENG-Premier League,1920,Bournemouth,Lewis Cook,ENG,MF,22.0,15.0,5,0,0,31,18,0,9,13,16,0,0,0,168,14,16,46.7
+ENG-Premier League,1920,Bournemouth,Lloyd Kelly,ENG,DF,20.0,7.1,2,0,0,7,2,0,10,4,6,0,0,0,70,9,16,36.0
+ENG-Premier League,1920,Bournemouth,Mark Travers,IRL,GK,20.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,
+ENG-Premier League,1920,Bournemouth,Nathan Aké,NED,DF,24.0,27.8,2,0,0,12,18,3,2,27,11,0,0,0,247,64,58,52.5
+ENG-Premier League,1920,Bournemouth,Opponent Total,,,26.8,38.0,67,3,0,485,419,71,486,256,411,2,4,2,3754,807,747,51.9
+ENG-Premier League,1920,Bournemouth,Philip Billing,DEN,MF,23.0,28.1,8,0,0,48,31,2,18,39,46,0,0,0,322,107,66,61.8
+ENG-Premier League,1920,Bournemouth,Ryan Fraser,SCO,"MF,FW",25.0,23.0,2,0,0,13,36,1,98,10,8,0,0,0,139,10,26,27.8
+ENG-Premier League,1920,Bournemouth,Sam Surridge,ENG,"FW,MF",21.0,0.3,0,0,0,1,2,0,1,1,0,0,0,0,1,4,4,50.0
+ENG-Premier League,1920,Bournemouth,Simon Francis,ENG,DF,34.0,10.8,5,1,1,8,1,0,13,7,12,0,0,0,118,48,28,63.2
+ENG-Premier League,1920,Bournemouth,Squad Total,,,25.2,38.0,78,3,2,442,465,68,399,289,348,2,5,0,3658,747,807,48.1
+ENG-Premier League,1920,Bournemouth,Steve Cook,ENG,DF,28.0,27.0,6,1,0,19,14,1,3,19,13,0,1,0,287,108,61,63.9
+ENG-Premier League,1920,Brighton,Aaron Connolly,IRL,FW,19.0,14.0,0,0,0,15,37,14,7,5,8,2,0,0,54,14,48,22.6
+ENG-Premier League,1920,Brighton,Aaron Mooy,AUS,"MF,FW",28.0,23.2,3,1,1,16,19,0,53,18,31,0,0,0,189,14,28,33.3
+ENG-Premier League,1920,Brighton,Adam Webster,ENG,DF,24.0,29.6,4,0,0,16,20,0,9,34,25,0,2,1,363,119,51,70.0
+ENG-Premier League,1920,Brighton,Alexis Mac Allister,ARG,"MF,FW",20.0,3.9,0,0,0,6,5,1,9,2,4,0,0,0,31,4,4,50.0
+ENG-Premier League,1920,Brighton,Alireza Jahanbakhsh,IRN,"FW,MF",25.0,3.5,0,0,0,2,7,1,20,0,3,0,0,0,32,0,5,0.0
+ENG-Premier League,1920,Brighton,Bernardo,BRA,DF,24.0,7.5,1,0,0,4,6,4,14,5,16,0,0,0,71,28,9,75.7
+ENG-Premier League,1920,Brighton,Dale Stephens,ENG,MF,30.0,28.1,8,0,0,50,8,0,5,39,40,0,0,0,315,20,23,46.5
+ENG-Premier League,1920,Brighton,Dan Burn,ENG,DF,27.0,32.0,5,0,0,37,14,3,40,26,36,0,0,0,308,137,52,72.5
+ENG-Premier League,1920,Brighton,Davy Pröpper,NED,MF,27.0,31.4,4,0,0,44,27,0,28,32,38,0,0,0,365,24,26,48.0
+ENG-Premier League,1920,Brighton,Ezequiel Schelotto,ITA,DF,30.0,4.0,2,0,0,7,4,1,14,3,5,0,0,0,31,8,2,80.0
+ENG-Premier League,1920,Brighton,Florin Andone,ROU,"MF,FW",26.0,0.8,0,1,0,1,2,0,1,0,2,0,0,0,7,2,3,40.0
+ENG-Premier League,1920,Brighton,Gaëtan Bong,CMR,"MF,DF",31.0,0.7,0,0,0,0,1,0,5,0,0,0,0,0,4,0,3,0.0
+ENG-Premier League,1920,Brighton,Glenn Murray,ENG,FW,35.0,8.9,0,0,0,16,18,10,11,0,2,0,0,0,36,30,42,41.7
+ENG-Premier League,1920,Brighton,Jürgen Locadia,NED,"MF,FW",25.0,1.0,0,0,0,0,2,0,0,0,1,0,0,0,8,1,2,33.3
+ENG-Premier League,1920,Brighton,Leandro Trossard,BEL,"FW,MF",24.0,22.3,0,0,0,20,20,4,69,10,16,0,0,0,138,2,22,8.3
+ENG-Premier League,1920,Brighton,Lewis Dunk,ENG,DF,27.0,35.9,9,0,0,28,24,1,2,36,28,0,0,0,410,84,44,65.6
+ENG-Premier League,1920,Brighton,Martín Montoya,ESP,DF,28.0,21.1,5,0,0,35,16,4,46,17,28,0,0,0,161,27,19,58.7
+ENG-Premier League,1920,Brighton,Mathew Ryan,AUS,GK,27.0,38.0,0,0,0,0,5,0,0,0,0,0,0,0,184,0,0,
+ENG-Premier League,1920,Brighton,Neal Maupay,FRA,FW,22.0,30.7,3,0,0,41,49,15,15,3,17,0,0,0,141,17,85,16.7
+ENG-Premier League,1920,Brighton,Opponent Total,,,26.5,38.0,61,1,0,403,455,70,443,316,436,2,2,4,3411,563,659,46.1
+ENG-Premier League,1920,Brighton,Pascal Groß,GER,"FW,MF",28.0,20.0,4,0,0,23,17,8,65,9,21,0,0,1,123,15,33,31.3
+ENG-Premier League,1920,Brighton,Shane Duffy,IRL,DF,27.0,13.8,2,0,0,16,8,0,1,13,9,0,0,0,136,63,17,78.8
+ENG-Premier League,1920,Brighton,Solly March,ENG,"DF,FW",25.0,12.7,2,0,0,14,13,2,48,12,17,0,0,0,99,15,15,50.0
+ENG-Premier League,1920,Brighton,Squad Total,,,26.4,38.0,59,2,1,466,383,71,492,299,409,2,2,2,3557,659,563,53.9
+ENG-Premier League,1920,Brighton,Steven Alzate,COL,"MF,DF",20.0,13.2,1,0,0,21,21,3,11,10,23,0,0,0,137,14,11,56.0
+ENG-Premier League,1920,Brighton,Tariq Lamptey,ENG,DF,18.0,6.5,2,0,0,13,20,0,13,9,3,0,0,0,57,4,8,33.3
+ENG-Premier League,1920,Brighton,Yves Bissouma,MLI,MF,22.0,14.0,4,0,0,41,20,0,6,16,36,0,0,0,157,17,11,60.7
+ENG-Premier League,1920,Burnley,Aaron Lennon,ENG,MF,32.0,5.5,4,0,0,11,7,0,9,8,9,0,0,0,30,3,8,27.3
+ENG-Premier League,1920,Burnley,Ashley Barnes,ENG,FW,29.0,15.0,4,0,0,33,43,13,1,5,4,1,0,0,65,42,86,32.8
+ENG-Premier League,1920,Burnley,Ashley Westwood,ENG,MF,29.0,35.0,9,0,0,46,38,1,47,27,30,0,0,0,437,17,28,37.8
+ENG-Premier League,1920,Burnley,Ben Mee,ENG,DF,29.0,32.0,7,0,0,37,20,3,3,22,16,0,3,0,343,143,78,64.7
+ENG-Premier League,1920,Burnley,Charlie Taylor,ENG,DF,25.0,21.6,3,0,0,17,35,2,66,13,16,0,0,0,198,47,31,60.3
+ENG-Premier League,1920,Burnley,Chris Wood,NZL,FW,27.0,27.1,1,0,0,38,32,34,5,5,6,0,0,1,88,113,187,37.7
+ENG-Premier League,1920,Burnley,Danny Drinkwater,ENG,MF,29.0,0.6,0,0,0,1,0,0,0,2,2,0,0,0,8,0,1,0.0
+ENG-Premier League,1920,Burnley,Dwight McNeil,ENG,MF,19.0,37.1,5,0,0,36,46,0,130,24,28,0,0,0,327,27,27,50.0
+ENG-Premier League,1920,Burnley,Erik Pieters,NED,"DF,MF",30.0,20.9,2,0,0,27,25,0,27,13,41,0,1,0,186,33,15,68.8
+ENG-Premier League,1920,Burnley,Jack Cork,ENG,MF,30.0,29.0,1,0,0,46,30,1,8,25,27,0,0,0,339,53,64,45.3
+ENG-Premier League,1920,Burnley,James Tarkowski,ENG,DF,26.0,38.0,10,0,0,53,32,3,2,43,51,0,0,0,442,215,60,78.2
+ENG-Premier League,1920,Burnley,Jay Rodriguez,ENG,FW,30.0,22.4,1,0,0,30,19,22,12,4,17,0,0,0,118,74,139,34.7
+ENG-Premier League,1920,Burnley,Jeff Hendrick,IRL,MF,27.0,21.5,8,0,0,23,18,4,10,14,10,0,0,0,175,21,24,46.7
+ENG-Premier League,1920,Burnley,Josh Brownhill,ENG,MF,23.0,8.9,2,0,0,11,10,0,2,5,8,0,0,0,104,20,15,57.1
+ENG-Premier League,1920,Burnley,Jóhann Berg Guðmundsson,ISL,MF,28.0,6.9,0,0,0,9,4,1,27,4,3,0,0,0,45,9,14,39.1
+ENG-Premier League,1920,Burnley,Kevin Long,IRL,DF,28.0,6.3,0,0,0,10,6,0,0,1,8,0,0,0,64,22,16,57.9
+ENG-Premier League,1920,Burnley,Matthew Lowton,ENG,DF,30.0,17.0,2,0,0,18,11,0,28,16,24,0,1,0,135,24,14,63.2
+ENG-Premier League,1920,Burnley,Matěj Vydra,CZE,FW,27.0,9.1,0,0,0,3,12,3,5,0,2,0,0,0,37,17,42,28.8
+ENG-Premier League,1920,Burnley,Max Thompson,ENG,FW,17.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+ENG-Premier League,1920,Burnley,Nick Pope,ENG,GK,27.0,38.0,1,0,0,0,8,0,0,0,0,0,0,0,193,0,0,
+ENG-Premier League,1920,Burnley,Opponent Total,,,26.5,38.0,42,3,1,438,493,50,528,186,333,5,3,2,3895,881,928,48.7
+ENG-Premier League,1920,Burnley,Phil Bardsley,SCO,DF,34.0,21.0,6,0,0,42,15,0,20,15,33,0,0,0,197,33,26,55.9
+ENG-Premier League,1920,Burnley,Robbie Brady,IRL,MF,27.0,5.0,1,0,0,12,6,1,8,6,5,0,0,0,44,15,5,75.0
+ENG-Premier League,1920,Burnley,Squad Total,,,28.0,38.0,67,0,0,503,417,88,410,252,340,1,5,1,3575,928,881,51.3
+ENG-Premier League,1920,Chelsea,Andreas Christensen,DEN,DF,23.0,19.5,5,0,0,18,11,0,0,15,20,0,0,0,173,68,40,63.0
+ENG-Premier League,1920,Chelsea,Antonio Rüdiger,GER,DF,26.0,19.0,3,0,0,21,9,0,4,3,24,0,0,1,233,61,26,70.1
+ENG-Premier League,1920,Chelsea,Armando Broja,ALB,FW,17.0,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0
+ENG-Premier League,1920,Chelsea,Billy Gilmour,SCO,MF,18.0,2.2,0,0,0,3,2,0,0,2,4,0,0,0,31,3,5,37.5
+ENG-Premier League,1920,Chelsea,Callum Hudson-Odoi,ENG,FW,18.0,9.6,1,0,0,12,18,3,49,0,5,0,0,0,60,3,14,17.6
+ENG-Premier League,1920,Chelsea,Christian Pulisic,USA,FW,20.0,19.1,0,0,0,18,38,3,26,2,19,2,0,0,101,16,47,25.4
+ENG-Premier League,1920,Chelsea,César Azpilicueta,ESP,DF,29.0,35.9,1,0,0,45,17,3,110,39,61,0,0,0,380,94,60,61.0
+ENG-Premier League,1920,Chelsea,Emerson Palmieri,ITA,DF,24.0,11.4,3,0,0,6,17,2,34,10,7,0,0,0,116,17,7,70.8
+ENG-Premier League,1920,Chelsea,Faustino Anjorin,ENG,FW,17.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+ENG-Premier League,1920,Chelsea,Fikayo Tomori,ENG,DF,21.0,14.3,3,0,0,9,8,1,1,15,15,0,0,0,145,40,22,64.5
+ENG-Premier League,1920,Chelsea,Jorginho,ITA,MF,27.0,26.4,10,0,0,37,35,0,3,42,44,0,1,0,401,13,37,26.0
+ENG-Premier League,1920,Chelsea,Kepa Arrizabalaga,ESP,GK,24.0,33.0,0,0,0,0,5,0,0,0,0,0,0,0,138,0,0,
+ENG-Premier League,1920,Chelsea,Kurt Zouma,FRA,DF,24.0,26.0,6,0,0,31,14,1,0,26,17,0,1,1,307,99,30,76.7
+ENG-Premier League,1920,Chelsea,Marcos Alonso,ESP,DF,28.0,15.9,4,0,0,18,17,2,51,14,19,1,0,0,183,42,31,57.5
+ENG-Premier League,1920,Chelsea,Mason Mount,ENG,"MF,FW",20.0,31.9,3,0,0,40,56,4,66,14,31,1,0,0,214,14,39,26.4
+ENG-Premier League,1920,Chelsea,Mateo Kovačić,CRO,MF,25.0,23.0,8,0,0,22,55,0,14,12,55,0,0,0,244,8,19,29.6
+ENG-Premier League,1920,Chelsea,Michy Batshuayi,BEL,FW,25.0,2.7,0,0,0,5,4,7,1,0,1,0,0,0,17,6,15,28.6
+ENG-Premier League,1920,Chelsea,N'Golo Kanté,FRA,MF,28.0,19.2,4,0,0,46,14,0,22,28,43,0,0,0,282,17,34,33.3
+ENG-Premier League,1920,Chelsea,Olivier Giroud,FRA,FW,32.0,11.0,1,0,0,19,11,9,2,1,3,0,0,0,47,44,41,51.8
+ENG-Premier League,1920,Chelsea,Opponent Total,,,26.4,38.0,76,3,0,493,424,43,330,280,431,2,5,0,3484,667,670,49.9
+ENG-Premier League,1920,Chelsea,Pedro,ESP,FW,32.0,7.3,1,0,0,8,15,0,10,4,10,0,0,0,61,2,5,28.6
+ENG-Premier League,1920,Chelsea,Reece James,ENG,DF,19.0,16.8,1,0,0,28,26,1,68,14,23,0,0,0,164,35,42,45.5
+ENG-Premier League,1920,Chelsea,Ross Barkley,ENG,MF,25.0,12.3,0,0,0,10,19,0,9,6,11,0,0,0,97,10,15,40.0
+ENG-Premier League,1920,Chelsea,Ruben Loftus-Cheek,ENG,"MF,FW",23.0,2.3,0,0,0,2,3,0,1,0,0,0,0,0,23,1,4,20.0
+ENG-Premier League,1920,Chelsea,Squad Total,,,25.5,38.0,60,0,0,442,477,63,567,268,449,6,2,3,3756,670,667,50.1
+ENG-Premier League,1920,Chelsea,Tammy Abraham,ENG,FW,21.0,24.6,2,0,0,20,30,23,10,5,10,1,0,1,95,67,110,37.9
+ENG-Premier League,1920,Chelsea,Tariq Lamptey,ENG,DF,18.0,0.4,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,
+ENG-Premier League,1920,Chelsea,Willian,BRA,FW,30.0,28.9,4,0,0,24,51,4,86,16,27,1,0,0,220,10,23,30.3
+ENG-Premier League,1920,Chelsea,Willy Caballero,ARG,GK,37.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,
+ENG-Premier League,1920,Crystal Palace,Andros Townsend,ENG,MF,28.0,14.4,0,0,0,12,35,1,44,13,20,0,0,0,109,4,12,25.0
+ENG-Premier League,1920,Crystal Palace,Brandon Pierrick,ENG,"DF,FW",17.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,
+ENG-Premier League,1920,Crystal Palace,Cenk Tosun,TUR,FW,28.0,2.0,0,0,0,3,4,1,1,0,2,0,0,0,9,5,16,23.8
+ENG-Premier League,1920,Crystal Palace,Cheikhou Kouyaté,SEN,"MF,DF",29.0,28.1,4,0,0,39,30,2,9,18,45,0,0,0,256,83,62,57.2
+ENG-Premier League,1920,Crystal Palace,Christian Benteke,BEL,FW,28.0,14.0,4,1,0,29,25,12,8,6,5,0,0,0,55,118,101,53.9
+ENG-Premier League,1920,Crystal Palace,Connor Wickham,ENG,"FW,MF",26.0,1.1,0,0,0,4,1,1,1,0,2,0,0,0,8,10,7,58.8
+ENG-Premier League,1920,Crystal Palace,Gary Cahill,ENG,DF,33.0,24.1,1,0,0,14,12,0,0,13,12,0,0,0,219,78,45,63.4
+ENG-Premier League,1920,Crystal Palace,James McArthur,SCO,MF,31.0,34.3,6,0,0,68,44,4,34,40,70,1,0,0,345,44,61,41.9
+ENG-Premier League,1920,Crystal Palace,James McCarthy,IRL,MF,28.0,18.7,9,0,0,39,19,0,9,14,42,0,0,0,244,15,18,45.5
+ENG-Premier League,1920,Crystal Palace,James Tomkins,ENG,DF,30.0,17.6,5,0,0,16,12,1,0,12,14,0,0,0,165,75,22,77.3
+ENG-Premier League,1920,Crystal Palace,Jaïro Riedewald,NED,"DF,MF",22.0,8.5,0,0,0,7,2,0,6,11,12,0,0,0,90,6,2,75.0
+ENG-Premier League,1920,Crystal Palace,Jeffrey Schlupp,GHA,MF,26.0,11.5,2,0,0,18,14,1,8,7,6,0,0,0,80,19,16,54.3
+ENG-Premier League,1920,Crystal Palace,Joel Ward,ENG,DF,29.0,26.5,4,0,0,23,27,0,33,24,31,0,0,0,271,52,26,66.7
+ENG-Premier League,1920,Crystal Palace,Jordan Ayew,GHA,"FW,MF",27.0,35.0,6,0,0,75,112,9,20,14,29,0,0,0,212,59,175,25.2
+ENG-Premier League,1920,Crystal Palace,Luka Milivojević,SRB,MF,28.0,27.9,12,0,0,66,28,1,35,27,37,0,1,0,331,31,21,59.6
+ENG-Premier League,1920,Crystal Palace,Mamadou Sakho,FRA,DF,29.0,10.3,1,1,0,2,2,0,0,7,7,0,0,0,120,20,17,54.1
+ENG-Premier League,1920,Crystal Palace,Martin Kelly,ENG,DF,29.0,17.2,0,0,0,10,0,0,13,10,18,0,0,0,115,33,24,57.9
+ENG-Premier League,1920,Crystal Palace,Max Meyer,GER,"MF,FW",23.0,7.3,1,0,0,7,17,2,8,4,8,0,0,0,50,3,7,30.0
+ENG-Premier League,1920,Crystal Palace,Opponent Total,,,26.5,38.0,88,5,3,561,484,31,511,285,461,1,3,2,3626,726,720,50.2
+ENG-Premier League,1920,Crystal Palace,Patrick van Aanholt,NED,DF,28.0,27.9,0,0,0,9,14,2,44,23,32,0,0,1,243,12,17,41.4
+ENG-Premier League,1920,Crystal Palace,Scott Dann,ENG,DF,32.0,14.1,0,0,0,5,0,0,2,11,5,0,0,0,154,36,32,52.9
+ENG-Premier League,1920,Crystal Palace,Squad Total,,,29.4,38.0,62,2,0,500,552,53,364,277,430,2,1,2,3503,720,726,49.8
+ENG-Premier League,1920,Crystal Palace,Tyrick Mitchell,ENG,DF,19.0,2.2,1,0,0,1,2,0,4,1,2,0,0,0,18,1,6,14.3
+ENG-Premier League,1920,Crystal Palace,Vicente Guaita,ESP,GK,32.0,35.0,1,0,0,0,5,0,0,0,0,0,0,1,164,0,1,0.0
+ENG-Premier League,1920,Crystal Palace,Víctor Camarasa,ESP,MF,25.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Crystal Palace,Wayne Hennessey,WAL,GK,32.0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,
+ENG-Premier League,1920,Crystal Palace,Wilfried Zaha,CIV,"MF,FW",26.0,36.4,5,0,0,53,147,16,85,22,31,1,0,0,232,16,38,29.6
+ENG-Premier League,1920,Everton,Alex Iwobi,NGA,"MF,FW",23.0,17.7,0,0,0,13,7,0,34,10,14,0,0,0,145,7,15,31.8
+ENG-Premier League,1920,Everton,André Gomes,POR,MF,26.0,16.2,6,0,0,47,23,0,8,5,24,0,1,0,171,13,15,46.4
+ENG-Premier League,1920,Everton,Anthony Gordon,ENG,"MF,FW",18.0,4.9,0,0,0,10,12,1,8,1,6,0,0,0,23,0,7,0.0
+ENG-Premier League,1920,Everton,Bernard,BRA,"MF,FW",26.0,14.2,2,0,0,21,12,0,30,15,14,0,0,0,115,1,15,6.3
+ENG-Premier League,1920,Everton,Cenk Tosun,TUR,FW,28.0,3.2,0,0,0,4,4,1,2,0,0,0,0,0,12,7,15,31.8
+ENG-Premier League,1920,Everton,Djibril Sidibé,FRA,DF,27.0,20.3,3,0,0,32,26,2,49,32,40,0,0,0,214,29,33,46.8
+ENG-Premier League,1920,Everton,Dominic Calvert-Lewin,ENG,FW,22.0,29.2,9,0,0,58,48,13,19,7,11,0,0,0,102,170,196,46.4
+ENG-Premier League,1920,Everton,Fabian Delph,ENG,MF,29.0,13.2,5,1,1,20,12,0,4,13,11,0,0,0,175,12,10,54.5
+ENG-Premier League,1920,Everton,Gylfi Sigurðsson,ISL,MF,29.0,28.4,3,0,0,44,28,2,47,24,45,0,0,0,241,18,28,39.1
+ENG-Premier League,1920,Everton,Jarrad Branthwaite,ENG,DF,17.0,3.3,0,0,0,4,3,0,0,1,7,0,0,0,24,8,11,42.1
+ENG-Premier League,1920,Everton,Jean-Philippe Gbamin,CIV,MF,23.0,1.5,0,0,0,2,2,0,0,0,4,0,0,0,15,2,2,50.0
+ENG-Premier League,1920,Everton,Jordan Pickford,ENG,GK,25.0,38.0,2,0,0,1,7,0,0,0,0,0,0,0,233,0,0,
+ENG-Premier League,1920,Everton,Leighton Baines,ENG,DF,34.0,4.5,0,0,0,2,3,0,12,2,6,0,0,0,29,6,6,50.0
+ENG-Premier League,1920,Everton,Lucas Digne,FRA,DF,26.0,33.7,6,0,0,49,31,3,153,24,39,0,1,1,363,112,53,67.9
+ENG-Premier League,1920,Everton,Mason Holgate,ENG,DF,22.0,22.8,5,0,0,19,23,1,2,28,28,0,0,0,207,42,31,57.5
+ENG-Premier League,1920,Everton,Michael Keane,ENG,DF,26.0,28.4,3,0,0,23,7,0,3,24,26,0,1,1,297,134,77,63.5
+ENG-Premier League,1920,Everton,Moise Kean,ITA,FW,19.0,9.5,1,0,0,27,12,4,8,6,6,0,0,0,40,7,31,18.4
+ENG-Premier League,1920,Everton,Morgan Schneiderlin,FRA,MF,29.0,11.1,6,1,1,21,3,0,4,12,19,0,0,0,127,18,11,62.1
+ENG-Premier League,1920,Everton,Opponent Total,,,26.6,38.0,61,2,1,452,518,77,404,267,425,3,1,2,3519,820,837,49.5
+ENG-Premier League,1920,Everton,Oumar Niasse,SEN,FW,29.0,0.2,0,0,0,2,0,0,1,0,1,0,0,0,1,0,4,0.0
+ENG-Premier League,1920,Everton,Richarlison,BRA,FW,22.0,34.1,8,0,0,47,79,17,35,9,45,0,1,0,223,68,126,35.1
+ENG-Premier League,1920,Everton,Squad Total,,,25.5,38.0,76,3,3,537,438,58,501,279,423,0,4,3,3600,837,820,50.5
+ENG-Premier League,1920,Everton,Séamus Coleman,IRL,DF,30.0,20.4,5,1,1,21,21,1,34,12,31,0,0,0,211,30,22,57.7
+ENG-Premier League,1920,Everton,Theo Walcott,ENG,"MF,FW",30.0,14.3,1,0,0,11,19,10,40,11,8,0,0,0,101,7,18,28.0
+ENG-Premier League,1920,Everton,Tom Davies,ENG,MF,21.0,22.5,8,0,0,37,44,1,4,28,18,0,0,0,252,34,31,52.3
+ENG-Premier League,1920,Everton,Yerry Mina,COL,DF,24.0,25.4,3,0,0,22,12,2,4,15,20,0,0,1,279,112,63,64.0
+ENG-Premier League,1920,Leicester City,Ayoze Pérez,ESP,"MF,FW",26.0,22.3,0,0,0,31,41,7,23,17,34,0,0,0,138,23,44,34.3
+ENG-Premier League,1920,Leicester City,Ben Chilwell,ENG,DF,22.0,26.4,3,0,0,34,32,1,78,20,26,0,0,0,240,62,22,73.8
+ENG-Premier League,1920,Leicester City,Christian Fuchs,AUT,DF,33.0,8.6,0,0,0,4,0,1,11,14,9,0,0,0,79,22,17,56.4
+ENG-Premier League,1920,Leicester City,Demarai Gray,ENG,"MF,FW",23.0,6.9,1,0,0,3,11,3,22,5,5,1,0,0,63,3,7,30.0
+ENG-Premier League,1920,Leicester City,Dennis Praet,BEL,MF,25.0,12.6,2,0,0,22,16,1,9,13,18,0,1,0,144,5,9,35.7
+ENG-Premier League,1920,Leicester City,George Hirst,ENG,FW,20.0,0.1,0,0,0,0,2,0,0,0,0,0,0,0,2,4,1,80.0
+ENG-Premier League,1920,Leicester City,Hamza Choudhury,ENG,MF,21.0,9.9,4,1,1,13,11,0,4,18,13,0,0,0,104,11,8,57.9
+ENG-Premier League,1920,Leicester City,Harvey Barnes,ENG,"MF,FW",21.0,23.1,0,0,0,20,34,4,37,6,12,1,0,0,119,25,39,39.1
+ENG-Premier League,1920,Leicester City,James Justin,ENG,DF,21.0,11.2,1,0,0,8,26,1,26,8,20,0,1,1,125,15,27,35.7
+ENG-Premier League,1920,Leicester City,James Maddison,ENG,MF,22.0,29.2,4,0,0,40,98,4,65,12,39,0,0,0,218,6,29,17.1
+ENG-Premier League,1920,Leicester City,Jamie Vardy,ENG,FW,32.0,33.7,2,0,0,25,17,28,35,2,11,1,0,0,91,53,100,34.6
+ENG-Premier League,1920,Leicester City,Jonny Evans,NIR,DF,31.0,37.6,8,1,0,41,27,2,5,39,31,1,1,1,434,141,60,70.1
+ENG-Premier League,1920,Leicester City,Kasper Schmeichel,DEN,GK,32.0,38.0,2,0,0,0,7,0,0,1,0,0,0,0,184,0,0,
+ENG-Premier League,1920,Leicester City,Kelechi Iheanacho,NGA,"FW,MF",22.0,10.7,1,0,0,25,13,9,4,1,5,2,0,0,42,3,29,9.4
+ENG-Premier League,1920,Leicester City,Luke Thomas,ENG,DF,18.0,3.0,0,0,0,1,5,0,13,1,3,0,0,0,27,3,10,23.1
+ENG-Premier League,1920,Leicester City,Marc Albrighton,ENG,"MF,DF",29.0,9.6,2,0,0,9,11,1,49,9,11,0,1,0,90,2,5,28.6
+ENG-Premier League,1920,Leicester City,Matty James,ENG,MF,28.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Leicester City,Nampalys Mendy,SEN,MF,27.0,3.2,0,0,0,4,8,0,1,4,4,0,0,0,34,5,1,83.3
+ENG-Premier League,1920,Leicester City,Opponent Total,,,26.6,38.0,69,3,0,537,463,65,376,294,426,7,7,2,3407,620,673,48.0
+ENG-Premier League,1920,Leicester City,Ricardo Pereira,POR,DF,25.0,28.0,1,0,0,53,44,0,41,41,68,0,1,0,227,38,41,48.1
+ENG-Premier League,1920,Leicester City,Ryan Bennett,ENG,DF,29.0,3.7,0,0,0,4,0,0,1,3,2,0,0,0,43,10,11,47.6
+ENG-Premier League,1920,Leicester City,Squad Total,,,26.1,38.0,43,3,1,483,524,65,475,309,478,6,10,2,3526,673,620,52.0
+ENG-Premier League,1920,Leicester City,Wes Morgan,JAM,DF,35.0,4.8,0,0,0,4,3,0,0,2,4,0,0,0,43,15,14,51.7
+ENG-Premier League,1920,Leicester City,Wilfred Ndidi,NGA,MF,22.0,29.7,6,0,0,72,33,1,2,49,76,0,3,0,430,77,62,55.4
+ENG-Premier League,1920,Leicester City,Youri Tielemans,BEL,MF,22.0,31.4,2,0,0,36,61,1,45,18,40,0,0,0,287,29,28,50.9
+ENG-Premier League,1920,Leicester City,Çağlar Söyüncü,TUR,DF,23.0,33.7,4,1,0,34,24,1,4,26,47,0,2,0,362,121,56,68.4
+ENG-Premier League,1920,Liverpool,Adam Lallana,ENG,"MF,FW",31.0,4.2,1,0,0,8,11,1,5,6,12,0,0,0,51,7,11,38.9
+ENG-Premier League,1920,Liverpool,Adrián,ESP,GK,32.0,9.7,1,0,0,0,2,0,0,0,0,0,0,0,47,0,0,
+ENG-Premier League,1920,Liverpool,Alex Oxlade-Chamberlain,ENG,"MF,FW",25.0,16.5,1,0,0,17,20,2,29,13,14,0,0,1,133,13,26,33.3
+ENG-Premier League,1920,Liverpool,Alisson,BRA,GK,26.0,28.3,0,1,0,0,2,0,0,1,0,0,0,0,153,0,0,
+ENG-Premier League,1920,Liverpool,Andrew Robertson,SCO,DF,25.0,34.6,2,0,0,23,21,2,130,30,32,0,0,0,340,25,32,43.9
+ENG-Premier League,1920,Liverpool,Curtis Jones,ENG,MF,18.0,1.4,0,0,0,5,2,0,0,3,2,0,0,0,20,2,3,40.0
+ENG-Premier League,1920,Liverpool,Dejan Lovren,CRO,DF,30.0,8.6,1,0,0,5,10,0,0,8,9,0,0,0,107,39,21,65.0
+ENG-Premier League,1920,Liverpool,Divock Origi,BEL,FW,24.0,8.0,1,0,0,13,17,0,16,2,10,1,0,0,43,14,24,36.8
+ENG-Premier League,1920,Liverpool,Fabinho,BRA,MF,25.0,23.1,6,0,0,36,24,0,6,25,53,0,0,0,326,41,30,57.7
+ENG-Premier League,1920,Liverpool,Georginio Wijnaldum,NED,MF,28.0,32.6,0,0,0,20,42,1,6,14,29,0,0,0,296,37,53,41.1
+ENG-Premier League,1920,Liverpool,Harvey Elliott,ENG,DF,16.0,0.1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,
+ENG-Premier League,1920,Liverpool,James Milner,ENG,"MF,DF",33.0,10.4,4,0,0,14,17,1,14,7,10,0,0,0,102,16,8,66.7
+ENG-Premier League,1920,Liverpool,Joe Gomez,ENG,DF,22.0,22.3,7,0,0,24,17,0,5,19,15,0,1,0,351,72,44,62.1
+ENG-Premier League,1920,Liverpool,Jordan Henderson,ENG,MF,29.0,24.9,2,0,0,35,15,0,48,12,36,0,0,0,322,25,10,71.4
+ENG-Premier League,1920,Liverpool,Joël Matip,CMR,DF,27.0,7.8,0,0,0,6,6,0,0,5,9,0,0,0,92,46,5,90.2
+ENG-Premier League,1920,Liverpool,Mohamed Salah,EGY,FW,27.0,32.0,1,0,0,18,24,20,35,5,13,1,0,0,167,13,48,21.3
+ENG-Premier League,1920,Liverpool,Naby Keïta,GUI,MF,24.0,9.1,1,0,0,12,14,1,7,14,20,0,0,0,99,8,7,53.3
+ENG-Premier League,1920,Liverpool,Neco Williams,WAL,DF,18.0,2.6,1,0,0,5,2,0,7,2,2,0,0,0,36,5,4,55.6
+ENG-Premier League,1920,Liverpool,Opponent Total,,,26.3,38.0,47,0,0,423,351,142,382,317,420,1,5,2,3454,563,632,47.1
+ENG-Premier League,1920,Liverpool,Roberto Firmino,BRA,FW,27.0,33.2,0,0,0,33,26,6,16,11,26,0,0,0,191,29,74,28.2
+ENG-Premier League,1920,Liverpool,Sadio Mané,SEN,FW,27.0,30.5,3,0,0,48,70,14,52,11,35,2,0,0,169,35,79,30.7
+ENG-Premier League,1920,Liverpool,Squad Total,,,26.6,38.0,38,1,0,373,389,53,569,246,375,4,1,1,3931,632,563,52.9
+ENG-Premier League,1920,Liverpool,Takumi Minamino,JPN,"FW,MF",24.0,2.8,0,0,0,6,5,0,4,0,3,0,0,0,11,5,5,50.0
+ENG-Premier League,1920,Liverpool,Trent Alexander-Arnold,ENG,DF,20.0,35.3,5,0,0,25,10,3,183,34,25,0,0,0,352,14,32,30.4
+ENG-Premier League,1920,Liverpool,Virgil van Dijk,NED,DF,28.0,38.0,1,0,0,18,28,1,0,24,20,0,0,0,505,183,43,81.0
+ENG-Premier League,1920,Liverpool,Xherdan Shaqiri,SUI,"FW,MF",27.0,2.1,0,0,0,2,4,1,4,0,0,0,0,0,17,3,4,42.9
+ENG-Premier League,1920,Manchester City,Angeliño,ESP,DF,22.0,4.7,1,0,0,2,4,0,30,5,5,0,0,0,49,8,8,50.0
+ENG-Premier League,1920,Manchester City,Aymeric Laporte,ESP,DF,25.0,12.2,1,0,0,10,10,0,0,14,8,0,0,0,136,28,14,66.7
+ENG-Premier League,1920,Manchester City,Benjamin Mendy,FRA,DF,25.0,16.6,3,0,0,14,2,1,69,7,17,0,0,0,122,17,16,51.5
+ENG-Premier League,1920,Manchester City,Bernardo Silva,POR,"FW,MF",24.0,22.6,5,0,0,24,26,2,65,23,26,0,1,0,183,11,28,28.2
+ENG-Premier League,1920,Manchester City,Claudio Bravo,CHI,GK,36.0,3.9,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,
+ENG-Premier League,1920,Manchester City,David Silva,ESP,MF,33.0,20.3,0,0,0,24,28,3,26,9,16,0,0,0,162,7,15,31.8
+ENG-Premier League,1920,Manchester City,Ederson,BRA,GK,25.0,34.1,3,1,0,1,2,0,0,0,1,0,0,0,155,0,0,
+ENG-Premier League,1920,Manchester City,Eric García,ESP,DF,18.0,8.8,1,0,0,11,2,0,1,10,4,0,0,0,65,10,12,45.5
+ENG-Premier League,1920,Manchester City,Fernandinho,BRA,DF,34.0,26.6,9,2,1,29,22,1,3,16,25,0,0,1,310,73,36,67.0
+ENG-Premier League,1920,Manchester City,Gabriel Jesus,BRA,FW,22.0,22.6,3,0,0,30,35,18,5,12,19,0,0,0,119,35,64,35.4
+ENG-Premier League,1920,Manchester City,John Stones,ENG,DF,25.0,12.5,0,0,0,5,4,1,0,2,12,0,0,0,153,38,20,65.5
+ENG-Premier League,1920,Manchester City,João Cancelo,POR,DF,25.0,13.4,4,0,0,21,12,0,36,16,26,0,0,0,152,22,20,52.4
+ENG-Premier League,1920,Manchester City,Kevin De Bruyne,BEL,MF,28.0,31.0,3,0,0,32,38,3,143,11,28,0,0,0,231,18,22,45.0
+ENG-Premier League,1920,Manchester City,Kyle Walker,ENG,DF,29.0,26.6,5,0,0,26,23,3,50,16,23,0,0,0,267,33,38,46.5
+ENG-Premier League,1920,Manchester City,Leroy Sané,GER,FW,23.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Manchester City,Nicolás Otamendi,ARG,DF,31.0,19.1,3,0,0,23,3,0,1,11,12,0,0,0,163,59,27,68.6
+ENG-Premier League,1920,Manchester City,Oleksandr Zinchenko,UKR,DF,22.0,14.2,2,1,1,14,2,1,33,6,16,0,0,0,155,28,19,59.6
+ENG-Premier League,1920,Manchester City,Opponent Total,,,26.5,38.0,53,1,0,405,387,83,289,356,409,2,10,2,2760,468,514,47.7
+ENG-Premier League,1920,Manchester City,Phil Foden,ENG,"FW,MF",19.0,10.0,0,0,0,11,21,1,22,3,9,0,0,0,61,8,17,32.0
+ENG-Premier League,1920,Manchester City,Raheem Sterling,ENG,FW,24.0,29.5,5,0,0,34,49,12,63,10,29,3,0,0,160,20,35,36.4
+ENG-Premier League,1920,Manchester City,Riyad Mahrez,ALG,"FW,MF",28.0,21.6,0,0,0,16,37,13,52,15,21,5,0,0,140,10,23,30.3
+ENG-Premier League,1920,Manchester City,Rodri,ESP,MF,23.0,27.6,8,0,0,46,42,0,4,15,44,0,0,0,372,69,33,67.6
+ENG-Premier League,1920,Manchester City,Sergio Agüero,ARG,FW,31.0,16.1,1,0,0,9,11,6,8,2,5,2,0,0,61,2,14,12.5
+ENG-Premier League,1920,Manchester City,Squad Total,,,26.9,38.0,64,4,2,403,392,67,619,230,365,10,2,1,3448,514,468,52.3
+ENG-Premier League,1920,Manchester City,Thomas Doyle,ENG,MF,17.0,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+ENG-Premier League,1920,Manchester City,İlkay Gündoğan,GER,MF,28.0,22.4,7,0,0,21,18,2,8,27,19,0,1,0,220,18,7,72.0
+ENG-Premier League,1920,Manchester Utd,Aaron Wan-Bissaka,ENG,DF,21.0,34.1,8,0,0,28,24,1,71,49,65,0,1,0,302,28,24,53.8
+ENG-Premier League,1920,Manchester Utd,Andreas Pereira,BRA,"MF,FW",23.0,16.5,3,0,0,28,23,3,29,11,12,0,0,0,120,13,27,32.5
+ENG-Premier League,1920,Manchester Utd,Angel Gomes,ENG,MF,18.0,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Manchester Utd,Anthony Martial,FRA,FW,23.0,29.2,1,0,0,32,47,12,20,5,12,1,0,0,76,21,60,25.9
+ENG-Premier League,1920,Manchester Utd,Ashley Young,ENG,DF,34.0,10.6,5,0,0,15,17,0,24,14,4,0,0,0,95,15,9,62.5
+ENG-Premier League,1920,Manchester Utd,Axel Tuanzebe,ENG,DF,21.0,2.1,0,0,0,4,3,0,1,2,3,0,0,0,26,3,10,23.1
+ENG-Premier League,1920,Manchester Utd,Brandon Williams,ENG,DF,18.0,11.2,6,0,0,15,18,1,14,8,5,1,0,0,93,12,10,54.5
+ENG-Premier League,1920,Manchester Utd,Bruno Fernandes,POR,MF,24.0,13.2,2,0,0,12,21,2,22,7,14,2,0,0,91,2,10,16.7
+ENG-Premier League,1920,Manchester Utd,Daniel James,WAL,FW,21.0,25.4,4,0,0,17,67,2,72,4,15,1,0,0,153,8,26,23.5
+ENG-Premier League,1920,Manchester Utd,David de Gea,ESP,GK,28.0,38.0,2,0,0,0,7,0,0,0,0,0,0,0,145,0,0,
+ENG-Premier League,1920,Manchester Utd,Diogo Dalot,POR,"DF,MF",20.0,0.7,0,0,0,1,0,0,2,0,2,0,0,0,8,4,0,100.0
+ENG-Premier League,1920,Manchester Utd,Eric Bailly,CIV,DF,25.0,1.7,0,0,0,2,0,0,0,2,0,0,1,0,22,6,1,85.7
+ENG-Premier League,1920,Manchester Utd,Fred,BRA,MF,26.0,24.0,8,0,0,50,46,1,27,28,51,0,0,0,326,8,16,33.3
+ENG-Premier League,1920,Manchester Utd,Harry Maguire,ENG,DF,26.0,38.0,6,0,0,36,28,6,1,55,27,0,0,0,434,193,69,73.7
+ENG-Premier League,1920,Manchester Utd,James Garner,ENG,MF,18.0,0.1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,
+ENG-Premier League,1920,Manchester Utd,Jesse Lingard,ENG,"MF,FW",26.0,10.4,3,0,0,31,12,0,5,6,9,0,0,0,52,1,10,9.1
+ENG-Premier League,1920,Manchester Utd,Juan Mata,ESP,"MF,FW",31.0,8.4,1,0,0,8,11,4,14,1,7,0,0,0,48,3,7,30.0
+ENG-Premier League,1920,Manchester Utd,Luke Shaw,ENG,DF,24.0,19.3,7,0,0,28,14,4,24,15,24,0,0,0,205,32,23,58.2
+ENG-Premier League,1920,Manchester Utd,Marcos Rojo,ARG,DF,29.0,1.4,1,0,0,3,1,0,2,1,1,0,0,0,7,3,1,75.0
+ENG-Premier League,1920,Manchester Utd,Marcus Rashford,ENG,FW,21.0,29.4,3,0,0,22,51,13,29,8,6,4,0,0,140,20,46,30.3
+ENG-Premier League,1920,Manchester Utd,Mason Greenwood,ENG,FW,17.0,14.7,0,0,0,11,17,3,13,7,13,0,0,0,70,6,14,30.0
+ENG-Premier League,1920,Manchester Utd,Nemanja Matić,SRB,MF,30.0,17.6,3,0,0,33,19,0,2,18,21,0,0,0,242,27,18,60.0
+ENG-Premier League,1920,Manchester Utd,Odion Ighalo,NGA,FW,30.0,1.1,0,0,0,1,3,1,0,0,2,0,0,0,5,0,1,0.0
+ENG-Premier League,1920,Manchester Utd,Opponent Total,,,26.7,38.0,79,2,1,546,464,68,416,355,462,1,14,1,3320,479,582,45.1
+ENG-Premier League,1920,Manchester Utd,Paul Pogba,FRA,MF,26.0,13.4,1,0,0,30,27,2,7,4,16,2,1,0,166,27,10,73.0
+ENG-Premier League,1920,Manchester Utd,Phil Jones,ENG,DF,27.0,1.5,0,0,0,3,2,0,1,2,2,0,0,0,19,12,5,70.6
+ENG-Premier League,1920,Manchester Utd,Scott McTominay,SCO,MF,22.0,19.7,2,0,0,40,57,0,9,23,31,1,0,0,237,42,29,59.2
+ENG-Premier League,1920,Manchester Utd,Squad Total,,,24.8,38.0,73,0,0,486,526,56,392,300,359,12,3,1,3501,582,479,54.9
+ENG-Premier League,1920,Manchester Utd,Tahith Chong,NED,"FW,DF",19.0,0.4,0,0,0,2,1,0,0,1,0,0,0,0,2,0,2,0.0
+ENG-Premier League,1920,Manchester Utd,Timothy Fosu-Mensah,NED,DF,21.0,1.5,1,0,0,6,0,1,2,4,1,0,0,0,9,1,2,33.3
+ENG-Premier League,1920,Manchester Utd,Victor Lindelöf,SWE,DF,25.0,34.4,6,0,0,26,9,0,1,25,16,0,0,1,406,95,49,66.0
+ENG-Premier League,1920,Newcastle Utd,Allan Saint-Maximin,FRA,"MF,FW",22.0,20.7,0,0,0,19,61,3,50,6,11,0,0,0,134,7,20,25.9
+ENG-Premier League,1920,Newcastle Utd,Andy Carroll,ENG,FW,30.0,7.0,1,0,0,18,16,6,6,3,1,0,0,0,43,78,61,56.1
+ENG-Premier League,1920,Newcastle Utd,Christian Atsu,GHA,"FW,MF",27.0,8.3,2,0,0,12,11,4,15,7,9,0,0,0,50,7,12,36.8
+ENG-Premier League,1920,Newcastle Utd,Ciaran Clark,IRL,DF,29.0,13.2,3,0,0,11,8,0,2,14,12,0,0,0,100,31,31,50.0
+ENG-Premier League,1920,Newcastle Utd,Danny Rose,ENG,DF,29.0,9.6,2,0,0,13,23,0,6,8,15,0,0,0,86,9,12,42.9
+ENG-Premier League,1920,Newcastle Utd,DeAndre Yedlin,USA,DF,26.0,10.4,3,0,0,11,9,2,19,8,14,0,0,0,63,7,15,31.8
+ENG-Premier League,1920,Newcastle Utd,Dwight Gayle,ENG,FW,28.0,9.4,2,0,0,8,13,2,5,1,10,0,0,0,25,23,46,33.3
+ENG-Premier League,1920,Newcastle Utd,Emil Krafth,SWE,DF,24.0,11.3,0,0,0,3,8,0,11,6,12,0,0,0,84,10,8,55.6
+ENG-Premier League,1920,Newcastle Utd,Fabian Schär,SUI,"DF,MF",27.0,18.6,5,0,0,36,26,2,9,32,27,0,0,0,173,35,27,56.5
+ENG-Premier League,1920,Newcastle Utd,Federico Fernández,ARG,DF,30.0,29.1,8,0,0,21,19,2,16,8,32,0,0,1,250,68,50,57.6
+ENG-Premier League,1920,Newcastle Utd,Florian Lejeune,FRA,DF,28.0,4.9,0,0,0,6,4,0,1,6,6,0,0,0,64,13,4,76.5
+ENG-Premier League,1920,Newcastle Utd,Isaac Hayden,ENG,MF,24.0,24.7,4,1,0,31,25,2,27,29,37,0,0,0,257,47,35,57.3
+ENG-Premier League,1920,Newcastle Utd,Jamaal Lascelles,ENG,DF,25.0,23.1,5,0,0,25,19,2,0,22,10,0,0,0,259,83,38,68.6
+ENG-Premier League,1920,Newcastle Utd,Javier Manquillo,ESP,DF,25.0,17.8,5,0,0,21,11,1,34,13,32,0,1,0,119,18,22,45.0
+ENG-Premier League,1920,Newcastle Utd,Jetro Willems,NED,DF,25.0,16.6,0,0,0,13,20,1,27,18,19,0,0,0,138,19,14,57.6
+ENG-Premier League,1920,Newcastle Utd,Joelinton,BRA,FW,22.0,29.8,7,0,0,37,49,20,9,11,19,0,0,0,180,146,226,39.2
+ENG-Premier League,1920,Newcastle Utd,Jonjo Shelvey,ENG,MF,27.0,23.5,3,0,0,24,8,1,25,10,16,0,0,0,238,18,11,62.1
+ENG-Premier League,1920,Newcastle Utd,Kelland Watts,ENG,DF,19.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+ENG-Premier League,1920,Newcastle Utd,Ki Sung-yueng,KOR,MF,30.0,1.5,0,0,0,1,4,0,2,3,1,0,0,0,14,2,0,100.0
+ENG-Premier League,1920,Newcastle Utd,Martin Dúbravka,SVK,GK,30.0,38.0,0,0,0,0,5,0,0,0,0,0,0,0,170,0,0,
+ENG-Premier League,1920,Newcastle Utd,Matt Ritchie,SCO,"DF,MF",29.0,14.6,4,0,0,32,18,0,38,17,17,0,1,0,117,20,19,51.3
+ENG-Premier League,1920,Newcastle Utd,Matthew Longstaff,ENG,MF,19.0,6.4,1,0,0,6,7,0,3,6,3,0,0,0,57,4,3,57.1
+ENG-Premier League,1920,Newcastle Utd,Miguel Almirón,PAR,"MF,FW",25.0,33.6,5,0,0,35,68,24,38,20,36,0,0,0,228,9,37,19.6
+ENG-Premier League,1920,Newcastle Utd,Nabil Bentaleb,ALG,MF,24.0,8.3,2,0,0,23,5,0,2,10,23,0,0,0,109,15,10,60.0
+ENG-Premier League,1920,Newcastle Utd,Opponent Total,,,26.5,38.0,57,2,1,491,424,53,553,237,382,2,1,0,3578,759,721,51.3
+ENG-Premier League,1920,Newcastle Utd,Paul Dummett,WAL,DF,27.0,13.6,2,0,0,6,7,0,14,15,6,0,0,1,121,35,23,60.3
+ENG-Premier League,1920,Newcastle Utd,Sean Longstaff,ENG,MF,21.0,15.3,2,1,0,19,29,0,20,19,21,0,0,0,170,12,20,37.5
+ENG-Premier League,1920,Newcastle Utd,Squad Total,,,26.5,38.0,66,3,0,438,480,75,383,293,393,0,2,2,3298,721,759,48.7
+ENG-Premier League,1920,Newcastle Utd,Valentino Lazaro,AUT,"DF,MF",23.0,5.3,0,1,0,5,4,0,3,1,2,0,0,0,39,4,9,30.8
+ENG-Premier League,1920,Newcastle Utd,Yoshinori Mutō,JPN,"FW,MF",27.0,2.4,0,0,0,2,3,3,1,0,2,0,0,0,9,1,6,14.3
+ENG-Premier League,1920,Norwich City,Adam Idah,IRL,"FW,MF",18.0,2.5,0,0,0,2,5,1,0,0,4,0,0,0,12,4,9,30.8
+ENG-Premier League,1920,Norwich City,Akin Famewo,ENG,MF,20.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Norwich City,Alexander Tettey,NOR,"MF,DF",33.0,26.0,5,0,0,31,7,0,1,26,20,0,0,0,327,37,23,61.7
+ENG-Premier League,1920,Norwich City,Ben Godfrey,ENG,DF,21.0,29.4,3,1,0,14,12,0,2,17,22,0,1,1,275,72,37,66.1
+ENG-Premier League,1920,Norwich City,Christoph Zimmermann,GER,DF,26.0,15.9,3,0,0,9,8,0,0,9,21,0,2,0,146,39,12,76.5
+ENG-Premier League,1920,Norwich City,Dennis Srbeny,GER,"MF,FW",25.0,0.5,0,0,0,1,0,0,0,0,4,0,0,0,5,1,5,16.7
+ENG-Premier League,1920,Norwich City,Emi Buendía,ARG,"FW,MF",22.0,27.4,6,1,0,40,69,2,43,25,58,0,0,0,233,23,54,29.9
+ENG-Premier League,1920,Norwich City,Grant Hanley,SCO,DF,27.0,14.0,4,0,0,15,20,0,1,17,17,0,0,1,107,44,16,73.3
+ENG-Premier League,1920,Norwich City,Ibrahim Amadou,FRA,"DF,MF",26.0,8.4,1,0,0,8,3,0,1,11,7,0,1,0,75,15,14,51.7
+ENG-Premier League,1920,Norwich City,Jamal Lewis,NIR,DF,21.0,25.6,4,0,0,21,26,2,35,20,31,0,0,0,206,12,25,32.4
+ENG-Premier League,1920,Norwich City,Jordan Thomas,ENG,FW,18.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+ENG-Premier League,1920,Norwich City,Josh Martin,ENG,"FW,MF",17.0,0.4,0,0,0,1,0,0,0,1,0,0,0,0,3,0,0,
+ENG-Premier League,1920,Norwich City,Josip Drmić,SUI,"FW,MF",26.0,7.2,0,1,0,10,7,7,3,3,3,0,0,0,49,12,40,23.1
+ENG-Premier League,1920,Norwich City,Kenny McLean,SCO,MF,27.0,33.0,5,0,0,33,59,1,30,24,31,0,1,0,327,87,87,50.0
+ENG-Premier League,1920,Norwich City,Lukas Rupp,GER,"FW,MF",28.0,7.7,1,0,0,12,7,0,4,9,9,0,0,0,69,4,17,19.0
+ENG-Premier League,1920,Norwich City,Marco Stiepermann,GER,MF,28.0,13.1,6,0,0,30,16,0,10,3,7,0,0,0,67,14,59,19.2
+ENG-Premier League,1920,Norwich City,Mario Vrančić,BIH,MF,30.0,7.1,3,0,0,14,14,1,5,3,15,0,0,0,87,9,13,40.9
+ENG-Premier League,1920,Norwich City,Max Aarons,ENG,DF,19.0,36.0,7,0,0,34,51,3,54,20,36,1,0,0,281,23,42,35.4
+ENG-Premier League,1920,Norwich City,Michael McGovern,NIR,GK,35.0,1.8,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,
+ENG-Premier League,1920,Norwich City,Moritz Leitner,GER,MF,26.0,7.6,1,0,0,10,15,0,3,5,9,0,0,0,77,5,6,45.5
+ENG-Premier League,1920,Norwich City,Ondrej Duda,SVK,MF,24.0,8.0,0,0,0,12,13,2,8,5,15,0,0,0,66,8,20,28.6
+ENG-Premier League,1920,Norwich City,Onel Hernández,CUB,"FW,MF",26.0,15.4,0,0,0,18,21,8,26,14,27,0,0,0,90,3,23,11.5
+ENG-Premier League,1920,Norwich City,Opponent Total,,,26.5,38.0,58,2,1,506,429,38,550,284,446,5,1,1,3673,657,515,56.1
+ENG-Premier League,1920,Norwich City,Patrick Roberts,ENG,"FW,MF",22.0,0.3,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,
+ENG-Premier League,1920,Norwich City,Ralf Fährmann,GER,GK,30.0,0.2,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,
+ENG-Premier League,1920,Norwich City,Sam Byram,ENG,DF,25.0,14.4,4,0,0,18,9,1,3,20,23,0,0,0,152,42,30,58.3
+ENG-Premier League,1920,Norwich City,Squad Total,,,26.0,38.0,68,3,0,448,492,50,259,270,434,1,7,3,3327,515,657,43.9
+ENG-Premier League,1920,Norwich City,Teemu Pukki,FIN,FW,29.0,32.1,3,0,0,29,22,17,14,8,12,0,0,0,113,6,50,10.7
+ENG-Premier League,1920,Norwich City,Tim Krul,NED,GK,31.0,36.0,4,0,0,1,5,0,0,0,0,0,1,1,160,0,0,
+ENG-Premier League,1920,Norwich City,Timm Klose,SUI,DF,31.0,6.5,0,0,0,8,9,0,0,2,4,0,0,0,78,16,15,51.6
+ENG-Premier League,1920,Norwich City,Todd Cantwell,ENG,"FW,MF",21.0,27.7,6,0,0,44,76,3,16,12,29,0,1,0,179,16,42,27.6
+ENG-Premier League,1920,Norwich City,Tom Trybull,GER,MF,26.0,12.6,2,0,0,32,16,2,0,15,30,0,0,0,130,23,17,57.5
+ENG-Premier League,1920,Sheffield Utd,Ben Osborn,ENG,"MF,DF",24.0,6.6,0,0,0,12,5,1,11,3,10,0,0,0,58,9,7,56.3
+ENG-Premier League,1920,Sheffield Utd,Billy Sharp,ENG,FW,33.0,11.7,1,1,0,18,38,12,15,1,5,0,0,0,55,13,44,22.8
+ENG-Premier League,1920,Sheffield Utd,Callum Robinson,IRL,"FW,MF",24.0,7.5,1,0,0,9,5,1,12,3,4,0,0,0,32,3,21,12.5
+ENG-Premier League,1920,Sheffield Utd,Chris Basham,ENG,DF,31.0,36.0,4,0,0,31,38,5,38,40,50,0,1,0,412,105,65,61.8
+ENG-Premier League,1920,Sheffield Utd,David McGoldrick,IRL,FW,31.0,20.2,2,0,0,42,21,12,11,3,26,0,0,0,112,73,120,37.8
+ENG-Premier League,1920,Sheffield Utd,Dean Henderson,ENG,GK,22.0,36.0,2,0,0,0,3,0,0,0,0,0,0,0,199,1,0,100.0
+ENG-Premier League,1920,Sheffield Utd,Enda Stevens,IRL,DF,29.0,37.2,7,0,0,50,20,2,84,24,43,0,0,0,340,35,26,57.4
+ENG-Premier League,1920,Sheffield Utd,George Baldock,ENG,DF,26.0,38.0,7,0,0,53,44,11,96,30,45,1,0,0,303,37,55,40.2
+ENG-Premier League,1920,Sheffield Utd,Jack O'Connell,ENG,DF,25.0,32.4,4,0,0,28,22,2,42,35,20,0,0,0,376,126,47,72.8
+ENG-Premier League,1920,Sheffield Utd,Jack Robinson,ENG,DF,25.0,5.6,0,0,0,5,4,1,7,2,3,0,0,0,60,13,7,65.0
+ENG-Premier League,1920,Sheffield Utd,Jack Rodwell,ENG,MF,28.0,0.2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,
+ENG-Premier League,1920,Sheffield Utd,John Egan,IRL,DF,26.0,35.4,5,1,1,33,23,1,3,26,27,0,1,0,371,139,57,70.9
+ENG-Premier League,1920,Sheffield Utd,John Fleck,SCO,MF,27.0,28.0,8,0,0,38,28,1,58,20,24,0,0,0,250,12,25,32.4
+ENG-Premier League,1920,Sheffield Utd,John Lundstram,ENG,MF,25.0,27.3,5,0,0,31,15,7,33,18,33,0,0,0,235,26,35,42.6
+ENG-Premier League,1920,Sheffield Utd,Kieron Freeman,WAL,FW,27.0,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,0.0
+ENG-Premier League,1920,Sheffield Utd,Leon Clarke,ENG,"FW,MF",34.0,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,66.7
+ENG-Premier League,1920,Sheffield Utd,Luke Freeman,ENG,MF,27.0,4.1,2,0,0,6,4,0,4,7,4,0,0,0,36,5,4,55.6
+ENG-Premier League,1920,Sheffield Utd,Lys Mousset,FRA,FW,23.0,13.8,1,0,0,31,16,16,10,4,4,0,0,0,66,13,84,13.4
+ENG-Premier League,1920,Sheffield Utd,Muhamed Bešić,BIH,MF,26.0,2.8,2,0,0,7,1,0,1,2,6,0,0,0,28,5,5,50.0
+ENG-Premier League,1920,Sheffield Utd,Oliver McBurnie,SCO,FW,23.0,23.5,4,0,0,35,34,4,11,7,21,0,0,0,141,188,193,49.3
+ENG-Premier League,1920,Sheffield Utd,Oliver Norwood,NIR,MF,28.0,34.3,8,0,0,41,24,1,73,30,44,0,1,0,464,43,30,58.9
+ENG-Premier League,1920,Sheffield Utd,Opponent Total,,,26.7,38.0,46,0,0,374,476,57,421,214,311,2,1,3,3736,857,890,49.1
+ENG-Premier League,1920,Sheffield Utd,Phil Jagielka,ENG,DF,36.0,2.7,0,0,0,2,5,0,1,2,4,0,0,0,27,11,4,73.3
+ENG-Premier League,1920,Sheffield Utd,Ravel Morrison,JAM,MF,26.0,0.1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,
+ENG-Premier League,1920,Sheffield Utd,Richairo Živković,NED,FW,22.0,1.2,0,0,0,1,1,0,1,0,2,0,0,0,2,1,9,10.0
+ENG-Premier League,1920,Sheffield Utd,Sander Berge,NOR,MF,21.0,10.5,0,0,0,21,9,1,16,3,17,0,0,0,95,30,16,65.2
+ENG-Premier League,1920,Sheffield Utd,Simon Moore,ENG,GK,29.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,
+ENG-Premier League,1920,Sheffield Utd,Squad Total,,,26.9,38.0,63,2,1,497,360,78,528,260,392,1,3,0,3676,890,857,50.9
+ENG-Premier League,1920,Southampton,Alex McCarthy,ENG,GK,29.0,28.0,0,0,0,1,3,0,0,0,0,0,0,0,117,0,0,
+ENG-Premier League,1920,Southampton,Angus Gunn,ENG,GK,23.0,10.0,0,0,0,0,3,0,0,0,0,0,0,0,38,0,0,
+ENG-Premier League,1920,Southampton,Che Adams,SCO,FW,23.0,12.3,0,0,0,20,23,10,12,3,6,1,0,0,73,29,86,25.2
+ENG-Premier League,1920,Southampton,Cédric Soares,POR,DF,27.0,14.5,1,0,0,10,3,0,41,16,24,0,0,0,124,20,22,47.6
+ENG-Premier League,1920,Southampton,Danny Ings,ENG,FW,27.0,31.2,3,0,0,42,32,12,32,7,32,2,0,0,187,41,118,25.8
+ENG-Premier League,1920,Southampton,Jack Stephens,ENG,DF,25.0,27.2,4,1,0,18,17,0,3,18,35,0,1,0,322,43,56,43.4
+ENG-Premier League,1920,Southampton,Jake Vokins,ENG,DF,19.0,1.0,0,0,0,0,1,0,4,0,0,0,0,0,8,0,0,
+ENG-Premier League,1920,Southampton,James Ward-Prowse,ENG,"MF,DF",24.0,38.0,9,0,0,73,52,0,62,36,56,1,0,0,481,73,52,58.4
+ENG-Premier League,1920,Southampton,Jan Bednarek,POL,DF,23.0,34.0,4,0,0,36,13,0,0,44,38,0,1,1,401,132,54,71.0
+ENG-Premier League,1920,Southampton,Jannik Vestergaard,DEN,DF,26.0,16.6,3,0,0,13,11,0,1,11,12,0,0,0,195,80,30,72.7
+ENG-Premier League,1920,Southampton,Kevin Danso,AUT,DF,20.0,3.1,2,1,1,3,3,0,6,2,4,0,0,0,28,11,10,52.4
+ENG-Premier League,1920,Southampton,Kyle Walker-Peters,ENG,DF,22.0,7.8,1,0,0,9,23,1,8,9,9,0,0,0,70,3,15,16.7
+ENG-Premier League,1920,Southampton,Maya Yoshida,JPN,DF,30.0,6.2,1,0,0,3,3,0,0,5,5,0,0,0,53,14,8,63.6
+ENG-Premier League,1920,Southampton,Michael Obafemi,IRL,FW,19.0,7.4,1,0,0,12,8,3,5,6,2,0,0,0,32,8,41,16.3
+ENG-Premier League,1920,Southampton,Moussa Djenepo,MLI,"MF,DF",21.0,10.3,4,1,0,23,32,3,16,7,18,0,0,0,55,5,14,26.3
+ENG-Premier League,1920,Southampton,Nathan Redmond,ENG,"MF,FW",25.0,30.7,2,0,0,30,37,5,48,14,46,0,0,0,250,20,57,26.0
+ENG-Premier League,1920,Southampton,Nathan Tella,ENG,FW,20.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,50.0
+ENG-Premier League,1920,Southampton,Opponent Total,,,26.5,38.0,67,3,1,485,508,69,467,257,424,3,5,0,4065,898,794,53.1
+ENG-Premier League,1920,Southampton,Oriol Romeu,ESP,MF,27.0,20.7,5,0,0,44,20,1,6,21,39,0,0,0,302,41,32,56.2
+ENG-Premier League,1920,Southampton,Pierre Højbjerg,DEN,MF,23.0,30.6,5,0,0,52,47,1,25,42,57,0,1,0,510,51,42,54.8
+ENG-Premier League,1920,Southampton,Ryan Bertrand,ENG,DF,29.0,30.5,3,1,0,35,35,1,81,26,28,0,0,0,274,66,54,55.0
+ENG-Premier League,1920,Southampton,Shane Long,IRL,FW,32.0,15.5,0,0,0,35,26,12,21,2,15,0,0,0,81,114,127,47.3
+ENG-Premier League,1920,Southampton,Sofiane Boufal,MAR,"MF,FW",25.0,8.5,2,0,0,29,25,2,30,5,12,0,1,0,69,8,11,42.1
+ENG-Premier League,1920,Southampton,Squad Total,,,25.9,38.0,55,4,1,526,454,58,427,295,484,4,4,1,3965,794,898,46.9
+ENG-Premier League,1920,Southampton,Stuart Armstrong,SCO,MF,27.0,19.1,4,0,0,26,22,4,14,9,25,0,0,0,169,10,29,25.6
+ENG-Premier League,1920,Southampton,William Smallbone,IRL,MF,19.0,4.4,0,0,0,3,6,0,4,1,8,0,0,0,42,3,20,13.0
+ENG-Premier League,1920,Southampton,Yan Valery,FRA,DF,20.0,8.7,1,0,0,9,8,3,8,11,13,0,0,0,83,21,19,52.5
+ENG-Premier League,1920,Tottenham,Ben Davies,WAL,DF,26.0,15.9,6,0,0,31,10,1,29,12,13,0,0,0,163,42,22,65.6
+ENG-Premier League,1920,Tottenham,Christian Eriksen,DEN,"MF,FW",27.0,12.2,5,0,0,10,7,2,24,8,12,0,0,0,138,3,9,25.0
+ENG-Premier League,1920,Tottenham,Danny Rose,ENG,DF,29.0,9.9,5,0,0,17,17,0,31,6,13,0,0,0,93,9,6,60.0
+ENG-Premier League,1920,Tottenham,Davinson Sánchez,COL,DF,23.0,27.0,6,0,0,29,16,1,2,23,36,0,0,0,260,52,34,60.5
+ENG-Premier League,1920,Tottenham,Dele Alli,ENG,"MF,FW",23.0,20.5,2,0,0,14,37,6,5,7,29,0,0,0,157,17,32,34.7
+ENG-Premier League,1920,Tottenham,Eric Dier,ENG,"DF,MF",25.0,14.9,5,0,0,24,6,1,1,6,14,0,1,0,170,79,36,68.7
+ENG-Premier League,1920,Tottenham,Gedson Fernandes,POR,"MF,DF",20.0,0.8,0,0,0,0,2,0,3,0,1,0,0,0,9,0,1,0.0
+ENG-Premier League,1920,Tottenham,Georges-Kévin N'Koudou,FRA,FW,24.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ENG-Premier League,1920,Tottenham,Giovani Lo Celso,ARG,"MF,FW",23.0,16.6,6,0,0,36,57,0,18,14,33,0,0,0,167,7,24,22.6
+ENG-Premier League,1920,Tottenham,Harry Kane,ENG,FW,26.0,28.7,4,0,0,41,51,20,22,4,14,1,0,0,92,64,123,34.2
+ENG-Premier League,1920,Tottenham,Harry Winks,ENG,MF,23.0,24.7,9,0,0,29,23,0,15,27,23,0,0,0,233,15,9,62.5
+ENG-Premier League,1920,Tottenham,Hugo Lloris,FRA,GK,32.0,20.1,0,0,0,0,1,0,0,0,0,0,0,0,93,0,0,
+ENG-Premier League,1920,Tottenham,Jan Vertonghen,BEL,DF,32.0,18.3,2,0,0,11,14,0,10,22,21,0,1,0,196,59,25,70.2
+ENG-Premier League,1920,Tottenham,Japhet Tanganga,ENG,DF,20.0,5.8,1,0,0,10,5,0,2,9,15,0,0,0,50,19,10,65.5
+ENG-Premier League,1920,Tottenham,Juan Foyth,ARG,DF,21.0,0.8,1,0,0,3,0,0,0,3,4,0,0,0,11,1,0,100.0
+ENG-Premier League,1920,Tottenham,Kyle Walker-Peters,ENG,DF,22.0,2.7,0,0,0,1,7,1,4,2,3,0,0,0,27,2,4,33.3
+ENG-Premier League,1920,Tottenham,Lucas Moura,BRA,"FW,MF",26.0,24.9,3,0,0,36,78,5,27,14,33,0,0,0,199,57,83,40.7
+ENG-Premier League,1920,Tottenham,Moussa Sissoko,FRA,MF,29.0,27.2,8,0,0,48,21,2,21,22,35,0,1,0,285,31,27,53.4
+ENG-Premier League,1920,Tottenham,Oliver Skipp,ENG,"MF,DF",18.0,0.9,0,0,0,1,0,0,0,0,2,0,0,0,14,0,2,0.0
+ENG-Premier League,1920,Tottenham,Opponent Total,,,26.7,38.0,83,1,1,523,484,54,479,324,468,6,4,5,3696,643,631,50.5
+ENG-Premier League,1920,Tottenham,Paulo Gazzaniga,ARG,GK,27.0,17.9,1,0,0,1,3,0,0,0,0,0,1,0,80,0,0,
+ENG-Premier League,1920,Tottenham,Ryan Sessegnon,ENG,DF,19.0,3.8,0,0,0,4,2,2,12,4,0,0,1,0,28,6,5,54.5
+ENG-Premier League,1920,Tottenham,Serge Aurier,CIV,DF,26.0,30.0,4,1,1,42,25,6,98,29,55,0,2,1,320,67,67,50.0
+ENG-Premier League,1920,Tottenham,Son Heung-min,KOR,"FW,MF",27.0,27.5,0,2,0,19,33,17,29,13,21,1,0,0,183,8,34,19.0
+ENG-Premier League,1920,Tottenham,Squad Total,,,26.7,38.0,84,3,1,496,503,66,387,259,445,4,7,2,3566,631,643,49.5
+ENG-Premier League,1920,Tottenham,Steven Bergwijn,NED,"FW,MF",21.0,7.8,2,0,0,9,13,0,9,5,4,1,0,0,71,6,8,42.9
+ENG-Premier League,1920,Tottenham,Tanguy Ndombele,FRA,MF,22.0,11.2,3,0,0,19,36,0,7,9,19,0,0,0,109,5,7,41.7
+ENG-Premier League,1920,Tottenham,Toby Alderweireld,BEL,DF,30.0,32.9,7,0,0,20,5,1,8,11,24,0,0,1,322,76,54,58.5
+ENG-Premier League,1920,Tottenham,Troy Parrott,IRL,"MF,DF",17.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
+ENG-Premier League,1920,Tottenham,Victor Wanyama,KEN,MF,28.0,0.3,1,0,0,1,1,0,0,0,0,0,0,0,4,1,0,100.0
+ENG-Premier League,1920,Tottenham,Érik Lamela,ARG,"MF,FW",27.0,13.5,3,0,0,40,33,1,10,9,21,1,0,0,92,5,19,20.8
+ENG-Premier League,1920,Watford,Abdoulaye Doucouré,MLI,MF,26.0,35.1,9,0,0,64,22,6,27,24,49,0,1,1,440,53,53,50.0
+ENG-Premier League,1920,Watford,Adam Masina,MAR,DF,25.0,20.2,3,0,0,33,13,2,60,22,25,0,1,0,231,66,29,69.5
+ENG-Premier League,1920,Watford,Adrian Mariappa,JAM,DF,32.0,16.8,6,1,1,23,7,2,18,7,12,0,0,1,133,41,32,56.2
+ENG-Premier League,1920,Watford,Andre Gray,JAM,FW,28.0,8.4,1,0,0,10,3,6,8,0,5,0,0,0,38,14,33,29.8
+ENG-Premier League,1920,Watford,Ben Foster,ENG,GK,36.0,38.0,1,0,0,2,5,0,0,0,0,0,2,0,222,1,0,100.0
+ENG-Premier League,1920,Watford,Christian Kabasele,BEL,DF,28.0,25.0,3,2,1,25,17,0,0,24,24,0,0,0,199,60,44,57.7
+ENG-Premier League,1920,Watford,Craig Cathcart,NIR,DF,30.0,27.6,7,0,0,22,3,0,3,16,26,0,0,0,258,75,45,62.5
+ENG-Premier League,1920,Watford,Craig Dawson,ENG,DF,29.0,26.2,6,0,0,38,12,0,3,20,19,0,1,0,255,108,35,75.5
+ENG-Premier League,1920,Watford,Danny Welbeck,ENG,"FW,MF",28.0,9.1,0,0,0,8,11,2,2,2,9,1,0,0,36,23,23,50.0
+ENG-Premier League,1920,Watford,Daryl Janmaat,NED,DF,30.0,6.7,1,0,0,5,2,0,20,7,6,0,0,1,45,1,1,50.0
+ENG-Premier League,1920,Watford,Dimitri Foulquier,FRA,"DF,MF",26.0,0.7,0,0,0,0,1,0,0,1,1,0,0,0,4,0,2,0.0
+ENG-Premier League,1920,Watford,Domingos Quina,POR,MF,19.0,0.2,0,0,0,2,1,0,0,0,0,0,0,0,4,0,2,0.0
+ENG-Premier League,1920,Watford,Gerard Deulofeu,ESP,FW,25.0,23.3,3,0,0,29,29,18,59,26,21,1,0,0,164,3,15,16.7
+ENG-Premier League,1920,Watford,Ignacio Pussetto,ARG,"FW,DF",23.0,0.8,1,0,0,3,1,0,4,3,3,0,0,0,14,1,3,25.0
+ENG-Premier League,1920,Watford,Isaac Success,NGA,"FW,MF",23.0,0.8,1,0,0,2,2,0,1,1,0,0,0,0,5,1,7,12.5
+ENG-Premier League,1920,Watford,Ismaila Sarr,SEN,"FW,MF",21.0,22.5,1,0,0,30,53,12,92,17,18,2,0,0,144,18,50,26.5
+ENG-Premier League,1920,Watford,José Holebas,GRE,DF,35.0,11.4,5,0,0,16,4,0,32,5,12,0,1,0,89,35,18,66.0
+ENG-Premier League,1920,Watford,João Pedro,BRA,"FW,MF",17.0,0.3,0,0,0,1,1,0,3,0,0,0,0,0,3,2,3,40.0
+ENG-Premier League,1920,Watford,Kiko Femenía,ESP,DF,28.0,24.9,5,0,0,32,16,1,56,27,32,1,0,0,271,21,10,67.7
+ENG-Premier League,1920,Watford,Nathaniel Chalobah,ENG,MF,24.0,10.3,1,0,0,12,12,0,4,9,19,0,0,0,115,17,14,54.8
+ENG-Premier League,1920,Watford,Opponent Total,,,26.5,38.0,66,1,1,416,563,81,496,254,394,9,8,1,3822,794,803,49.7
+ENG-Premier League,1920,Watford,Roberto Pereyra,ARG,"FW,MF",28.0,18.3,4,0,0,24,34,6,16,11,10,1,0,0,140,6,28,17.6
+ENG-Premier League,1920,Watford,Sebastian Prödl,AUT,DF,32.0,0.6,0,0,0,1,0,0,0,0,0,0,0,0,5,4,1,80.0
+ENG-Premier League,1920,Watford,Squad Total,,,28.9,38.0,80,3,2,576,397,68,488,313,429,7,9,3,3696,803,794,50.3
+ENG-Premier League,1920,Watford,Tom Cleverley,ENG,MF,29.0,10.8,2,0,0,19,13,0,20,9,17,0,0,0,92,8,14,36.4
+ENG-Premier League,1920,Watford,Troy Deeney,ENG,FW,31.0,24.7,3,0,0,40,36,12,14,6,17,1,0,0,119,174,290,37.5
+ENG-Premier League,1920,Watford,Will Hughes,ENG,"MF,FW",24.0,25.0,9,0,0,64,48,1,32,33,49,0,2,0,269,25,28,47.2
+ENG-Premier League,1920,Watford,Étienne Capoue,FRA,MF,31.0,29.2,8,0,0,71,51,0,14,43,55,0,1,0,401,46,14,76.7
+ENG-Premier League,1920,West Ham,Aaron Cresswell,ENG,DF,29.0,30.3,7,0,0,23,22,2,70,15,29,0,0,0,295,51,34,60.0
+ENG-Premier League,1920,West Ham,Albian Ajeti,SUI,"MF,FW",22.0,1.5,0,0,0,6,0,2,0,1,0,0,0,0,4,1,9,10.0
+ENG-Premier League,1920,West Ham,Andriy Yarmolenko,UKR,"MF,FW",29.0,11.0,2,0,0,22,13,8,22,3,10,0,0,0,71,6,12,33.3
+ENG-Premier League,1920,West Ham,Angelo Ogbonna,ITA,DF,31.0,31.0,4,0,0,25,13,0,2,23,34,0,1,1,311,108,50,68.4
+ENG-Premier League,1920,West Ham,Arthur Masuaku,COD,DF,25.0,10.4,6,1,1,16,9,0,21,12,27,0,0,0,112,11,10,52.4
+ENG-Premier League,1920,West Ham,Ben Johnson,ENG,DF,19.0,3.0,0,0,0,8,1,0,6,4,4,0,0,0,25,9,4,69.2
+ENG-Premier League,1920,West Ham,Carlos Sánchez,COL,"MF,DF",33.0,1.3,0,0,0,2,0,0,0,2,1,0,0,0,22,3,1,75.0
+ENG-Premier League,1920,West Ham,Darren Randolph,IRL,GK,32.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,
+ENG-Premier League,1920,West Ham,David Martin,ENG,GK,33.0,4.8,1,0,0,0,1,0,0,0,0,0,0,0,20,0,0,
+ENG-Premier League,1920,West Ham,Declan Rice,ENG,MF,20.0,38.0,6,0,0,47,21,2,22,50,89,0,1,0,450,51,33,60.7
+ENG-Premier League,1920,West Ham,Fabián Balbuena,PAR,DF,27.0,13.1,2,0,0,7,2,0,1,15,11,0,0,0,142,46,28,62.2
+ENG-Premier League,1920,West Ham,Felipe Anderson,BRA,"MF,FW",26.0,16.6,1,0,0,20,29,2,32,14,30,0,0,0,135,4,24,14.3
+ENG-Premier League,1920,West Ham,Issa Diop,FRA,DF,22.0,30.7,8,0,0,37,12,1,1,32,16,0,3,0,306,84,39,68.3
+ENG-Premier League,1920,West Ham,Jack Wilshere,ENG,MF,27.0,2.4,0,0,0,1,9,0,0,0,0,0,0,0,19,6,0,100.0
+ENG-Premier League,1920,West Ham,Jarrod Bowen,ENG,FW,22.0,10.2,0,0,0,4,23,1,31,16,13,0,0,0,68,4,23,14.8
+ENG-Premier League,1920,West Ham,Javier Hernández,MEX,FW,31.0,1.2,0,0,0,1,0,1,1,1,0,0,0,0,5,0,1,0.0
+ENG-Premier League,1920,West Ham,Jeremy Ngakia,ENG,DF,18.0,4.9,0,0,0,4,1,1,9,2,12,0,0,0,38,8,11,42.1
+ENG-Premier League,1920,West Ham,Manuel Lanzini,ARG,"MF,FW",26.0,15.3,1,0,0,8,29,4,14,9,9,1,0,0,126,6,14,30.0
+ENG-Premier League,1920,West Ham,Mark Noble,ENG,MF,32.0,29.7,5,0,0,41,37,1,21,19,36,1,0,0,299,11,18,37.9
+ENG-Premier League,1920,West Ham,Michail Antonio,JAM,FW,29.0,19.6,3,0,0,41,41,12,52,8,10,0,0,0,95,76,115,39.8
+ENG-Premier League,1920,West Ham,Nathan Holland,ENG,MF,21.0,0.4,0,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0.0
+ENG-Premier League,1920,West Ham,Opponent Total,,,26.6,38.0,45,0,0,425,445,99,516,255,387,5,4,0,3721,781,808,49.2
+ENG-Premier League,1920,West Ham,Pablo Fornals,ESP,"MF,FW",23.0,24.1,3,0,0,20,22,7,37,15,29,0,0,0,187,9,49,15.5
+ENG-Premier League,1920,West Ham,Pablo Zabaleta,ARG,DF,34.0,6.6,2,0,0,8,9,0,12,8,10,0,0,0,62,8,9,47.1
+ENG-Premier League,1920,West Ham,Robert Snodgrass,SCO,"MF,FW",31.0,16.8,4,0,0,28,37,4,52,1,10,0,0,0,129,16,24,40.0
+ENG-Premier League,1920,West Ham,Roberto,ESP,GK,33.0,7.6,0,0,0,0,1,0,0,0,0,0,0,1,51,0,0,
+ENG-Premier League,1920,West Ham,Ryan Fredericks,ENG,DF,26.0,24.9,7,0,0,28,22,0,53,20,48,0,0,0,200,28,39,41.8
+ENG-Premier League,1920,West Ham,Squad Total,,,27.4,38.0,64,1,1,465,415,66,470,291,470,3,6,3,3536,808,781,50.8
+ENG-Premier League,1920,West Ham,Sébastien Haller,CIV,FW,25.0,25.2,1,0,0,53,49,18,8,6,17,1,0,0,121,200,195,50.6
+ENG-Premier League,1920,West Ham,Tomáš Souček,CZE,MF,24.0,11.6,0,0,0,14,9,0,1,15,25,0,0,1,117,62,38,62.0
+ENG-Premier League,1920,West Ham,Łukasz Fabiański,POL,GK,34.0,23.5,1,0,0,1,2,0,0,0,0,0,1,0,120,0,0,
+ENG-Premier League,1920,Wolves,Adama Traoré,ESP,"FW,MF",23.0,28.9,1,0,0,48,101,5,148,8,23,0,0,0,171,48,51,48.5
+ENG-Premier League,1920,Wolves,Bruno Jordão,POR,FW,20.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+ENG-Premier League,1920,Wolves,Conor Coady,ENG,DF,26.0,38.0,5,0,0,20,6,0,0,24,22,0,1,0,387,42,24,63.6
+ENG-Premier League,1920,Wolves,Daniel Podence,POR,"FW,MF",23.0,3.2,0,0,0,6,9,3,5,0,2,1,0,0,19,0,7,0.0
+ENG-Premier League,1920,Wolves,Diogo Jota,POR,"FW,MF",22.0,25.4,4,0,0,47,74,3,36,6,21,0,0,0,178,27,48,36.0
+ENG-Premier League,1920,Wolves,Jesús Vallejo,ESP,DF,22.0,1.8,1,0,0,2,1,0,0,0,3,0,0,0,18,4,4,50.0
+ENG-Premier League,1920,Wolves,Jonny Castro,ESP,DF,25.0,32.1,4,0,0,38,34,2,43,36,61,0,0,0,237,37,54,40.7
+ENG-Premier League,1920,Wolves,João Moutinho,POR,MF,32.0,34.5,7,0,0,50,33,3,80,28,54,0,0,0,355,18,29,38.3
+ENG-Premier League,1920,Wolves,Leander Dendoncker,BEL,"MF,DF",24.0,31.1,5,0,0,34,13,0,7,23,40,0,1,1,302,90,70,56.3
+ENG-Premier League,1920,Wolves,Matt Doherty,IRL,DF,27.0,31.5,1,0,0,31,22,3,38,19,33,1,1,0,255,107,92,53.8
+ENG-Premier League,1920,Wolves,Max Kilman,ENG,DF,22.0,2.1,0,0,0,2,0,0,0,3,3,0,0,0,14,11,10,52.4
+ENG-Premier League,1920,Wolves,Morgan Gibbs-White,ENG,"MF,FW",19.0,1.4,0,0,0,1,4,0,2,0,1,0,0,0,13,3,3,50.0
+ENG-Premier League,1920,Wolves,Opponent Total,,,26.5,38.0,85,5,2,466,446,41,451,265,430,2,4,2,3584,701,719,49.4
+ENG-Premier League,1920,Wolves,Patrick Cutrone,ITA,FW,21.0,3.3,0,0,0,5,10,4,6,0,4,0,0,0,25,5,21,19.2
+ENG-Premier League,1920,Wolves,Pedro Neto,POR,"FW,MF",19.0,10.4,3,0,0,18,20,4,35,5,5,0,0,0,82,8,31,20.5
+ENG-Premier League,1920,Wolves,Raúl Jiménez,MEX,FW,28.0,36.0,3,0,0,41,44,19,30,16,23,2,0,0,166,76,115,39.8
+ENG-Premier League,1920,Wolves,Romain Saïss,MAR,DF,29.0,30.1,12,1,1,46,24,2,7,27,30,0,0,0,358,117,65,64.3
+ENG-Premier League,1920,Wolves,Rui Patrício,POR,GK,31.0,38.0,0,0,0,0,7,0,0,0,0,0,0,0,172,0,0,
+ENG-Premier League,1920,Wolves,Ryan Bennett,ENG,DF,29.0,6.7,2,0,0,6,2,0,3,6,3,0,0,0,66,22,11,66.7
+ENG-Premier League,1920,Wolves,Rúben Neves,POR,MF,22.0,34.0,9,0,0,41,19,0,16,31,42,0,0,0,470,25,28,47.2
+ENG-Premier League,1920,Wolves,Rúben Vinagre,POR,DF,20.0,7.2,1,0,0,9,12,0,20,10,13,0,0,0,61,6,11,35.3
+ENG-Premier League,1920,Wolves,Squad Total,,,26.6,38.0,61,2,2,473,445,49,476,263,423,4,3,1,3569,719,701,50.6
+ENG-Premier League,1920,Wolves,Willy Boly,CIV,DF,28.0,22.0,3,1,1,28,10,1,0,21,40,0,0,0,218,73,27,73.0

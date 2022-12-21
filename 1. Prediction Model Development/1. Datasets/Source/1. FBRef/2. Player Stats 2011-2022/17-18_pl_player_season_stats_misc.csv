@@ -1,0 +1,572 @@
+,,,,Nation,Pos,Age,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+league,season,team,player,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1718,Arsenal,Aaron Ramsey,WAL,MF,26.0,20.5,0.0,0.0,0.0,38,37.0,0.0,13.0,25.0,25.0,2.0,0.0,0.0,179.0,14.0,28.0,33.3
+ENG-Premier League,1718,Arsenal,Ainsley Maitland-Niles,ENG,"DF,MF",19.0,10.2,1.0,0.0,0.0,10,6.0,0.0,16.0,21.0,21.0,0.0,1.0,0.0,85.0,6.0,17.0,26.1
+ENG-Premier League,1718,Arsenal,Alex Iwobi,NGA,"FW,MF",21.0,20.3,1.0,0.0,0.0,11,17.0,1.0,29.0,12.0,21.0,0.0,0.0,0.0,149.0,7.0,21.0,25.0
+ENG-Premier League,1718,Arsenal,Alex Oxlade-Chamberlain,ENG,DF,23.0,2.7,0.0,0.0,0.0,1,3.0,1.0,13.0,10.0,2.0,0.0,0.0,0.0,26.0,3.0,5.0,37.5
+ENG-Premier League,1718,Arsenal,Alexandre Lacazette,FRA,FW,26.0,24.5,1.0,0.0,0.0,38,34.0,24.0,25.0,10.0,23.0,1.0,0.0,0.0,118.0,26.0,83.0,23.9
+ENG-Premier League,1718,Arsenal,Alexis Sánchez,CHI,"FW,MF",28.0,16.7,4.0,0.0,0.0,27,51.0,16.0,49.0,7.0,12.0,0.0,0.0,0.0,113.0,10.0,45.0,18.2
+ENG-Premier League,1718,Arsenal,Calum Chambers,ENG,DF,22.0,9.6,1.0,0.0,0.0,10,3.0,0.0,3.0,24.0,11.0,0.0,1.0,0.0,117.0,38.0,28.0,57.6
+ENG-Premier League,1718,Arsenal,Danny Welbeck,ENG,"FW,MF",26.0,13.3,1.0,0.0,0.0,13,25.0,4.0,4.0,12.0,10.0,0.0,0.0,0.0,55.0,25.0,39.0,39.1
+ENG-Premier League,1718,Arsenal,David Ospina,COL,GK,28.0,4.2,0.0,0.0,0.0,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,
+ENG-Premier League,1718,Arsenal,Eddie Nketiah,ENG,"FW,MF",18.0,0.2,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,100.0
+ENG-Premier League,1718,Arsenal,Francis Coquelin,FRA,"MF,DF",26.0,1.9,0.0,0.0,0.0,2,1.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,16.0,3.0,2.0,60.0
+ENG-Premier League,1718,Arsenal,Granit Xhaka,SUI,MF,24.0,36.2,10.0,0.0,0.0,78,56.0,0.0,22.0,33.0,53.0,0.0,0.0,0.0,446.0,54.0,57.0,48.6
+ENG-Premier League,1718,Arsenal,Henrikh Mkhitaryan,ARM,"FW,MF",28.0,8.8,0.0,0.0,0.0,12,23.0,2.0,26.0,6.0,8.0,1.0,1.0,0.0,71.0,9.0,13.0,40.9
+ENG-Premier League,1718,Arsenal,Héctor Bellerín,ESP,DF,22.0,33.9,5.0,0.0,0.0,42,11.0,4.0,69.0,34.0,42.0,0.0,2.0,0.0,315.0,46.0,56.0,45.1
+ENG-Premier League,1718,Arsenal,Jack Wilshere,ENG,MF,25.0,13.3,6.0,0.0,0.0,17,51.0,1.0,2.0,14.0,16.0,0.0,0.0,0.0,129.0,13.0,9.0,59.1
+ENG-Premier League,1718,Arsenal,Joe Willock,ENG,"MF,FW",17.0,0.9,0.0,0.0,0.0,3,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0
+ENG-Premier League,1718,Arsenal,Konstantinos Mavropanos,GRE,"DF,FW",19.0,2.2,0.0,1.0,0.0,1,3.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,18.0,6.0,6.0,50.0
+ENG-Premier League,1718,Arsenal,Laurent Koscielny,FRA,DF,31.0,24.7,4.0,0.0,0.0,18,29.0,2.0,6.0,56.0,30.0,0.0,0.0,0.0,301.0,96.0,62.0,60.8
+ENG-Premier League,1718,Arsenal,Mesut Özil,GER,"MF,FW",28.0,24.0,4.0,0.0,0.0,22,26.0,12.0,42.0,14.0,17.0,1.0,0.0,0.0,145.0,0.0,17.0,0.0
+ENG-Premier League,1718,Arsenal,Mohamed Elneny,EGY,MF,25.0,9.6,3.0,1.0,0.0,6,7.0,1.0,3.0,11.0,6.0,0.0,0.0,0.0,104.0,10.0,9.0,52.6
+ENG-Premier League,1718,Arsenal,Nacho Monreal,ESP,DF,31.0,24.9,3.0,0.0,0.0,26,17.0,2.0,22.0,65.0,23.0,0.0,1.0,0.0,277.0,71.0,68.0,51.1
+ENG-Premier League,1718,Arsenal,Olivier Giroud,FRA,FW,30.0,4.3,0.0,0.0,0.0,8,3.0,2.0,4.0,1.0,4.0,0.0,0.0,0.0,12.0,24.0,25.0,49.0
+ENG-Premier League,1718,Arsenal,Opponent Total,,,27.0,38.0,52.0,4.0,1.0,471,440.0,78.0,458.0,766.0,387.0,5.0,5.0,1.0,3216.0,764.0,722.0,51.4
+ENG-Premier League,1718,Arsenal,Per Mertesacker,GER,DF,32.0,4.1,0.0,0.0,0.0,2,4.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,65.0,28.0,10.0,73.7
+ENG-Premier League,1718,Arsenal,Petr Čech,CZE,GK,35.0,33.8,1.0,0.0,0.0,0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,0.0,0.0,
+ENG-Premier League,1718,Arsenal,Pierre-Emerick Aubameyang,GAB,FW,28.0,11.7,0.0,0.0,0.0,2,7.0,10.0,21.0,6.0,7.0,0.0,0.0,0.0,47.0,8.0,28.0,22.2
+ENG-Premier League,1718,Arsenal,Reiss Nelson,ENG,"FW,MF",17.0,1.6,0.0,0.0,0.0,0,3.0,0.0,1.0,5.0,3.0,0.0,0.0,0.0,10.0,1.0,0.0,100.0
+ENG-Premier League,1718,Arsenal,Rob Holding,ENG,DF,21.0,9.1,3.0,0.0,0.0,10,6.0,0.0,0.0,22.0,11.0,0.0,0.0,0.0,100.0,29.0,24.0,54.7
+ENG-Premier League,1718,Arsenal,Sead Kolašinac,BIH,DF,24.0,23.9,3.0,0.0,0.0,34,10.0,1.0,37.0,24.0,40.0,0.0,0.0,0.0,211.0,55.0,34.0,61.8
+ENG-Premier League,1718,Arsenal,Shkodran Mustafi,GER,DF,25.0,25.3,6.0,0.0,0.0,30,15.0,2.0,10.0,55.0,40.0,0.0,0.0,0.0,303.0,139.0,72.0,65.9
+ENG-Premier League,1718,Arsenal,Squad Total,,,26.8,38.0,,,0.0,463,458.0,90.0,419.0,484.0,436.0,5.0,6.0,0.0,3647.0,722.0,764.0,48.6
+ENG-Premier League,1718,Arsenal,Theo Walcott,ENG,"FW,MF",28.0,0.8,0.0,0.0,0.0,1,1.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0
+ENG-Premier League,1718,Bournemouth,Adam Smith,ENG,"DF,MF",26.0,23.0,6.0,0.0,0.0,24,40.0,1.0,33.0,46.0,35.0,0.0,0.0,0.0,205.0,19.0,35.0,35.2
+ENG-Premier League,1718,Bournemouth,Andrew Surman,ENG,MF,30.0,20.6,2.0,0.0,0.0,16,15.0,1.0,9.0,26.0,12.0,0.0,0.0,0.0,253.0,36.0,51.0,41.4
+ENG-Premier League,1718,Bournemouth,Asmir Begović,BIH,GK,30.0,38.0,2.0,0.0,0.0,2,7.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,214.0,1.0,0.0,100.0
+ENG-Premier League,1718,Bournemouth,Benik Afobe,COD,"FW,MF",24.0,6.8,0.0,0.0,0.0,10,15.0,4.0,0.0,2.0,3.0,1.0,0.0,0.0,25.0,24.0,48.0,33.3
+ENG-Premier League,1718,Bournemouth,Callum Wilson,ENG,FW,25.0,22.0,0.0,0.0,0.0,38,43.0,21.0,13.0,5.0,10.0,0.0,0.0,0.0,105.0,35.0,115.0,23.3
+ENG-Premier League,1718,Bournemouth,Charlie Daniels,ENG,DF,30.0,33.4,0.0,0.0,0.0,8,24.0,0.0,82.0,47.0,25.0,0.0,1.0,0.0,329.0,56.0,51.0,52.3
+ENG-Premier League,1718,Bournemouth,Dan Gosling,ENG,MF,27.0,21.6,8.0,0.0,0.0,48,32.0,2.0,5.0,31.0,33.0,0.0,1.0,0.0,309.0,65.0,56.0,53.7
+ENG-Premier League,1718,Bournemouth,Emerson Hyndman,USA,MF,21.0,0.6,0.0,0.0,0.0,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,
+ENG-Premier League,1718,Bournemouth,Harry Arter,IRL,MF,27.0,10.7,4.0,0.0,0.0,13,17.0,0.0,4.0,13.0,14.0,0.0,0.0,0.0,101.0,5.0,5.0,50.0
+ENG-Premier League,1718,Bournemouth,Jack Simpson,ENG,DF,20.0,0.8,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+ENG-Premier League,1718,Bournemouth,Jermain Defoe,ENG,"FW,MF",34.0,12.1,1.0,0.0,0.0,13,11.0,9.0,5.0,3.0,10.0,0.0,0.0,0.0,25.0,6.0,31.0,16.2
+ENG-Premier League,1718,Bournemouth,Jordon Ibe,ENG,"MF,FW",21.0,22.2,1.0,0.0,0.0,9,50.0,2.0,47.0,16.0,10.0,0.0,0.0,0.0,141.0,8.0,19.0,29.6
+ENG-Premier League,1718,Bournemouth,Joshua King,NOR,"MF,FW",25.0,27.3,3.0,0.0,0.0,43,61.0,4.0,42.0,8.0,22.0,1.0,0.0,0.0,173.0,63.0,95.0,39.9
+ENG-Premier League,1718,Bournemouth,Junior Stanislas,ENG,"MF,FW",27.0,14.3,1.0,0.0,0.0,8,4.0,1.0,21.0,12.0,8.0,0.0,0.0,0.0,111.0,7.0,28.0,20.0
+ENG-Premier League,1718,Bournemouth,Lewis Cook,ENG,MF,20.0,24.9,5.0,0.0,0.0,42,25.0,1.0,14.0,45.0,47.0,0.0,0.0,0.0,299.0,17.0,31.0,35.4
+ENG-Premier League,1718,Bournemouth,Lys Mousset,FRA,"MF,FW",21.0,6.6,1.0,0.0,0.0,11,12.0,0.0,9.0,3.0,4.0,0.0,0.0,0.0,49.0,6.0,32.0,15.8
+ENG-Premier League,1718,Bournemouth,Marc Pugh,ENG,"MF,FW",30.0,10.9,2.0,0.0,0.0,7,14.0,2.0,27.0,18.0,6.0,0.0,0.0,0.0,100.0,9.0,19.0,32.1
+ENG-Premier League,1718,Bournemouth,Nathan Aké,NED,DF,22.0,37.3,5.0,0.0,0.0,30,22.0,2.0,5.0,58.0,31.0,0.0,0.0,0.0,356.0,129.0,99.0,56.6
+ENG-Premier League,1718,Bournemouth,Opponent Total,,,26.9,38.0,73.0,1.0,1.0,509,376.0,126.0,528.0,602.0,484.0,3.0,3.0,0.0,3850.0,902.0,816.0,52.5
+ENG-Premier League,1718,Bournemouth,Ryan Fraser,SCO,"MF,DF",23.0,22.3,0.0,0.0,0.0,9,53.0,1.0,75.0,14.0,4.0,0.0,0.0,0.0,163.0,14.0,31.0,31.1
+ENG-Premier League,1718,Bournemouth,Simon Francis,ENG,DF,32.0,30.1,9.0,2.0,1.0,30,16.0,1.0,62.0,56.0,35.0,0.0,0.0,0.0,335.0,165.0,78.0,67.9
+ENG-Premier League,1718,Bournemouth,Squad Total,,,26.9,38.0,,,1.0,392,481.0,53.0,464.0,466.0,331.0,2.0,3.0,1.0,3645.0,816.0,902.0,47.5
+ENG-Premier League,1718,Bournemouth,Steve Cook,ENG,DF,26.0,30.7,5.0,0.0,0.0,28,19.0,1.0,10.0,58.0,20.0,0.0,0.0,1.0,316.0,148.0,74.0,66.7
+ENG-Premier League,1718,Bournemouth,Tyrone Mings,ENG,DF,24.0,2.2,1.0,0.0,0.0,2,1.0,0.0,1.0,3.0,2.0,0.0,0.0,0.0,28.0,3.0,3.0,50.0
+ENG-Premier League,1718,Brighton,Anthony Knockaert,FRA,"MF,FW",25.0,26.9,4.0,1.0,0.0,22,30.0,8.0,56.0,36.0,33.0,0.0,0.0,0.0,200.0,17.0,23.0,42.5
+ENG-Premier League,1718,Brighton,Beram Kayal,ISR,MF,29.0,8.3,2.0,0.0,0.0,21,19.0,1.0,4.0,15.0,24.0,0.0,0.0,0.0,75.0,10.0,12.0,45.5
+ENG-Premier League,1718,Brighton,Bruno,ESP,DF,36.0,22.4,3.0,0.0,0.0,21,11.0,0.0,36.0,40.0,21.0,0.0,1.0,0.0,182.0,34.0,24.0,58.6
+ENG-Premier League,1718,Brighton,Connor Goldson,ENG,DF,24.0,2.2,1.0,0.0,0.0,2,2.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,27.0,13.0,4.0,76.5
+ENG-Premier League,1718,Brighton,Dale Stephens,ENG,MF,28.0,36.0,6.0,0.0,0.0,71,20.0,0.0,4.0,90.0,69.0,0.0,1.0,0.0,386.0,33.0,30.0,52.4
+ENG-Premier League,1718,Brighton,Davy Pröpper,NED,MF,25.0,34.7,2.0,1.0,0.0,53,17.0,2.0,13.0,73.0,49.0,0.0,0.0,0.0,408.0,59.0,39.0,60.2
+ENG-Premier League,1718,Brighton,Ezequiel Schelotto,ITA,DF,28.0,14.6,3.0,0.0,0.0,11,10.0,0.0,29.0,21.0,12.0,0.0,0.0,0.0,109.0,32.0,19.0,62.7
+ENG-Premier League,1718,Brighton,Gaëtan Bong,CMR,DF,29.0,24.8,2.0,0.0,0.0,17,13.0,0.0,33.0,41.0,31.0,0.0,0.0,1.0,203.0,34.0,33.0,50.7
+ENG-Premier League,1718,Brighton,Glenn Murray,ENG,FW,33.0,24.4,9.0,0.0,0.0,73,53.0,36.0,9.0,9.0,13.0,3.0,0.0,0.0,103.0,150.0,180.0,45.5
+ENG-Premier League,1718,Brighton,Izzy Brown,ENG,"MF,FW",20.0,3.5,0.0,0.0,0.0,3,3.0,1.0,6.0,1.0,4.0,0.0,0.0,0.0,23.0,13.0,22.0,37.1
+ENG-Premier League,1718,Brighton,Jamie Murphy,SCO,MF,27.0,1.9,0.0,0.0,0.0,1,5.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,12.0,0.0,1.0,0.0
+ENG-Premier League,1718,Brighton,José Izquierdo,COL,MF,25.0,22.0,2.0,0.0,0.0,20,15.0,14.0,25.0,20.0,17.0,2.0,0.0,0.0,153.0,22.0,43.0,33.8
+ENG-Premier League,1718,Brighton,Jürgen Locadia,NED,"FW,MF",23.0,2.5,0.0,0.0,0.0,4,5.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,12.0,1.0,15.0,6.3
+ENG-Premier League,1718,Brighton,Leonardo Ulloa,ARG,FW,31.0,3.0,0.0,0.0,0.0,10,3.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,21.0,33.0,42.0,44.0
+ENG-Premier League,1718,Brighton,Lewis Dunk,ENG,DF,25.0,38.0,7.0,0.0,0.0,40,16.0,1.0,7.0,95.0,46.0,0.0,0.0,4.0,408.0,139.0,73.0,65.6
+ENG-Premier League,1718,Brighton,Liam Rosenior,ENG,DF,33.0,1.8,0.0,0.0,0.0,1,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,10.0,1.0,2.0,33.3
+ENG-Premier League,1718,Brighton,Markus Suttner,AUT,DF,30.0,13.1,0.0,0.0,0.0,5,1.0,0.0,31.0,13.0,17.0,0.0,0.0,0.0,99.0,17.0,16.0,51.5
+ENG-Premier League,1718,Brighton,Mathew Ryan,AUS,GK,25.0,38.0,0.0,0.0,0.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,177.0,0.0,0.0,
+ENG-Premier League,1718,Brighton,Opponent Total,,,27.0,38.0,30.0,2.0,1.0,328,493.0,52.0,504.0,504.0,344.0,3.0,7.0,1.0,3493.0,888.0,962.0,48.0
+ENG-Premier League,1718,Brighton,Pascal Groß,GER,"MF,FW",26.0,32.5,2.0,0.0,0.0,46,24.0,10.0,93.0,19.0,37.0,0.0,0.0,0.0,227.0,18.0,95.0,15.9
+ENG-Premier League,1718,Brighton,Sam Baldock,ENG,MF,28.0,0.4,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+ENG-Premier League,1718,Brighton,Shane Duffy,IRL,DF,25.0,36.6,8.0,0.0,0.0,37,24.0,7.0,5.0,55.0,24.0,1.0,1.0,0.0,340.0,231.0,80.0,74.3
+ENG-Premier League,1718,Brighton,Solly March,ENG,"MF,FW",23.0,20.6,3.0,0.0,0.0,36,25.0,7.0,75.0,20.0,34.0,1.0,0.0,0.0,182.0,25.0,46.0,35.2
+ENG-Premier League,1718,Brighton,Squad Total,,,27.5,38.0,,,0.0,506,312.0,101.0,434.0,556.0,447.0,7.0,3.0,5.0,3400.0,962.0,888.0,52.0
+ENG-Premier League,1718,Brighton,Tomer Hemed,ISR,FW,30.0,9.4,0.0,0.0,0.0,12,13.0,7.0,4.0,3.0,5.0,0.0,0.0,0.0,41.0,78.0,89.0,46.7
+ENG-Premier League,1718,Brighton,Uwe Hünemeier,GER,DF,31.0,0.2,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,100.0
+ENG-Premier League,1718,Burnley,Aaron Lennon,ENG,MF,30.0,12.4,2.0,0.0,0.0,14,14.0,1.0,19.0,13.0,10.0,0.0,0.0,0.0,80.0,7.0,15.0,31.8
+ENG-Premier League,1718,Burnley,Aiden O'Neill,AUS,MF,19.0,0.0,0.0,0.0,,0,,,,,,,,,,,,
+ENG-Premier League,1718,Burnley,Ashley Barnes,ENG,"FW,MF",27.0,24.1,10.0,0.0,0.0,59,83.0,26.0,13.0,10.0,20.0,0.0,0.0,0.0,121.0,97.0,261.0,27.1
+ENG-Premier League,1718,Burnley,Ashley Westwood,ENG,MF,27.0,12.3,2.0,0.0,0.0,16,12.0,0.0,7.0,24.0,5.0,0.0,0.0,0.0,174.0,9.0,14.0,39.1
+ENG-Premier League,1718,Burnley,Ben Mee,ENG,DF,27.0,29.0,5.0,0.0,0.0,17,27.0,3.0,5.0,38.0,23.0,0.0,0.0,0.0,283.0,147.0,86.0,63.1
+ENG-Premier League,1718,Burnley,Charlie Taylor,ENG,DF,23.0,10.6,3.0,0.0,0.0,6,13.0,0.0,20.0,21.0,8.0,0.0,0.0,0.0,104.0,26.0,11.0,70.3
+ENG-Premier League,1718,Burnley,Chris Wood,NZL,FW,25.0,18.0,1.0,0.0,0.0,24,18.0,26.0,7.0,4.0,0.0,0.0,0.0,0.0,78.0,99.0,161.0,38.1
+ENG-Premier League,1718,Burnley,Georges-Kévin N'Koudou,FRA,MF,22.0,2.5,1.0,0.0,0.0,5,9.0,0.0,8.0,2.0,6.0,0.0,0.0,0.0,29.0,2.0,1.0,66.7
+ENG-Premier League,1718,Burnley,Jack Cork,ENG,MF,28.0,38.0,7.0,0.0,0.0,35,60.0,2.0,11.0,51.0,40.0,0.0,0.0,0.0,487.0,74.0,90.0,45.1
+ENG-Premier League,1718,Burnley,James Tarkowski,ENG,DF,24.0,31.0,5.0,0.0,0.0,26,24.0,4.0,2.0,69.0,38.0,0.0,2.0,0.0,266.0,180.0,78.0,69.8
+ENG-Premier League,1718,Burnley,Jeff Hendrick,IRL,MF,25.0,25.9,1.0,0.0,0.0,26,19.0,16.0,23.0,13.0,12.0,0.0,0.0,0.0,188.0,21.0,68.0,23.6
+ENG-Premier League,1718,Burnley,Jonathan Walters,IRL,"MF,FW",33.0,0.4,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,3.0,57.1
+ENG-Premier League,1718,Burnley,Jóhann Berg Guðmundsson,ISL,MF,26.0,31.5,2.0,0.0,0.0,20,45.0,2.0,111.0,43.0,20.0,0.0,0.0,0.0,233.0,40.0,66.0,37.7
+ENG-Premier League,1718,Burnley,Kevin Long,IRL,DF,26.0,16.0,1.0,0.0,0.0,15,25.0,2.0,2.0,25.0,19.0,0.0,1.0,1.0,149.0,93.0,60.0,60.8
+ENG-Premier League,1718,Burnley,Matthew Lowton,ENG,DF,28.0,25.5,1.0,0.0,0.0,26,21.0,1.0,50.0,46.0,32.0,0.0,0.0,0.0,199.0,38.0,34.0,52.8
+ENG-Premier League,1718,Burnley,Nahki Wells,BER,"FW,MF",27.0,0.6,0.0,0.0,0.0,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,8.0,1.0,6.0,14.3
+ENG-Premier League,1718,Burnley,Nick Pope,ENG,GK,25.0,34.6,3.0,0.0,0.0,1,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,193.0,0.0,0.0,
+ENG-Premier League,1718,Burnley,Opponent Total,,,27.0,38.0,45.0,6.0,2.0,491,401.0,55.0,551.0,398.0,336.0,5.0,0.0,1.0,3935.0,1193.0,1101.0,52.0
+ENG-Premier League,1718,Burnley,Phil Bardsley,SCO,DF,32.0,12.5,5.0,0.0,0.0,24,21.0,0.0,20.0,24.0,22.0,0.0,1.0,0.0,142.0,27.0,34.0,44.3
+ENG-Premier League,1718,Burnley,Robbie Brady,IRL,MF,25.0,14.2,3.0,0.0,0.0,24,13.0,3.0,42.0,21.0,24.0,0.0,0.0,0.0,93.0,14.0,17.0,45.2
+ENG-Premier League,1718,Burnley,Sam Vokes,WAL,"FW,MF",27.0,11.1,3.0,0.0,0.0,18,17.0,13.0,1.0,3.0,0.0,0.0,0.0,0.0,39.0,140.0,105.0,57.1
+ENG-Premier League,1718,Burnley,Scott Arfield,CAN,MF,28.0,14.8,3.0,0.0,0.0,26,18.0,2.0,7.0,16.0,23.0,0.0,0.0,0.0,124.0,13.0,40.0,24.5
+ENG-Premier League,1718,Burnley,Squad Total,,,27.5,38.0,,,0.0,420,478.0,104.0,431.0,529.0,351.0,0.0,5.0,1.0,3481.0,1101.0,1193.0,48.0
+ENG-Premier League,1718,Burnley,Stephen Ward,IRL,DF,31.0,27.3,1.0,0.0,0.0,13,28.0,3.0,52.0,55.0,22.0,0.0,0.0,0.0,204.0,61.0,27.0,69.3
+ENG-Premier League,1718,Burnley,Steven Defour,BEL,MF,29.0,22.2,6.0,0.0,0.0,22,8.0,0.0,30.0,49.0,27.0,0.0,0.0,0.0,264.0,8.0,16.0,33.3
+ENG-Premier League,1718,Burnley,Tom Heaton,ENG,GK,31.0,3.4,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,
+ENG-Premier League,1718,Chelsea,Andreas Christensen,DEN,DF,21.0,23.2,0.0,0.0,0.0,9,14.0,2.0,0.0,40.0,10.0,0.0,0.0,0.0,232.0,77.0,27.0,74.0
+ENG-Premier League,1718,Chelsea,Antonio Rüdiger,GER,DF,24.0,26.0,4.0,0.0,0.0,28,12.0,2.0,8.0,29.0,31.0,0.0,0.0,0.0,283.0,74.0,50.0,59.7
+ENG-Premier League,1718,Chelsea,Callum Hudson-Odoi,ENG,FW,16.0,0.3,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Chelsea,Cesc Fàbregas,ESP,MF,30.0,25.6,5.0,2.0,1.0,28,31.0,5.0,59.0,27.0,49.0,0.0,0.0,0.0,271.0,21.0,25.0,45.7
+ENG-Premier League,1718,Chelsea,Charly Musonda Jr.,BEL,FW,20.0,0.4,0.0,0.0,0.0,3,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,100.0
+ENG-Premier League,1718,Chelsea,César Azpilicueta,ESP,DF,27.0,37.0,1.0,0.0,0.0,29,19.0,1.0,51.0,71.0,51.0,0.0,0.0,1.0,463.0,96.0,52.0,64.9
+ENG-Premier League,1718,Chelsea,Danny Drinkwater,ENG,MF,27.0,5.9,0.0,0.0,0.0,13,4.0,0.0,5.0,10.0,10.0,0.0,0.0,0.0,54.0,4.0,2.0,66.7
+ENG-Premier League,1718,Chelsea,David Luiz,BRA,"DF,MF",30.0,9.3,4.0,1.0,0.0,11,13.0,0.0,0.0,25.0,11.0,0.0,0.0,0.0,86.0,17.0,20.0,45.9
+ENG-Premier League,1718,Chelsea,Davide Zappacosta,ITA,DF,25.0,12.2,0.0,0.0,0.0,9,10.0,5.0,58.0,12.0,13.0,0.0,0.0,0.0,98.0,14.0,6.0,70.0
+ENG-Premier League,1718,Chelsea,Eden Hazard,BEL,"FW,MF",26.0,26.9,2.0,0.0,0.0,14,100.0,16.0,56.0,10.0,5.0,1.0,0.0,0.0,161.0,10.0,29.0,25.6
+ENG-Premier League,1718,Chelsea,Emerson Palmieri,ITA,DF,22.0,3.1,0.0,0.0,0.0,3,6.0,0.0,13.0,3.0,4.0,0.0,0.0,0.0,17.0,4.0,2.0,66.7
+ENG-Premier League,1718,Chelsea,Ethan Ampadu,WAL,DF,16.0,0.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,33.3
+ENG-Premier League,1718,Chelsea,Gary Cahill,ENG,DF,31.0,23.2,1.0,1.0,0.0,20,18.0,0.0,0.0,29.0,10.0,0.0,0.0,0.0,251.0,108.0,31.0,77.7
+ENG-Premier League,1718,Chelsea,Jeremie Boga,CIV,FW,20.0,0.2,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Chelsea,Marcos Alonso,ESP,DF,26.0,31.7,6.0,0.0,0.0,31,35.0,8.0,83.0,61.0,32.0,0.0,0.0,0.0,257.0,67.0,62.0,51.9
+ENG-Premier League,1718,Chelsea,Michy Batshuayi,BEL,FW,23.0,4.0,0.0,0.0,0.0,5,5.0,6.0,0.0,1.0,4.0,0.0,0.0,1.0,17.0,8.0,17.0,32.0
+ENG-Premier League,1718,Chelsea,N'Golo Kanté,FRA,MF,26.0,33.3,3.0,0.0,0.0,49,25.0,1.0,9.0,91.0,85.0,0.0,0.0,0.0,407.0,26.0,36.0,41.9
+ENG-Premier League,1718,Chelsea,Olivier Giroud,FRA,FW,30.0,6.8,0.0,0.0,0.0,6,7.0,4.0,2.0,2.0,5.0,0.0,0.0,0.0,32.0,53.0,30.0,63.9
+ENG-Premier League,1718,Chelsea,Opponent Total,,,26.9,38.0,75.0,1.0,1.0,505,392.0,57.0,401.0,648.0,451.0,2.0,3.0,2.0,3141.0,625.0,736.0,45.9
+ENG-Premier League,1718,Chelsea,Pedro,ESP,"FW,MF",30.0,16.9,1.0,0.0,0.0,7,23.0,16.0,29.0,15.0,13.0,0.0,0.0,0.0,117.0,2.0,32.0,5.9
+ENG-Premier League,1718,Chelsea,Ross Barkley,ENG,"MF,FW",23.0,1.4,0.0,0.0,0.0,1,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,4.0,20.0
+ENG-Premier League,1718,Chelsea,Squad Total,,,26.7,38.0,,,2.0,408,489.0,112.0,530.0,514.0,445.0,3.0,2.0,2.0,3614.0,736.0,625.0,54.1
+ENG-Premier League,1718,Chelsea,Thibaut Courtois,BEL,GK,25.0,35.0,2.0,0.0,0.0,2,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,185.0,0.0,2.0,0.0
+ENG-Premier League,1718,Chelsea,Tiemoué Bakayoko,FRA,MF,22.0,23.6,4.0,2.0,1.0,56,28.0,2.0,9.0,47.0,54.0,0.0,0.0,0.0,218.0,50.0,44.0,53.2
+ENG-Premier League,1718,Chelsea,Victor Moses,NGA,DF,26.0,23.4,3.0,0.0,0.0,28,32.0,9.0,80.0,22.0,26.0,1.0,0.0,0.0,216.0,33.0,37.0,47.1
+ENG-Premier League,1718,Chelsea,Willian,BRA,"FW,MF",28.0,21.0,1.0,0.0,0.0,11,47.0,5.0,51.0,12.0,24.0,1.0,0.0,0.0,142.0,12.0,22.0,35.3
+ENG-Premier League,1718,Chelsea,Willy Caballero,ARG,GK,35.0,3.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,
+ENG-Premier League,1718,Chelsea,Álvaro Morata,ESP,FW,24.0,22.9,7.0,0.0,0.0,44,53.0,30.0,13.0,7.0,8.0,0.0,0.0,0.0,78.0,57.0,93.0,38.0
+ENG-Premier League,1718,Crystal Palace,Aaron Wan-Bissaka,ENG,DF,19.0,7.0,1.0,0.0,0.0,2,7.0,0.0,13.0,13.0,18.0,0.0,0.0,0.0,49.0,10.0,11.0,47.6
+ENG-Premier League,1718,Crystal Palace,Alexander Sørloth,NOR,FW,21.0,4.0,0.0,0.0,0.0,8,2.0,3.0,5.0,5.0,3.0,0.0,0.0,0.0,24.0,25.0,19.0,56.8
+ENG-Premier League,1718,Crystal Palace,Andros Townsend,ENG,"FW,MF",26.0,34.7,3.0,0.0,0.0,20,62.0,6.0,109.0,52.0,31.0,2.0,0.0,0.0,233.0,9.0,41.0,18.0
+ENG-Premier League,1718,Crystal Palace,Bakary Sako,MLI,"FW,MF",29.0,5.3,0.0,0.0,0.0,10,8.0,4.0,19.0,0.0,4.0,0.0,0.0,0.0,37.0,14.0,20.0,41.2
+ENG-Premier League,1718,Crystal Palace,Christian Benteke,BEL,FW,26.0,24.9,6.0,0.0,0.0,59,31.0,12.0,8.0,7.0,8.0,2.0,0.0,0.0,81.0,261.0,193.0,57.5
+ENG-Premier League,1718,Crystal Palace,Damien Delaney,IRL,DF,36.0,1.1,0.0,0.0,0.0,1,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,11.0,4.0,5.0,44.4
+ENG-Premier League,1718,Crystal Palace,Freddie Ladapo,ENG,FW,24.0,0.2,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,50.0
+ENG-Premier League,1718,Crystal Palace,James McArthur,SCO,MF,29.0,27.0,5.0,0.0,0.0,49,38.0,0.0,9.0,49.0,51.0,0.0,0.0,0.0,271.0,40.0,59.0,40.4
+ENG-Premier League,1718,Crystal Palace,James Tomkins,ENG,DF,28.0,26.5,8.0,0.0,0.0,22,18.0,1.0,2.0,61.0,27.0,0.0,1.0,0.0,256.0,136.0,61.0,69.0
+ENG-Premier League,1718,Crystal Palace,Jason Puncheon,ENG,MF,31.0,7.2,5.0,0.0,0.0,14,5.0,0.0,5.0,7.0,6.0,0.0,0.0,0.0,54.0,8.0,13.0,38.1
+ENG-Premier League,1718,Crystal Palace,Jaïro Riedewald,NED,"MF,DF",20.0,4.9,0.0,0.0,0.0,4,0.0,0.0,2.0,11.0,5.0,0.0,0.0,0.0,40.0,4.0,5.0,44.4
+ENG-Premier League,1718,Crystal Palace,Jeffrey Schlupp,GHA,"DF,MF",24.0,19.4,3.0,0.0,0.0,20,9.0,0.0,21.0,33.0,32.0,0.0,0.0,0.0,183.0,42.0,52.0,44.7
+ENG-Premier League,1718,Crystal Palace,Joel Ward,ENG,DF,27.0,17.9,4.0,0.0,0.0,29,31.0,1.0,35.0,36.0,22.0,0.0,0.0,1.0,183.0,49.0,26.0,65.3
+ENG-Premier League,1718,Crystal Palace,Julián Speroni,ARG,GK,38.0,11.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,
+ENG-Premier League,1718,Crystal Palace,Lee Chung-yong,KOR,"FW,MF",29.0,1.5,0.0,0.0,0.0,1,2.0,0.0,4.0,1.0,5.0,0.0,0.0,0.0,15.0,2.0,5.0,28.6
+ENG-Premier League,1718,Crystal Palace,Levi Lumeka,ENG,FW,18.0,0.3,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,50.0
+ENG-Premier League,1718,Crystal Palace,Luka Milivojević,SRB,MF,26.0,34.2,8.0,0.0,0.0,79,38.0,1.0,14.0,83.0,60.0,0.0,0.0,0.0,411.0,60.0,52.0,53.6
+ENG-Premier League,1718,Crystal Palace,Mamadou Sakho,FRA,DF,27.0,17.8,1.0,0.0,0.0,5,10.0,0.0,0.0,39.0,9.0,0.0,0.0,0.0,195.0,48.0,29.0,62.3
+ENG-Premier League,1718,Crystal Palace,Martin Kelly,ENG,DF,27.0,13.3,1.0,0.0,0.0,8,3.0,0.0,2.0,11.0,10.0,0.0,0.0,1.0,78.0,41.0,38.0,51.9
+ENG-Premier League,1718,Crystal Palace,Opponent Total,,,27.0,38.0,72.0,3.0,2.0,506,490.0,77.0,531.0,504.0,449.0,2.0,10.0,1.0,3578.0,838.0,886.0,48.6
+ENG-Premier League,1718,Crystal Palace,Pape Souaré,SEN,DF,27.0,0.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Crystal Palace,Patrick van Aanholt,NED,DF,26.0,24.3,7.0,0.0,0.0,23,13.0,3.0,42.0,45.0,35.0,0.0,0.0,0.0,213.0,7.0,10.0,41.2
+ENG-Premier League,1718,Crystal Palace,Ruben Loftus-Cheek,ENG,MF,21.0,20.8,1.0,0.0,0.0,21,72.0,3.0,12.0,26.0,23.0,1.0,0.0,0.0,183.0,32.0,64.0,33.3
+ENG-Premier League,1718,Crystal Palace,Scott Dann,ENG,DF,30.0,15.9,4.0,0.0,0.0,15,8.0,2.0,2.0,26.0,6.0,0.0,1.0,0.0,153.0,60.0,35.0,63.2
+ENG-Premier League,1718,Crystal Palace,Squad Total,,,27.1,38.0,,,0.0,507,493.0,56.0,439.0,631.0,451.0,9.0,2.0,2.0,3484.0,886.0,838.0,51.4
+ENG-Premier League,1718,Crystal Palace,Sullay Kaikai,SLE,MF,21.0,0.2,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+ENG-Premier League,1718,Crystal Palace,Timothy Fosu-Mensah,NED,DF,19.0,17.7,2.0,0.0,0.0,20,15.0,0.0,13.0,30.0,29.0,0.0,0.0,0.0,156.0,22.0,31.0,41.5
+ENG-Premier League,1718,Crystal Palace,Wayne Hennessey,WAL,GK,30.0,27.0,1.0,0.0,0.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,143.0,0.0,0.0,
+ENG-Premier League,1718,Crystal Palace,Wilfried Zaha,CIV,"FW,MF",24.0,28.3,5.0,0.0,0.0,46,89.0,19.0,85.0,19.0,24.0,4.0,0.0,0.0,186.0,2.0,49.0,3.9
+ENG-Premier League,1718,Crystal Palace,Yohan Cabaye,FRA,MF,31.0,26.4,7.0,0.0,0.0,51,30.0,1.0,31.0,73.0,40.0,0.0,0.0,0.0,285.0,8.0,17.0,32.0
+ENG-Premier League,1718,Everton,Aaron Lennon,ENG,"FW,MF",30.0,8.8,0.0,0.0,0.0,10,9.0,0.0,8.0,7.0,10.0,2.0,0.0,0.0,50.0,6.0,12.0,33.3
+ENG-Premier League,1718,Everton,Ademola Lookman,NGA,"FW,MF",19.0,1.8,0.0,0.0,0.0,6,4.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,16.0,1.0,1.0,50.0
+ENG-Premier League,1718,Everton,Ashley Williams,WAL,DF,32.0,20.4,3.0,1.0,0.0,29,4.0,3.0,0.0,33.0,21.0,0.0,2.0,0.0,175.0,76.0,42.0,64.4
+ENG-Premier League,1718,Everton,Beni Baningime,COD,MF,18.0,2.2,1.0,0.0,0.0,5,2.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,29.0,4.0,3.0,57.1
+ENG-Premier League,1718,Everton,Cenk Tosun,TUR,FW,26.0,11.0,0.0,0.0,0.0,25,13.0,9.0,6.0,5.0,2.0,0.0,0.0,0.0,56.0,42.0,85.0,33.1
+ENG-Premier League,1718,Everton,Cuco Martina,CUW,DF,27.0,20.3,2.0,0.0,0.0,28,10.0,1.0,45.0,50.0,45.0,0.0,0.0,0.0,192.0,41.0,40.0,50.6
+ENG-Premier League,1718,Everton,Davy Klaassen,NED,"MF,FW",24.0,2.8,0.0,0.0,0.0,7,2.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0,25.0,3.0,5.0,37.5
+ENG-Premier League,1718,Everton,Dominic Calvert-Lewin,ENG,FW,20.0,20.9,4.0,0.0,0.0,45,32.0,15.0,14.0,14.0,10.0,4.0,0.0,0.0,92.0,160.0,196.0,44.9
+ENG-Premier League,1718,Everton,Eliaquim Mangala,FRA,DF,26.0,1.5,0.0,0.0,0.0,1,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,18.0,2.0,4.0,33.3
+ENG-Premier League,1718,Everton,Gylfi Sigurðsson,ISL,"MF,FW",27.0,25.1,2.0,0.0,0.0,26,16.0,1.0,54.0,24.0,24.0,0.0,0.0,0.0,196.0,22.0,54.0,28.9
+ENG-Premier League,1718,Everton,Idrissa Gana Gueye,SEN,MF,27.0,30.6,7.0,2.0,1.0,63,63.0,1.0,6.0,68.0,89.0,0.0,0.0,0.0,428.0,47.0,42.0,52.8
+ENG-Premier League,1718,Everton,James McCarthy,IRL,MF,26.0,2.3,0.0,0.0,0.0,6,3.0,0.0,1.0,5.0,8.0,0.0,0.0,0.0,39.0,2.0,3.0,40.0
+ENG-Premier League,1718,Everton,Jonjoe Kenny,ENG,DF,20.0,17.7,2.0,0.0,0.0,18,5.0,0.0,31.0,30.0,19.0,1.0,0.0,0.0,150.0,46.0,35.0,56.8
+ENG-Premier League,1718,Everton,Jordan Pickford,ENG,GK,23.0,38.0,0.0,0.0,0.0,1,7.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,217.0,1.0,0.0,100.0
+ENG-Premier League,1718,Everton,Kevin Mirallas,BEL,"FW,MF",29.0,1.5,1.0,0.0,0.0,1,2.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,11.0,4.0,2.0,66.7
+ENG-Premier League,1718,Everton,Leighton Baines,ENG,DF,32.0,21.2,1.0,0.0,0.0,9,20.0,1.0,51.0,32.0,11.0,0.0,0.0,0.0,134.0,16.0,24.0,40.0
+ENG-Premier League,1718,Everton,Mason Holgate,ENG,DF,20.0,13.2,3.0,0.0,0.0,13,12.0,1.0,11.0,20.0,14.0,0.0,0.0,0.0,112.0,42.0,39.0,51.9
+ENG-Premier League,1718,Everton,Michael Keane,ENG,DF,24.0,28.4,3.0,0.0,0.0,25,11.0,4.0,2.0,53.0,27.0,0.0,0.0,0.0,297.0,172.0,86.0,66.7
+ENG-Premier League,1718,Everton,Morgan Schneiderlin,FRA,MF,27.0,23.7,5.0,2.0,1.0,50,21.0,0.0,5.0,60.0,46.0,0.0,1.0,0.0,298.0,43.0,33.0,56.6
+ENG-Premier League,1718,Everton,Muhamed Bešić,BIH,MF,24.0,0.5,0.0,0.0,0.0,1,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7.0,2.0,1.0,66.7
+ENG-Premier League,1718,Everton,Nikola Vlašić,CRO,"FW,MF",19.0,6.4,0.0,0.0,0.0,8,14.0,1.0,12.0,13.0,12.0,0.0,0.0,0.0,57.0,6.0,17.0,26.1
+ENG-Premier League,1718,Everton,Opponent Total,,,27.0,38.0,49.0,5.0,3.0,451,522.0,59.0,530.0,481.0,391.0,3.0,8.0,2.0,3925.0,1012.0,961.0,51.3
+ENG-Premier League,1718,Everton,Oumar Niasse,SEN,FW,27.0,12.1,2.0,0.0,0.0,31,18.0,20.0,10.0,6.0,6.0,1.0,0.0,0.0,68.0,39.0,87.0,31.0
+ENG-Premier League,1718,Everton,Phil Jagielka,ENG,DF,34.0,22.9,2.0,0.0,0.0,9,15.0,0.0,2.0,53.0,26.0,0.0,0.0,0.0,229.0,83.0,41.0,66.9
+ENG-Premier League,1718,Everton,Ramiro Funes Mori,ARG,DF,26.0,1.3,1.0,0.0,0.0,3,2.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,20.0,9.0,4.0,69.2
+ENG-Premier League,1718,Everton,Sandro Ramírez,ESP,"FW,MF",22.0,3.1,0.0,0.0,0.0,1,7.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,20.0,4.0,6.0,40.0
+ENG-Premier League,1718,Everton,Squad Total,,,26.7,38.0,,,2.0,536,432.0,82.0,395.0,580.0,459.0,8.0,5.0,0.0,3565.0,961.0,1012.0,48.7
+ENG-Premier League,1718,Everton,Séamus Coleman,IRL,DF,28.0,11.5,0.0,0.0,0.0,3,18.0,0.0,24.0,12.0,10.0,0.0,0.0,0.0,89.0,16.0,17.0,48.5
+ENG-Premier League,1718,Everton,Theo Walcott,ENG,FW,28.0,12.8,2.0,0.0,0.0,7,34.0,7.0,40.0,14.0,12.0,0.0,0.0,0.0,99.0,8.0,29.0,21.6
+ENG-Premier League,1718,Everton,Tom Davies,ENG,MF,19.0,21.1,7.0,0.0,0.0,46,47.0,3.0,6.0,26.0,18.0,0.0,0.0,0.0,172.0,17.0,52.0,24.6
+ENG-Premier League,1718,Everton,Wayne Rooney,ENG,"MF,FW",31.0,25.2,5.0,0.0,0.0,46,25.0,8.0,26.0,30.0,29.0,0.0,1.0,0.0,191.0,34.0,32.0,51.5
+ENG-Premier League,1718,Everton,Yannick Bolasie,COD,FW,28.0,9.5,0.0,0.0,0.0,13,13.0,4.0,34.0,8.0,7.0,0.0,0.0,0.0,78.0,13.0,20.0,39.4
+ENG-Premier League,1718,Huddersfield,Aaron Mooy,AUS,MF,26.0,34.1,4.0,0.0,0.0,34,21.0,2.0,85.0,46.0,56.0,0.0,0.0,0.0,456.0,35.0,42.0,45.5
+ENG-Premier League,1718,Huddersfield,Abdelhamid Sabiri,GER,MF,20.0,2.4,1.0,0.0,0.0,5,7.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,25.0,14.0,16.0,46.7
+ENG-Premier League,1718,Huddersfield,Alex Pritchard,ENG,"MF,FW",24.0,11.1,1.0,0.0,0.0,6,25.0,1.0,23.0,6.0,14.0,1.0,0.0,0.0,85.0,5.0,24.0,17.2
+ENG-Premier League,1718,Huddersfield,Chris Löwe,GER,DF,28.0,17.6,1.0,0.0,0.0,15,9.0,0.0,44.0,35.0,15.0,0.0,1.0,0.0,126.0,19.0,14.0,57.6
+ENG-Premier League,1718,Huddersfield,Christopher Schindler,GER,DF,27.0,36.3,7.0,2.0,1.0,32,22.0,1.0,3.0,64.0,58.0,0.0,0.0,0.0,351.0,179.0,95.0,65.3
+ENG-Premier League,1718,Huddersfield,Collin Quaner,GER,"FW,MF",26.0,14.2,4.0,0.0,0.0,18,30.0,3.0,22.0,17.0,11.0,0.0,0.0,0.0,121.0,17.0,37.0,31.5
+ENG-Premier League,1718,Huddersfield,Danny Williams,USA,MF,28.0,12.5,2.0,0.0,0.0,19,18.0,2.0,7.0,27.0,18.0,0.0,0.0,0.0,128.0,13.0,21.0,38.2
+ENG-Premier League,1718,Huddersfield,Dean Whitehead,ENG,MF,35.0,0.8,0.0,0.0,0.0,2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,100.0
+ENG-Premier League,1718,Huddersfield,Elias Kachunga,COD,"FW,MF",25.0,14.8,1.0,0.0,0.0,20,34.0,6.0,15.0,11.0,16.0,0.0,0.0,0.0,93.0,21.0,39.0,35.0
+ENG-Premier League,1718,Huddersfield,Florent Hadergjonaj,KVX,"DF,MF",23.0,18.6,3.0,0.0,0.0,16,10.0,4.0,89.0,22.0,11.0,0.0,0.0,0.0,133.0,17.0,26.0,39.5
+ENG-Premier League,1718,Huddersfield,Joe Lolley,ENG,"FW,MF",24.0,2.5,1.0,0.0,0.0,4,2.0,0.0,7.0,2.0,2.0,0.0,0.0,0.0,27.0,3.0,3.0,50.0
+ENG-Premier League,1718,Huddersfield,Jonas Lössl,DEN,GK,28.0,38.0,1.0,0.0,0.0,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,205.0,0.0,0.0,
+ENG-Premier League,1718,Huddersfield,Jonathan Hogg,ENG,MF,28.0,26.6,9.0,2.0,1.0,51,33.0,0.0,4.0,60.0,53.0,0.0,0.0,0.0,377.0,38.0,34.0,52.8
+ENG-Premier League,1718,Huddersfield,Kasey Palmer,JAM,"MF,FW",20.0,1.9,2.0,0.0,0.0,5,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,11.0,2.0,9.0,18.2
+ENG-Premier League,1718,Huddersfield,Laurent Depoitre,BEL,FW,28.0,20.2,1.0,0.0,0.0,32,18.0,7.0,1.0,14.0,11.0,1.0,0.0,0.0,105.0,143.0,157.0,47.7
+ENG-Premier League,1718,Huddersfield,Martin Cranie,ENG,DF,30.0,2.0,0.0,0.0,0.0,0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0.0,13.0,5.0,3.0,62.5
+ENG-Premier League,1718,Huddersfield,Mathias Jørgensen,DEN,DF,27.0,38.0,6.0,0.0,0.0,50,9.0,2.0,2.0,86.0,38.0,0.0,1.0,0.0,426.0,114.0,94.0,54.8
+ENG-Premier League,1718,Huddersfield,Michael Hefele,GER,DF,26.0,0.4,1.0,0.0,0.0,2,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,100.0
+ENG-Premier League,1718,Huddersfield,Opponent Total,,,27.0,38.0,56.0,4.0,1.0,416,452.0,122.0,378.0,547.0,452.0,6.0,2.0,3.0,3911.0,939.0,925.0,50.4
+ENG-Premier League,1718,Huddersfield,Philip Billing,DEN,MF,21.0,8.5,3.0,0.0,0.0,17,8.0,1.0,12.0,22.0,16.0,0.0,1.0,0.0,112.0,25.0,16.0,61.0
+ENG-Premier League,1718,Huddersfield,Rajiv van La Parra,NED,"FW,MF",26.0,23.7,3.0,1.0,0.0,32,52.0,3.0,44.0,19.0,25.0,0.0,0.0,0.0,196.0,22.0,44.0,33.3
+ENG-Premier League,1718,Huddersfield,Scott Malone,ENG,DF,26.0,12.4,3.0,0.0,0.0,22,10.0,0.0,29.0,29.0,26.0,0.0,1.0,0.0,128.0,14.0,19.0,42.4
+ENG-Premier League,1718,Huddersfield,Squad Total,,,26.4,38.0,,,2.0,462,404.0,69.0,477.0,546.0,464.0,2.0,6.0,1.0,3718.0,925.0,939.0,49.6
+ENG-Premier League,1718,Huddersfield,Steve Mounié,BEN,FW,22.0,20.6,2.0,0.0,0.0,33,20.0,23.0,11.0,8.0,11.0,0.0,0.0,0.0,106.0,156.0,155.0,50.2
+ENG-Premier League,1718,Huddersfield,Terence Kongolo,NED,DF,23.0,11.7,0.0,0.0,0.0,5,11.0,0.0,7.0,23.0,23.0,0.0,0.0,0.0,95.0,34.0,20.0,63.0
+ENG-Premier League,1718,Huddersfield,Tom Ince,ENG,"MF,FW",25.0,27.2,0.0,0.0,0.0,22,40.0,10.0,21.0,19.0,32.0,0.0,0.0,0.0,189.0,23.0,51.0,31.1
+ENG-Premier League,1718,Huddersfield,Tommy Smith,ENG,DF,25.0,21.2,7.0,0.0,0.0,20,17.0,3.0,49.0,26.0,21.0,0.0,1.0,0.0,203.0,22.0,20.0,52.4
+ENG-Premier League,1718,Leicester City,Adrien Silva,POR,MF,28.0,8.5,3.0,0.0,0.0,14,10.0,0.0,3.0,18.0,15.0,0.0,0.0,0.0,95.0,13.0,17.0,43.3
+ENG-Premier League,1718,Leicester City,Aleksandar Dragović,AUT,DF,26.0,8.5,2.0,0.0,0.0,7,3.0,0.0,1.0,18.0,3.0,0.0,0.0,0.0,82.0,17.0,10.0,63.0
+ENG-Premier League,1718,Leicester City,Andy King,WAL,MF,28.0,6.0,1.0,0.0,0.0,7,5.0,1.0,5.0,5.0,5.0,1.0,0.0,0.0,51.0,13.0,8.0,61.9
+ENG-Premier League,1718,Leicester City,Ben Chilwell,ENG,DF,20.0,20.6,2.0,2.0,1.0,15,26.0,4.0,57.0,37.0,24.0,0.0,0.0,0.0,196.0,75.0,61.0,55.1
+ENG-Premier League,1718,Leicester City,Ben Hamer,ENG,GK,29.0,3.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,
+ENG-Premier League,1718,Leicester City,Christian Fuchs,AUT,DF,31.0,21.3,1.0,0.0,0.0,17,5.0,0.0,67.0,58.0,35.0,0.0,0.0,1.0,195.0,75.0,39.0,65.8
+ENG-Premier League,1718,Leicester City,Daniel Amartey,GHA,DF,22.0,5.4,1.0,2.0,1.0,5,7.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,53.0,11.0,8.0,57.9
+ENG-Premier League,1718,Leicester City,Danny Simpson,ENG,DF,30.0,25.6,4.0,0.0,0.0,28,13.0,0.0,15.0,49.0,22.0,0.0,1.0,0.0,230.0,46.0,49.0,48.4
+ENG-Premier League,1718,Leicester City,Demarai Gray,ENG,"MF,FW",21.0,18.9,2.0,0.0,0.0,9,33.0,4.0,55.0,20.0,16.0,1.0,0.0,0.0,127.0,8.0,36.0,18.2
+ENG-Premier League,1718,Leicester City,Eldin Jakupović,SUI,GK,32.0,2.0,0.0,0.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,
+ENG-Premier League,1718,Leicester City,Fousseni Diabaté,MLI,"MF,FW",21.0,6.5,1.0,0.0,0.0,1,14.0,1.0,11.0,6.0,7.0,0.0,0.0,0.0,58.0,15.0,10.0,60.0
+ENG-Premier League,1718,Leicester City,Hamza Choudhury,ENG,"MF,DF",19.0,4.2,1.0,0.0,0.0,8,5.0,0.0,0.0,14.0,4.0,0.0,0.0,0.0,44.0,6.0,1.0,85.7
+ENG-Premier League,1718,Leicester City,Harry Maguire,ENG,DF,24.0,38.0,7.0,0.0,0.0,38,38.0,4.0,15.0,73.0,49.0,0.0,1.0,0.0,476.0,180.0,67.0,72.9
+ENG-Premier League,1718,Leicester City,Harvey Barnes,ENG,MF,19.0,0.1,0.0,0.0,0.0,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,100.0
+ENG-Premier League,1718,Leicester City,Islam Slimani,ALG,"FW,MF",29.0,2.8,0.0,0.0,0.0,4,1.0,5.0,3.0,0.0,2.0,0.0,0.0,0.0,16.0,16.0,12.0,57.1
+ENG-Premier League,1718,Leicester City,Jamie Vardy,ENG,FW,30.0,36.1,3.0,0.0,0.0,32,26.0,45.0,43.0,9.0,11.0,3.0,0.0,0.0,120.0,80.0,145.0,35.6
+ENG-Premier League,1718,Leicester City,Kasper Schmeichel,DEN,GK,30.0,32.9,3.0,0.0,0.0,0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,194.0,0.0,0.0,
+ENG-Premier League,1718,Leicester City,Kelechi Iheanacho,NGA,"MF,FW",20.0,9.2,2.0,0.0,0.0,19,12.0,5.0,3.0,5.0,5.0,0.0,0.0,0.0,59.0,7.0,27.0,20.6
+ENG-Premier League,1718,Leicester City,Leonardo Ulloa,ARG,FW,31.0,0.2,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,5.0,5.0,50.0
+ENG-Premier League,1718,Leicester City,Marc Albrighton,ENG,"MF,FW",27.0,28.2,5.0,1.0,0.0,24,32.0,1.0,121.0,40.0,42.0,0.0,1.0,0.0,240.0,20.0,26.0,43.5
+ENG-Premier League,1718,Leicester City,Matty James,ENG,MF,26.0,11.0,2.0,0.0,0.0,21,6.0,0.0,0.0,16.0,19.0,0.0,0.0,0.0,116.0,23.0,15.0,60.5
+ENG-Premier League,1718,Leicester City,Opponent Total,,,26.8,38.0,52.0,1.0,0.0,432,434.0,80.0,476.0,566.0,430.0,3.0,6.0,3.0,3539.0,846.0,963.0,46.8
+ENG-Premier League,1718,Leicester City,Riyad Mahrez,ALG,"MF,FW",26.0,32.8,2.0,0.0,0.0,28,71.0,11.0,73.0,32.0,26.0,0.0,0.0,0.0,256.0,23.0,57.0,28.8
+ENG-Premier League,1718,Leicester City,Shinji Okazaki,JPN,"MF,FW",31.0,14.7,2.0,0.0,0.0,25,35.0,9.0,8.0,12.0,16.0,0.0,0.0,0.0,86.0,32.0,71.0,31.1
+ENG-Premier League,1718,Leicester City,Squad Total,,,27.2,38.0,,,4.0,439,418.0,95.0,493.0,583.0,433.0,6.0,4.0,2.0,3640.0,963.0,846.0,53.2
+ENG-Premier League,1718,Leicester City,Vicente Iborra,ESP,MF,29.0,15.7,0.0,0.0,0.0,25,23.0,2.0,2.0,28.0,17.0,0.0,0.0,0.0,176.0,44.0,33.0,57.1
+ENG-Premier League,1718,Leicester City,Wes Morgan,JAM,DF,33.0,31.3,4.0,0.0,0.0,37,13.0,1.0,0.0,41.0,23.0,0.0,1.0,0.0,227.0,115.0,62.0,65.0
+ENG-Premier League,1718,Leicester City,Wilfred Ndidi,NGA,MF,20.0,32.2,8.0,4.0,2.0,72,34.0,1.0,9.0,89.0,88.0,1.0,0.0,0.0,496.0,136.0,86.0,61.3
+ENG-Premier League,1718,Leicester City,Yohan Benalouane,TUN,DF,30.0,1.0,0.0,0.0,0.0,2,1.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,5.0,2.0,1.0,66.7
+ENG-Premier League,1718,Liverpool,Adam Lallana,ENG,"MF,FW",29.0,3.4,1.0,0.0,0.0,4,7.0,1.0,6.0,5.0,3.0,0.0,0.0,0.0,32.0,3.0,6.0,33.3
+ENG-Premier League,1718,Liverpool,Alberto Moreno,ESP,DF,25.0,14.1,1.0,0.0,0.0,8,22.0,0.0,35.0,25.0,25.0,0.0,0.0,0.0,131.0,13.0,16.0,44.8
+ENG-Premier League,1718,Liverpool,Alex Oxlade-Chamberlain,ENG,"MF,FW",23.0,16.6,3.0,0.0,0.0,19,13.0,2.0,40.0,20.0,23.0,0.0,0.0,0.0,153.0,16.0,31.0,34.0
+ENG-Premier League,1718,Liverpool,Andrew Robertson,SCO,DF,23.0,21.6,2.0,0.0,0.0,17,5.0,5.0,56.0,24.0,24.0,0.0,0.0,0.0,214.0,21.0,18.0,53.8
+ENG-Premier League,1718,Liverpool,Ben Woodburn,WAL,MF,17.0,0.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Liverpool,Daniel Sturridge,ENG,FW,27.0,4.8,0.0,0.0,0.0,2,11.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,14.0,5.0,9.0,35.7
+ENG-Premier League,1718,Liverpool,Danny Ings,ENG,"FW,MF",25.0,3.0,0.0,0.0,0.0,5,4.0,3.0,2.0,1.0,3.0,0.0,0.0,0.0,14.0,6.0,9.0,40.0
+ENG-Premier League,1718,Liverpool,Dejan Lovren,CRO,DF,28.0,23.6,4.0,0.0,0.0,16,11.0,1.0,3.0,52.0,17.0,0.0,1.0,0.0,216.0,132.0,69.0,65.7
+ENG-Premier League,1718,Liverpool,Divock Origi,BEL,FW,22.0,0.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+ENG-Premier League,1718,Liverpool,Dominic Solanke,ENG,FW,19.0,6.6,0.0,0.0,0.0,12,5.0,2.0,1.0,1.0,4.0,0.0,0.0,0.0,35.0,28.0,52.0,35.0
+ENG-Premier League,1718,Liverpool,Emre Can,GER,MF,23.0,23.2,8.0,0.0,0.0,32,32.0,0.0,6.0,36.0,49.0,1.0,0.0,0.0,282.0,60.0,54.0,52.6
+ENG-Premier League,1718,Liverpool,Georginio Wijnaldum,NED,MF,26.0,26.5,1.0,0.0,0.0,18,34.0,4.0,5.0,42.0,30.0,0.0,0.0,0.0,228.0,18.0,38.0,32.1
+ENG-Premier League,1718,Liverpool,James Milner,ENG,MF,31.0,19.7,3.0,0.0,0.0,31,27.0,0.0,64.0,24.0,35.0,0.0,0.0,0.0,192.0,30.0,21.0,58.8
+ENG-Premier League,1718,Liverpool,Joe Gomez,ENG,DF,20.0,21.1,3.0,0.0,0.0,17,13.0,1.0,33.0,48.0,28.0,0.0,0.0,0.0,231.0,53.0,29.0,64.6
+ENG-Premier League,1718,Liverpool,Jordan Henderson,ENG,MF,27.0,24.1,1.0,0.0,0.0,34,15.0,0.0,16.0,38.0,32.0,0.0,1.0,0.0,391.0,29.0,14.0,67.4
+ENG-Premier League,1718,Liverpool,Joël Matip,CMR,DF,25.0,22.2,3.0,0.0,0.0,22,11.0,1.0,1.0,37.0,26.0,0.0,0.0,0.0,215.0,67.0,38.0,63.8
+ENG-Premier League,1718,Liverpool,Loris Karius,GER,GK,24.0,19.0,1.0,0.0,0.0,2,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,121.0,0.0,0.0,
+ENG-Premier League,1718,Liverpool,Marko Grujić,SRB,MF,21.0,0.2,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,2.0,0.0
+ENG-Premier League,1718,Liverpool,Mohamed Salah,EGY,FW,25.0,32.3,1.0,0.0,0.0,14,40.0,18.0,50.0,13.0,13.0,1.0,0.0,0.0,218.0,19.0,58.0,24.7
+ENG-Premier League,1718,Liverpool,Nathaniel Clyne,ENG,"DF,FW",26.0,1.9,1.0,0.0,0.0,4,0.0,0.0,7.0,2.0,1.0,0.0,0.0,0.0,26.0,5.0,6.0,45.5
+ENG-Premier League,1718,Liverpool,Opponent Total,,,27.1,38.0,50.0,0.0,0.0,424,361.0,101.0,351.0,648.0,453.0,6.0,3.0,2.0,3345.0,780.0,745.0,51.1
+ENG-Premier League,1718,Liverpool,Philippe Coutinho,BRA,"MF,FW",25.0,12.3,0.0,0.0,0.0,7,30.0,4.0,19.0,16.0,12.0,0.0,0.0,0.0,87.0,3.0,16.0,15.8
+ENG-Premier League,1718,Liverpool,Ragnar Klavan,EST,DF,31.0,16.1,0.0,0.0,0.0,8,14.0,0.0,2.0,20.0,15.0,0.0,0.0,0.0,166.0,53.0,48.0,52.5
+ENG-Premier League,1718,Liverpool,Roberto Firmino,BRA,FW,25.0,30.7,1.0,0.0,0.0,59,24.0,14.0,48.0,25.0,48.0,1.0,0.0,0.0,193.0,50.0,133.0,27.3
+ENG-Premier League,1718,Liverpool,Sadio Mané,SEN,"FW,MF",25.0,24.3,3.0,1.0,0.0,25,63.0,13.0,44.0,19.0,25.0,0.0,0.0,0.0,139.0,30.0,70.0,30.0
+ENG-Premier League,1718,Liverpool,Simon Mignolet,BEL,GK,29.0,19.0,3.0,0.0,0.0,2,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,111.0,0.0,0.0,
+ENG-Premier League,1718,Liverpool,Squad Total,,,25.6,38.0,,,0.0,379,405.0,74.0,503.0,524.0,448.0,3.0,6.0,0.0,3751.0,745.0,780.0,48.9
+ENG-Premier League,1718,Liverpool,Trent Alexander-Arnold,ENG,DF,18.0,17.5,3.0,0.0,0.0,13,4.0,3.0,62.0,53.0,22.0,0.0,0.0,0.0,177.0,8.0,19.0,29.6
+ENG-Premier League,1718,Liverpool,Virgil van Dijk,NED,DF,26.0,14.0,1.0,0.0,0.0,8,14.0,0.0,1.0,22.0,10.0,0.0,1.0,0.0,161.0,96.0,23.0,80.7
+ENG-Premier League,1718,Manchester City,Aymeric Laporte,ESP,DF,23.0,9.0,1.0,0.0,0.0,9,5.0,0.0,2.0,8.0,8.0,0.0,0.0,0.0,107.0,26.0,11.0,70.3
+ENG-Premier League,1718,Manchester City,Benjamin Mendy,FRA,DF,23.0,4.0,2.0,0.0,0.0,7,1.0,0.0,32.0,5.0,6.0,0.0,0.0,0.0,42.0,6.0,2.0,75.0
+ENG-Premier League,1718,Manchester City,Bernardo Silva,POR,"FW,MF",22.0,17.0,0.0,0.0,0.0,13,32.0,0.0,55.0,13.0,20.0,1.0,0.0,0.0,122.0,2.0,21.0,8.7
+ENG-Premier League,1718,Manchester City,Brahim Díaz,ESP,"FW,MF",17.0,0.6,0.0,0.0,0.0,1,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,9.0,0.0,4.0,0.0
+ENG-Premier League,1718,Manchester City,Claudio Bravo,CHI,GK,34.0,2.5,0.0,0.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,
+ENG-Premier League,1718,Manchester City,Danilo,BRA,DF,26.0,15.0,2.0,0.0,0.0,13,15.0,0.0,21.0,26.0,24.0,0.0,0.0,0.0,106.0,18.0,6.0,75.0
+ENG-Premier League,1718,Manchester City,David Silva,ESP,MF,31.0,27.0,5.0,0.0,0.0,27,48.0,4.0,51.0,22.0,23.0,0.0,0.0,0.0,208.0,15.0,14.0,51.7
+ENG-Premier League,1718,Manchester City,Ederson,BRA,GK,23.0,35.5,1.0,0.0,0.0,0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,179.0,0.0,0.0,
+ENG-Premier League,1718,Manchester City,Eliaquim Mangala,FRA,DF,26.0,5.4,0.0,0.0,0.0,3,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,44.0,12.0,14.0,46.2
+ENG-Premier League,1718,Manchester City,Fabian Delph,ENG,DF,27.0,19.3,2.0,0.0,0.0,15,18.0,0.0,12.0,39.0,28.0,0.0,0.0,0.0,196.0,24.0,30.0,44.4
+ENG-Premier League,1718,Manchester City,Fernandinho,BRA,MF,32.0,32.0,7.0,0.0,0.0,52,38.0,0.0,10.0,59.0,49.0,0.0,0.0,0.0,377.0,98.0,77.0,56.0
+ENG-Premier League,1718,Manchester City,Gabriel Jesus,BRA,FW,20.0,18.5,6.0,0.0,0.0,30,23.0,15.0,8.0,13.0,17.0,0.0,0.0,0.0,79.0,21.0,61.0,25.6
+ENG-Premier League,1718,Manchester City,John Stones,ENG,DF,23.0,14.5,0.0,0.0,0.0,5,2.0,0.0,0.0,24.0,12.0,0.0,0.0,0.0,102.0,43.0,10.0,81.1
+ENG-Premier League,1718,Manchester City,Kevin De Bruyne,BEL,MF,26.0,34.1,2.0,0.0,0.0,36,52.0,2.0,146.0,41.0,40.0,1.0,0.0,0.0,277.0,14.0,18.0,43.8
+ENG-Premier League,1718,Manchester City,Kyle Walker,ENG,DF,27.0,30.9,3.0,2.0,1.0,19,26.0,2.0,63.0,50.0,32.0,0.0,0.0,1.0,303.0,73.0,37.0,66.4
+ENG-Premier League,1718,Manchester City,Leroy Sané,GER,FW,21.0,26.9,4.0,0.0,0.0,27,35.0,7.0,80.0,22.0,25.0,0.0,0.0,0.0,163.0,15.0,21.0,41.7
+ENG-Premier League,1718,Manchester City,Lukas Nmecha,GER,FW,18.0,0.2,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Manchester City,Nicolás Otamendi,ARG,DF,29.0,33.0,9.0,0.0,0.0,29,25.0,0.0,4.0,51.0,42.0,0.0,1.0,1.0,356.0,113.0,56.0,66.9
+ENG-Premier League,1718,Manchester City,Oleksandr Zinchenko,UKR,DF,20.0,5.9,1.0,0.0,0.0,8,1.0,2.0,7.0,9.0,9.0,0.0,0.0,0.0,59.0,15.0,5.0,75.0
+ENG-Premier League,1718,Manchester City,Opponent Total,,,26.9,38.0,77.0,3.0,1.0,458,373.0,101.0,225.0,725.0,435.0,2.0,8.0,3.0,2669.0,483.0,588.0,45.1
+ENG-Premier League,1718,Manchester City,Phil Foden,ENG,"MF,FW",17.0,0.5,0.0,0.0,0.0,1,3.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,5.0,0.0,3.0,0.0
+ENG-Premier League,1718,Manchester City,Raheem Sterling,ENG,FW,22.0,28.7,4.0,2.0,1.0,46,71.0,19.0,51.0,17.0,20.0,6.0,1.0,0.0,186.0,16.0,35.0,31.4
+ENG-Premier League,1718,Manchester City,Sergio Agüero,ARG,FW,29.0,21.8,2.0,0.0,0.0,12,20.0,16.0,14.0,14.0,8.0,0.0,0.0,0.0,90.0,12.0,26.0,31.6
+ENG-Premier League,1718,Manchester City,Squad Total,,,26.4,38.0,,,2.0,394,450.0,68.0,570.0,469.0,406.0,8.0,2.0,2.0,3347.0,588.0,483.0,54.9
+ENG-Premier League,1718,Manchester City,Vincent Kompany,BEL,DF,31.0,15.5,6.0,0.0,0.0,19,3.0,0.0,1.0,28.0,13.0,0.0,0.0,0.0,176.0,56.0,14.0,80.0
+ENG-Premier League,1718,Manchester City,Yaya Touré,CIV,MF,34.0,2.6,1.0,0.0,0.0,7,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,19.0,5.0,4.0,55.6
+ENG-Premier League,1718,Manchester City,İlkay Gündoğan,GER,MF,26.0,16.9,3.0,0.0,0.0,15,22.0,1.0,8.0,21.0,21.0,0.0,0.0,0.0,126.0,4.0,14.0,22.2
+ENG-Premier League,1718,Manchester Utd,Alexis Sánchez,CHI,"FW,MF",28.0,11.6,1.0,0.0,0.0,13,37.0,10.0,29.0,19.0,24.0,1.0,0.0,0.0,90.0,5.0,25.0,16.7
+ENG-Premier League,1718,Manchester Utd,Ander Herrera,ESP,MF,27.0,14.1,5.0,0.0,0.0,34,31.0,2.0,13.0,47.0,27.0,0.0,0.0,0.0,149.0,9.0,21.0,30.0
+ENG-Premier League,1718,Manchester Utd,Anthony Martial,FRA,FW,21.0,17.6,1.0,0.0,0.0,19,33.0,8.0,41.0,8.0,10.0,0.0,0.0,0.0,114.0,15.0,30.0,33.3
+ENG-Premier League,1718,Manchester Utd,Antonio Valencia,ECU,DF,31.0,30.4,7.0,0.0,0.0,39,26.0,4.0,57.0,63.0,41.0,0.0,0.0,0.0,259.0,26.0,30.0,46.4
+ENG-Premier League,1718,Manchester Utd,Ashley Young,ENG,DF,32.0,27.1,7.0,0.0,0.0,34,43.0,2.0,95.0,69.0,29.0,0.0,0.0,0.0,251.0,20.0,35.0,36.4
+ENG-Premier League,1718,Manchester Utd,Axel Tuanzebe,ENG,FW,19.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Manchester Utd,Chris Smalling,ENG,DF,27.0,28.2,4.0,0.0,0.0,26,14.0,3.0,0.0,57.0,29.0,0.0,0.0,0.0,247.0,150.0,50.0,75.0
+ENG-Premier League,1718,Manchester Utd,Daley Blind,NED,"DF,MF",27.0,4.0,0.0,0.0,0.0,6,5.0,0.0,11.0,8.0,4.0,0.0,0.0,0.0,42.0,9.0,7.0,56.3
+ENG-Premier League,1718,Manchester Utd,David de Gea,ESP,GK,26.0,37.0,0.0,0.0,0.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,167.0,0.0,0.0,
+ENG-Premier League,1718,Manchester Utd,Eric Bailly,CIV,DF,23.0,11.1,2.0,0.0,0.0,13,12.0,0.0,0.0,24.0,13.0,0.0,0.0,1.0,95.0,28.0,13.0,68.3
+ENG-Premier League,1718,Manchester Utd,Henrikh Mkhitaryan,ARM,"MF,FW",28.0,10.2,2.0,0.0,0.0,14,18.0,2.0,30.0,13.0,13.0,0.0,0.0,0.0,87.0,10.0,9.0,52.6
+ENG-Premier League,1718,Manchester Utd,Jesse Lingard,ENG,"MF,FW",24.0,20.2,2.0,0.0,0.0,38,47.0,4.0,25.0,14.0,19.0,0.0,0.0,0.0,127.0,9.0,42.0,17.6
+ENG-Premier League,1718,Manchester Utd,Juan Mata,ESP,"FW,MF",29.0,21.4,1.0,0.0,0.0,13,23.0,18.0,60.0,16.0,14.0,0.0,0.0,0.0,165.0,1.0,16.0,5.9
+ENG-Premier League,1718,Manchester Utd,Luke Shaw,ENG,DF,22.0,8.8,2.0,0.0,0.0,7,9.0,0.0,16.0,9.0,11.0,0.0,0.0,0.0,97.0,24.0,25.0,49.0
+ENG-Premier League,1718,Manchester Utd,Marcos Rojo,ARG,DF,27.0,7.1,6.0,0.0,0.0,8,4.0,0.0,2.0,8.0,5.0,0.0,1.0,0.0,53.0,23.0,8.0,74.2
+ENG-Premier League,1718,Manchester Utd,Marcus Rashford,ENG,FW,19.0,20.1,3.0,0.0,0.0,24,21.0,9.0,44.0,10.0,8.0,0.0,0.0,0.0,104.0,18.0,32.0,36.0
+ENG-Premier League,1718,Manchester Utd,Marouane Fellaini,BEL,MF,29.0,7.6,1.0,0.0,0.0,16,12.0,3.0,2.0,15.0,9.0,0.0,0.0,0.0,66.0,39.0,26.0,60.0
+ENG-Premier League,1718,Manchester Utd,Matteo Darmian,ITA,DF,27.0,4.9,0.0,0.0,0.0,7,1.0,0.0,7.0,15.0,11.0,0.0,0.0,0.0,24.0,8.0,9.0,47.1
+ENG-Premier League,1718,Manchester Utd,Michael Carrick,ENG,MF,36.0,1.2,0.0,0.0,0.0,1,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,19.0,0.0,4.0,0.0
+ENG-Premier League,1718,Manchester Utd,Nemanja Matić,SRB,MF,28.0,34.6,6.0,0.0,0.0,44,25.0,2.0,8.0,73.0,49.0,0.0,0.0,0.0,479.0,65.0,32.0,67.0
+ENG-Premier League,1718,Manchester Utd,Opponent Total,,,26.9,38.0,69.0,1.0,1.0,523,462.0,52.0,413.0,572.0,456.0,1.0,3.0,1.0,3266.0,639.0,760.0,45.7
+ENG-Premier League,1718,Manchester Utd,Paul Pogba,FRA,MF,24.0,23.9,5.0,1.0,0.0,48,69.0,3.0,34.0,33.0,20.0,0.0,0.0,0.0,247.0,58.0,39.0,59.8
+ENG-Premier League,1718,Manchester Utd,Phil Jones,ENG,DF,25.0,21.9,2.0,0.0,0.0,12,22.0,0.0,3.0,47.0,12.0,0.0,0.0,1.0,213.0,62.0,29.0,68.1
+ENG-Premier League,1718,Manchester Utd,Romelu Lukaku,BEL,FW,24.0,31.9,4.0,0.0,0.0,33,22.0,19.0,36.0,6.0,5.0,0.0,0.0,0.0,102.0,127.0,120.0,51.4
+ENG-Premier League,1718,Manchester Utd,Scott McTominay,SCO,MF,20.0,7.0,2.0,0.0,0.0,9,18.0,0.0,3.0,11.0,9.0,0.0,0.0,0.0,64.0,17.0,10.0,63.0
+ENG-Premier League,1718,Manchester Utd,Sergio Romero,ARG,GK,30.0,1.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,
+ENG-Premier League,1718,Manchester Utd,Squad Total,,,26.7,38.0,,,0.0,476,512.0,91.0,523.0,595.0,375.0,1.0,1.0,2.0,3412.0,760.0,639.0,54.3
+ENG-Premier League,1718,Manchester Utd,Victor Lindelöf,SWE,DF,23.0,14.3,1.0,0.0,0.0,15,13.0,0.0,2.0,27.0,10.0,0.0,0.0,0.0,138.0,32.0,25.0,56.1
+ENG-Premier League,1718,Manchester Utd,Zlatan Ibrahimović,SWE,"MF,FW",35.0,1.2,0.0,0.0,0.0,2,2.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0,10.0,5.0,2.0,71.4
+ENG-Premier League,1718,Newcastle Utd,Aleksandar Mitrović,SRB,FW,22.0,1.1,0.0,0.0,0.0,2,4.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,9.0,4.0,9.0,30.8
+ENG-Premier League,1718,Newcastle Utd,Ayoze Pérez,ESP,"MF,FW",24.0,27.7,3.0,0.0,0.0,44,59.0,14.0,27.0,32.0,21.0,0.0,0.0,1.0,198.0,51.0,124.0,29.1
+ENG-Premier League,1718,Newcastle Utd,Chancel Mbemba,COD,DF,22.0,7.5,0.0,0.0,0.0,6,4.0,0.0,4.0,18.0,12.0,0.0,0.0,0.0,60.0,24.0,18.0,57.1
+ENG-Premier League,1718,Newcastle Utd,Christian Atsu,GHA,"FW,MF",25.0,19.8,1.0,0.0,0.0,11,29.0,6.0,42.0,18.0,6.0,0.0,0.0,0.0,158.0,20.0,72.0,21.7
+ENG-Premier League,1718,Newcastle Utd,Ciaran Clark,IRL,DF,27.0,19.4,3.0,0.0,0.0,20,14.0,0.0,0.0,29.0,9.0,0.0,2.0,0.0,189.0,56.0,41.0,57.7
+ENG-Premier League,1718,Newcastle Utd,DeAndre Yedlin,USA,DF,24.0,31.6,5.0,0.0,0.0,36,27.0,9.0,64.0,50.0,29.0,0.0,0.0,1.0,268.0,55.0,57.0,49.1
+ENG-Premier League,1718,Newcastle Utd,Dwight Gayle,ENG,FW,26.0,21.8,3.0,0.0,0.0,23,28.0,22.0,8.0,8.0,8.0,0.0,0.0,0.0,78.0,65.0,131.0,33.2
+ENG-Premier League,1718,Newcastle Utd,Florian Lejeune,FRA,DF,26.0,23.4,3.0,0.0,0.0,17,16.0,2.0,2.0,55.0,24.0,0.0,1.0,0.0,263.0,89.0,56.0,61.4
+ENG-Premier League,1718,Newcastle Utd,Henri Saivet,SEN,MF,26.0,0.9,0.0,0.0,0.0,1,0.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,17.0,4.0,2.0,66.7
+ENG-Premier League,1718,Newcastle Utd,Isaac Hayden,ENG,MF,22.0,15.3,7.0,0.0,0.0,31,14.0,0.0,11.0,28.0,25.0,0.0,0.0,0.0,170.0,48.0,56.0,46.2
+ENG-Premier League,1718,Newcastle Utd,Islam Slimani,ALG,FW,29.0,1.5,1.0,0.0,0.0,1,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,7.0,7.0,13.0,35.0
+ENG-Premier League,1718,Newcastle Utd,Jacob Murphy,ENG,"FW,MF",22.0,12.8,0.0,0.0,0.0,12,12.0,0.0,25.0,14.0,12.0,0.0,0.0,0.0,100.0,8.0,29.0,21.6
+ENG-Premier League,1718,Newcastle Utd,Jamaal Lascelles,ENG,DF,23.0,32.5,5.0,0.0,0.0,19,13.0,0.0,3.0,34.0,18.0,0.0,0.0,0.0,323.0,156.0,61.0,71.9
+ENG-Premier League,1718,Newcastle Utd,Javier Manquillo,ESP,DF,23.0,19.5,2.0,0.0,0.0,26,14.0,2.0,22.0,20.0,18.0,0.0,1.0,0.0,147.0,30.0,26.0,53.6
+ENG-Premier League,1718,Newcastle Utd,Jesús Gámez,ESP,DF,32.0,1.1,0.0,0.0,0.0,0,1.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0,9.0,1.0,0.0,100.0
+ENG-Premier League,1718,Newcastle Utd,Jonjo Shelvey,ENG,MF,25.0,25.2,3.0,3.0,1.0,24,11.0,0.0,33.0,44.0,24.0,0.0,0.0,0.0,297.0,20.0,16.0,55.6
+ENG-Premier League,1718,Newcastle Utd,Joselu,ESP,FW,27.0,19.0,2.0,0.0,0.0,30,25.0,3.0,5.0,12.0,12.0,0.0,0.0,0.0,96.0,154.0,155.0,49.8
+ENG-Premier League,1718,Newcastle Utd,Karl Darlow,ENG,GK,26.0,10.0,0.0,0.0,0.0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,46.0,0.0,0.0,
+ENG-Premier League,1718,Newcastle Utd,Kenedy,BRA,"MF,DF",21.0,11.4,1.0,0.0,0.0,20,22.0,0.0,14.0,19.0,17.0,1.0,0.0,0.0,103.0,8.0,25.0,24.2
+ENG-Premier League,1718,Newcastle Utd,Martin Dúbravka,SVK,GK,28.0,12.0,0.0,0.0,0.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,0.0,0.0,
+ENG-Premier League,1718,Newcastle Utd,Massadio Haïdara,MLI,MF,24.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Newcastle Utd,Matt Ritchie,SCO,"MF,FW",27.0,31.2,6.0,0.0,0.0,42,37.0,4.0,98.0,45.0,38.0,0.0,1.0,0.0,290.0,46.0,80.0,36.5
+ENG-Premier League,1718,Newcastle Utd,Mikel Merino,ESP,MF,21.0,15.0,4.0,0.0,0.0,35,35.0,0.0,6.0,46.0,42.0,0.0,0.0,0.0,253.0,48.0,53.0,47.5
+ENG-Premier League,1718,Newcastle Utd,Mohamed Diamé,SEN,MF,30.0,22.7,3.0,0.0,0.0,52,19.0,0.0,5.0,48.0,67.0,0.0,0.0,0.0,226.0,64.0,63.0,50.4
+ENG-Premier League,1718,Newcastle Utd,Opponent Total,,,26.9,38.0,62.0,0.0,0.0,429,444.0,81.0,533.0,472.0,427.0,6.0,1.0,1.0,3783.0,1126.0,1020.0,52.5
+ENG-Premier League,1718,Newcastle Utd,Paul Dummett,WAL,DF,25.0,17.8,1.0,0.0,0.0,10,10.0,0.0,18.0,31.0,18.0,0.0,1.0,0.0,155.0,60.0,36.0,62.5
+ENG-Premier League,1718,Newcastle Utd,Rob Elliot,IRL,GK,31.0,16.0,0.0,0.0,0.0,0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,73.0,0.0,0.0,
+ENG-Premier League,1718,Newcastle Utd,Rolando Aarons,ENG,"FW,MF",21.0,1.5,0.0,0.0,0.0,1,3.0,1.0,3.0,2.0,4.0,0.0,0.0,0.0,13.0,2.0,3.0,40.0
+ENG-Premier League,1718,Newcastle Utd,Squad Total,,,25.6,38.0,,,1.0,463,408.0,64.0,396.0,559.0,410.0,1.0,6.0,3.0,3595.0,1020.0,1126.0,47.5
+ENG-Premier League,1718,Southampton,Alex McCarthy,ENG,GK,27.0,18.0,2.0,0.0,0.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,0.0,0.0,
+ENG-Premier League,1718,Southampton,Charlie Austin,ENG,FW,28.0,11.5,2.0,0.0,0.0,18,20.0,14.0,1.0,3.0,5.0,0.0,0.0,0.0,48.0,42.0,79.0,34.7
+ENG-Premier League,1718,Southampton,Cédric Soares,POR,DF,25.0,31.0,3.0,0.0,0.0,17,20.0,3.0,105.0,35.0,25.0,0.0,0.0,0.0,248.0,38.0,66.0,36.5
+ENG-Premier League,1718,Southampton,Dušan Tadić,SRB,"MF,FW",28.0,31.0,4.0,0.0,0.0,53,55.0,11.0,89.0,22.0,30.0,0.0,0.0,0.0,185.0,14.0,69.0,16.9
+ENG-Premier League,1718,Southampton,Fraser Forster,ENG,GK,29.0,20.0,0.0,0.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0,0.0,0.0,
+ENG-Premier League,1718,Southampton,Guido Carrillo,ARG,FW,26.0,5.0,0.0,0.0,0.0,8,4.0,2.0,2.0,1.0,5.0,0.0,0.0,0.0,20.0,34.0,61.0,35.8
+ENG-Premier League,1718,Southampton,Jack Stephens,ENG,DF,23.0,22.0,6.0,1.0,0.0,14,11.0,2.0,5.0,47.0,22.0,0.0,0.0,0.0,207.0,50.0,41.0,54.9
+ENG-Premier League,1718,Southampton,James Ward-Prowse,ENG,"FW,MF",22.0,19.1,3.0,0.0,0.0,19,14.0,0.0,46.0,14.0,18.0,0.0,0.0,0.0,147.0,28.0,55.0,33.7
+ENG-Premier League,1718,Southampton,Jan Bednarek,POL,DF,21.0,4.7,1.0,0.0,0.0,3,0.0,0.0,0.0,9.0,2.0,0.0,0.0,0.0,35.0,9.0,14.0,39.1
+ENG-Premier League,1718,Southampton,Josh Sims,ENG,"FW,MF",20.0,1.8,0.0,0.0,0.0,1,1.0,2.0,3.0,2.0,3.0,0.0,0.0,0.0,13.0,5.0,6.0,45.5
+ENG-Premier League,1718,Southampton,Jérémy Pied,FRA,DF,28.0,2.0,0.0,0.0,0.0,2,2.0,0.0,6.0,4.0,6.0,0.0,0.0,0.0,21.0,2.0,0.0,100.0
+ENG-Premier League,1718,Southampton,Manolo Gabbiadini,ITA,"FW,MF",25.0,12.0,2.0,0.0,0.0,16,8.0,10.0,6.0,6.0,7.0,0.0,0.0,0.0,45.0,14.0,37.0,27.5
+ENG-Premier League,1718,Southampton,Mario Lemina,GAB,MF,23.0,19.1,2.0,0.0,0.0,29,23.0,2.0,10.0,33.0,52.0,0.0,0.0,0.0,198.0,28.0,15.0,65.1
+ENG-Premier League,1718,Southampton,Matt Targett,ENG,DF,21.0,1.8,0.0,0.0,0.0,2,4.0,0.0,5.0,7.0,3.0,0.0,0.0,0.0,20.0,3.0,1.0,75.0
+ENG-Premier League,1718,Southampton,Maya Yoshida,JPN,DF,28.0,22.8,3.0,2.0,1.0,20,16.0,0.0,1.0,51.0,27.0,1.0,0.0,0.0,219.0,78.0,37.0,67.8
+ENG-Premier League,1718,Southampton,Michael Obafemi,IRL,FW,17.0,0.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+ENG-Premier League,1718,Southampton,Nathan Redmond,ENG,"FW,MF",23.0,21.6,3.0,0.0,0.0,20,24.0,4.0,48.0,20.0,16.0,0.0,0.0,0.0,160.0,12.0,32.0,27.3
+ENG-Premier League,1718,Southampton,Opponent Total,,,26.9,38.0,51.0,2.0,0.0,445,470.0,48.0,462.0,551.0,352.0,2.0,3.0,1.0,3593.0,955.0,816.0,53.9
+ENG-Premier League,1718,Southampton,Oriol Romeu,ESP,MF,25.0,32.2,11.0,0.0,0.0,70,38.0,3.0,5.0,58.0,73.0,0.0,0.0,0.0,488.0,110.0,92.0,54.5
+ENG-Premier League,1718,Southampton,Pierre Højbjerg,DEN,MF,21.0,18.6,6.0,0.0,0.0,40,37.0,1.0,12.0,50.0,42.0,0.0,0.0,0.0,249.0,44.0,35.0,55.7
+ENG-Premier League,1718,Southampton,Ryan Bertrand,ENG,DF,27.0,34.8,2.0,0.0,0.0,34,35.0,1.0,94.0,44.0,25.0,0.0,0.0,0.0,252.0,50.0,52.0,49.0
+ENG-Premier League,1718,Southampton,Sam McQueen,ENG,"DF,FW",22.0,1.6,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0,3.0,0.0,0.0,0.0,19.0,1.0,1.0,50.0
+ENG-Premier League,1718,Southampton,Shane Long,IRL,FW,30.0,17.6,6.0,0.0,0.0,36,36.0,15.0,27.0,9.0,16.0,1.0,0.0,0.0,85.0,82.0,132.0,38.3
+ENG-Premier League,1718,Southampton,Sofiane Boufal,MAR,"FW,MF",23.0,13.5,1.0,0.0,0.0,30,34.0,3.0,30.0,11.0,32.0,0.0,0.0,0.0,92.0,9.0,14.0,39.1
+ENG-Premier League,1718,Southampton,Squad Total,,,26.2,38.0,,,1.0,477,423.0,77.0,516.0,522.0,482.0,3.0,2.0,0.0,3514.0,816.0,955.0,46.1
+ENG-Premier League,1718,Southampton,Steven Davis,NIR,"MF,FW",32.0,16.9,0.0,0.0,0.0,9,11.0,3.0,12.0,13.0,20.0,1.0,0.0,0.0,213.0,17.0,30.0,36.2
+ENG-Premier League,1718,Southampton,Virgil van Dijk,NED,DF,26.0,11.0,0.0,0.0,0.0,7,11.0,0.0,2.0,21.0,6.0,0.0,1.0,0.0,103.0,69.0,26.0,72.6
+ENG-Premier League,1718,Southampton,Wesley Hoedt,NED,DF,23.0,28.0,7.0,0.0,0.0,29,16.0,0.0,5.0,59.0,44.0,0.0,1.0,0.0,289.0,77.0,59.0,56.6
+ENG-Premier League,1718,Stoke City,Badou Ndiaye,SEN,MF,26.0,12.6,5.0,0.0,0.0,34,25.0,2.0,4.0,18.0,26.0,0.0,1.0,0.0,121.0,14.0,13.0,51.9
+ENG-Premier League,1718,Stoke City,Bojan Krkić,ESP,FW,26.0,0.8,0.0,0.0,0.0,1,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,
+ENG-Premier League,1718,Stoke City,Bruno Martins Indi,NED,DF,25.0,13.8,3.0,0.0,0.0,16,6.0,1.0,3.0,23.0,10.0,0.0,1.0,0.0,92.0,34.0,20.0,63.0
+ENG-Premier League,1718,Stoke City,Charlie Adam,SCO,MF,31.0,4.6,2.0,1.0,0.0,8,8.0,0.0,11.0,6.0,6.0,0.0,0.0,0.0,60.0,10.0,3.0,76.9
+ENG-Premier League,1718,Stoke City,Darren Fletcher,SCO,MF,33.0,24.7,0.0,0.0,0.0,21,28.0,0.0,17.0,28.0,22.0,0.0,0.0,0.0,283.0,39.0,25.0,60.9
+ENG-Premier League,1718,Stoke City,Eric Maxim Choupo-Moting,CMR,"FW,MF",28.0,25.7,3.0,0.0,0.0,26,27.0,14.0,35.0,29.0,29.0,0.0,0.0,0.0,161.0,66.0,92.0,41.8
+ENG-Premier League,1718,Stoke City,Erik Pieters,NED,DF,28.0,30.2,5.0,0.0,0.0,63,34.0,2.0,49.0,70.0,47.0,0.0,1.0,0.0,300.0,54.0,52.0,50.9
+ENG-Premier League,1718,Stoke City,Geoff Cameron,USA,"DF,MF",32.0,16.9,2.0,0.0,0.0,22,8.0,0.0,11.0,38.0,27.0,0.0,1.0,0.0,150.0,47.0,38.0,55.3
+ENG-Premier League,1718,Stoke City,Glen Johnson,ENG,DF,32.0,6.1,3.0,0.0,0.0,8,5.0,0.0,8.0,14.0,3.0,0.0,0.0,0.0,54.0,7.0,2.0,77.8
+ENG-Premier League,1718,Stoke City,Ibrahim Afellay,NED,MF,31.0,1.8,1.0,0.0,0.0,1,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,19.0,1.0,1.0,50.0
+ENG-Premier League,1718,Stoke City,Jack Butland,ENG,GK,24.0,35.0,0.0,0.0,0.0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,205.0,0.0,0.0,
+ENG-Premier League,1718,Stoke City,Jesé,ESP,"FW,MF",24.0,6.8,0.0,0.0,0.0,10,6.0,1.0,10.0,2.0,6.0,1.0,0.0,0.0,45.0,6.0,11.0,35.3
+ENG-Premier League,1718,Stoke City,Joe Allen,WAL,MF,27.0,34.9,8.0,0.0,0.0,58,56.0,0.0,18.0,63.0,64.0,0.0,0.0,0.0,423.0,49.0,72.0,40.5
+ENG-Premier League,1718,Stoke City,Josh Tymon,ENG,DF,18.0,1.8,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,13.0,2.0,1.0,66.7
+ENG-Premier League,1718,Stoke City,Julien Ngoy,BEL,MF,19.0,0.2,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Stoke City,Kevin Wimmer,AUT,DF,24.0,14.7,5.0,0.0,0.0,22,6.0,0.0,2.0,24.0,23.0,0.0,0.0,0.0,120.0,27.0,21.0,56.3
+ENG-Premier League,1718,Stoke City,Kostas Stafylidis,GRE,"DF,MF",23.0,3.7,0.0,0.0,0.0,5,3.0,1.0,7.0,9.0,3.0,0.0,0.0,0.0,31.0,6.0,3.0,66.7
+ENG-Premier League,1718,Stoke City,Kurt Zouma,FRA,DF,22.0,32.1,1.0,0.0,0.0,22,21.0,1.0,10.0,86.0,34.0,0.0,0.0,0.0,285.0,137.0,36.0,79.2
+ENG-Premier League,1718,Stoke City,Lasse Sørensen,DEN,MF,17.0,0.8,0.0,0.0,0.0,2,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,13.0,1.0,0.0,100.0
+ENG-Premier League,1718,Stoke City,Lee Grant,ENG,GK,34.0,3.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,
+ENG-Premier League,1718,Stoke City,Mame Biram Diouf,SEN,"FW,DF",29.0,28.8,6.0,0.0,0.0,46,41.0,23.0,20.0,21.0,37.0,0.0,0.0,0.0,145.0,154.0,161.0,48.9
+ENG-Premier League,1718,Stoke City,Moritz Bauer,AUT,"DF,MF",25.0,14.5,4.0,0.0,0.0,21,19.0,1.0,34.0,14.0,14.0,0.0,0.0,0.0,106.0,26.0,28.0,48.1
+ENG-Premier League,1718,Stoke City,Opponent Total,,,26.9,38.0,49.0,0.0,0.0,431,496.0,92.0,548.0,494.0,382.0,5.0,3.0,1.0,3644.0,895.0,1155.0,43.7
+ENG-Premier League,1718,Stoke City,Peter Crouch,ENG,FW,36.0,17.4,4.0,0.0,0.0,42,15.0,14.0,2.0,3.0,2.0,0.0,0.0,0.0,84.0,280.0,145.0,65.9
+ENG-Premier League,1718,Stoke City,Ramadan Sobhi,EGY,"FW,MF",20.0,13.8,2.0,0.0,0.0,15,19.0,3.0,14.0,13.0,25.0,0.0,0.0,0.0,98.0,13.0,23.0,36.1
+ENG-Premier League,1718,Stoke City,Ryan Shawcross,ENG,DF,29.0,26.3,2.0,0.0,0.0,30,20.0,4.0,0.0,35.0,23.0,0.0,1.0,1.0,233.0,156.0,74.0,67.8
+ENG-Premier League,1718,Stoke City,Saido Berahino,BDI,FW,23.0,5.5,0.0,0.0,0.0,6,4.0,4.0,3.0,3.0,2.0,1.0,0.0,0.0,22.0,5.0,27.0,15.6
+ENG-Premier League,1718,Stoke City,Squad Total,,,27.5,38.0,,,0.0,517,414.0,87.0,377.0,541.0,435.0,2.0,5.0,2.0,3358.0,1155.0,895.0,56.3
+ENG-Premier League,1718,Stoke City,Stephen Ireland,IRL,MF,30.0,1.5,1.0,0.0,0.0,1,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,0.0,3.0,0.0
+ENG-Premier League,1718,Stoke City,Tom Edwards,ENG,DF,18.0,5.3,0.0,0.0,0.0,4,3.0,0.0,14.0,7.0,10.0,0.0,0.0,0.0,46.0,9.0,8.0,52.9
+ENG-Premier League,1718,Stoke City,Tyrese Campbell,ENG,FW,17.0,0.9,0.0,0.0,0.0,0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,7.0,2.0,4.0,33.3
+ENG-Premier League,1718,Stoke City,Xherdan Shaqiri,SUI,"FW,MF",25.0,33.8,5.0,0.0,0.0,32,53.0,15.0,101.0,30.0,16.0,0.0,0.0,0.0,209.0,10.0,32.0,23.8
+ENG-Premier League,1718,Swansea City,Alfie Mawson,ENG,DF,23.0,38.0,3.0,0.0,0.0,21,14.0,1.0,6.0,58.0,22.0,0.0,0.0,0.0,345.0,130.0,90.0,59.1
+ENG-Premier League,1718,Swansea City,André Ayew,GHA,"FW,MF",27.0,10.6,3.0,0.0,0.0,21,22.0,3.0,3.0,8.0,12.0,1.0,0.0,0.0,47.0,23.0,50.0,31.5
+ENG-Premier League,1718,Swansea City,Andy King,WAL,MF,28.0,7.9,1.0,0.0,0.0,7,7.0,0.0,10.0,15.0,10.0,0.0,0.0,0.0,90.0,6.0,14.0,30.0
+ENG-Premier League,1718,Swansea City,Connor Roberts,WAL,DF,21.0,3.0,0.0,0.0,0.0,1,7.0,0.0,6.0,8.0,3.0,0.0,0.0,0.0,22.0,3.0,7.0,30.0
+ENG-Premier League,1718,Swansea City,Federico Fernández,ARG,DF,28.0,29.7,5.0,0.0,0.0,31,19.0,2.0,3.0,38.0,21.0,0.0,2.0,1.0,271.0,90.0,63.0,58.8
+ENG-Premier League,1718,Swansea City,Jay Fulton,SCO,MF,23.0,0.2,1.0,0.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,
+ENG-Premier League,1718,Swansea City,Jordan Ayew,GHA,"FW,MF",25.0,31.7,2.0,1.0,0.0,69,102.0,8.0,37.0,35.0,63.0,0.0,0.0,0.0,198.0,67.0,155.0,30.2
+ENG-Premier League,1718,Swansea City,Ki Sung-yueng,KOR,MF,28.0,20.8,2.0,0.0,0.0,10,20.0,1.0,11.0,36.0,15.0,0.0,0.0,0.0,162.0,13.0,21.0,38.2
+ENG-Premier League,1718,Swansea City,Kyle Bartley,ENG,DF,26.0,2.6,2.0,0.0,0.0,5,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,22.0,15.0,3.0,83.3
+ENG-Premier League,1718,Swansea City,Kyle Naughton,ENG,DF,28.0,33.7,1.0,0.0,0.0,40,28.0,0.0,42.0,77.0,56.0,0.0,0.0,1.0,335.0,78.0,75.0,51.0
+ENG-Premier League,1718,Swansea City,Leon Britton,ENG,MF,34.0,3.4,1.0,0.0,0.0,7,1.0,0.0,1.0,4.0,7.0,0.0,0.0,0.0,33.0,0.0,5.0,0.0
+ENG-Premier League,1718,Swansea City,Leroy Fer,NED,MF,27.0,15.5,5.0,0.0,0.0,34,31.0,1.0,5.0,17.0,31.0,0.0,0.0,0.0,121.0,40.0,26.0,60.6
+ENG-Premier League,1718,Swansea City,Luciano Narsingh,NED,"FW,MF",26.0,6.9,0.0,0.0,0.0,4,15.0,4.0,18.0,12.0,8.0,0.0,0.0,0.0,43.0,6.0,19.0,24.0
+ENG-Premier League,1718,Swansea City,Martin Olsson,SWE,DF,29.0,35.0,7.0,0.0,0.0,27,26.0,3.0,120.0,45.0,20.0,0.0,2.0,0.0,260.0,59.0,43.0,57.8
+ENG-Premier League,1718,Swansea City,Mike van der Hoorn,NED,DF,24.0,21.6,4.0,0.0,0.0,25,16.0,0.0,7.0,37.0,27.0,0.0,1.0,0.0,149.0,68.0,52.0,56.7
+ENG-Premier League,1718,Swansea City,Nathan Dyer,ENG,"MF,FW",29.0,14.5,2.0,0.0,0.0,17,29.0,1.0,27.0,15.0,11.0,0.0,0.0,0.0,115.0,7.0,45.0,13.5
+ENG-Premier League,1718,Swansea City,Oliver McBurnie,SCO,"FW,MF",21.0,3.1,0.0,0.0,0.0,3,4.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,15.0,29.0,26.0,52.7
+ENG-Premier League,1718,Swansea City,Opponent Total,,,27.1,38.0,68.0,0.0,0.0,474,417.0,86.0,533.0,464.0,437.0,5.0,1.0,1.0,3500.0,955.0,803.0,54.3
+ENG-Premier League,1718,Swansea City,Renato Sanches,POR,MF,19.0,7.8,1.0,0.0,0.0,9,23.0,0.0,17.0,14.0,5.0,0.0,0.0,0.0,66.0,4.0,10.0,28.6
+ENG-Premier League,1718,Swansea City,Roque Mesa,ESP,MF,28.0,8.4,3.0,0.0,0.0,20,11.0,0.0,0.0,10.0,15.0,0.0,1.0,0.0,116.0,2.0,6.0,25.0
+ENG-Premier League,1718,Swansea City,Sam Clucas,ENG,"MF,FW",26.0,22.7,2.0,0.0,0.0,13,17.0,3.0,22.0,31.0,20.0,0.0,0.0,0.0,163.0,41.0,45.0,47.7
+ENG-Premier League,1718,Swansea City,Squad Total,,,27.2,38.0,,,0.0,437,458.0,39.0,420.0,525.0,394.0,1.0,6.0,2.0,3117.0,803.0,955.0,45.7
+ENG-Premier League,1718,Swansea City,Tammy Abraham,ENG,FW,19.0,19.2,0.0,0.0,0.0,16,30.0,9.0,14.0,5.0,6.0,0.0,0.0,0.0,66.0,53.0,87.0,37.9
+ENG-Premier League,1718,Swansea City,Tom Carroll,ENG,MF,25.0,28.6,3.0,0.0,0.0,32,19.0,1.0,51.0,46.0,30.0,0.0,0.0,0.0,227.0,13.0,25.0,34.2
+ENG-Premier League,1718,Swansea City,Wayne Routledge,ENG,"MF,FW",32.0,4.8,1.0,0.0,0.0,10,2.0,0.0,11.0,3.0,4.0,0.0,0.0,0.0,31.0,6.0,16.0,27.3
+ENG-Premier League,1718,Swansea City,Wilfried Bony,CIV,FW,28.0,7.9,2.0,0.0,0.0,9,11.0,2.0,1.0,5.0,4.0,0.0,0.0,0.0,25.0,49.0,65.0,43.0
+ENG-Premier League,1718,Swansea City,Àngel Rangel,ESP,DF,34.0,1.7,0.0,0.0,0.0,3,0.0,0.0,6.0,1.0,2.0,0.0,0.0,0.0,19.0,1.0,6.0,14.3
+ENG-Premier League,1718,Swansea City,Łukasz Fabiański,POL,GK,32.0,38.0,0.0,0.0,0.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,173.0,0.0,1.0,0.0
+ENG-Premier League,1718,Tottenham,Ben Davies,WAL,DF,24.0,25.8,3.0,0.0,0.0,25,29.0,0.0,80.0,30.0,30.0,0.0,0.0,0.0,243.0,57.0,57.0,50.0
+ENG-Premier League,1718,Tottenham,Christian Eriksen,DEN,"MF,FW",25.0,35.8,0.0,0.0,0.0,17,28.0,1.0,107.0,36.0,37.0,0.0,0.0,0.0,353.0,25.0,42.0,37.3
+ENG-Premier League,1718,Tottenham,Danny Rose,ENG,DF,27.0,8.9,4.0,0.0,0.0,13,25.0,0.0,38.0,11.0,10.0,0.0,0.0,0.0,92.0,10.0,7.0,58.8
+ENG-Premier League,1718,Tottenham,Davinson Sánchez,COL,DF,21.0,28.2,1.0,1.0,0.0,25,20.0,0.0,2.0,44.0,20.0,0.0,0.0,1.0,352.0,78.0,65.0,54.5
+ENG-Premier League,1718,Tottenham,Dele Alli,ENG,"MF,FW",21.0,32.9,7.0,0.0,0.0,45,103.0,5.0,30.0,31.0,40.0,1.0,0.0,0.0,259.0,33.0,71.0,31.7
+ENG-Premier League,1718,Tottenham,Eric Dier,ENG,"MF,DF",23.0,31.4,4.0,0.0,0.0,27,15.0,1.0,16.0,52.0,42.0,0.0,0.0,0.0,325.0,97.0,72.0,57.4
+ENG-Premier League,1718,Tottenham,Fernando Llorente,ESP,FW,32.0,2.6,1.0,0.0,0.0,6,4.0,2.0,2.0,1.0,4.0,0.0,0.0,0.0,10.0,18.0,23.0,43.9
+ENG-Premier League,1718,Tottenham,Georges-Kévin N'Koudou,FRA,MF,22.0,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+ENG-Premier League,1718,Tottenham,Harry Kane,ENG,FW,24.0,34.2,5.0,0.0,0.0,40,49.0,43.0,24.0,7.0,11.0,1.0,0.0,0.0,124.0,71.0,111.0,39.0
+ENG-Premier League,1718,Tottenham,Harry Winks,ENG,MF,21.0,8.6,0.0,0.0,0.0,8,11.0,0.0,8.0,14.0,9.0,0.0,0.0,0.0,89.0,6.0,10.0,37.5
+ENG-Premier League,1718,Tottenham,Hugo Lloris,FRA,GK,30.0,36.0,1.0,0.0,0.0,1,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,187.0,0.0,0.0,
+ENG-Premier League,1718,Tottenham,Jan Vertonghen,BEL,DF,30.0,35.6,4.0,0.0,0.0,24,33.0,1.0,10.0,78.0,40.0,0.0,1.0,0.0,487.0,138.0,69.0,66.7
+ENG-Premier League,1718,Tottenham,Kieran Trippier,ENG,DF,26.0,21.3,1.0,0.0,0.0,20,24.0,3.0,90.0,29.0,29.0,0.0,0.0,0.0,248.0,42.0,42.0,50.0
+ENG-Premier League,1718,Tottenham,Kyle Walker-Peters,ENG,DF,20.0,2.1,0.0,0.0,0.0,1,5.0,0.0,10.0,4.0,6.0,0.0,0.0,0.0,13.0,2.0,5.0,28.6
+ENG-Premier League,1718,Tottenham,Lucas Moura,BRA,"FW,MF",24.0,2.3,0.0,0.0,0.0,4,8.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,14.0,5.0,1.0,83.3
+ENG-Premier League,1718,Tottenham,Michel Vorm,NED,GK,33.0,1.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,
+ENG-Premier League,1718,Tottenham,Mousa Dembélé,BEL,MF,30.0,20.9,6.0,0.0,0.0,57,38.0,0.0,4.0,39.0,33.0,0.0,0.0,0.0,238.0,14.0,19.0,42.4
+ENG-Premier League,1718,Tottenham,Moussa Sissoko,FRA,"MF,FW",27.0,15.4,3.0,0.0,0.0,23,12.0,3.0,29.0,13.0,15.0,0.0,0.0,0.0,148.0,27.0,20.0,57.4
+ENG-Premier League,1718,Tottenham,Opponent Total,,,26.9,38.0,75.0,1.0,0.0,510,415.0,114.0,399.0,611.0,493.0,3.0,3.0,4.0,3440.0,758.0,730.0,50.9
+ENG-Premier League,1718,Tottenham,Paulo Gazzaniga,ARG,GK,25.0,1.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,
+ENG-Premier League,1718,Tottenham,Serge Aurier,CIV,DF,24.0,15.9,2.0,2.0,1.0,28,19.0,2.0,49.0,31.0,29.0,0.0,1.0,0.0,176.0,53.0,35.0,60.2
+ENG-Premier League,1718,Tottenham,Son Heung-min,KOR,"FW,MF",25.0,25.7,0.0,0.0,0.0,16,34.0,25.0,40.0,12.0,15.0,0.0,0.0,0.0,140.0,1.0,35.0,2.8
+ENG-Premier League,1718,Tottenham,Squad Total,,,25.8,38.0,,,1.0,431,496.0,89.0,555.0,455.0,422.0,3.0,3.0,1.0,3837.0,730.0,758.0,49.1
+ENG-Premier League,1718,Tottenham,Toby Alderweireld,BEL,DF,28.0,13.1,3.0,0.0,0.0,10,1.0,0.0,4.0,6.0,10.0,0.0,0.0,0.0,131.0,26.0,35.0,42.6
+ENG-Premier League,1718,Tottenham,Victor Wanyama,KEN,MF,26.0,9.4,2.0,0.0,0.0,13,16.0,0.0,1.0,6.0,25.0,0.0,0.0,0.0,143.0,19.0,15.0,55.9
+ENG-Premier League,1718,Tottenham,Vincent Janssen,NED,DF,23.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,Tottenham,Érik Lamela,ARG,"FW,MF",25.0,9.4,4.0,0.0,0.0,28,19.0,3.0,10.0,8.0,17.0,1.0,0.0,0.0,58.0,8.0,24.0,25.0
+ENG-Premier League,1718,Watford,Abdoulaye Doucouré,MLI,MF,24.0,36.9,10.0,0.0,0.0,57,34.0,2.0,24.0,67.0,55.0,0.0,1.0,0.0,554.0,64.0,61.0,51.2
+ENG-Premier League,1718,Watford,Adrian Mariappa,JAM,DF,30.0,24.6,4.0,0.0,0.0,34,17.0,0.0,3.0,46.0,26.0,0.0,0.0,0.0,224.0,97.0,77.0,55.7
+ENG-Premier League,1718,Watford,Andre Gray,JAM,FW,26.0,16.6,1.0,0.0,0.0,15,10.0,13.0,13.0,5.0,2.0,1.0,0.0,0.0,50.0,27.0,82.0,24.8
+ENG-Premier League,1718,Watford,André Carrillo,PER,"FW,MF",26.0,17.1,2.0,0.0,0.0,12,20.0,5.0,49.0,27.0,24.0,0.0,0.0,0.0,149.0,15.0,38.0,28.3
+ENG-Premier League,1718,Watford,Ben Watson,ENG,MF,32.0,5.1,1.0,0.0,0.0,15,5.0,0.0,1.0,8.0,9.0,0.0,0.0,0.0,69.0,9.0,9.0,50.0
+ENG-Premier League,1718,Watford,Christian Kabasele,BEL,DF,26.0,25.9,5.0,0.0,0.0,35,16.0,0.0,4.0,49.0,31.0,0.0,1.0,1.0,193.0,118.0,51.0,69.8
+ENG-Premier League,1718,Watford,Craig Cathcart,NIR,DF,28.0,5.8,1.0,0.0,0.0,2,1.0,0.0,0.0,10.0,8.0,0.0,0.0,0.0,36.0,11.0,4.0,73.3
+ENG-Premier League,1718,Watford,Daryl Janmaat,NED,DF,28.0,20.2,3.0,0.0,0.0,17,5.0,1.0,54.0,36.0,29.0,0.0,0.0,0.0,200.0,31.0,17.0,64.6
+ENG-Premier League,1718,Watford,Dodi Lukebakio,BEL,"MF,FW",19.0,0.2,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,
+ENG-Premier League,1718,Watford,Gerard Deulofeu,ESP,"FW,MF",23.0,4.8,0.0,0.0,0.0,3,6.0,1.0,7.0,4.0,6.0,1.0,0.0,0.0,43.0,0.0,6.0,0.0
+ENG-Premier League,1718,Watford,Heurelho Gomes,BRA,GK,36.0,23.6,0.0,0.0,0.0,1,4.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,144.0,0.0,0.0,
+ENG-Premier League,1718,Watford,Jerome Sinclair,ENG,"FW,MF",20.0,0.3,0.0,0.0,0.0,1,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0
+ENG-Premier League,1718,Watford,José Holebas,GRE,DF,33.0,26.5,7.0,0.0,0.0,46,20.0,1.0,106.0,48.0,32.0,0.0,2.0,0.0,259.0,60.0,32.0,65.2
+ENG-Premier League,1718,Watford,Kiko Femenía,ESP,"DF,FW",26.0,19.0,2.0,0.0,0.0,12,26.0,2.0,50.0,49.0,18.0,0.0,0.0,0.0,155.0,12.0,21.0,36.4
+ENG-Premier League,1718,Watford,Marvin Zeegelaar,NED,DF,26.0,11.0,4.0,1.0,0.0,19,10.0,0.0,24.0,22.0,19.0,0.0,0.0,0.0,113.0,22.0,11.0,66.7
+ENG-Premier League,1718,Watford,Miguel Britos,URU,DF,32.0,8.9,3.0,1.0,0.0,9,6.0,0.0,4.0,22.0,5.0,0.0,0.0,0.0,79.0,34.0,17.0,66.7
+ENG-Premier League,1718,Watford,Molla Wagué,MLI,DF,26.0,4.9,0.0,0.0,0.0,5,1.0,0.0,1.0,9.0,4.0,0.0,1.0,0.0,39.0,18.0,6.0,75.0
+ENG-Premier League,1718,Watford,Nathaniel Chalobah,ENG,MF,22.0,5.0,1.0,0.0,0.0,6,8.0,1.0,3.0,10.0,8.0,0.0,0.0,0.0,56.0,11.0,3.0,78.6
+ENG-Premier League,1718,Watford,Nordin Amrabat,MAR,FW,30.0,2.2,0.0,0.0,0.0,6,2.0,2.0,9.0,0.0,4.0,0.0,0.0,0.0,13.0,1.0,10.0,9.1
+ENG-Premier League,1718,Watford,Opponent Total,,,26.9,38.0,65.0,3.0,2.0,448,492.0,117.0,477.0,505.0,433.0,5.0,6.0,2.0,3577.0,1043.0,976.0,51.7
+ENG-Premier League,1718,Watford,Orestis Karnezis,GRE,GK,32.0,14.4,0.0,0.0,0.0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.0,0.0,0.0,
+ENG-Premier League,1718,Watford,Richarlison,BRA,"FW,MF",20.0,31.4,4.0,0.0,0.0,44,102.0,22.0,49.0,35.0,37.0,2.0,0.0,0.0,212.0,114.0,167.0,40.6
+ENG-Premier League,1718,Watford,Roberto Pereyra,ARG,"MF,FW",26.0,18.0,3.0,0.0,0.0,18,33.0,2.0,35.0,13.0,12.0,2.0,0.0,0.0,156.0,5.0,27.0,15.6
+ENG-Premier League,1718,Watford,Sebastian Prödl,AUT,DF,30.0,17.4,5.0,0.0,0.0,24,9.0,3.0,0.0,33.0,21.0,0.0,0.0,0.0,140.0,53.0,37.0,58.9
+ENG-Premier League,1718,Watford,Squad Total,,,27.9,38.0,,,1.0,512,441.0,78.0,500.0,594.0,454.0,6.0,6.0,1.0,3701.0,976.0,1043.0,48.3
+ENG-Premier League,1718,Watford,Stefano Okaka,ITA,"FW,MF",27.0,5.0,2.0,0.0,0.0,23,13.0,4.0,3.0,0.0,5.0,0.0,0.0,0.0,40.0,22.0,35.0,38.6
+ENG-Premier League,1718,Watford,Tom Cleverley,ENG,MF,27.0,21.1,2.0,2.0,1.0,34,29.0,1.0,38.0,32.0,29.0,0.0,0.0,0.0,252.0,30.0,51.0,37.0
+ENG-Premier League,1718,Watford,Troy Deeney,ENG,FW,29.0,20.5,1.0,1.0,0.0,27,19.0,16.0,12.0,7.0,15.0,0.0,0.0,0.0,113.0,154.0,217.0,41.5
+ENG-Premier League,1718,Watford,Will Hughes,ENG,"MF,FW",22.0,11.0,0.0,0.0,0.0,23,22.0,1.0,6.0,16.0,18.0,0.0,0.0,0.0,92.0,10.0,29.0,25.6
+ENG-Premier League,1718,Watford,Younès Kaboul,FRA,DF,31.0,1.7,0.0,0.0,0.0,1,0.0,0.0,1.0,4.0,3.0,0.0,0.0,0.0,16.0,9.0,4.0,69.2
+ENG-Premier League,1718,Watford,Étienne Capoue,FRA,MF,29.0,17.1,3.0,0.0,0.0,23,20.0,1.0,4.0,39.0,33.0,0.0,0.0,0.0,218.0,49.0,30.0,62.0
+ENG-Premier League,1718,West Brom,Ahmed Hegazi,EGY,DF,26.0,37.6,4.0,0.0,0.0,27,16.0,2.0,11.0,87.0,36.0,0.0,0.0,0.0,335.0,129.0,80.0,61.7
+ENG-Premier League,1718,West Brom,Allan Nyom,CMR,DF,29.0,25.7,7.0,0.0,0.0,24,22.0,0.0,71.0,47.0,37.0,0.0,1.0,0.0,221.0,28.0,27.0,50.9
+ENG-Premier League,1718,West Brom,Ben Foster,ENG,GK,34.0,37.0,2.0,0.0,0.0,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,178.0,0.0,0.0,
+ENG-Premier League,1718,West Brom,Boaz Myhill,WAL,GK,34.0,1.0,1.0,0.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+ENG-Premier League,1718,West Brom,Chris Brunt,NIR,"MF,DF",32.0,21.3,5.0,0.0,0.0,27,8.0,0.0,40.0,42.0,21.0,0.0,0.0,0.0,207.0,19.0,21.0,47.5
+ENG-Premier League,1718,West Brom,Claudio Yacob,ARG,MF,30.0,10.0,5.0,0.0,0.0,32,12.0,0.0,1.0,21.0,23.0,0.0,0.0,0.0,136.0,17.0,25.0,40.5
+ENG-Premier League,1718,West Brom,Craig Dawson,ENG,DF,27.0,27.9,6.0,0.0,0.0,40,25.0,3.0,27.0,61.0,31.0,0.0,0.0,0.0,272.0,131.0,67.0,66.2
+ENG-Premier League,1718,West Brom,Daniel Sturridge,ENG,"FW,MF",27.0,1.3,0.0,0.0,0.0,1,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,4.0,20.0
+ENG-Premier League,1718,West Brom,Gareth Barry,ENG,MF,36.0,21.4,4.0,0.0,0.0,35,35.0,1.0,14.0,25.0,27.0,0.0,0.0,0.0,278.0,48.0,48.0,50.0
+ENG-Premier League,1718,West Brom,Gareth McAuley,NIR,DF,37.0,5.1,0.0,0.0,0.0,3,5.0,0.0,1.0,14.0,4.0,0.0,0.0,0.0,49.0,18.0,12.0,60.0
+ENG-Premier League,1718,West Brom,Grzegorz Krychowiak,POL,MF,27.0,18.2,2.0,0.0,0.0,45,45.0,1.0,6.0,46.0,30.0,0.0,0.0,0.0,200.0,25.0,16.0,61.0
+ENG-Premier League,1718,West Brom,Hal Robson-Kanu,WAL,"FW,MF",28.0,9.2,2.0,1.0,0.0,21,27.0,6.0,12.0,7.0,3.0,0.0,0.0,0.0,58.0,22.0,67.0,24.7
+ENG-Premier League,1718,West Brom,Jake Livermore,ENG,MF,27.0,29.7,5.0,0.0,0.0,54,20.0,1.0,10.0,41.0,43.0,0.0,0.0,0.0,281.0,33.0,30.0,52.4
+ENG-Premier League,1718,West Brom,James McClean,IRL,"MF,FW",28.0,15.6,7.0,0.0,0.0,42,14.0,5.0,47.0,29.0,21.0,0.0,0.0,1.0,127.0,14.0,31.0,31.1
+ENG-Premier League,1718,West Brom,James Morrison,SCO,MF,31.0,2.3,0.0,0.0,0.0,2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,21.0,0.0,3.0,0.0
+ENG-Premier League,1718,West Brom,Jay Rodriguez,ENG,"FW,MF",28.0,31.2,2.0,0.0,0.0,47,36.0,18.0,24.0,26.0,22.0,0.0,0.0,0.0,168.0,86.0,98.0,46.7
+ENG-Premier League,1718,West Brom,Jonny Evans,NIR,DF,29.0,25.2,7.0,0.0,0.0,30,27.0,0.0,7.0,65.0,19.0,0.0,0.0,1.0,271.0,68.0,41.0,62.4
+ENG-Premier League,1718,West Brom,Kieran Gibbs,ENG,DF,27.0,31.4,3.0,0.0,0.0,24,11.0,1.0,64.0,53.0,30.0,0.0,0.0,0.0,295.0,46.0,48.0,48.9
+ENG-Premier League,1718,West Brom,Matt Phillips,SCO,"MF,FW",26.0,23.3,3.0,0.0,0.0,15,13.0,11.0,97.0,24.0,19.0,0.0,0.0,0.0,158.0,37.0,49.0,43.0
+ENG-Premier League,1718,West Brom,Nacer Chadli,BEL,"MF,FW",27.0,2.9,1.0,0.0,0.0,1,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,20.0,1.0,2.0,33.3
+ENG-Premier League,1718,West Brom,Oliver Burke,SCO,"FW,MF",20.0,4.1,0.0,0.0,0.0,3,5.0,1.0,8.0,7.0,5.0,0.0,0.0,0.0,24.0,8.0,8.0,50.0
+ENG-Premier League,1718,West Brom,Opponent Total,,,26.9,38.0,56.0,1.0,1.0,409,521.0,54.0,571.0,385.0,440.0,1.0,1.0,0.0,3685.0,978.0,932.0,51.2
+ENG-Premier League,1718,West Brom,Rekeem Harper,ENG,MF,17.0,0.2,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,100.0
+ENG-Premier League,1718,West Brom,Salomón Rondón,VEN,FW,27.0,30.7,4.0,0.0,0.0,45,59.0,29.0,25.0,23.0,13.0,0.0,0.0,0.0,188.0,185.0,285.0,39.4
+ENG-Premier League,1718,West Brom,Sam Field,ENG,MF,19.0,6.0,3.0,0.0,0.0,16,8.0,0.0,3.0,11.0,10.0,0.0,0.0,0.0,56.0,15.0,16.0,48.4
+ENG-Premier League,1718,West Brom,Squad Total,,,29.1,38.0,,,0.0,536,394.0,80.0,472.0,630.0,397.0,0.0,1.0,2.0,3554.0,932.0,978.0,48.8
+ENG-Premier League,1718,West Ham,Aaron Cresswell,ENG,DF,27.0,34.1,7.0,0.0,0.0,25,17.0,3.0,93.0,52.0,18.0,0.0,0.0,0.0,277.0,69.0,57.0,54.8
+ENG-Premier League,1718,West Ham,Adrián,ESP,GK,30.0,19.0,2.0,0.0,0.0,1,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,116.0,0.0,0.0,
+ENG-Premier League,1718,West Ham,André Ayew,GHA,"MF,FW",27.0,9.9,2.0,0.0,0.0,7,17.0,3.0,4.0,4.0,12.0,0.0,0.0,0.0,55.0,23.0,54.0,29.9
+ENG-Premier League,1718,West Ham,Andy Carroll,ENG,FW,28.0,8.3,6.0,2.0,1.0,29,16.0,6.0,8.0,2.0,3.0,0.0,0.0,0.0,46.0,87.0,66.0,56.9
+ENG-Premier League,1718,West Ham,Angelo Ogbonna,ITA,DF,29.0,32.0,3.0,0.0,0.0,17,18.0,1.0,2.0,51.0,26.0,0.0,1.0,0.0,268.0,102.0,71.0,59.0
+ENG-Premier League,1718,West Ham,Arthur Masuaku,COD,DF,23.0,20.8,5.0,0.0,0.0,33,37.0,2.0,69.0,37.0,41.0,0.0,0.0,0.0,179.0,25.0,20.0,55.6
+ENG-Premier League,1718,West Ham,Cheikhou Kouyaté,SEN,MF,27.0,31.1,5.0,0.0,0.0,50,45.0,6.0,11.0,42.0,44.0,0.0,1.0,0.0,325.0,147.0,116.0,55.9
+ENG-Premier League,1718,West Ham,Declan Rice,ENG,"DF,MF",18.0,15.9,1.0,0.0,0.0,6,1.0,0.0,2.0,28.0,17.0,0.0,0.0,0.0,139.0,27.0,32.0,45.8
+ENG-Premier League,1718,West Ham,Diafra Sakho,SEN,"FW,MF",27.0,3.4,2.0,0.0,0.0,3,6.0,5.0,4.0,1.0,6.0,1.0,0.0,0.0,10.0,16.0,28.0,36.4
+ENG-Premier League,1718,West Ham,Edimilson Fernandes,SUI,"MF,FW",21.0,9.4,1.0,0.0,0.0,5,11.0,0.0,6.0,18.0,10.0,0.0,0.0,0.0,73.0,8.0,14.0,36.4
+ENG-Premier League,1718,West Ham,James Collins,WAL,DF,33.0,11.7,3.0,0.0,0.0,13,2.0,0.0,0.0,17.0,8.0,0.0,0.0,0.0,114.0,66.0,32.0,67.3
+ENG-Premier League,1718,West Ham,Javier Hernández,MEX,FW,29.0,17.2,3.0,0.0,0.0,16,52.0,14.0,17.0,6.0,4.0,1.0,0.0,0.0,65.0,25.0,52.0,32.5
+ENG-Premier League,1718,West Ham,Joe Hart,ENG,GK,30.0,19.0,0.0,0.0,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,95.0,0.0,0.0,
+ENG-Premier League,1718,West Ham,Jordan Hugill,ENG,"FW,DF",25.0,0.3,0.0,0.0,0.0,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,5.0,50.0
+ENG-Premier League,1718,West Ham,Josh Cullen,IRL,MF,21.0,0.1,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+ENG-Premier League,1718,West Ham,José Fonte,POR,DF,33.0,7.6,0.0,0.0,0.0,8,7.0,0.0,1.0,13.0,3.0,0.0,1.0,0.0,62.0,28.0,20.0,58.3
+ENG-Premier League,1718,West Ham,João Mário,POR,"MF,FW",24.0,11.4,0.0,0.0,0.0,13,20.0,0.0,19.0,12.0,10.0,0.0,0.0,0.0,84.0,7.0,37.0,15.9
+ENG-Premier League,1718,West Ham,Manuel Lanzini,ARG,"MF,FW",24.0,22.7,4.0,0.0,0.0,14,50.0,3.0,28.0,38.0,17.0,1.0,0.0,0.0,222.0,6.0,23.0,20.7
+ENG-Premier League,1718,West Ham,Mark Noble,ENG,MF,30.0,26.7,6.0,0.0,0.0,39,53.0,2.0,10.0,50.0,44.0,0.0,0.0,0.0,320.0,16.0,20.0,44.4
+ENG-Premier League,1718,West Ham,Marko Arnautović,AUT,"FW,MF",28.0,25.7,5.0,1.0,0.0,38,32.0,43.0,60.0,18.0,17.0,0.0,0.0,0.0,152.0,33.0,59.0,35.9
+ENG-Premier League,1718,West Ham,Michail Antonio,JAM,"FW,MF",27.0,15.0,1.0,0.0,0.0,17,38.0,7.0,52.0,14.0,12.0,1.0,0.0,0.0,96.0,47.0,56.0,45.6
+ENG-Premier League,1718,West Ham,Opponent Total,,,26.8,38.0,55.0,1.0,1.0,526,423.0,55.0,504.0,432.0,419.0,6.0,4.0,0.0,3697.0,900.0,922.0,49.4
+ENG-Premier League,1718,West Ham,Pablo Zabaleta,ARG,DF,32.0,36.5,9.0,0.0,0.0,36,34.0,1.0,58.0,78.0,62.0,0.0,2.0,1.0,294.0,70.0,59.0,54.3
+ENG-Premier League,1718,West Ham,Patrice Evra,FRA,DF,36.0,2.5,0.0,0.0,0.0,1,1.0,1.0,0.0,6.0,4.0,0.0,0.0,0.0,25.0,6.0,8.0,42.9
+ENG-Premier League,1718,West Ham,Pedro Obiang,EQG,MF,25.0,17.4,3.0,0.0,0.0,38,29.0,0.0,8.0,40.0,35.0,0.0,0.0,0.0,196.0,31.0,32.0,49.2
+ENG-Premier League,1718,West Ham,Reece Oxford,ENG,MF,18.0,0.1,0.0,0.0,0.0,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+ENG-Premier League,1718,West Ham,Sam Byram,ENG,DF,23.0,2.8,1.0,0.0,0.0,4,2.0,1.0,5.0,9.0,2.0,0.0,0.0,0.0,18.0,14.0,10.0,58.3
+ENG-Premier League,1718,West Ham,Squad Total,,,28.0,38.0,,,1.0,431,508.0,98.0,459.0,572.0,411.0,4.0,6.0,1.0,3407.0,922.0,900.0,50.6
+ENG-Premier League,1718,West Ham,Winston Reid,NZL,DF,29.0,16.1,5.0,0.0,0.0,12,15.0,0.0,2.0,36.0,15.0,0.0,0.0,0.0,173.0,64.0,29.0,68.8

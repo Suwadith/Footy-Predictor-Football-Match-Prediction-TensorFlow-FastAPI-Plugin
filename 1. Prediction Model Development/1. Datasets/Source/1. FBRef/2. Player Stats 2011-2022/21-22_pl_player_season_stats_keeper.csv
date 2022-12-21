@@ -1,0 +1,85 @@
+,,,,Nation,Pos,Age,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks
+,,,,,,,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%
+league,season,team,player,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2122,Arsenal,Aaron Ramsdale,ENG,GK,23.0,34,34,3060,34.0,39,1.15,122,84,72.1,21,3,10,12,35.3,6,5,0,1,0.0
+ENG-Premier League,2122,Arsenal,Bernd Leno,GER,GK,29.0,4,4,360,4.0,9,2.25,19,9,52.6,1,0,3,1,25.0,0,0,0,0,
+ENG-Premier League,2122,Arsenal,Opponent Total,,,26.9,38,38,3420,38.0,61,1.61,185,128,69.7,13,3,22,11,28.9,8,5,3,0,37.5
+ENG-Premier League,2122,Arsenal,Squad Total,,,24.4,38,38,3420,38.0,48,1.26,141,93,69.5,22,3,13,13,34.2,6,5,0,1,0.0
+ENG-Premier League,2122,Aston Villa,Emiliano Martínez,ARG,GK,28.0,36,36,3240,36.0,48,1.33,136,93,67.6,13,6,17,11,30.6,6,4,1,1,20.0
+ENG-Premier League,2122,Aston Villa,Jed Steer,ENG,GK,28.0,1,1,90,1.0,3,3.0,4,1,25.0,0,0,1,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Aston Villa,Opponent Total,,,26.7,38,38,3420,38.0,52,1.37,159,109,69.2,19,6,13,8,21.1,3,3,0,0,0.0
+ENG-Premier League,2122,Aston Villa,Robin Olsen,SWE,GK,31.0,1,1,90,1.0,3,3.0,5,2,40.0,0,0,1,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Aston Villa,Squad Total,,,26.1,38,38,3420,38.0,54,1.42,145,96,65.5,13,6,19,11,28.9,6,4,1,1,20.0
+ENG-Premier League,2122,Brentford,David Raya,ESP,GK,25.0,24,24,2160,24.0,27,1.13,99,75,76.8,10,5,9,8,33.3,4,4,0,0,0.0
+ENG-Premier League,2122,Brentford,Jonas Lössl,DEN,GK,32.0,2,2,180,2.0,5,2.5,7,2,28.6,0,0,2,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Brentford,Opponent Total,,,26.8,38,38,3420,38.0,48,1.26,139,98,69.8,18,7,13,12,31.6,6,6,0,0,0.0
+ENG-Premier League,2122,Brentford,Squad Total,,,25.4,38,38,3420,38.0,56,1.47,173,123,70.5,13,7,18,9,23.7,5,5,0,0,0.0
+ENG-Premier League,2122,Brentford,Álvaro Fernández,ESP,GK,23.0,12,12,1080,12.0,24,2.0,67,46,65.7,3,2,7,1,8.3,1,1,0,0,0.0
+ENG-Premier League,2122,Brighton,Jason Steele,ENG,GK,30.0,1,1,90,1.0,2,2.0,5,3,60.0,0,0,1,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Brighton,Opponent Total,,,26.9,38,38,3420,38.0,42,1.11,140,101,72.9,11,15,12,13,34.2,7,4,1,2,20.0
+ENG-Premier League,2122,Brighton,Robert Sánchez,ESP,GK,23.0,37,37,3329,37.0,42,1.14,140,100,72.1,12,15,10,11,29.7,4,3,0,1,0.0
+ENG-Premier League,2122,Brighton,Squad Total,,,26.2,38,38,3419,38.0,44,1.16,145,103,71.7,12,15,11,11,28.9,4,3,0,1,0.0
+ENG-Premier League,2122,Burnley,Nick Pope,ENG,GK,29.0,36,36,3240,36.0,47,1.31,159,116,73.6,7,14,15,9,25.0,5,5,0,0,0.0
+ENG-Premier League,2122,Burnley,Opponent Total,,,26.7,38,38,3420,38.0,34,0.89,117,84,71.8,17,14,7,16,42.1,2,1,0,1,0.0
+ENG-Premier League,2122,Burnley,Squad Total,,,28.5,38,38,3420,38.0,53,1.39,172,123,72.1,7,14,17,9,23.7,5,5,0,0,0.0
+ENG-Premier League,2122,Burnley,Wayne Hennessey,WAL,GK,34.0,2,2,180,2.0,6,3.0,13,7,53.8,0,0,2,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Chelsea,Edouard Mendy,SEN,GK,29.0,34,34,3060,34.0,31,0.91,95,70,73.7,19,10,5,14,41.2,6,6,0,0,0.0
+ENG-Premier League,2122,Chelsea,Kepa Arrizabalaga,ESP,GK,26.0,4,4,360,4.0,2,0.5,13,11,84.6,2,1,1,2,50.0,0,0,0,0,
+ENG-Premier League,2122,Chelsea,Opponent Total,,,26.7,38,38,3420,38.0,76,2.0,199,128,65.8,6,11,21,4,10.5,10,8,2,0,20.0
+ENG-Premier League,2122,Chelsea,Squad Total,,,27.4,38,38,3420,38.0,33,0.87,108,81,75.0,21,11,6,16,42.1,6,6,0,0,0.0
+ENG-Premier League,2122,Crystal Palace,Jack Butland,ENG,GK,28.0,9,8,765,8.5,13,1.53,28,17,53.6,2,4,2,1,12.5,1,0,1,0,100.0
+ENG-Premier League,2122,Crystal Palace,Opponent Total,,,26.8,38,38,3420,38.0,50,1.32,141,95,68.8,12,15,11,11,28.9,8,6,1,1,14.3
+ENG-Premier League,2122,Crystal Palace,Squad Total,,,27.1,38,38,3420,38.0,46,1.21,141,100,69.5,11,15,12,12,31.6,4,3,1,0,25.0
+ENG-Premier League,2122,Crystal Palace,Vicente Guaita,ESP,GK,34.0,30,30,2655,29.5,33,1.12,113,83,73.5,9,11,10,11,36.7,3,3,0,0,0.0
+ENG-Premier League,2122,Everton,Asmir Begović,BIH,GK,34.0,3,3,270,3.0,8,2.67,17,11,58.8,1,0,2,1,33.3,1,1,0,0,0.0
+ENG-Premier League,2122,Everton,Jordan Pickford,ENG,GK,27.0,35,35,3150,35.0,58,1.66,167,114,65.9,10,6,19,7,20.0,1,1,0,0,0.0
+ENG-Premier League,2122,Everton,Opponent Total,,,26.8,38,38,3420,38.0,43,1.13,127,90,70.9,21,6,11,12,31.6,7,6,0,1,0.0
+ENG-Premier League,2122,Everton,Squad Total,,,26.7,38,38,3420,38.0,66,1.74,184,125,65.2,11,6,21,8,21.1,2,2,0,0,0.0
+ENG-Premier League,2122,Leeds United,Illan Meslier,FRA,GK,21.0,38,38,3384,37.6,79,2.1,215,139,65.6,9,11,18,5,13.2,5,5,0,0,0.0
+ENG-Premier League,2122,Leeds United,Kristoffer Klaesson,NOR,GK,20.0,1,0,36,0.4,0,0.0,4,4,100.0,0,0,0,0,,0,0,0,0,
+ENG-Premier League,2122,Leeds United,Opponent Total,,,26.9,38,38,3420,38.0,42,1.11,142,105,73.9,18,11,9,13,34.2,5,5,0,0,0.0
+ENG-Premier League,2122,Leeds United,Squad Total,,,26.1,38,38,3420,38.0,79,2.08,219,143,66.2,9,11,18,5,13.2,5,5,0,0,0.0
+ENG-Premier League,2122,Leicester City,Danny Ward,WAL,GK,28.0,1,1,90,1.0,1,1.0,5,4,80.0,1,0,0,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Leicester City,Kasper Schmeichel,DEN,GK,34.0,37,37,3330,37.0,58,1.57,176,125,71.0,13,10,14,7,18.9,10,7,2,1,22.2
+ENG-Premier League,2122,Leicester City,Opponent Total,,,26.8,38,38,3420,38.0,62,1.63,163,97,63.2,14,10,14,6,15.8,2,2,0,0,0.0
+ENG-Premier League,2122,Leicester City,Squad Total,,,26.5,38,38,3420,38.0,59,1.55,181,129,71.3,14,10,14,7,18.4,10,7,2,1,22.2
+ENG-Premier League,2122,Liverpool,Alisson,BRA,GK,28.0,36,36,3240,36.0,24,0.67,97,73,75.3,27,7,2,20,55.6,0,0,0,0,
+ENG-Premier League,2122,Liverpool,Caoimhín Kelleher,IRL,GK,22.0,2,2,180,2.0,2,1.0,8,5,75.0,1,1,0,1,50.0,0,0,0,0,
+ENG-Premier League,2122,Liverpool,Opponent Total,,,26.7,38,38,3420,38.0,94,2.47,237,149,63.3,2,8,28,1,2.6,9,7,1,1,12.5
+ENG-Premier League,2122,Liverpool,Squad Total,,,27.7,38,38,3420,38.0,26,0.68,105,78,75.2,28,8,2,21,55.3,0,0,0,0,
+ENG-Premier League,2122,Manchester City,Ederson,BRA,GK,27.0,37,37,3330,37.0,26,0.7,83,56,69.9,28,6,3,20,54.1,1,1,0,0,0.0
+ENG-Premier League,2122,Manchester City,Opponent Total,,,26.9,38,38,3420,38.0,99,2.61,239,149,61.5,3,6,29,4,10.5,9,7,2,0,22.2
+ENG-Premier League,2122,Manchester City,Squad Total,,,27.0,38,38,3420,38.0,26,0.68,85,58,70.6,29,6,3,21,55.3,1,1,0,0,0.0
+ENG-Premier League,2122,Manchester City,Zack Steffen,USA,GK,26.0,1,1,90,1.0,0,0.0,2,2,100.0,1,0,0,1,100.0,0,0,0,0,
+ENG-Premier League,2122,Manchester Utd,David de Gea,ESP,GK,30.0,38,38,3420,38.0,57,1.5,177,124,69.5,16,10,12,8,21.1,6,3,3,0,50.0
+ENG-Premier League,2122,Manchester Utd,Opponent Total,,,27.0,38,38,3420,38.0,57,1.5,179,122,69.8,12,10,16,9,23.7,5,3,0,2,0.0
+ENG-Premier League,2122,Manchester Utd,Squad Total,,,27.2,38,38,3420,38.0,57,1.5,177,124,69.5,16,10,12,8,21.1,6,3,3,0,50.0
+ENG-Premier League,2122,Newcastle Utd,Freddie Woodman,ENG,GK,24.0,4,4,360,4.0,12,3.0,19,9,47.4,0,1,3,0,0.0,3,2,1,0,33.3
+ENG-Premier League,2122,Newcastle Utd,Karl Darlow,ENG,GK,30.0,8,8,720,8.0,15,1.87,37,25,64.9,0,5,3,0,0.0,2,2,0,0,0.0
+ENG-Premier League,2122,Newcastle Utd,Martin Dúbravka,SVK,GK,32.0,26,26,2340,26.0,35,1.35,106,71,67.9,13,4,9,8,30.8,1,1,0,0,0.0
+ENG-Premier League,2122,Newcastle Utd,Opponent Total,,,26.8,38,38,3419,38.0,44,1.16,140,101,70.7,15,10,13,9,23.7,3,3,0,0,0.0
+ENG-Premier League,2122,Newcastle Utd,Squad Total,,,27.5,38,38,3420,38.0,62,1.63,162,105,64.8,13,10,15,8,21.1,6,5,1,0,16.7
+ENG-Premier League,2122,Norwich City,Angus Gunn,ENG,GK,25.0,9,9,810,9.0,22,2.44,54,34,63.0,1,2,6,1,11.1,4,2,1,1,33.3
+ENG-Premier League,2122,Norwich City,Opponent Total,,,26.8,38,38,3420,38.0,23,0.61,104,85,80.8,26,7,5,22,57.9,3,3,0,0,0.0
+ENG-Premier League,2122,Norwich City,Squad Total,,,26.2,38,38,3420,38.0,84,2.21,212,135,64.6,5,7,26,6,15.8,13,9,2,2,18.2
+ENG-Premier League,2122,Norwich City,Tim Krul,NED,GK,33.0,29,29,2610,29.0,62,2.14,158,101,65.2,4,5,20,5,17.2,9,7,1,1,12.5
+ENG-Premier League,2122,Southampton,Alex McCarthy,ENG,GK,31.0,17,17,1530,17.0,27,1.59,71,43,62.0,3,7,7,5,29.4,0,0,0,0,
+ENG-Premier League,2122,Southampton,Fraser Forster,ENG,GK,33.0,19,19,1710,19.0,35,1.84,98,67,66.3,6,5,8,3,15.8,2,2,0,0,0.0
+ENG-Premier League,2122,Southampton,Opponent Total,,,26.8,38,38,3420,38.0,43,1.13,159,122,75.5,16,13,9,9,23.7,4,4,0,0,0.0
+ENG-Premier League,2122,Southampton,Squad Total,,,25.7,38,38,3420,38.0,67,1.76,180,116,63.9,9,13,16,8,21.1,2,2,0,0,0.0
+ENG-Premier League,2122,Southampton,Willy Caballero,ARG,GK,39.0,2,2,180,2.0,5,2.5,11,6,54.5,0,1,1,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Tottenham,Hugo Lloris,FRA,GK,34.0,38,38,3420,38.0,40,1.05,133,95,71.4,22,5,11,16,42.1,2,2,0,0,0.0
+ENG-Premier League,2122,Tottenham,Opponent Total,,,26.8,38,38,3420,38.0,69,1.82,186,125,65.6,11,5,22,10,26.3,5,5,0,0,0.0
+ENG-Premier League,2122,Tottenham,Squad Total,,,26.5,38,38,3420,38.0,40,1.05,133,95,71.4,22,5,11,16,42.1,2,2,0,0,0.0
+ENG-Premier League,2122,Watford,Ben Foster,ENG,GK,38.0,26,26,2340,26.0,49,1.88,111,63,58.6,5,5,16,4,15.4,4,3,1,0,25.0
+ENG-Premier League,2122,Watford,Daniel Bachmann,AUT,GK,27.0,12,12,1080,12.0,28,2.33,69,45,63.8,1,0,11,0,0.0,3,3,0,0,0.0
+ENG-Premier League,2122,Watford,Opponent Total,,,26.8,38,38,3420,38.0,34,0.89,126,91,73.8,27,5,6,18,47.4,3,1,2,0,66.7
+ENG-Premier League,2122,Watford,Squad Total,,,28.4,38,38,3420,38.0,77,2.03,180,108,60.6,6,5,27,4,10.5,7,6,1,0,14.3
+ENG-Premier League,2122,West Ham,Alphonse Areola,FRA,GK,28.0,1,1,90,1.0,1,1.0,3,2,66.7,0,0,1,0,0.0,0,0,0,0,
+ENG-Premier League,2122,West Ham,Opponent Total,,,26.8,38,38,3420,38.0,60,1.58,143,87,60.8,14,8,16,8,21.1,6,4,2,0,33.3
+ENG-Premier League,2122,West Ham,Squad Total,,,28.2,38,38,3420,38.0,51,1.34,159,107,69.2,16,8,14,8,21.1,6,2,3,1,60.0
+ENG-Premier League,2122,West Ham,Łukasz Fabiański,POL,GK,36.0,37,37,3330,37.0,50,1.35,156,105,69.2,16,8,13,8,21.6,6,2,3,1,60.0
+ENG-Premier League,2122,Wolves,John Ruddy,ENG,GK,34.0,2,1,135,1.5,3,2.0,7,4,57.1,0,1,0,0,0.0,0,0,0,0,
+ENG-Premier League,2122,Wolves,José Sá,POR,GK,28.0,37,37,3285,36.5,40,1.1,150,120,79.3,15,5,17,11,29.7,10,9,0,1,0.0
+ENG-Premier League,2122,Wolves,Opponent Total,,,26.7,38,38,3420,38.0,38,1.0,134,100,72.4,17,6,15,16,42.1,1,1,0,0,0.0
+ENG-Premier League,2122,Wolves,Squad Total,,,27.3,38,38,3420,38.0,43,1.13,157,124,78.3,15,6,17,11,28.9,10,9,0,1,0.0

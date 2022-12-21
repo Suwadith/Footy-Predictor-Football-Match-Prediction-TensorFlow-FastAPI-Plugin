@@ -1,0 +1,78 @@
+Season,Month,Week,Home_Team,Away_Team,FTR,Prediction,Date
+22,8,1,Crystal Palace,Arsenal,NH,NH,05/08/2022
+22,8,1,Fulham,Liverpool,NH,NH,06/08/2022
+22,8,1,Bournemouth,Aston Villa,H,NH,06/08/2022
+22,8,1,Tottenham Hotspur,Southampton,H,H,06/08/2022
+22,8,1,Leeds United,Wolverhampton Wanderers,H,NH,06/08/2022
+22,8,1,Newcastle United,Nottingham Forest,H,H,06/08/2022
+22,8,1,Everton,Chelsea,NH,NH,06/08/2022
+22,8,1,Leicester City,Brentford,NH,H,07/08/2022
+22,8,1,Manchester United,Brighton and Hove Albion,NH,H,07/08/2022
+22,8,1,West Ham United,Manchester City,NH,NH,07/08/2022
+22,8,2,Aston Villa,Everton,H,NH,13/08/2022
+22,8,2,Arsenal,Leicester City,H,NH,13/08/2022
+22,8,2,Manchester City,Bournemouth,H,NH,13/08/2022
+22,8,2,Southampton,Leeds United,NH,NH,13/08/2022
+22,8,2,Wolverhampton Wanderers,Fulham,NH,NH,13/08/2022
+22,8,2,Brighton and Hove Albion,Newcastle United,NH,NH,13/08/2022
+22,8,2,Brentford,Manchester United,H,NH,13/08/2022
+22,8,2,Nottingham Forest,West Ham United,H,NH,14/08/2022
+22,8,2,Chelsea,Tottenham Hotspur,NH,NH,14/08/2022
+22,8,2,Liverpool,Crystal Palace,NH,H,15/08/2022
+22,8,3,Tottenham Hotspur,Wolverhampton Wanderers,H,NH,20/08/2022
+22,8,3,Everton,Nottingham Forest,NH,NH,20/08/2022
+22,8,3,Crystal Palace,Aston Villa,H,NH,20/08/2022
+22,8,3,Leicester City,Southampton,NH,NH,20/08/2022
+22,8,3,Fulham,Brentford,H,NH,20/08/2022
+22,8,3,Bournemouth,Arsenal,NH,NH,20/08/2022
+22,8,3,West Ham United,Brighton and Hove Albion,NH,NH,21/08/2022
+22,8,3,Leeds United,Chelsea,H,NH,21/08/2022
+22,8,3,Newcastle United,Manchester City,NH,NH,21/08/2022
+22,8,3,Manchester United,Liverpool,H,NH,22/08/2022
+22,8,4,Southampton,Manchester United,NH,NH,27/08/2022
+22,8,4,Brighton and Hove Albion,Leeds United,H,NH,27/08/2022
+22,8,4,Liverpool,Bournemouth,H,H,27/08/2022
+22,8,4,Brentford,Everton,NH,NH,27/08/2022
+22,8,4,Chelsea,Leicester City,H,H,27/08/2022
+22,8,4,Manchester City,Crystal Palace,H,H,27/08/2022
+22,8,4,Arsenal,Fulham,H,H,27/08/2022
+22,8,4,Wolverhampton Wanderers,Newcastle United,NH,NH,28/08/2022
+22,8,4,Aston Villa,West Ham United,NH,NH,28/08/2022
+22,8,4,Nottingham Forest,Tottenham Hotspur,NH,NH,28/08/2022
+22,8,5,Crystal Palace,Brentford,NH,H,30/08/2022
+22,8,5,Fulham,Brighton and Hove Albion,H,NH,30/08/2022
+22,8,5,Southampton,Chelsea,H,NH,30/08/2022
+22,8,5,Leeds United,Everton,NH,NH,30/08/2022
+22,8,5,Arsenal,Aston Villa,H,NH,31/08/2022
+22,8,5,Manchester City,Nottingham Forest,H,H,31/08/2022
+22,8,5,Bournemouth,Wolverhampton Wanderers,NH,NH,31/08/2022
+22,8,5,West Ham United,Tottenham Hotspur,NH,NH,31/08/2022
+22,8,5,Liverpool,Newcastle United,H,NH,31/08/2022
+22,9,5,Leicester City,Manchester United,NH,NH,01/09/2022
+22,9,6,Everton,Liverpool,NH,NH,03/09/2022
+22,9,6,Newcastle United,Crystal Palace,NH,H,03/09/2022
+22,9,6,Wolverhampton Wanderers,Southampton,H,H,03/09/2022
+22,9,6,Chelsea,West Ham United,H,H,03/09/2022
+22,9,6,Brentford,Leeds United,H,NH,03/09/2022
+22,9,6,Tottenham Hotspur,Fulham,H,H,03/09/2022
+22,9,6,Nottingham Forest,Bournemouth,NH,NH,03/09/2022
+22,9,6,Aston Villa,Manchester City,NH,NH,03/09/2022
+22,9,6,Brighton and Hove Albion,Leicester City,H,NH,04/09/2022
+22,9,6,Manchester United,Arsenal,H,NH,04/09/2022
+22,9,8,Aston Villa,Southampton,H,H,16/09/2022
+22,9,8,Nottingham Forest,Fulham,NH,NH,16/09/2022
+22,9,8,Wolverhampton Wanderers,Manchester City,NH,NH,17/09/2022
+22,9,8,Newcastle United,Bournemouth,NH,NH,17/09/2022
+22,9,8,Tottenham Hotspur,Leicester City,H,H,17/09/2022
+22,9,8,Brentford,Arsenal,NH,NH,18/09/2022
+22,9,8,Everton,West Ham United,H,NH,18/09/2022
+22,10,9,Arsenal,Tottenham Hotspur,YTD,NH,01/10/2022
+22,10,9,Bournemouth,Brentford,YTD,NH,01/10/2022
+22,10,9,Crystal Palace,Chelsea,YTD,NH,01/10/2022
+22,10,9,Fulham,Newcastle United,YTD,NH,01/10/2022
+22,10,9,Liverpool,Brighton and Hove Albion,YTD,H,01/10/2022
+22,10,9,Southampton,Everton,YTD,NH,01/10/2022
+22,10,9,West Ham United,Wolverhampton Wanderers,YTD,NH,01/10/2022
+22,10,9,Manchester City,Manchester United,YTD,H,02/10/2022
+22,10,9,Leeds United,Aston Villa,YTD,NH,02/10/2022
+22,10,9,Leicester City,Nottingham Forest,YTD,H,03/10/2022

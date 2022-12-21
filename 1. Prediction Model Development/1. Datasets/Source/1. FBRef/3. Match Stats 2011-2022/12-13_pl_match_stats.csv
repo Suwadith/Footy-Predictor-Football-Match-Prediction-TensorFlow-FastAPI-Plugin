@@ -1,0 +1,424 @@
+league,season,game,week,day,date,time,home_team,score,away_team,attendance,venue,referee,match_report,notes,game_id
+ENG-Premier League,1213,2012-08-18 Arsenal-Sunderland,1.0,Sat,2012-08-18,,Arsenal,0–0,Sunderland,,,Chris Foy,/en/matches/00377122/Arsenal-Sunderland-August-18-2012-Premier-League,,00377122
+ENG-Premier League,1213,2012-08-18 Fulham-Norwich City,1.0,Sat,2012-08-18,,Fulham,5–0,Norwich City,,,Michael Oliver,/en/matches/d63657b1/Fulham-Norwich-City-August-18-2012-Premier-League,,d63657b1
+ENG-Premier League,1213,2012-08-18 Newcastle Utd-Tottenham,1.0,Sat,2012-08-18,,Newcastle Utd,2–1,Tottenham,,,Martin Atkinson,/en/matches/ad58ac95/Newcastle-United-Tottenham-Hotspur-August-18-2012-Premier-League,,ad58ac95
+ENG-Premier League,1213,2012-08-18 QPR-Swansea City,1.0,Sat,2012-08-18,,QPR,0–5,Swansea City,,,Lee Probert,/en/matches/73fa966e/Queens-Park-Rangers-Swansea-City-August-18-2012-Premier-League,,73fa966e
+ENG-Premier League,1213,2012-08-18 Reading-Stoke City,1.0,Sat,2012-08-18,,Reading,1–1,Stoke City,,,Kevin Friend,/en/matches/2935ff37/Reading-Stoke-City-August-18-2012-Premier-League,,2935ff37
+ENG-Premier League,1213,2012-08-18 West Brom-Liverpool,1.0,Sat,2012-08-18,,West Brom,3–0,Liverpool,,,Phil Dowd,/en/matches/14bddc92/West-Bromwich-Albion-Liverpool-August-18-2012-Premier-League,,14bddc92
+ENG-Premier League,1213,2012-08-18 West Ham-Aston Villa,1.0,Sat,2012-08-18,,West Ham,1–0,Aston Villa,,,Mike Dean,/en/matches/2807d2ca/West-Ham-United-Aston-Villa-August-18-2012-Premier-League,,2807d2ca
+ENG-Premier League,1213,2012-08-19 Manchester City-Southampton,1.0,Sun,2012-08-19,,Manchester City,3–2,Southampton,,,Howard Webb,/en/matches/1c99515c/Manchester-City-Southampton-August-19-2012-Premier-League,,1c99515c
+ENG-Premier League,1213,2012-08-19 Wigan Athletic-Chelsea,1.0,Sun,2012-08-19,,Wigan Athletic,0–2,Chelsea,,,Mike Jones,/en/matches/7455931a/Wigan-Athletic-Chelsea-August-19-2012-Premier-League,,7455931a
+ENG-Premier League,1213,2012-08-20 Everton-Manchester Utd,1.0,Mon,2012-08-20,,Everton,1–0,Manchester Utd,,,Andre Marriner,/en/matches/9c7acc4b/Everton-Manchester-United-August-20-2012-Premier-League,,9c7acc4b
+ENG-Premier League,1213,2012-08-20 nan-nan,,,2012-08-20,,,,,,,,,,
+ENG-Premier League,1213,2012-08-22 Chelsea-Reading,3.0,Wed,2012-08-22,,Chelsea,4–2,Reading,,,Lee Mason,/en/matches/140f16f5/Chelsea-Reading-August-22-2012-Premier-League,,140f16f5
+ENG-Premier League,1213,2012-08-22 nan-nan,,,2012-08-22,,,,,,,,,,
+ENG-Premier League,1213,2012-08-25 Aston Villa-Everton,2.0,Sat,2012-08-25,,Aston Villa,1–3,Everton,,,Michael Oliver,/en/matches/7e24fbc7/Aston-Villa-Everton-August-25-2012-Premier-League,,7e24fbc7
+ENG-Premier League,1213,2012-08-25 Chelsea-Newcastle Utd,2.0,Sat,2012-08-25,,Chelsea,2–0,Newcastle Utd,,,Phil Dowd,/en/matches/70564bdb/Chelsea-Newcastle-United-August-25-2012-Premier-League,,70564bdb
+ENG-Premier League,1213,2012-08-25 Manchester Utd-Fulham,2.0,Sat,2012-08-25,,Manchester Utd,3–2,Fulham,,,Kevin Friend,/en/matches/4c342877/Manchester-United-Fulham-August-25-2012-Premier-League,,4c342877
+ENG-Premier League,1213,2012-08-25 Norwich City-QPR,2.0,Sat,2012-08-25,,Norwich City,1–1,QPR,,,Mark Clattenburg,/en/matches/6e2ac192/Norwich-City-Queens-Park-Rangers-August-25-2012-Premier-League,,6e2ac192
+ENG-Premier League,1213,2012-08-25 Southampton-Wigan Athletic,2.0,Sat,2012-08-25,,Southampton,0–2,Wigan Athletic,,,Anthony Taylor,/en/matches/144a31e2/Southampton-Wigan-Athletic-August-25-2012-Premier-League,,144a31e2
+ENG-Premier League,1213,2012-08-25 Swansea City-West Ham,2.0,Sat,2012-08-25,,Swansea City,3–0,West Ham,,,Martin Atkinson,/en/matches/8a99c61a/Swansea-City-West-Ham-United-August-25-2012-Premier-League,,8a99c61a
+ENG-Premier League,1213,2012-08-25 Tottenham-West Brom,2.0,Sat,2012-08-25,,Tottenham,1–1,West Brom,,,Mike Dean,/en/matches/aaaaf560/Tottenham-Hotspur-West-Bromwich-Albion-August-25-2012-Premier-League,,aaaaf560
+ENG-Premier League,1213,2012-08-26 Liverpool-Manchester City,2.0,Sun,2012-08-26,,Liverpool,2–2,Manchester City,,,Andre Marriner,/en/matches/72d5d178/Liverpool-Manchester-City-August-26-2012-Premier-League,,72d5d178
+ENG-Premier League,1213,2012-08-26 Stoke City-Arsenal,2.0,Sun,2012-08-26,,Stoke City,0–0,Arsenal,,,Lee Mason,/en/matches/aa331524/Stoke-City-Arsenal-August-26-2012-Premier-League,,aa331524
+ENG-Premier League,1213,2012-08-26 nan-nan,,,2012-08-26,,,,,,,,,,
+ENG-Premier League,1213,2012-09-01 Manchester City-QPR,3.0,Sat,2012-09-01,,Manchester City,3–1,QPR,,,Chris Foy,/en/matches/69ec8c1b/Manchester-City-Queens-Park-Rangers-September-1-2012-Premier-League,,69ec8c1b
+ENG-Premier League,1213,2012-09-01 Swansea City-Sunderland,3.0,Sat,2012-09-01,,Swansea City,2–2,Sunderland,,,Roger East,/en/matches/cdd7da22/Swansea-City-Sunderland-September-1-2012-Premier-League,,cdd7da22
+ENG-Premier League,1213,2012-09-01 Tottenham-Norwich City,3.0,Sat,2012-09-01,,Tottenham,1–1,Norwich City,,,Mark Halsey,/en/matches/f56c8e34/Tottenham-Hotspur-Norwich-City-September-1-2012-Premier-League,,f56c8e34
+ENG-Premier League,1213,2012-09-01 West Brom-Everton,3.0,Sat,2012-09-01,,West Brom,2–0,Everton,,,Jon Moss,/en/matches/c090403c/West-Bromwich-Albion-Everton-September-1-2012-Premier-League,,c090403c
+ENG-Premier League,1213,2012-09-01 West Ham-Fulham,3.0,Sat,2012-09-01,,West Ham,3–0,Fulham,,,Anthony Taylor,/en/matches/f32038c2/West-Ham-United-Fulham-September-1-2012-Premier-League,,f32038c2
+ENG-Premier League,1213,2012-09-01 Wigan Athletic-Stoke City,3.0,Sat,2012-09-01,,Wigan Athletic,2–2,Stoke City,,,Martin Atkinson,/en/matches/99848535/Wigan-Athletic-Stoke-City-September-1-2012-Premier-League,,99848535
+ENG-Premier League,1213,2012-09-02 Liverpool-Arsenal,3.0,Sun,2012-09-02,,Liverpool,0–2,Arsenal,,,Howard Webb,/en/matches/0b68b804/Liverpool-Arsenal-September-2-2012-Premier-League,,0b68b804
+ENG-Premier League,1213,2012-09-02 Newcastle Utd-Aston Villa,3.0,Sun,2012-09-02,,Newcastle Utd,1–1,Aston Villa,,,Lee Probert,/en/matches/371d6528/Newcastle-United-Aston-Villa-September-2-2012-Premier-League,,371d6528
+ENG-Premier League,1213,2012-09-02 Southampton-Manchester Utd,3.0,Sun,2012-09-02,,Southampton,2–3,Manchester Utd,,,Mike Dean,/en/matches/d80ac534/Southampton-Manchester-United-September-2-2012-Premier-League,,d80ac534
+ENG-Premier League,1213,2012-09-02 nan-nan,,,2012-09-02,,,,,,,,,,
+ENG-Premier League,1213,2012-09-15 Arsenal-Southampton,4.0,Sat,2012-09-15,,Arsenal,6–1,Southampton,,,Kevin Friend,/en/matches/97e07563/Arsenal-Southampton-September-15-2012-Premier-League,,97e07563
+ENG-Premier League,1213,2012-09-15 Aston Villa-Swansea City,4.0,Sat,2012-09-15,,Aston Villa,2–0,Swansea City,,,Lee Mason,/en/matches/c4a53240/Aston-Villa-Swansea-City-September-15-2012-Premier-League,,c4a53240
+ENG-Premier League,1213,2012-09-15 Fulham-West Brom,4.0,Sat,2012-09-15,,Fulham,3–0,West Brom,,,Roger East,/en/matches/0b68caed/Fulham-West-Bromwich-Albion-September-15-2012-Premier-League,,0b68caed
+ENG-Premier League,1213,2012-09-15 Manchester Utd-Wigan Athletic,4.0,Sat,2012-09-15,,Manchester Utd,4–0,Wigan Athletic,,,Michael Oliver,/en/matches/9f9e9a4e/Manchester-United-Wigan-Athletic-September-15-2012-Premier-League,,9f9e9a4e
+ENG-Premier League,1213,2012-09-15 Norwich City-West Ham,4.0,Sat,2012-09-15,,Norwich City,0–0,West Ham,,,Chris Foy,/en/matches/5a0b388e/Norwich-City-West-Ham-United-September-15-2012-Premier-League,,5a0b388e
+ENG-Premier League,1213,2012-09-15 QPR-Chelsea,4.0,Sat,2012-09-15,,QPR,0–0,Chelsea,,,Andre Marriner,/en/matches/2000534c/Queens-Park-Rangers-Chelsea-September-15-2012-Premier-League,,2000534c
+ENG-Premier League,1213,2012-09-15 Stoke City-Manchester City,4.0,Sat,2012-09-15,,Stoke City,1–1,Manchester City,,,Mark Clattenburg,/en/matches/02581161/Stoke-City-Manchester-City-September-15-2012-Premier-League,,02581161
+ENG-Premier League,1213,2012-09-15 Sunderland-Liverpool,4.0,Sat,2012-09-15,,Sunderland,1–1,Liverpool,,,Martin Atkinson,/en/matches/5fbcbf51/Sunderland-Liverpool-September-15-2012-Premier-League,,5fbcbf51
+ENG-Premier League,1213,2012-09-16 Reading-Tottenham,4.0,Sun,2012-09-16,,Reading,1–3,Tottenham,,,Howard Webb,/en/matches/36093639/Reading-Tottenham-Hotspur-September-16-2012-Premier-League,,36093639
+ENG-Premier League,1213,2012-09-17 Everton-Newcastle Utd,4.0,Mon,2012-09-17,,Everton,2–2,Newcastle Utd,,,Mike Jones,/en/matches/bf505c37/Everton-Newcastle-United-September-17-2012-Premier-League,,bf505c37
+ENG-Premier League,1213,2012-09-17 nan-nan,,,2012-09-17,,,,,,,,,,
+ENG-Premier League,1213,2012-09-22 Chelsea-Stoke City,5.0,Sat,2012-09-22,,Chelsea,1–0,Stoke City,,,Michael Oliver,/en/matches/4efadbe8/Chelsea-Stoke-City-September-22-2012-Premier-League,,4efadbe8
+ENG-Premier League,1213,2012-09-22 Southampton-Aston Villa,5.0,Sat,2012-09-22,,Southampton,4–1,Aston Villa,,,Jon Moss,/en/matches/fe29a9be/Southampton-Aston-Villa-September-22-2012-Premier-League,,fe29a9be
+ENG-Premier League,1213,2012-09-22 Swansea City-Everton,5.0,Sat,2012-09-22,,Swansea City,0–3,Everton,,,Anthony Taylor,/en/matches/cd509045/Swansea-City-Everton-September-22-2012-Premier-League,,cd509045
+ENG-Premier League,1213,2012-09-22 West Brom-Reading,5.0,Sat,2012-09-22,,West Brom,1–0,Reading,,,Chris Foy,/en/matches/e33b7155/West-Bromwich-Albion-Reading-September-22-2012-Premier-League,,e33b7155
+ENG-Premier League,1213,2012-09-22 West Ham-Sunderland,5.0,Sat,2012-09-22,,West Ham,1–1,Sunderland,,,Lee Mason,/en/matches/9306c80c/West-Ham-United-Sunderland-September-22-2012-Premier-League,,9306c80c
+ENG-Premier League,1213,2012-09-22 Wigan Athletic-Fulham,5.0,Sat,2012-09-22,,Wigan Athletic,1–2,Fulham,,,Lee Probert,/en/matches/7b11947e/Wigan-Athletic-Fulham-September-22-2012-Premier-League,,7b11947e
+ENG-Premier League,1213,2012-09-23 Liverpool-Manchester Utd,5.0,Sun,2012-09-23,,Liverpool,1–2,Manchester Utd,,,Mark Halsey,/en/matches/5cd66df5/North-West-Derby-Liverpool-Manchester-United-September-23-2012-Premier-League,,5cd66df5
+ENG-Premier League,1213,2012-09-23 Manchester City-Arsenal,5.0,Sun,2012-09-23,,Manchester City,1–1,Arsenal,,,Mike Dean,/en/matches/4c5198c8/Manchester-City-Arsenal-September-23-2012-Premier-League,,4c5198c8
+ENG-Premier League,1213,2012-09-23 Newcastle Utd-Norwich City,5.0,Sun,2012-09-23,,Newcastle Utd,1–0,Norwich City,,,Neil Swarbrick,/en/matches/fcb2c987/Newcastle-United-Norwich-City-September-23-2012-Premier-League,,fcb2c987
+ENG-Premier League,1213,2012-09-23 Tottenham-QPR,5.0,Sun,2012-09-23,,Tottenham,2–1,QPR,,,Phil Dowd,/en/matches/f49ce73b/Tottenham-Hotspur-Queens-Park-Rangers-September-23-2012-Premier-League,,f49ce73b
+ENG-Premier League,1213,2012-09-23 nan-nan,,,2012-09-23,,,,,,,,,,
+ENG-Premier League,1213,2012-09-29 Arsenal-Chelsea,6.0,Sat,2012-09-29,,Arsenal,1–2,Chelsea,,,Martin Atkinson,/en/matches/14eacad5/North-West-London-Derby-Arsenal-Chelsea-September-29-2012-Premier-League,,14eacad5
+ENG-Premier League,1213,2012-09-29 Everton-Southampton,6.0,Sat,2012-09-29,,Everton,3–1,Southampton,,,Lee Probert,/en/matches/8c325532/Everton-Southampton-September-29-2012-Premier-League,,8c325532
+ENG-Premier League,1213,2012-09-29 Fulham-Manchester City,6.0,Sat,2012-09-29,,Fulham,1–2,Manchester City,,,Mark Halsey,/en/matches/8bb7fd65/Fulham-Manchester-City-September-29-2012-Premier-League,,8bb7fd65
+ENG-Premier League,1213,2012-09-29 Manchester Utd-Tottenham,6.0,Sat,2012-09-29,,Manchester Utd,2–3,Tottenham,,,Chris Foy,/en/matches/ee03c480/Manchester-United-Tottenham-Hotspur-September-29-2012-Premier-League,,ee03c480
+ENG-Premier League,1213,2012-09-29 Norwich City-Liverpool,6.0,Sat,2012-09-29,,Norwich City,2–5,Liverpool,,,Mike Jones,/en/matches/7ff9112b/Norwich-City-Liverpool-September-29-2012-Premier-League,,7ff9112b
+ENG-Premier League,1213,2012-09-29 Reading-Newcastle Utd,6.0,Sat,2012-09-29,,Reading,2–2,Newcastle Utd,,,Andre Marriner,/en/matches/88757925/Reading-Newcastle-United-September-29-2012-Premier-League,,88757925
+ENG-Premier League,1213,2012-09-29 Stoke City-Swansea City,6.0,Sat,2012-09-29,,Stoke City,2–0,Swansea City,,,Jon Moss,/en/matches/df758349/Stoke-City-Swansea-City-September-29-2012-Premier-League,,df758349
+ENG-Premier League,1213,2012-09-29 Sunderland-Wigan Athletic,6.0,Sat,2012-09-29,,Sunderland,1–0,Wigan Athletic,,,Howard Webb,/en/matches/3a86caae/Sunderland-Wigan-Athletic-September-29-2012-Premier-League,,3a86caae
+ENG-Premier League,1213,2012-09-30 Aston Villa-West Brom,6.0,Sun,2012-09-30,,Aston Villa,1–1,West Brom,,,Anthony Taylor,/en/matches/c25b5c49/Aston-Villa-West-Bromwich-Albion-September-30-2012-Premier-League,,c25b5c49
+ENG-Premier League,1213,2012-10-01 QPR-West Ham,6.0,Mon,2012-10-01,,QPR,1–2,West Ham,,,Mark Clattenburg,/en/matches/5745585c/Queens-Park-Rangers-West-Ham-United-October-1-2012-Premier-League,,5745585c
+ENG-Premier League,1213,2012-10-01 nan-nan,,,2012-10-01,,,,,,,,,,
+ENG-Premier League,1213,2012-10-06 Chelsea-Norwich City,7.0,Sat,2012-10-06,,Chelsea,4–1,Norwich City,,,Anthony Taylor,/en/matches/9532ae11/Chelsea-Norwich-City-October-6-2012-Premier-League,,9532ae11
+ENG-Premier League,1213,2012-10-06 Manchester City-Sunderland,7.0,Sat,2012-10-06,,Manchester City,3–0,Sunderland,,,Lee Probert,/en/matches/dcb86135/Manchester-City-Sunderland-October-6-2012-Premier-League,,dcb86135
+ENG-Premier League,1213,2012-10-06 Swansea City-Reading,7.0,Sat,2012-10-06,,Swansea City,2–2,Reading,,,Mike Dean,/en/matches/ae1ce2ec/Swansea-City-Reading-October-6-2012-Premier-League,,ae1ce2ec
+ENG-Premier League,1213,2012-10-06 West Brom-QPR,7.0,Sat,2012-10-06,,West Brom,3–2,QPR,,,Mike Jones,/en/matches/4b3777c0/West-Bromwich-Albion-Queens-Park-Rangers-October-6-2012-Premier-League,,4b3777c0
+ENG-Premier League,1213,2012-10-06 West Ham-Arsenal,7.0,Sat,2012-10-06,,West Ham,1–3,Arsenal,,,Phil Dowd,/en/matches/becb64ea/West-Ham-United-Arsenal-October-6-2012-Premier-League,,becb64ea
+ENG-Premier League,1213,2012-10-06 Wigan Athletic-Everton,7.0,Sat,2012-10-06,,Wigan Athletic,2–2,Everton,,,Kevin Friend,/en/matches/bf73e3f5/Wigan-Athletic-Everton-October-6-2012-Premier-League,,bf73e3f5
+ENG-Premier League,1213,2012-10-07 Liverpool-Stoke City,7.0,Sun,2012-10-07,,Liverpool,0–0,Stoke City,,,Lee Mason,/en/matches/2f67cdf8/Liverpool-Stoke-City-October-7-2012-Premier-League,,2f67cdf8
+ENG-Premier League,1213,2012-10-07 Newcastle Utd-Manchester Utd,7.0,Sun,2012-10-07,,Newcastle Utd,0–3,Manchester Utd,,,Howard Webb,/en/matches/9896766b/Newcastle-United-Manchester-United-October-7-2012-Premier-League,,9896766b
+ENG-Premier League,1213,2012-10-07 Southampton-Fulham,7.0,Sun,2012-10-07,,Southampton,2–2,Fulham,,,Mark Clattenburg,/en/matches/d4112b21/Southampton-Fulham-October-7-2012-Premier-League,,d4112b21
+ENG-Premier League,1213,2012-10-07 Tottenham-Aston Villa,7.0,Sun,2012-10-07,,Tottenham,2–0,Aston Villa,,,Neil Swarbrick,/en/matches/ab3004c6/Tottenham-Hotspur-Aston-Villa-October-7-2012-Premier-League,,ab3004c6
+ENG-Premier League,1213,2012-10-07 nan-nan,,,2012-10-07,,,,,,,,,,
+ENG-Premier League,1213,2012-10-20 Fulham-Aston Villa,8.0,Sat,2012-10-20,,Fulham,1–0,Aston Villa,,,Chris Foy,/en/matches/016c7401/Fulham-Aston-Villa-October-20-2012-Premier-League,,016c7401
+ENG-Premier League,1213,2012-10-20 Liverpool-Reading,8.0,Sat,2012-10-20,,Liverpool,1–0,Reading,,,Roger East,/en/matches/3bd5dc1a/Liverpool-Reading-October-20-2012-Premier-League,,3bd5dc1a
+ENG-Premier League,1213,2012-10-20 Manchester Utd-Stoke City,8.0,Sat,2012-10-20,,Manchester Utd,4–2,Stoke City,,,Anthony Taylor,/en/matches/6d9a0430/Manchester-United-Stoke-City-October-20-2012-Premier-League,,6d9a0430
+ENG-Premier League,1213,2012-10-20 Norwich City-Arsenal,8.0,Sat,2012-10-20,,Norwich City,1–0,Arsenal,,,Lee Probert,/en/matches/0a9f9b23/Norwich-City-Arsenal-October-20-2012-Premier-League,,0a9f9b23
+ENG-Premier League,1213,2012-10-20 Swansea City-Wigan Athletic,8.0,Sat,2012-10-20,,Swansea City,2–1,Wigan Athletic,,,Mike Jones,/en/matches/2c7976b3/Swansea-City-Wigan-Athletic-October-20-2012-Premier-League,,2c7976b3
+ENG-Premier League,1213,2012-10-20 Tottenham-Chelsea,8.0,Sat,2012-10-20,,Tottenham,2–4,Chelsea,,,Mike Dean,/en/matches/bfd29e5e/Tottenham-Hotspur-Chelsea-October-20-2012-Premier-League,,bfd29e5e
+ENG-Premier League,1213,2012-10-20 West Brom-Manchester City,8.0,Sat,2012-10-20,,West Brom,1–2,Manchester City,,,Mark Clattenburg,/en/matches/a09d221a/West-Bromwich-Albion-Manchester-City-October-20-2012-Premier-League,,a09d221a
+ENG-Premier League,1213,2012-10-20 West Ham-Southampton,8.0,Sat,2012-10-20,,West Ham,4–1,Southampton,,,Neil Swarbrick,/en/matches/8738f9a7/West-Ham-United-Southampton-October-20-2012-Premier-League,,8738f9a7
+ENG-Premier League,1213,2012-10-21 QPR-Everton,8.0,Sun,2012-10-21,,QPR,1–1,Everton,,,Jon Moss,/en/matches/8c19f2c2/Queens-Park-Rangers-Everton-October-21-2012-Premier-League,,8c19f2c2
+ENG-Premier League,1213,2012-10-21 Sunderland-Newcastle Utd,8.0,Sun,2012-10-21,,Sunderland,1–1,Newcastle Utd,,,Martin Atkinson,/en/matches/981172a4/Sunderland-Newcastle-United-October-21-2012-Premier-League,,981172a4
+ENG-Premier League,1213,2012-10-21 nan-nan,,,2012-10-21,,,,,,,,,,
+ENG-Premier League,1213,2012-10-27 Arsenal-QPR,9.0,Sat,2012-10-27,,Arsenal,1–0,QPR,,,Anthony Taylor,/en/matches/8301c0ad/Arsenal-Queens-Park-Rangers-October-27-2012-Premier-League,,8301c0ad
+ENG-Premier League,1213,2012-10-27 Aston Villa-Norwich City,9.0,Sat,2012-10-27,,Aston Villa,1–1,Norwich City,,,Phil Dowd,/en/matches/670f06c5/Aston-Villa-Norwich-City-October-27-2012-Premier-League,,670f06c5
+ENG-Premier League,1213,2012-10-27 Manchester City-Swansea City,9.0,Sat,2012-10-27,,Manchester City,1–0,Swansea City,,,Martin Atkinson,/en/matches/44da39c3/Manchester-City-Swansea-City-October-27-2012-Premier-League,,44da39c3
+ENG-Premier League,1213,2012-10-27 Reading-Fulham,9.0,Sat,2012-10-27,,Reading,3–3,Fulham,,,Mike Jones,/en/matches/b7004a78/Reading-Fulham-October-27-2012-Premier-League,,b7004a78
+ENG-Premier League,1213,2012-10-27 Stoke City-Sunderland,9.0,Sat,2012-10-27,,Stoke City,0–0,Sunderland,,,Mark Halsey,/en/matches/66fe614b/Stoke-City-Sunderland-October-27-2012-Premier-League,,66fe614b
+ENG-Premier League,1213,2012-10-27 Wigan Athletic-West Ham,9.0,Sat,2012-10-27,,Wigan Athletic,2–1,West Ham,,,Jon Moss,/en/matches/e68b5bf3/Wigan-Athletic-West-Ham-United-October-27-2012-Premier-League,,e68b5bf3
+ENG-Premier League,1213,2012-10-28 Chelsea-Manchester Utd,9.0,Sun,2012-10-28,,Chelsea,2–3,Manchester Utd,,,Mark Clattenburg,/en/matches/5d99c433/Chelsea-Manchester-United-October-28-2012-Premier-League,,5d99c433
+ENG-Premier League,1213,2012-10-28 Everton-Liverpool,9.0,Sun,2012-10-28,,Everton,2–2,Liverpool,,,Andre Marriner,/en/matches/e5d21562/Merseyside-Derby-Everton-Liverpool-October-28-2012-Premier-League,,e5d21562
+ENG-Premier League,1213,2012-10-28 Newcastle Utd-West Brom,9.0,Sun,2012-10-28,,Newcastle Utd,2–1,West Brom,,,Chris Foy,/en/matches/0acf7b2f/Newcastle-United-West-Bromwich-Albion-October-28-2012-Premier-League,,0acf7b2f
+ENG-Premier League,1213,2012-10-28 Southampton-Tottenham,9.0,Sun,2012-10-28,,Southampton,1–2,Tottenham,,,Lee Mason,/en/matches/9017c0e5/Southampton-Tottenham-Hotspur-October-28-2012-Premier-League,,9017c0e5
+ENG-Premier League,1213,2012-10-28 nan-nan,,,2012-10-28,,,,,,,,,,
+ENG-Premier League,1213,2012-11-03 Fulham-Everton,10.0,Sat,2012-11-03,,Fulham,2–2,Everton,,,Neil Swarbrick,/en/matches/0a58a97b/Fulham-Everton-November-3-2012-Premier-League,,0a58a97b
+ENG-Premier League,1213,2012-11-03 Manchester Utd-Arsenal,10.0,Sat,2012-11-03,,Manchester Utd,2–1,Arsenal,,,Mike Dean,/en/matches/921a3ac3/Manchester-United-Arsenal-November-3-2012-Premier-League,,921a3ac3
+ENG-Premier League,1213,2012-11-03 Norwich City-Stoke City,10.0,Sat,2012-11-03,,Norwich City,1–0,Stoke City,,,Andre Marriner,/en/matches/d497dcaf/Norwich-City-Stoke-City-November-3-2012-Premier-League,,d497dcaf
+ENG-Premier League,1213,2012-11-03 Sunderland-Aston Villa,10.0,Sat,2012-11-03,,Sunderland,0–1,Aston Villa,,,Mike Jones,/en/matches/4cb80537/Sunderland-Aston-Villa-November-3-2012-Premier-League,,4cb80537
+ENG-Premier League,1213,2012-11-03 Swansea City-Chelsea,10.0,Sat,2012-11-03,,Swansea City,1–1,Chelsea,,,Kevin Friend,/en/matches/1e83135a/Swansea-City-Chelsea-November-3-2012-Premier-League,,1e83135a
+ENG-Premier League,1213,2012-11-03 Tottenham-Wigan Athletic,10.0,Sat,2012-11-03,,Tottenham,0–1,Wigan Athletic,,,Martin Atkinson,/en/matches/453fa07b/Tottenham-Hotspur-Wigan-Athletic-November-3-2012-Premier-League,,453fa07b
+ENG-Premier League,1213,2012-11-03 West Ham-Manchester City,10.0,Sat,2012-11-03,,West Ham,0–0,Manchester City,,,Howard Webb,/en/matches/bd5a581d/West-Ham-United-Manchester-City-November-3-2012-Premier-League,,bd5a581d
+ENG-Premier League,1213,2012-11-04 Liverpool-Newcastle Utd,10.0,Sun,2012-11-04,,Liverpool,1–1,Newcastle Utd,,,Anthony Taylor,/en/matches/4522c2a0/Liverpool-Newcastle-United-November-4-2012-Premier-League,,4522c2a0
+ENG-Premier League,1213,2012-11-04 QPR-Reading,10.0,Sun,2012-11-04,,QPR,1–1,Reading,,,Michael Oliver,/en/matches/d01c0b25/Queens-Park-Rangers-Reading-November-4-2012-Premier-League,,d01c0b25
+ENG-Premier League,1213,2012-11-05 West Brom-Southampton,10.0,Mon,2012-11-05,,West Brom,2–0,Southampton,,,Mark Halsey,/en/matches/6d63aef2/West-Bromwich-Albion-Southampton-November-5-2012-Premier-League,,6d63aef2
+ENG-Premier League,1213,2012-11-05 nan-nan,,,2012-11-05,,,,,,,,,,
+ENG-Premier League,1213,2012-11-10 Arsenal-Fulham,11.0,Sat,2012-11-10,,Arsenal,3–3,Fulham,,,Phil Dowd,/en/matches/4f95af24/Arsenal-Fulham-November-10-2012-Premier-League,,4f95af24
+ENG-Premier League,1213,2012-11-10 Aston Villa-Manchester Utd,11.0,Sat,2012-11-10,,Aston Villa,2–3,Manchester Utd,,,Kevin Friend,/en/matches/99b25a90/Aston-Villa-Manchester-United-November-10-2012-Premier-League,,99b25a90
+ENG-Premier League,1213,2012-11-10 Everton-Sunderland,11.0,Sat,2012-11-10,,Everton,2–1,Sunderland,,,Lee Mason,/en/matches/5b0cb315/Everton-Sunderland-November-10-2012-Premier-League,,5b0cb315
+ENG-Premier League,1213,2012-11-10 Reading-Norwich City,11.0,Sat,2012-11-10,,Reading,0–0,Norwich City,,,Chris Foy,/en/matches/c401a38f/Reading-Norwich-City-November-10-2012-Premier-League,,c401a38f
+ENG-Premier League,1213,2012-11-10 Southampton-Swansea City,11.0,Sat,2012-11-10,,Southampton,1–1,Swansea City,,,Andre Marriner,/en/matches/9b889b67/Southampton-Swansea-City-November-10-2012-Premier-League,,9b889b67
+ENG-Premier League,1213,2012-11-10 Stoke City-QPR,11.0,Sat,2012-11-10,,Stoke City,1–0,QPR,,,Martin Atkinson,/en/matches/8464d6db/Stoke-City-Queens-Park-Rangers-November-10-2012-Premier-League,,8464d6db
+ENG-Premier League,1213,2012-11-10 Wigan Athletic-West Brom,11.0,Sat,2012-11-10,,Wigan Athletic,1–2,West Brom,,,Neil Swarbrick,/en/matches/41bfbf12/Wigan-Athletic-West-Bromwich-Albion-November-10-2012-Premier-League,,41bfbf12
+ENG-Premier League,1213,2012-11-11 Chelsea-Liverpool,11.0,Sun,2012-11-11,,Chelsea,1–1,Liverpool,,,Howard Webb,/en/matches/8952fda2/Chelsea-Liverpool-November-11-2012-Premier-League,,8952fda2
+ENG-Premier League,1213,2012-11-11 Manchester City-Tottenham,11.0,Sun,2012-11-11,,Manchester City,2–1,Tottenham,,,Michael Oliver,/en/matches/6ed676eb/Manchester-City-Tottenham-Hotspur-November-11-2012-Premier-League,,6ed676eb
+ENG-Premier League,1213,2012-11-11 Newcastle Utd-West Ham,11.0,Sun,2012-11-11,,Newcastle Utd,0–1,West Ham,,,Mike Dean,/en/matches/c9e0be1f/Newcastle-United-West-Ham-United-November-11-2012-Premier-League,,c9e0be1f
+ENG-Premier League,1213,2012-11-11 nan-nan,,,2012-11-11,,,,,,,,,,
+ENG-Premier League,1213,2012-11-17 Arsenal-Tottenham,12.0,Sat,2012-11-17,,Arsenal,5–2,Tottenham,,,Howard Webb,/en/matches/f39b2855/North-London-Derby-Arsenal-Tottenham-Hotspur-November-17-2012-Premier-League,,f39b2855
+ENG-Premier League,1213,2012-11-17 Liverpool-Wigan Athletic,12.0,Sat,2012-11-17,,Liverpool,3–0,Wigan Athletic,,,Kevin Friend,/en/matches/156e0fc0/Liverpool-Wigan-Athletic-November-17-2012-Premier-League,,156e0fc0
+ENG-Premier League,1213,2012-11-17 Manchester City-Aston Villa,12.0,Sat,2012-11-17,,Manchester City,5–0,Aston Villa,,,Jon Moss,/en/matches/42c33d7a/Manchester-City-Aston-Villa-November-17-2012-Premier-League,,42c33d7a
+ENG-Premier League,1213,2012-11-17 Newcastle Utd-Swansea City,12.0,Sat,2012-11-17,,Newcastle Utd,1–2,Swansea City,,,Phil Dowd,/en/matches/ee5f29be/Newcastle-United-Swansea-City-November-17-2012-Premier-League,,ee5f29be
+ENG-Premier League,1213,2012-11-17 Norwich City-Manchester Utd,12.0,Sat,2012-11-17,,Norwich City,1–0,Manchester Utd,,,Anthony Taylor,/en/matches/0b8ef2e5/Norwich-City-Manchester-United-November-17-2012-Premier-League,,0b8ef2e5
+ENG-Premier League,1213,2012-11-17 QPR-Southampton,12.0,Sat,2012-11-17,,QPR,1–3,Southampton,,,Mike Dean,/en/matches/df7f93cb/Queens-Park-Rangers-Southampton-November-17-2012-Premier-League,,df7f93cb
+ENG-Premier League,1213,2012-11-17 Reading-Everton,12.0,Sat,2012-11-17,,Reading,2–1,Everton,,,Martin Atkinson,/en/matches/6e65d25c/Reading-Everton-November-17-2012-Premier-League,,6e65d25c
+ENG-Premier League,1213,2012-11-17 West Brom-Chelsea,12.0,Sat,2012-11-17,,West Brom,2–1,Chelsea,,,Michael Oliver,/en/matches/6037d9e7/West-Bromwich-Albion-Chelsea-November-17-2012-Premier-League,,6037d9e7
+ENG-Premier League,1213,2012-11-18 Fulham-Sunderland,12.0,Sun,2012-11-18,,Fulham,1–3,Sunderland,,,Lee Probert,/en/matches/93513c57/Fulham-Sunderland-November-18-2012-Premier-League,,93513c57
+ENG-Premier League,1213,2012-11-19 West Ham-Stoke City,12.0,Mon,2012-11-19,,West Ham,1–1,Stoke City,,,Chris Foy,/en/matches/65fd4140/West-Ham-United-Stoke-City-November-19-2012-Premier-League,,65fd4140
+ENG-Premier League,1213,2012-11-19 nan-nan,,,2012-11-19,,,,,,,,,,
+ENG-Premier League,1213,2012-11-24 Aston Villa-Arsenal,13.0,Sat,2012-11-24,,Aston Villa,0–0,Arsenal,,,Lee Mason,/en/matches/fd194998/Aston-Villa-Arsenal-November-24-2012-Premier-League,,fd194998
+ENG-Premier League,1213,2012-11-24 Everton-Norwich City,13.0,Sat,2012-11-24,,Everton,1–1,Norwich City,,,Mike Jones,/en/matches/f448beae/Everton-Norwich-City-November-24-2012-Premier-League,,f448beae
+ENG-Premier League,1213,2012-11-24 Manchester Utd-QPR,13.0,Sat,2012-11-24,,Manchester Utd,3–1,QPR,,,Lee Probert,/en/matches/e12d9a2c/Manchester-United-Queens-Park-Rangers-November-24-2012-Premier-League,,e12d9a2c
+ENG-Premier League,1213,2012-11-24 Stoke City-Fulham,13.0,Sat,2012-11-24,,Stoke City,1–0,Fulham,,,Michael Oliver,/en/matches/eb39065f/Stoke-City-Fulham-November-24-2012-Premier-League,,eb39065f
+ENG-Premier League,1213,2012-11-24 Sunderland-West Brom,13.0,Sat,2012-11-24,,Sunderland,2–4,West Brom,,,Mike Dean,/en/matches/718f3a01/Sunderland-West-Bromwich-Albion-November-24-2012-Premier-League,,718f3a01
+ENG-Premier League,1213,2012-11-24 Wigan Athletic-Reading,13.0,Sat,2012-11-24,,Wigan Athletic,3–2,Reading,,,Howard Webb,/en/matches/82541912/Wigan-Athletic-Reading-November-24-2012-Premier-League,,82541912
+ENG-Premier League,1213,2012-11-25 Chelsea-Manchester City,13.0,Sun,2012-11-25,,Chelsea,0–0,Manchester City,,,Chris Foy,/en/matches/53d7f78d/Chelsea-Manchester-City-November-25-2012-Premier-League,,53d7f78d
+ENG-Premier League,1213,2012-11-25 Southampton-Newcastle Utd,13.0,Sun,2012-11-25,,Southampton,2–0,Newcastle Utd,,,Martin Atkinson,/en/matches/edf77b5c/Southampton-Newcastle-United-November-25-2012-Premier-League,,edf77b5c
+ENG-Premier League,1213,2012-11-25 Swansea City-Liverpool,13.0,Sun,2012-11-25,,Swansea City,0–0,Liverpool,,,Jon Moss,/en/matches/9234b55a/Swansea-City-Liverpool-November-25-2012-Premier-League,,9234b55a
+ENG-Premier League,1213,2012-11-25 Tottenham-West Ham,13.0,Sun,2012-11-25,,Tottenham,3–1,West Ham,,,Andre Marriner,/en/matches/f5ccfca3/Tottenham-Hotspur-West-Ham-United-November-25-2012-Premier-League,,f5ccfca3
+ENG-Premier League,1213,2012-11-25 nan-nan,,,2012-11-25,,,,,,,,,,
+ENG-Premier League,1213,2012-11-27 Aston Villa-Reading,14.0,Tue,2012-11-27,,Aston Villa,1–0,Reading,,,Lee Probert,/en/matches/af316f48/Aston-Villa-Reading-November-27-2012-Premier-League,,af316f48
+ENG-Premier League,1213,2012-11-27 Sunderland-QPR,14.0,Tue,2012-11-27,,Sunderland,0–0,QPR,,,Andre Marriner,/en/matches/c623b92d/Sunderland-Queens-Park-Rangers-November-27-2012-Premier-League,,c623b92d
+ENG-Premier League,1213,2012-11-28 Chelsea-Fulham,14.0,Wed,2012-11-28,,Chelsea,0–0,Fulham,,,Anthony Taylor,/en/matches/f79d3f11/Chelsea-Fulham-November-28-2012-Premier-League,,f79d3f11
+ENG-Premier League,1213,2012-11-28 Everton-Arsenal,14.0,Wed,2012-11-28,,Everton,1–1,Arsenal,,,Michael Oliver,/en/matches/c0759ba7/Everton-Arsenal-November-28-2012-Premier-League,,c0759ba7
+ENG-Premier League,1213,2012-11-28 Manchester Utd-West Ham,14.0,Wed,2012-11-28,,Manchester Utd,1–0,West Ham,,,Mike Jones,/en/matches/7733a269/Manchester-United-West-Ham-United-November-28-2012-Premier-League,,7733a269
+ENG-Premier League,1213,2012-11-28 Southampton-Norwich City,14.0,Wed,2012-11-28,,Southampton,1–1,Norwich City,,,Mark Clattenburg,/en/matches/ddd3d39e/Southampton-Norwich-City-November-28-2012-Premier-League,,ddd3d39e
+ENG-Premier League,1213,2012-11-28 Stoke City-Newcastle Utd,14.0,Wed,2012-11-28,,Stoke City,2–1,Newcastle Utd,,,Howard Webb,/en/matches/b2c15f39/Stoke-City-Newcastle-United-November-28-2012-Premier-League,,b2c15f39
+ENG-Premier League,1213,2012-11-28 Swansea City-West Brom,14.0,Wed,2012-11-28,,Swansea City,3–1,West Brom,,,Lee Mason,/en/matches/13d46def/Swansea-City-West-Bromwich-Albion-November-28-2012-Premier-League,,13d46def
+ENG-Premier League,1213,2012-11-28 Tottenham-Liverpool,14.0,Wed,2012-11-28,,Tottenham,2–1,Liverpool,,,Phil Dowd,/en/matches/c735db27/Tottenham-Hotspur-Liverpool-November-28-2012-Premier-League,,c735db27
+ENG-Premier League,1213,2012-11-28 Wigan Athletic-Manchester City,14.0,Wed,2012-11-28,,Wigan Athletic,0–2,Manchester City,,,Mark Halsey,/en/matches/cc2623e9/Wigan-Athletic-Manchester-City-November-28-2012-Premier-League,,cc2623e9
+ENG-Premier League,1213,2012-11-28 nan-nan,,,2012-11-28,,,,,,,,,,
+ENG-Premier League,1213,2012-12-01 Arsenal-Swansea City,15.0,Sat,2012-12-01,,Arsenal,0–2,Swansea City,,,Mark Clattenburg,/en/matches/6927d8ed/Arsenal-Swansea-City-December-1-2012-Premier-League,,6927d8ed
+ENG-Premier League,1213,2012-12-01 Fulham-Tottenham,15.0,Sat,2012-12-01,,Fulham,0–3,Tottenham,,,Chris Foy,/en/matches/04c641b7/Fulham-Tottenham-Hotspur-December-1-2012-Premier-League,,04c641b7
+ENG-Premier League,1213,2012-12-01 Liverpool-Southampton,15.0,Sat,2012-12-01,,Liverpool,1–0,Southampton,,,Michael Oliver,/en/matches/407e06ae/Liverpool-Southampton-December-1-2012-Premier-League,,407e06ae
+ENG-Premier League,1213,2012-12-01 Manchester City-Everton,15.0,Sat,2012-12-01,,Manchester City,1–1,Everton,,,Lee Probert,/en/matches/9f11bae3/Manchester-City-Everton-December-1-2012-Premier-League,,9f11bae3
+ENG-Premier League,1213,2012-12-01 QPR-Aston Villa,15.0,Sat,2012-12-01,,QPR,1–1,Aston Villa,,,Howard Webb,/en/matches/8760ee94/Queens-Park-Rangers-Aston-Villa-December-1-2012-Premier-League,,8760ee94
+ENG-Premier League,1213,2012-12-01 Reading-Manchester Utd,15.0,Sat,2012-12-01,,Reading,3–4,Manchester Utd,,,Mark Halsey,/en/matches/dcbe2720/Reading-Manchester-United-December-1-2012-Premier-League,,dcbe2720
+ENG-Premier League,1213,2012-12-01 West Brom-Stoke City,15.0,Sat,2012-12-01,,West Brom,0–1,Stoke City,,,Kevin Friend,/en/matches/1cb9a815/West-Bromwich-Albion-Stoke-City-December-1-2012-Premier-League,,1cb9a815
+ENG-Premier League,1213,2012-12-01 West Ham-Chelsea,15.0,Sat,2012-12-01,,West Ham,3–1,Chelsea,,,Martin Atkinson,/en/matches/bd48a8bf/West-Ham-United-Chelsea-December-1-2012-Premier-League,,bd48a8bf
+ENG-Premier League,1213,2012-12-02 Norwich City-Sunderland,15.0,Sun,2012-12-02,,Norwich City,2–1,Sunderland,,,Phil Dowd,/en/matches/e05a0a53/Norwich-City-Sunderland-December-2-2012-Premier-League,,e05a0a53
+ENG-Premier League,1213,2012-12-03 Newcastle Utd-Wigan Athletic,15.0,Mon,2012-12-03,,Newcastle Utd,3–0,Wigan Athletic,,,Mike Jones,/en/matches/9ff59efd/Newcastle-United-Wigan-Athletic-December-3-2012-Premier-League,,9ff59efd
+ENG-Premier League,1213,2012-12-03 nan-nan,,,2012-12-03,,,,,,,,,,
+ENG-Premier League,1213,2012-12-08 Arsenal-West Brom,16.0,Sat,2012-12-08,,Arsenal,2–0,West Brom,,,Mike Jones,/en/matches/0652e8cb/Arsenal-West-Bromwich-Albion-December-8-2012-Premier-League,,0652e8cb
+ENG-Premier League,1213,2012-12-08 Aston Villa-Stoke City,16.0,Sat,2012-12-08,,Aston Villa,0–0,Stoke City,,,Roger East,/en/matches/ba11d96e/Aston-Villa-Stoke-City-December-8-2012-Premier-League,,ba11d96e
+ENG-Premier League,1213,2012-12-08 Southampton-Reading,16.0,Sat,2012-12-08,,Southampton,1–0,Reading,,,Jon Moss,/en/matches/fd21f4cb/Southampton-Reading-December-8-2012-Premier-League,,fd21f4cb
+ENG-Premier League,1213,2012-12-08 Sunderland-Chelsea,16.0,Sat,2012-12-08,,Sunderland,1–3,Chelsea,,,Mark Halsey,/en/matches/ef9309a7/Sunderland-Chelsea-December-8-2012-Premier-League,,ef9309a7
+ENG-Premier League,1213,2012-12-08 Swansea City-Norwich City,16.0,Sat,2012-12-08,,Swansea City,3–4,Norwich City,,,Howard Webb,/en/matches/4e711d41/Swansea-City-Norwich-City-December-8-2012-Premier-League,,4e711d41
+ENG-Premier League,1213,2012-12-08 Wigan Athletic-QPR,16.0,Sat,2012-12-08,,Wigan Athletic,2–2,QPR,,,Phil Dowd,/en/matches/e6cef577/Wigan-Athletic-Queens-Park-Rangers-December-8-2012-Premier-League,,e6cef577
+ENG-Premier League,1213,2012-12-09 Everton-Tottenham,16.0,Sun,2012-12-09,,Everton,2–1,Tottenham,,,Lee Mason,/en/matches/d6d170fc/Everton-Tottenham-Hotspur-December-9-2012-Premier-League,,d6d170fc
+ENG-Premier League,1213,2012-12-09 Manchester City-Manchester Utd,16.0,Sun,2012-12-09,,Manchester City,2–3,Manchester Utd,,,Martin Atkinson,/en/matches/51f9ca16/Manchester-Derby-Manchester-City-Manchester-United-December-9-2012-Premier-League,,51f9ca16
+ENG-Premier League,1213,2012-12-09 West Ham-Liverpool,16.0,Sun,2012-12-09,,West Ham,2–3,Liverpool,,,Lee Probert,/en/matches/f898dc80/West-Ham-United-Liverpool-December-9-2012-Premier-League,,f898dc80
+ENG-Premier League,1213,2012-12-10 Fulham-Newcastle Utd,16.0,Mon,2012-12-10,,Fulham,2–1,Newcastle Utd,,,Lee Mason,/en/matches/83a7768d/Fulham-Newcastle-United-December-10-2012-Premier-League,,83a7768d
+ENG-Premier League,1213,2012-12-10 nan-nan,,,2012-12-10,,,,,,,,,,
+ENG-Premier League,1213,2012-12-11 Sunderland-Reading,2.0,Tue,2012-12-11,,Sunderland,3–0,Reading,,,Neil Swarbrick,/en/matches/5b3e4534/Sunderland-Reading-December-11-2012-Premier-League,,5b3e4534
+ENG-Premier League,1213,2012-12-11 nan-nan,,,2012-12-11,,,,,,,,,,
+ENG-Premier League,1213,2012-12-15 Liverpool-Aston Villa,17.0,Sat,2012-12-15,,Liverpool,1–3,Aston Villa,,,Neil Swarbrick,/en/matches/ddb564a1/Liverpool-Aston-Villa-December-15-2012-Premier-League,,ddb564a1
+ENG-Premier League,1213,2012-12-15 Manchester Utd-Sunderland,17.0,Sat,2012-12-15,,Manchester Utd,3–1,Sunderland,,,Chris Foy,/en/matches/39a3ba29/Manchester-United-Sunderland-December-15-2012-Premier-League,,39a3ba29
+ENG-Premier League,1213,2012-12-15 Newcastle Utd-Manchester City,17.0,Sat,2012-12-15,,Newcastle Utd,1–3,Manchester City,,,Andre Marriner,/en/matches/cab701df/Newcastle-United-Manchester-City-December-15-2012-Premier-League,,cab701df
+ENG-Premier League,1213,2012-12-15 Norwich City-Wigan Athletic,17.0,Sat,2012-12-15,,Norwich City,2–1,Wigan Athletic,,,Lee Probert,/en/matches/25b34975/Norwich-City-Wigan-Athletic-December-15-2012-Premier-League,,25b34975
+ENG-Premier League,1213,2012-12-15 QPR-Fulham,17.0,Sat,2012-12-15,,QPR,2–1,Fulham,,,Martin Atkinson,/en/matches/1d574b37/Queens-Park-Rangers-Fulham-December-15-2012-Premier-League,,1d574b37
+ENG-Premier League,1213,2012-12-15 Stoke City-Everton,17.0,Sat,2012-12-15,,Stoke City,1–1,Everton,,,Mark Halsey,/en/matches/7f5912a9/Stoke-City-Everton-December-15-2012-Premier-League,,7f5912a9
+ENG-Premier League,1213,2012-12-16 Tottenham-Swansea City,17.0,Sun,2012-12-16,,Tottenham,1–0,Swansea City,,,Mike Dean,/en/matches/064404a3/Tottenham-Hotspur-Swansea-City-December-16-2012-Premier-League,,064404a3
+ENG-Premier League,1213,2012-12-16 West Brom-West Ham,17.0,Sun,2012-12-16,,West Brom,0–0,West Ham,,,Phil Dowd,/en/matches/8c782b1d/West-Bromwich-Albion-West-Ham-United-December-16-2012-Premier-League,,8c782b1d
+ENG-Premier League,1213,2012-12-17 Reading-Arsenal,17.0,Mon,2012-12-17,,Reading,2–5,Arsenal,,,Anthony Taylor,/en/matches/a59451c9/Reading-Arsenal-December-17-2012-Premier-League,,a59451c9
+ENG-Premier League,1213,2012-12-17 nan-nan,,,2012-12-17,,,,,,,,,,
+ENG-Premier League,1213,2012-12-22 Liverpool-Fulham,18.0,Sat,2012-12-22,,Liverpool,4–0,Fulham,,,Mark Clattenburg,/en/matches/4668176c/Liverpool-Fulham-December-22-2012-Premier-League,,4668176c
+ENG-Premier League,1213,2012-12-22 Manchester City-Reading,18.0,Sat,2012-12-22,,Manchester City,1–0,Reading,,,Mike Dean,/en/matches/2dda4eeb/Manchester-City-Reading-December-22-2012-Premier-League,,2dda4eeb
+ENG-Premier League,1213,2012-12-22 Newcastle Utd-QPR,18.0,Sat,2012-12-22,,Newcastle Utd,1–0,QPR,,,Kevin Friend,/en/matches/ab2420e6/Newcastle-United-Queens-Park-Rangers-December-22-2012-Premier-League,,ab2420e6
+ENG-Premier League,1213,2012-12-22 Southampton-Sunderland,18.0,Sat,2012-12-22,,Southampton,0–1,Sunderland,,,Howard Webb,/en/matches/c4cb50df/Southampton-Sunderland-December-22-2012-Premier-League,,c4cb50df
+ENG-Premier League,1213,2012-12-22 Tottenham-Stoke City,18.0,Sat,2012-12-22,,Tottenham,0–0,Stoke City,,,Lee Mason,/en/matches/d08e11d8/Tottenham-Hotspur-Stoke-City-December-22-2012-Premier-League,,d08e11d8
+ENG-Premier League,1213,2012-12-22 West Brom-Norwich City,18.0,Sat,2012-12-22,,West Brom,2–1,Norwich City,,,Martin Atkinson,/en/matches/32c2ff27/West-Bromwich-Albion-Norwich-City-December-22-2012-Premier-League,,32c2ff27
+ENG-Premier League,1213,2012-12-22 West Ham-Everton,18.0,Sat,2012-12-22,,West Ham,1–2,Everton,,,Anthony Taylor,/en/matches/a6c2e25c/West-Ham-United-Everton-December-22-2012-Premier-League,,a6c2e25c
+ENG-Premier League,1213,2012-12-22 Wigan Athletic-Arsenal,18.0,Sat,2012-12-22,,Wigan Athletic,0–1,Arsenal,,,Jon Moss,/en/matches/476448fe/Wigan-Athletic-Arsenal-December-22-2012-Premier-League,,476448fe
+ENG-Premier League,1213,2012-12-23 Chelsea-Aston Villa,18.0,Sun,2012-12-23,,Chelsea,8–0,Aston Villa,,,Phil Dowd,/en/matches/f413452c/Chelsea-Aston-Villa-December-23-2012-Premier-League,,f413452c
+ENG-Premier League,1213,2012-12-23 Swansea City-Manchester Utd,18.0,Sun,2012-12-23,,Swansea City,1–1,Manchester Utd,,,Michael Oliver,/en/matches/3fdfd093/Swansea-City-Manchester-United-December-23-2012-Premier-League,,3fdfd093
+ENG-Premier League,1213,2012-12-23 nan-nan,,,2012-12-23,,,,,,,,,,
+ENG-Premier League,1213,2012-12-26 Aston Villa-Tottenham,19.0,Wed,2012-12-26,,Aston Villa,0–4,Tottenham,,,Mark Clattenburg,/en/matches/1f8e4b9d/Aston-Villa-Tottenham-Hotspur-December-26-2012-Premier-League,,1f8e4b9d
+ENG-Premier League,1213,2012-12-26 Everton-Wigan Athletic,19.0,Wed,2012-12-26,,Everton,2–1,Wigan Athletic,,,Lee Mason,/en/matches/497552e7/Everton-Wigan-Athletic-December-26-2012-Premier-League,,497552e7
+ENG-Premier League,1213,2012-12-26 Fulham-Southampton,19.0,Wed,2012-12-26,,Fulham,1–1,Southampton,,,Phil Dowd,/en/matches/a4b1cc60/Fulham-Southampton-December-26-2012-Premier-League,,a4b1cc60
+ENG-Premier League,1213,2012-12-26 Manchester Utd-Newcastle Utd,19.0,Wed,2012-12-26,,Manchester Utd,4–3,Newcastle Utd,,,Mike Dean,/en/matches/2a7e44c9/Manchester-United-Newcastle-United-December-26-2012-Premier-League,,2a7e44c9
+ENG-Premier League,1213,2012-12-26 Norwich City-Chelsea,19.0,Wed,2012-12-26,,Norwich City,0–1,Chelsea,,,Jon Moss,/en/matches/4eb2ef3a/Norwich-City-Chelsea-December-26-2012-Premier-League,,4eb2ef3a
+ENG-Premier League,1213,2012-12-26 QPR-West Brom,19.0,Wed,2012-12-26,,QPR,1–2,West Brom,,,Chris Foy,/en/matches/879d853c/Queens-Park-Rangers-West-Bromwich-Albion-December-26-2012-Premier-League,,879d853c
+ENG-Premier League,1213,2012-12-26 Reading-Swansea City,19.0,Wed,2012-12-26,,Reading,0–0,Swansea City,,,Mike Jones,/en/matches/782240ac/Reading-Swansea-City-December-26-2012-Premier-League,,782240ac
+ENG-Premier League,1213,2012-12-26 Stoke City-Liverpool,19.0,Wed,2012-12-26,,Stoke City,3–1,Liverpool,,,Howard Webb,/en/matches/6ff74b3a/Stoke-City-Liverpool-December-26-2012-Premier-League,,6ff74b3a
+ENG-Premier League,1213,2012-12-26 Sunderland-Manchester City,19.0,Wed,2012-12-26,,Sunderland,1–0,Manchester City,,,Kevin Friend,/en/matches/0c45a190/Sunderland-Manchester-City-December-26-2012-Premier-League,,0c45a190
+ENG-Premier League,1213,2012-12-26 nan-nan,,,2012-12-26,,,,,,,,,,
+ENG-Premier League,1213,2012-12-29 Arsenal-Newcastle Utd,20.0,Sat,2012-12-29,,Arsenal,7–3,Newcastle Utd,,,Chris Foy,/en/matches/93afcb62/Arsenal-Newcastle-United-December-29-2012-Premier-League,,93afcb62
+ENG-Premier League,1213,2012-12-29 Aston Villa-Wigan Athletic,20.0,Sat,2012-12-29,,Aston Villa,0–3,Wigan Athletic,,,Kevin Friend,/en/matches/9e22bd06/Aston-Villa-Wigan-Athletic-December-29-2012-Premier-League,,9e22bd06
+ENG-Premier League,1213,2012-12-29 Fulham-Swansea City,20.0,Sat,2012-12-29,,Fulham,1–2,Swansea City,,,Andre Marriner,/en/matches/7a8e8eba/Fulham-Swansea-City-December-29-2012-Premier-League,,7a8e8eba
+ENG-Premier League,1213,2012-12-29 Manchester Utd-West Brom,20.0,Sat,2012-12-29,,Manchester Utd,2–0,West Brom,,,Jon Moss,/en/matches/6183f47d/Manchester-United-West-Bromwich-Albion-December-29-2012-Premier-League,,6183f47d
+ENG-Premier League,1213,2012-12-29 Norwich City-Manchester City,20.0,Sat,2012-12-29,,Norwich City,3–4,Manchester City,,,Mike Jones,/en/matches/c3eaadcc/Norwich-City-Manchester-City-December-29-2012-Premier-League,,c3eaadcc
+ENG-Premier League,1213,2012-12-29 Reading-West Ham,20.0,Sat,2012-12-29,,Reading,1–0,West Ham,,,Michael Oliver,/en/matches/dd832f43/Reading-West-Ham-United-December-29-2012-Premier-League,,dd832f43
+ENG-Premier League,1213,2012-12-29 Stoke City-Southampton,20.0,Sat,2012-12-29,,Stoke City,3–3,Southampton,,,Mark Clattenburg,/en/matches/5776cbf9/Stoke-City-Southampton-December-29-2012-Premier-League,,5776cbf9
+ENG-Premier League,1213,2012-12-29 Sunderland-Tottenham,20.0,Sat,2012-12-29,,Sunderland,1–2,Tottenham,,,Martin Atkinson,/en/matches/c849845b/Sunderland-Tottenham-Hotspur-December-29-2012-Premier-League,,c849845b
+ENG-Premier League,1213,2012-12-30 Everton-Chelsea,20.0,Sun,2012-12-30,,Everton,1–2,Chelsea,,,Howard Webb,/en/matches/3f4f55fe/Everton-Chelsea-December-30-2012-Premier-League,,3f4f55fe
+ENG-Premier League,1213,2012-12-30 QPR-Liverpool,20.0,Sun,2012-12-30,,QPR,0–3,Liverpool,,,Anthony Taylor,/en/matches/7834ab5f/Queens-Park-Rangers-Liverpool-December-30-2012-Premier-League,,7834ab5f
+ENG-Premier League,1213,2012-12-30 nan-nan,,,2012-12-30,,,,,,,,,,
+ENG-Premier League,1213,2013-01-01 Manchester City-Stoke City,21.0,Tue,2013-01-01,,Manchester City,3–0,Stoke City,,,Michael Oliver,/en/matches/f85109e1/Manchester-City-Stoke-City-January-1-2013-Premier-League,,f85109e1
+ENG-Premier League,1213,2013-01-01 Southampton-Arsenal,21.0,Tue,2013-01-01,,Southampton,1–1,Arsenal,,,Lee Probert,/en/matches/c74e6d27/Southampton-Arsenal-January-1-2013-Premier-League,,c74e6d27
+ENG-Premier League,1213,2013-01-01 Swansea City-Aston Villa,21.0,Tue,2013-01-01,,Swansea City,2–2,Aston Villa,,,Mark Halsey,/en/matches/a86a4c8e/Swansea-City-Aston-Villa-January-1-2013-Premier-League,,a86a4c8e
+ENG-Premier League,1213,2013-01-01 Tottenham-Reading,21.0,Tue,2013-01-01,,Tottenham,3–1,Reading,,,Howard Webb,/en/matches/77152dbb/Tottenham-Hotspur-Reading-January-1-2013-Premier-League,,77152dbb
+ENG-Premier League,1213,2013-01-01 West Brom-Fulham,21.0,Tue,2013-01-01,,West Brom,1–2,Fulham,,,Mike Dean,/en/matches/c2bd677d/West-Bromwich-Albion-Fulham-January-1-2013-Premier-League,,c2bd677d
+ENG-Premier League,1213,2013-01-01 West Ham-Norwich City,21.0,Tue,2013-01-01,,West Ham,2–1,Norwich City,,,Mark Clattenburg,/en/matches/30c86c81/West-Ham-United-Norwich-City-January-1-2013-Premier-League,,30c86c81
+ENG-Premier League,1213,2013-01-01 Wigan Athletic-Manchester Utd,21.0,Tue,2013-01-01,,Wigan Athletic,0–4,Manchester Utd,,,Andre Marriner,/en/matches/fe5833ec/Wigan-Athletic-Manchester-United-January-1-2013-Premier-League,,fe5833ec
+ENG-Premier League,1213,2013-01-02 Chelsea-QPR,21.0,Wed,2013-01-02,,Chelsea,0–1,QPR,,,Lee Mason,/en/matches/5fbed167/Chelsea-Queens-Park-Rangers-January-2-2013-Premier-League,,5fbed167
+ENG-Premier League,1213,2013-01-02 Liverpool-Sunderland,21.0,Wed,2013-01-02,,Liverpool,3–0,Sunderland,,,Phil Dowd,/en/matches/48a0d6e2/Liverpool-Sunderland-January-2-2013-Premier-League,,48a0d6e2
+ENG-Premier League,1213,2013-01-02 Newcastle Utd-Everton,21.0,Wed,2013-01-02,,Newcastle Utd,1–2,Everton,,,Martin Atkinson,/en/matches/2d622117/Newcastle-United-Everton-January-2-2013-Premier-League,,2d622117
+ENG-Premier League,1213,2013-01-02 nan-nan,,,2013-01-02,,,,,,,,,,
+ENG-Premier League,1213,2013-01-12 Aston Villa-Southampton,22.0,Sat,2013-01-12,,Aston Villa,0–1,Southampton,,,Mark Halsey,/en/matches/40ca57e8/Aston-Villa-Southampton-January-12-2013-Premier-League,,40ca57e8
+ENG-Premier League,1213,2013-01-12 Everton-Swansea City,22.0,Sat,2013-01-12,,Everton,0–0,Swansea City,,,Phil Dowd,/en/matches/9cf1c515/Everton-Swansea-City-January-12-2013-Premier-League,,9cf1c515
+ENG-Premier League,1213,2013-01-12 Fulham-Wigan Athletic,22.0,Sat,2013-01-12,,Fulham,1–1,Wigan Athletic,,,Mark Clattenburg,/en/matches/9319a878/Fulham-Wigan-Athletic-January-12-2013-Premier-League,,9319a878
+ENG-Premier League,1213,2013-01-12 Norwich City-Newcastle Utd,22.0,Sat,2013-01-12,,Norwich City,0–0,Newcastle Utd,,,Anthony Taylor,/en/matches/26ff3845/Norwich-City-Newcastle-United-January-12-2013-Premier-League,,26ff3845
+ENG-Premier League,1213,2013-01-12 QPR-Tottenham,22.0,Sat,2013-01-12,,QPR,0–0,Tottenham,,,Lee Probert,/en/matches/a52210f1/Queens-Park-Rangers-Tottenham-Hotspur-January-12-2013-Premier-League,,a52210f1
+ENG-Premier League,1213,2013-01-12 Reading-West Brom,22.0,Sat,2013-01-12,,Reading,3–2,West Brom,,,Kevin Friend,/en/matches/dc8f53ef/Reading-West-Bromwich-Albion-January-12-2013-Premier-League,,dc8f53ef
+ENG-Premier League,1213,2013-01-12 Stoke City-Chelsea,22.0,Sat,2013-01-12,,Stoke City,0–4,Chelsea,,,Andre Marriner,/en/matches/5e786139/Stoke-City-Chelsea-January-12-2013-Premier-League,,5e786139
+ENG-Premier League,1213,2013-01-12 Sunderland-West Ham,22.0,Sat,2013-01-12,,Sunderland,3–0,West Ham,,,Neil Swarbrick,/en/matches/63007c5d/Sunderland-West-Ham-United-January-12-2013-Premier-League,,63007c5d
+ENG-Premier League,1213,2013-01-13 Arsenal-Manchester City,22.0,Sun,2013-01-13,,Arsenal,0–2,Manchester City,,,Mike Dean,/en/matches/8948660c/Arsenal-Manchester-City-January-13-2013-Premier-League,,8948660c
+ENG-Premier League,1213,2013-01-13 Manchester Utd-Liverpool,22.0,Sun,2013-01-13,,Manchester Utd,2–1,Liverpool,,,Howard Webb,/en/matches/ed98e988/North-West-Derby-Manchester-United-Liverpool-January-13-2013-Premier-League,,ed98e988
+ENG-Premier League,1213,2013-01-13 nan-nan,,,2013-01-13,,,,,,,,,,
+ENG-Premier League,1213,2013-01-16 Chelsea-Southampton,17.0,Wed,2013-01-16,,Chelsea,2–2,Southampton,,,Michael Oliver,/en/matches/aa03dc87/Chelsea-Southampton-January-16-2013-Premier-League,,aa03dc87
+ENG-Premier League,1213,2013-01-16 nan-nan,,,2013-01-16,,,,,,,,,,
+ENG-Premier League,1213,2013-01-19 Liverpool-Norwich City,23.0,Sat,2013-01-19,,Liverpool,5–0,Norwich City,,,Michael Oliver,/en/matches/d601fc8a/Liverpool-Norwich-City-January-19-2013-Premier-League,,d601fc8a
+ENG-Premier League,1213,2013-01-19 Manchester City-Fulham,23.0,Sat,2013-01-19,,Manchester City,2–0,Fulham,,,Jon Moss,/en/matches/92d6591a/Manchester-City-Fulham-January-19-2013-Premier-League,,92d6591a
+ENG-Premier League,1213,2013-01-19 Newcastle Utd-Reading,23.0,Sat,2013-01-19,,Newcastle Utd,1–2,Reading,,,Andre Marriner,/en/matches/245f0c10/Newcastle-United-Reading-January-19-2013-Premier-League,,245f0c10
+ENG-Premier League,1213,2013-01-19 Swansea City-Stoke City,23.0,Sat,2013-01-19,,Swansea City,3–1,Stoke City,,,Mike Dean,/en/matches/1a4de390/Swansea-City-Stoke-City-January-19-2013-Premier-League,,1a4de390
+ENG-Premier League,1213,2013-01-19 West Brom-Aston Villa,23.0,Sat,2013-01-19,,West Brom,2–2,Aston Villa,,,Lee Probert,/en/matches/c12472d3/West-Bromwich-Albion-Aston-Villa-January-19-2013-Premier-League,,c12472d3
+ENG-Premier League,1213,2013-01-19 West Ham-QPR,23.0,Sat,2013-01-19,,West Ham,1–1,QPR,,,Howard Webb,/en/matches/afca303c/West-Ham-United-Queens-Park-Rangers-January-19-2013-Premier-League,,afca303c
+ENG-Premier League,1213,2013-01-19 Wigan Athletic-Sunderland,23.0,Sat,2013-01-19,,Wigan Athletic,2–3,Sunderland,,,Anthony Taylor,/en/matches/86ab765e/Wigan-Athletic-Sunderland-January-19-2013-Premier-League,,86ab765e
+ENG-Premier League,1213,2013-01-20 Chelsea-Arsenal,23.0,Sun,2013-01-20,,Chelsea,2–1,Arsenal,,,Martin Atkinson,/en/matches/84f8690d/North-West-London-Derby-Chelsea-Arsenal-January-20-2013-Premier-League,,84f8690d
+ENG-Premier League,1213,2013-01-20 Tottenham-Manchester Utd,23.0,Sun,2013-01-20,,Tottenham,1–1,Manchester Utd,,,Chris Foy,/en/matches/5122be85/Tottenham-Hotspur-Manchester-United-January-20-2013-Premier-League,,5122be85
+ENG-Premier League,1213,2013-01-21 Southampton-Everton,23.0,Mon,2013-01-21,,Southampton,0–0,Everton,,,Neil Swarbrick,/en/matches/6ad7f62b/Southampton-Everton-January-21-2013-Premier-League,,6ad7f62b
+ENG-Premier League,1213,2013-01-21 nan-nan,,,2013-01-21,,,,,,,,,,
+ENG-Premier League,1213,2013-01-23 Arsenal-West Ham,19.0,Wed,2013-01-23,,Arsenal,5–1,West Ham,,,Andre Marriner,/en/matches/203a99e0/Arsenal-West-Ham-United-January-23-2013-Premier-League,,203a99e0
+ENG-Premier League,1213,2013-01-23 nan-nan,,,2013-01-23,,,,,,,,,,
+ENG-Premier League,1213,2013-01-29 Aston Villa-Newcastle Utd,24.0,Tue,2013-01-29,,Aston Villa,1–2,Newcastle Utd,,,Mike Dean,/en/matches/829dcb4f/Aston-Villa-Newcastle-United-January-29-2013-Premier-League,,829dcb4f
+ENG-Premier League,1213,2013-01-29 QPR-Manchester City,24.0,Tue,2013-01-29,,QPR,0–0,Manchester City,,,Phil Dowd,/en/matches/1979fe3c/Queens-Park-Rangers-Manchester-City-January-29-2013-Premier-League,,1979fe3c
+ENG-Premier League,1213,2013-01-29 Stoke City-Wigan Athletic,24.0,Tue,2013-01-29,,Stoke City,2–2,Wigan Athletic,,,Mike Jones,/en/matches/7263587d/Stoke-City-Wigan-Athletic-January-29-2013-Premier-League,,7263587d
+ENG-Premier League,1213,2013-01-29 Sunderland-Swansea City,24.0,Tue,2013-01-29,,Sunderland,0–0,Swansea City,,,Andre Marriner,/en/matches/9be3bc10/Sunderland-Swansea-City-January-29-2013-Premier-League,,9be3bc10
+ENG-Premier League,1213,2013-01-30 Arsenal-Liverpool,24.0,Wed,2013-01-30,,Arsenal,2–2,Liverpool,,,Kevin Friend,/en/matches/48f18f7e/Arsenal-Liverpool-January-30-2013-Premier-League,,48f18f7e
+ENG-Premier League,1213,2013-01-30 Everton-West Brom,24.0,Wed,2013-01-30,,Everton,2–1,West Brom,,,Michael Oliver,/en/matches/32e5eee9/Everton-West-Bromwich-Albion-January-30-2013-Premier-League,,32e5eee9
+ENG-Premier League,1213,2013-01-30 Fulham-West Ham,24.0,Wed,2013-01-30,,Fulham,3–1,West Ham,,,Chris Foy,/en/matches/5bcfb032/Fulham-West-Ham-United-January-30-2013-Premier-League,,5bcfb032
+ENG-Premier League,1213,2013-01-30 Manchester Utd-Southampton,24.0,Wed,2013-01-30,,Manchester Utd,2–1,Southampton,,,Lee Mason,/en/matches/0a8e48ef/Manchester-United-Southampton-January-30-2013-Premier-League,,0a8e48ef
+ENG-Premier League,1213,2013-01-30 Norwich City-Tottenham,24.0,Wed,2013-01-30,,Norwich City,1–1,Tottenham,,,Neil Swarbrick,/en/matches/5e5d2bf7/Norwich-City-Tottenham-Hotspur-January-30-2013-Premier-League,,5e5d2bf7
+ENG-Premier League,1213,2013-01-30 Reading-Chelsea,24.0,Wed,2013-01-30,,Reading,2–2,Chelsea,,,Mark Halsey,/en/matches/8d8d15ce/Reading-Chelsea-January-30-2013-Premier-League,,8d8d15ce
+ENG-Premier League,1213,2013-01-30 nan-nan,,,2013-01-30,,,,,,,,,,
+ENG-Premier League,1213,2013-02-02 Arsenal-Stoke City,25.0,Sat,2013-02-02,,Arsenal,1–0,Stoke City,,,Chris Foy,/en/matches/bd17ab8b/Arsenal-Stoke-City-February-2-2013-Premier-League,,bd17ab8b
+ENG-Premier League,1213,2013-02-02 Everton-Aston Villa,25.0,Sat,2013-02-02,,Everton,3–3,Aston Villa,,,Mike Jones,/en/matches/a59325aa/Everton-Aston-Villa-February-2-2013-Premier-League,,a59325aa
+ENG-Premier League,1213,2013-02-02 Fulham-Manchester Utd,25.0,Sat,2013-02-02,,Fulham,0–1,Manchester Utd,,,Kevin Friend,/en/matches/460e22ad/Fulham-Manchester-United-February-2-2013-Premier-League,,460e22ad
+ENG-Premier League,1213,2013-02-02 Newcastle Utd-Chelsea,25.0,Sat,2013-02-02,,Newcastle Utd,3–2,Chelsea,,,Howard Webb,/en/matches/cb8c891d/Newcastle-United-Chelsea-February-2-2013-Premier-League,,cb8c891d
+ENG-Premier League,1213,2013-02-02 QPR-Norwich City,25.0,Sat,2013-02-02,,QPR,0–0,Norwich City,,,Jon Moss,/en/matches/7a11562e/Queens-Park-Rangers-Norwich-City-February-2-2013-Premier-League,,7a11562e
+ENG-Premier League,1213,2013-02-02 Reading-Sunderland,25.0,Sat,2013-02-02,,Reading,2–1,Sunderland,,,Lee Mason,/en/matches/26609c3c/Reading-Sunderland-February-2-2013-Premier-League,,26609c3c
+ENG-Premier League,1213,2013-02-02 West Ham-Swansea City,25.0,Sat,2013-02-02,,West Ham,1–0,Swansea City,,,Lee Probert,/en/matches/12c35042/West-Ham-United-Swansea-City-February-2-2013-Premier-League,,12c35042
+ENG-Premier League,1213,2013-02-02 Wigan Athletic-Southampton,25.0,Sat,2013-02-02,,Wigan Athletic,2–2,Southampton,,,Andre Marriner,/en/matches/5bba434e/Wigan-Athletic-Southampton-February-2-2013-Premier-League,,5bba434e
+ENG-Premier League,1213,2013-02-03 Manchester City-Liverpool,25.0,Sun,2013-02-03,,Manchester City,2–2,Liverpool,,,Anthony Taylor,/en/matches/ec2b63d6/Manchester-City-Liverpool-February-3-2013-Premier-League,,ec2b63d6
+ENG-Premier League,1213,2013-02-03 West Brom-Tottenham,25.0,Sun,2013-02-03,,West Brom,0–1,Tottenham,,,Mark Clattenburg,/en/matches/f1c81816/West-Bromwich-Albion-Tottenham-Hotspur-February-3-2013-Premier-League,,f1c81816
+ENG-Premier League,1213,2013-02-03 nan-nan,,,2013-02-03,,,,,,,,,,
+ENG-Premier League,1213,2013-02-09 Chelsea-Wigan Athletic,26.0,Sat,2013-02-09,,Chelsea,4–1,Wigan Athletic,,,Mike Dean,/en/matches/c32992b0/Chelsea-Wigan-Athletic-February-9-2013-Premier-League,,c32992b0
+ENG-Premier League,1213,2013-02-09 Norwich City-Fulham,26.0,Sat,2013-02-09,,Norwich City,0–0,Fulham,,,Howard Webb,/en/matches/3ada0e90/Norwich-City-Fulham-February-9-2013-Premier-League,,3ada0e90
+ENG-Premier League,1213,2013-02-09 Southampton-Manchester City,26.0,Sat,2013-02-09,,Southampton,3–1,Manchester City,,,Martin Atkinson,/en/matches/f66476bd/Southampton-Manchester-City-February-9-2013-Premier-League,,f66476bd
+ENG-Premier League,1213,2013-02-09 Stoke City-Reading,26.0,Sat,2013-02-09,,Stoke City,2–1,Reading,,,Michael Oliver,/en/matches/6af48223/Stoke-City-Reading-February-9-2013-Premier-League,,6af48223
+ENG-Premier League,1213,2013-02-09 Sunderland-Arsenal,26.0,Sat,2013-02-09,,Sunderland,0–1,Arsenal,,,Anthony Taylor,/en/matches/fd6346e5/Sunderland-Arsenal-February-9-2013-Premier-League,,fd6346e5
+ENG-Premier League,1213,2013-02-09 Swansea City-QPR,26.0,Sat,2013-02-09,,Swansea City,4–1,QPR,,,Neil Swarbrick,/en/matches/a7038e7f/Swansea-City-Queens-Park-Rangers-February-9-2013-Premier-League,,a7038e7f
+ENG-Premier League,1213,2013-02-09 Tottenham-Newcastle Utd,26.0,Sat,2013-02-09,,Tottenham,2–1,Newcastle Utd,,,Phil Dowd,/en/matches/2ebf00f2/Tottenham-Hotspur-Newcastle-United-February-9-2013-Premier-League,,2ebf00f2
+ENG-Premier League,1213,2013-02-10 Aston Villa-West Ham,26.0,Sun,2013-02-10,,Aston Villa,2–1,West Ham,,,Mark Clattenburg,/en/matches/461253ac/Aston-Villa-West-Ham-United-February-10-2013-Premier-League,,461253ac
+ENG-Premier League,1213,2013-02-10 Manchester Utd-Everton,26.0,Sun,2013-02-10,,Manchester Utd,2–0,Everton,,,Mark Halsey,/en/matches/b7129c3c/Manchester-United-Everton-February-10-2013-Premier-League,,b7129c3c
+ENG-Premier League,1213,2013-02-11 Liverpool-West Brom,26.0,Mon,2013-02-11,,Liverpool,0–2,West Brom,,,Jon Moss,/en/matches/2f2b53e7/Liverpool-West-Bromwich-Albion-February-11-2013-Premier-League,,2f2b53e7
+ENG-Premier League,1213,2013-02-11 nan-nan,,,2013-02-11,,,,,,,,,,
+ENG-Premier League,1213,2013-02-17 Liverpool-Swansea City,27.0,Sun,2013-02-17,,Liverpool,5–0,Swansea City,,,Howard Webb,/en/matches/216d23df/Liverpool-Swansea-City-February-17-2013-Premier-League,,216d23df
+ENG-Premier League,1213,2013-02-23 Arsenal-Aston Villa,27.0,Sat,2013-02-23,,Arsenal,2–1,Aston Villa,,,Martin Atkinson,/en/matches/8387de0b/Arsenal-Aston-Villa-February-23-2013-Premier-League,,8387de0b
+ENG-Premier League,1213,2013-02-23 Fulham-Stoke City,27.0,Sat,2013-02-23,,Fulham,1–0,Stoke City,,,Lee Probert,/en/matches/892de469/Fulham-Stoke-City-February-23-2013-Premier-League,,892de469
+ENG-Premier League,1213,2013-02-23 Norwich City-Everton,27.0,Sat,2013-02-23,,Norwich City,2–1,Everton,,,Lee Mason,/en/matches/7ece4569/Norwich-City-Everton-February-23-2013-Premier-League,,7ece4569
+ENG-Premier League,1213,2013-02-23 QPR-Manchester Utd,27.0,Sat,2013-02-23,,QPR,0–2,Manchester Utd,,,Anthony Taylor,/en/matches/cea0b79f/Queens-Park-Rangers-Manchester-United-February-23-2013-Premier-League,,cea0b79f
+ENG-Premier League,1213,2013-02-23 Reading-Wigan Athletic,27.0,Sat,2013-02-23,,Reading,0–3,Wigan Athletic,,,Phil Dowd,/en/matches/04d09b98/Reading-Wigan-Athletic-February-23-2013-Premier-League,,04d09b98
+ENG-Premier League,1213,2013-02-23 West Brom-Sunderland,27.0,Sat,2013-02-23,,West Brom,2–1,Sunderland,,,Roger East,/en/matches/65ec2a96/West-Bromwich-Albion-Sunderland-February-23-2013-Premier-League,,65ec2a96
+ENG-Premier League,1213,2013-02-24 Manchester City-Chelsea,27.0,Sun,2013-02-24,,Manchester City,2–0,Chelsea,,,Andre Marriner,/en/matches/d408a4cf/Manchester-City-Chelsea-February-24-2013-Premier-League,,d408a4cf
+ENG-Premier League,1213,2013-02-24 Newcastle Utd-Southampton,27.0,Sun,2013-02-24,,Newcastle Utd,4–2,Southampton,,,Chris Foy,/en/matches/83ff5011/Newcastle-United-Southampton-February-24-2013-Premier-League,,83ff5011
+ENG-Premier League,1213,2013-02-25 West Ham-Tottenham,27.0,Mon,2013-02-25,,West Ham,2–3,Tottenham,,,Howard Webb,/en/matches/662bf66e/West-Ham-United-Tottenham-Hotspur-February-25-2013-Premier-League,,662bf66e
+ENG-Premier League,1213,2013-02-25 nan-nan,,,2013-02-25,,,,,,,,,,
+ENG-Premier League,1213,2013-03-02 Chelsea-West Brom,28.0,Sat,2013-03-02,,Chelsea,1–0,West Brom,,,Kevin Friend,/en/matches/19d8943b/Chelsea-West-Bromwich-Albion-March-2-2013-Premier-League,,19d8943b
+ENG-Premier League,1213,2013-03-02 Everton-Reading,28.0,Sat,2013-03-02,,Everton,3–1,Reading,,,Anthony Taylor,/en/matches/10d6bbb6/Everton-Reading-March-2-2013-Premier-League,,10d6bbb6
+ENG-Premier League,1213,2013-03-02 Manchester Utd-Norwich City,28.0,Sat,2013-03-02,,Manchester Utd,4–0,Norwich City,,,Neil Swarbrick,/en/matches/9a51380d/Manchester-United-Norwich-City-March-2-2013-Premier-League,,9a51380d
+ENG-Premier League,1213,2013-03-02 Southampton-QPR,28.0,Sat,2013-03-02,,Southampton,1–2,QPR,,,Howard Webb,/en/matches/271f82f7/Southampton-Queens-Park-Rangers-March-2-2013-Premier-League,,271f82f7
+ENG-Premier League,1213,2013-03-02 Stoke City-West Ham,28.0,Sat,2013-03-02,,Stoke City,0–1,West Ham,,,Jon Moss,/en/matches/e1936a0c/Stoke-City-West-Ham-United-March-2-2013-Premier-League,,e1936a0c
+ENG-Premier League,1213,2013-03-02 Sunderland-Fulham,28.0,Sat,2013-03-02,,Sunderland,2–2,Fulham,,,Mark Halsey,/en/matches/3ee6a599/Sunderland-Fulham-March-2-2013-Premier-League,,3ee6a599
+ENG-Premier League,1213,2013-03-02 Swansea City-Newcastle Utd,28.0,Sat,2013-03-02,,Swansea City,1–0,Newcastle Utd,,,Craig Pawson,/en/matches/0289802a/Swansea-City-Newcastle-United-March-2-2013-Premier-League,,0289802a
+ENG-Premier League,1213,2013-03-02 Wigan Athletic-Liverpool,28.0,Sat,2013-03-02,,Wigan Athletic,0–4,Liverpool,,,Martin Atkinson,/en/matches/614feff6/Wigan-Athletic-Liverpool-March-2-2013-Premier-League,,614feff6
+ENG-Premier League,1213,2013-03-03 Tottenham-Arsenal,28.0,Sun,2013-03-03,,Tottenham,2–1,Arsenal,,,Mark Clattenburg,/en/matches/0c4e2bc7/North-London-Derby-Tottenham-Hotspur-Arsenal-March-3-2013-Premier-League,,0c4e2bc7
+ENG-Premier League,1213,2013-03-04 Aston Villa-Manchester City,28.0,Mon,2013-03-04,,Aston Villa,0–1,Manchester City,,,Mike Dean,/en/matches/a93cbe3d/Aston-Villa-Manchester-City-March-4-2013-Premier-League,,a93cbe3d
+ENG-Premier League,1213,2013-03-04 nan-nan,,,2013-03-04,,,,,,,,,,
+ENG-Premier League,1213,2013-03-09 Norwich City-Southampton,29.0,Sat,2013-03-09,,Norwich City,0–0,Southampton,,,Mark Clattenburg,/en/matches/a232a256/Norwich-City-Southampton-March-9-2013-Premier-League,,a232a256
+ENG-Premier League,1213,2013-03-09 QPR-Sunderland,29.0,Sat,2013-03-09,,QPR,3–1,Sunderland,,,Mike Jones,/en/matches/ac864868/Queens-Park-Rangers-Sunderland-March-9-2013-Premier-League,,ac864868
+ENG-Premier League,1213,2013-03-09 Reading-Aston Villa,29.0,Sat,2013-03-09,,Reading,1–2,Aston Villa,,,Jon Moss,/en/matches/2ef0b2e1/Reading-Aston-Villa-March-9-2013-Premier-League,,2ef0b2e1
+ENG-Premier League,1213,2013-03-09 West Brom-Swansea City,29.0,Sat,2013-03-09,,West Brom,2–1,Swansea City,,,Lee Mason,/en/matches/437b1c03/West-Bromwich-Albion-Swansea-City-March-9-2013-Premier-League,,437b1c03
+ENG-Premier League,1213,2013-03-10 Liverpool-Tottenham,29.0,Sun,2013-03-10,,Liverpool,3–2,Tottenham,,,Michael Oliver,/en/matches/75f7cde9/Liverpool-Tottenham-Hotspur-March-10-2013-Premier-League,,75f7cde9
+ENG-Premier League,1213,2013-03-10 Newcastle Utd-Stoke City,29.0,Sun,2013-03-10,,Newcastle Utd,2–1,Stoke City,,,Andre Marriner,/en/matches/0d21779a/Newcastle-United-Stoke-City-March-10-2013-Premier-League,,0d21779a
+ENG-Premier League,1213,2013-03-10 nan-nan,,,2013-03-10,,,,,,,,,,
+ENG-Premier League,1213,2013-03-16 Aston Villa-QPR,30.0,Sat,2013-03-16,,Aston Villa,3–2,QPR,,,Kevin Friend,/en/matches/22208c04/Aston-Villa-Queens-Park-Rangers-March-16-2013-Premier-League,,22208c04
+ENG-Premier League,1213,2013-03-16 Everton-Manchester City,30.0,Sat,2013-03-16,,Everton,2–0,Manchester City,,,Lee Probert,/en/matches/b855f44e/Everton-Manchester-City-March-16-2013-Premier-League,,b855f44e
+ENG-Premier League,1213,2013-03-16 Manchester Utd-Reading,30.0,Sat,2013-03-16,,Manchester Utd,1–0,Reading,,,Lee Mason,/en/matches/5577913c/Manchester-United-Reading-March-16-2013-Premier-League,,5577913c
+ENG-Premier League,1213,2013-03-16 Southampton-Liverpool,30.0,Sat,2013-03-16,,Southampton,3–1,Liverpool,,,Phil Dowd,/en/matches/1d150dfc/Southampton-Liverpool-March-16-2013-Premier-League,,1d150dfc
+ENG-Premier League,1213,2013-03-16 Stoke City-West Brom,30.0,Sat,2013-03-16,,Stoke City,0–0,West Brom,,,Mike Dean,/en/matches/688c129d/Stoke-City-West-Bromwich-Albion-March-16-2013-Premier-League,,688c129d
+ENG-Premier League,1213,2013-03-16 Swansea City-Arsenal,30.0,Sat,2013-03-16,,Swansea City,0–2,Arsenal,,,Jon Moss,/en/matches/6206d859/Swansea-City-Arsenal-March-16-2013-Premier-League,,6206d859
+ENG-Premier League,1213,2013-03-17 Chelsea-West Ham,30.0,Sun,2013-03-17,,Chelsea,2–0,West Ham,,,Michael Oliver,/en/matches/eb118713/Chelsea-West-Ham-United-March-17-2013-Premier-League,,eb118713
+ENG-Premier League,1213,2013-03-17 Sunderland-Norwich City,30.0,Sun,2013-03-17,,Sunderland,1–1,Norwich City,,,Chris Foy,/en/matches/73acf6e7/Sunderland-Norwich-City-March-17-2013-Premier-League,,73acf6e7
+ENG-Premier League,1213,2013-03-17 Tottenham-Fulham,30.0,Sun,2013-03-17,,Tottenham,0–1,Fulham,,,Mike Jones,/en/matches/7bd50b18/Tottenham-Hotspur-Fulham-March-17-2013-Premier-League,,7bd50b18
+ENG-Premier League,1213,2013-03-17 Wigan Athletic-Newcastle Utd,30.0,Sun,2013-03-17,,Wigan Athletic,2–1,Newcastle Utd,,,Mark Halsey,/en/matches/e376c117/Wigan-Athletic-Newcastle-United-March-17-2013-Premier-League,,e376c117
+ENG-Premier League,1213,2013-03-17 nan-nan,,,2013-03-17,,,,,,,,,,
+ENG-Premier League,1213,2013-03-30 Arsenal-Reading,31.0,Sat,2013-03-30,,Arsenal,4–1,Reading,,,Chris Foy,/en/matches/c88ae4e2/Arsenal-Reading-March-30-2013-Premier-League,,c88ae4e2
+ENG-Premier League,1213,2013-03-30 Everton-Stoke City,31.0,Sat,2013-03-30,,Everton,1–0,Stoke City,,,Mike Jones,/en/matches/df45c36b/Everton-Stoke-City-March-30-2013-Premier-League,,df45c36b
+ENG-Premier League,1213,2013-03-30 Manchester City-Newcastle Utd,31.0,Sat,2013-03-30,,Manchester City,4–0,Newcastle Utd,,,Neil Swarbrick,/en/matches/c9b6982b/Manchester-City-Newcastle-United-March-30-2013-Premier-League,,c9b6982b
+ENG-Premier League,1213,2013-03-30 Southampton-Chelsea,31.0,Sat,2013-03-30,,Southampton,2–1,Chelsea,,,Jon Moss,/en/matches/1aeb5f2c/Southampton-Chelsea-March-30-2013-Premier-League,,1aeb5f2c
+ENG-Premier League,1213,2013-03-30 Sunderland-Manchester Utd,31.0,Sat,2013-03-30,,Sunderland,0–1,Manchester Utd,,,Kevin Friend,/en/matches/fa26d911/Sunderland-Manchester-United-March-30-2013-Premier-League,,fa26d911
+ENG-Premier League,1213,2013-03-30 Swansea City-Tottenham,31.0,Sat,2013-03-30,,Swansea City,1–2,Tottenham,,,Anthony Taylor,/en/matches/c8dcfe19/Swansea-City-Tottenham-Hotspur-March-30-2013-Premier-League,,c8dcfe19
+ENG-Premier League,1213,2013-03-30 West Ham-West Brom,31.0,Sat,2013-03-30,,West Ham,3–1,West Brom,,,Andre Marriner,/en/matches/acd8fece/West-Ham-United-West-Bromwich-Albion-March-30-2013-Premier-League,,acd8fece
+ENG-Premier League,1213,2013-03-30 Wigan Athletic-Norwich City,31.0,Sat,2013-03-30,,Wigan Athletic,1–0,Norwich City,,,Howard Webb,/en/matches/0e3ceb28/Wigan-Athletic-Norwich-City-March-30-2013-Premier-League,,0e3ceb28
+ENG-Premier League,1213,2013-03-31 Aston Villa-Liverpool,31.0,Sun,2013-03-31,,Aston Villa,1–2,Liverpool,,,Lee Mason,/en/matches/c96bc6b9/Aston-Villa-Liverpool-March-31-2013-Premier-League,,c96bc6b9
+ENG-Premier League,1213,2013-04-01 Fulham-QPR,31.0,Mon,2013-04-01,,Fulham,3–2,QPR,,,Lee Probert,/en/matches/962ed55c/Fulham-Queens-Park-Rangers-April-1-2013-Premier-League,,962ed55c
+ENG-Premier League,1213,2013-04-01 nan-nan,,,2013-04-01,,,,,,,,,,
+ENG-Premier League,1213,2013-04-06 Norwich City-Swansea City,32.0,Sat,2013-04-06,,Norwich City,2–2,Swansea City,,,Michael Oliver,/en/matches/7bb5e26d/Norwich-City-Swansea-City-April-6-2013-Premier-League,,7bb5e26d
+ENG-Premier League,1213,2013-04-06 Reading-Southampton,32.0,Sat,2013-04-06,,Reading,0–2,Southampton,,,Mike Jones,/en/matches/5f6a5fa7/Reading-Southampton-April-6-2013-Premier-League,,5f6a5fa7
+ENG-Premier League,1213,2013-04-06 Stoke City-Aston Villa,32.0,Sat,2013-04-06,,Stoke City,1–3,Aston Villa,,,Mark Clattenburg,/en/matches/663d8c29/Stoke-City-Aston-Villa-April-6-2013-Premier-League,,663d8c29
+ENG-Premier League,1213,2013-04-06 West Brom-Arsenal,32.0,Sat,2013-04-06,,West Brom,1–2,Arsenal,,,Howard Webb,/en/matches/97c127be/West-Bromwich-Albion-Arsenal-April-6-2013-Premier-League,,97c127be
+ENG-Premier League,1213,2013-04-07 Chelsea-Sunderland,32.0,Sun,2013-04-07,,Chelsea,2–1,Sunderland,,,Neil Swarbrick,/en/matches/6166286b/Chelsea-Sunderland-April-7-2013-Premier-League,,6166286b
+ENG-Premier League,1213,2013-04-07 Liverpool-West Ham,32.0,Sun,2013-04-07,,Liverpool,0–0,West Ham,,,Anthony Taylor,/en/matches/5e1cef29/Liverpool-West-Ham-United-April-7-2013-Premier-League,,5e1cef29
+ENG-Premier League,1213,2013-04-07 Newcastle Utd-Fulham,32.0,Sun,2013-04-07,,Newcastle Utd,1–0,Fulham,,,Kevin Friend,/en/matches/157dc26e/Newcastle-United-Fulham-April-7-2013-Premier-League,,157dc26e
+ENG-Premier League,1213,2013-04-07 QPR-Wigan Athletic,32.0,Sun,2013-04-07,,QPR,1–1,Wigan Athletic,,,Phil Dowd,/en/matches/2e771f79/Queens-Park-Rangers-Wigan-Athletic-April-7-2013-Premier-League,,2e771f79
+ENG-Premier League,1213,2013-04-07 Tottenham-Everton,32.0,Sun,2013-04-07,,Tottenham,2–2,Everton,,,Andre Marriner,/en/matches/cf890c4e/Tottenham-Hotspur-Everton-April-7-2013-Premier-League,,cf890c4e
+ENG-Premier League,1213,2013-04-08 Manchester Utd-Manchester City,32.0,Mon,2013-04-08,,Manchester Utd,1–2,Manchester City,,,Mike Dean,/en/matches/68c9f470/Manchester-Derby-Manchester-United-Manchester-City-April-8-2013-Premier-League,,68c9f470
+ENG-Premier League,1213,2013-04-08 nan-nan,,,2013-04-08,,,,,,,,,,
+ENG-Premier League,1213,2013-04-13 Arsenal-Norwich City,33.0,Sat,2013-04-13,,Arsenal,3–1,Norwich City,,,Mike Jones,/en/matches/d50e75ab/Arsenal-Norwich-City-April-13-2013-Premier-League,,d50e75ab
+ENG-Premier League,1213,2013-04-13 Aston Villa-Fulham,33.0,Sat,2013-04-13,,Aston Villa,1–1,Fulham,,,Phil Dowd,/en/matches/f0e462c1/Aston-Villa-Fulham-April-13-2013-Premier-League,,f0e462c1
+ENG-Premier League,1213,2013-04-13 Everton-QPR,33.0,Sat,2013-04-13,,Everton,2–0,QPR,,,Lee Mason,/en/matches/7f15e7d7/Everton-Queens-Park-Rangers-April-13-2013-Premier-League,,7f15e7d7
+ENG-Premier League,1213,2013-04-13 Reading-Liverpool,33.0,Sat,2013-04-13,,Reading,0–0,Liverpool,,,Mark Clattenburg,/en/matches/6e307a21/Reading-Liverpool-April-13-2013-Premier-League,,6e307a21
+ENG-Premier League,1213,2013-04-13 Southampton-West Ham,33.0,Sat,2013-04-13,,Southampton,1–1,West Ham,,,Mike Dean,/en/matches/d50dff20/Southampton-West-Ham-United-April-13-2013-Premier-League,,d50dff20
+ENG-Premier League,1213,2013-04-14 Newcastle Utd-Sunderland,33.0,Sun,2013-04-14,,Newcastle Utd,0–3,Sunderland,,,Howard Webb,/en/matches/871b92d1/Newcastle-United-Sunderland-April-14-2013-Premier-League,,871b92d1
+ENG-Premier League,1213,2013-04-14 Stoke City-Manchester Utd,33.0,Sun,2013-04-14,,Stoke City,0–2,Manchester Utd,,,Jon Moss,/en/matches/f08e4265/Stoke-City-Manchester-United-April-14-2013-Premier-League,,f08e4265
+ENG-Premier League,1213,2013-04-14 nan-nan,,,2013-04-14,,,,,,,,,,
+ENG-Premier League,1213,2013-04-16 Arsenal-Everton,29.0,Tue,2013-04-16,,Arsenal,0–0,Everton,,,Neil Swarbrick,/en/matches/f26b3163/Arsenal-Everton-April-16-2013-Premier-League,,f26b3163
+ENG-Premier League,1213,2013-04-17 Fulham-Chelsea,29.0,Wed,2013-04-17,,Fulham,0–3,Chelsea,,,Mike Dean,/en/matches/6d8aebff/Fulham-Chelsea-April-17-2013-Premier-League,,6d8aebff
+ENG-Premier League,1213,2013-04-17 Manchester City-Wigan Athletic,29.0,Wed,2013-04-17,,Manchester City,1–0,Wigan Athletic,,,Anthony Taylor,/en/matches/069c7421/Manchester-City-Wigan-Athletic-April-17-2013-Premier-League,,069c7421
+ENG-Premier League,1213,2013-04-17 West Ham-Manchester Utd,29.0,Wed,2013-04-17,,West Ham,2–2,Manchester Utd,,,Lee Probert,/en/matches/17869de0/West-Ham-United-Manchester-United-April-17-2013-Premier-League,,17869de0
+ENG-Premier League,1213,2013-04-17 nan-nan,,,2013-04-17,,,,,,,,,,
+ENG-Premier League,1213,2013-04-20 Fulham-Arsenal,34.0,Sat,2013-04-20,,Fulham,0–1,Arsenal,,,Andre Marriner,/en/matches/a3586781/Fulham-Arsenal-April-20-2013-Premier-League,,a3586781
+ENG-Premier League,1213,2013-04-20 Norwich City-Reading,34.0,Sat,2013-04-20,,Norwich City,2–1,Reading,,,Mike Dean,/en/matches/9d249aa6/Norwich-City-Reading-April-20-2013-Premier-League,,9d249aa6
+ENG-Premier League,1213,2013-04-20 QPR-Stoke City,34.0,Sat,2013-04-20,,QPR,0–2,Stoke City,,,Chris Foy,/en/matches/403222c1/Queens-Park-Rangers-Stoke-City-April-20-2013-Premier-League,,403222c1
+ENG-Premier League,1213,2013-04-20 Sunderland-Everton,34.0,Sat,2013-04-20,,Sunderland,1–0,Everton,,,Phil Dowd,/en/matches/5eeaa6a0/Sunderland-Everton-April-20-2013-Premier-League,,5eeaa6a0
+ENG-Premier League,1213,2013-04-20 Swansea City-Southampton,34.0,Sat,2013-04-20,,Swansea City,0–0,Southampton,,,Mark Halsey,/en/matches/a209e370/Swansea-City-Southampton-April-20-2013-Premier-League,,a209e370
+ENG-Premier League,1213,2013-04-20 West Brom-Newcastle Utd,34.0,Sat,2013-04-20,,West Brom,1–1,Newcastle Utd,,,Mike Jones,/en/matches/f12941a6/West-Bromwich-Albion-Newcastle-United-April-20-2013-Premier-League,,f12941a6
+ENG-Premier League,1213,2013-04-20 West Ham-Wigan Athletic,34.0,Sat,2013-04-20,,West Ham,2–0,Wigan Athletic,,,Neil Swarbrick,/en/matches/f2985104/West-Ham-United-Wigan-Athletic-April-20-2013-Premier-League,,f2985104
+ENG-Premier League,1213,2013-04-21 Liverpool-Chelsea,34.0,Sun,2013-04-21,,Liverpool,2–2,Chelsea,,,Kevin Friend,/en/matches/dd70bee6/Liverpool-Chelsea-April-21-2013-Premier-League,,dd70bee6
+ENG-Premier League,1213,2013-04-21 Tottenham-Manchester City,34.0,Sun,2013-04-21,,Tottenham,3–1,Manchester City,,,Lee Mason,/en/matches/72238c88/Tottenham-Hotspur-Manchester-City-April-21-2013-Premier-League,,72238c88
+ENG-Premier League,1213,2013-04-22 Manchester Utd-Aston Villa,34.0,Mon,2013-04-22,,Manchester Utd,3–0,Aston Villa,,,Anthony Taylor,/en/matches/50703c2b/Manchester-United-Aston-Villa-April-22-2013-Premier-League,,50703c2b
+ENG-Premier League,1213,2013-04-22 nan-nan,,,2013-04-22,,,,,,,,,,
+ENG-Premier League,1213,2013-04-27 Everton-Fulham,35.0,Sat,2013-04-27,,Everton,1–0,Fulham,,,Jon Moss,/en/matches/c53c41a4/Everton-Fulham-April-27-2013-Premier-League,,c53c41a4
+ENG-Premier League,1213,2013-04-27 Manchester City-West Ham,35.0,Sat,2013-04-27,,Manchester City,2–1,West Ham,,,Howard Webb,/en/matches/f25be380/Manchester-City-West-Ham-United-April-27-2013-Premier-League,,f25be380
+ENG-Premier League,1213,2013-04-27 Newcastle Utd-Liverpool,35.0,Sat,2013-04-27,,Newcastle Utd,0–6,Liverpool,,,Andre Marriner,/en/matches/5b4b4729/Newcastle-United-Liverpool-April-27-2013-Premier-League,,5b4b4729
+ENG-Premier League,1213,2013-04-27 Southampton-West Brom,35.0,Sat,2013-04-27,,Southampton,0–3,West Brom,,,Bobby Madley,/en/matches/c9bb8aba/Southampton-West-Bromwich-Albion-April-27-2013-Premier-League,,c9bb8aba
+ENG-Premier League,1213,2013-04-27 Stoke City-Norwich City,35.0,Sat,2013-04-27,,Stoke City,1–0,Norwich City,,,Anthony Taylor,/en/matches/9d77b689/Stoke-City-Norwich-City-April-27-2013-Premier-League,,9d77b689
+ENG-Premier League,1213,2013-04-27 Wigan Athletic-Tottenham,35.0,Sat,2013-04-27,,Wigan Athletic,2–2,Tottenham,,,Martin Atkinson,/en/matches/12d66da6/Wigan-Athletic-Tottenham-Hotspur-April-27-2013-Premier-League,,12d66da6
+ENG-Premier League,1213,2013-04-28 Arsenal-Manchester Utd,35.0,Sun,2013-04-28,,Arsenal,1–1,Manchester Utd,,,Phil Dowd,/en/matches/c1135472/Arsenal-Manchester-United-April-28-2013-Premier-League,,c1135472
+ENG-Premier League,1213,2013-04-28 Chelsea-Swansea City,35.0,Sun,2013-04-28,,Chelsea,2–0,Swansea City,,,Mark Clattenburg,/en/matches/bbe6bc53/Chelsea-Swansea-City-April-28-2013-Premier-League,,bbe6bc53
+ENG-Premier League,1213,2013-04-28 Reading-QPR,35.0,Sun,2013-04-28,,Reading,0–0,QPR,,,Kevin Friend,/en/matches/a002f4ea/Reading-Queens-Park-Rangers-April-28-2013-Premier-League,,a002f4ea
+ENG-Premier League,1213,2013-04-29 Aston Villa-Sunderland,35.0,Mon,2013-04-29,,Aston Villa,6–1,Sunderland,,,Lee Probert,/en/matches/eb0b9005/Aston-Villa-Sunderland-April-29-2013-Premier-League,,eb0b9005
+ENG-Premier League,1213,2013-04-29 nan-nan,,,2013-04-29,,,,,,,,,,
+ENG-Premier League,1213,2013-05-04 Fulham-Reading,36.0,Sat,2013-05-04,,Fulham,2–4,Reading,,,Neil Swarbrick,/en/matches/a2a227c4/Fulham-Reading-May-4-2013-Premier-League,,a2a227c4
+ENG-Premier League,1213,2013-05-04 Norwich City-Aston Villa,36.0,Sat,2013-05-04,,Norwich City,1–2,Aston Villa,,,Kevin Friend,/en/matches/8371b0a8/Norwich-City-Aston-Villa-May-4-2013-Premier-League,,8371b0a8
+ENG-Premier League,1213,2013-05-04 QPR-Arsenal,36.0,Sat,2013-05-04,,QPR,0–1,Arsenal,,,Jon Moss,/en/matches/aed61cfa/Queens-Park-Rangers-Arsenal-May-4-2013-Premier-League,,aed61cfa
+ENG-Premier League,1213,2013-05-04 Swansea City-Manchester City,36.0,Sat,2013-05-04,,Swansea City,0–0,Manchester City,,,Mike Jones,/en/matches/6e762d98/Swansea-City-Manchester-City-May-4-2013-Premier-League,,6e762d98
+ENG-Premier League,1213,2013-05-04 Tottenham-Southampton,36.0,Sat,2013-05-04,,Tottenham,1–0,Southampton,,,Mark Clattenburg,/en/matches/acc25f58/Tottenham-Hotspur-Southampton-May-4-2013-Premier-League,,acc25f58
+ENG-Premier League,1213,2013-05-04 West Brom-Wigan Athletic,36.0,Sat,2013-05-04,,West Brom,2–3,Wigan Athletic,,,Lee Probert,/en/matches/66c6293b/West-Bromwich-Albion-Wigan-Athletic-May-4-2013-Premier-League,,66c6293b
+ENG-Premier League,1213,2013-05-04 West Ham-Newcastle Utd,36.0,Sat,2013-05-04,,West Ham,0–0,Newcastle Utd,,,Phil Dowd,/en/matches/f37fe199/West-Ham-United-Newcastle-United-May-4-2013-Premier-League,,f37fe199
+ENG-Premier League,1213,2013-05-05 Liverpool-Everton,36.0,Sun,2013-05-05,,Liverpool,0–0,Everton,,,Michael Oliver,/en/matches/e76c5c9c/Merseyside-Derby-Liverpool-Everton-May-5-2013-Premier-League,,e76c5c9c
+ENG-Premier League,1213,2013-05-05 Manchester Utd-Chelsea,36.0,Sun,2013-05-05,,Manchester Utd,0–1,Chelsea,,,Howard Webb,/en/matches/75b756a4/Manchester-United-Chelsea-May-5-2013-Premier-League,,75b756a4
+ENG-Premier League,1213,2013-05-06 Sunderland-Stoke City,36.0,Mon,2013-05-06,,Sunderland,1–1,Stoke City,,,Lee Mason,/en/matches/722da606/Sunderland-Stoke-City-May-6-2013-Premier-League,,722da606
+ENG-Premier League,1213,2013-05-06 nan-nan,,,2013-05-06,,,,,,,,,,
+ENG-Premier League,1213,2013-05-07 Manchester City-West Brom,33.0,Tue,2013-05-07,,Manchester City,1–0,West Brom,,,Phil Dowd,/en/matches/166778ce/Manchester-City-West-Bromwich-Albion-May-7-2013-Premier-League,,166778ce
+ENG-Premier League,1213,2013-05-07 Wigan Athletic-Swansea City,33.0,Tue,2013-05-07,,Wigan Athletic,2–3,Swansea City,,,Kevin Friend,/en/matches/6f012f38/Wigan-Athletic-Swansea-City-May-7-2013-Premier-League,,6f012f38
+ENG-Premier League,1213,2013-05-08 Chelsea-Tottenham,33.0,Wed,2013-05-08,,Chelsea,2–2,Tottenham,,,Mike Dean,/en/matches/ec2b53d3/Chelsea-Tottenham-Hotspur-May-8-2013-Premier-League,,ec2b53d3
+ENG-Premier League,1213,2013-05-08 nan-nan,,,2013-05-08,,,,,,,,,,
+ENG-Premier League,1213,2013-05-11 Aston Villa-Chelsea,37.0,Sat,2013-05-11,,Aston Villa,1–2,Chelsea,,,Lee Mason,/en/matches/75362712/Aston-Villa-Chelsea-May-11-2013-Premier-League,,75362712
+ENG-Premier League,1213,2013-05-12 Everton-West Ham,37.0,Sun,2013-05-12,,Everton,2–0,West Ham,,,Phil Dowd,/en/matches/aa98f52c/Everton-West-Ham-United-May-12-2013-Premier-League,,aa98f52c
+ENG-Premier League,1213,2013-05-12 Fulham-Liverpool,37.0,Sun,2013-05-12,,Fulham,1–3,Liverpool,,,Mark Halsey,/en/matches/b9b9d5de/Fulham-Liverpool-May-12-2013-Premier-League,,b9b9d5de
+ENG-Premier League,1213,2013-05-12 Manchester Utd-Swansea City,37.0,Sun,2013-05-12,,Manchester Utd,2–1,Swansea City,,,Jon Moss,/en/matches/4ab25647/Manchester-United-Swansea-City-May-12-2013-Premier-League,,4ab25647
+ENG-Premier League,1213,2013-05-12 Norwich City-West Brom,37.0,Sun,2013-05-12,,Norwich City,4–0,West Brom,,,Howard Webb,/en/matches/48332a5c/Norwich-City-West-Bromwich-Albion-May-12-2013-Premier-League,,48332a5c
+ENG-Premier League,1213,2013-05-12 QPR-Newcastle Utd,37.0,Sun,2013-05-12,,QPR,1–2,Newcastle Utd,,,Lee Probert,/en/matches/946852f8/Queens-Park-Rangers-Newcastle-United-May-12-2013-Premier-League,,946852f8
+ENG-Premier League,1213,2013-05-12 Stoke City-Tottenham,37.0,Sun,2013-05-12,,Stoke City,1–2,Tottenham,,,Kevin Friend,/en/matches/5f71b17b/Stoke-City-Tottenham-Hotspur-May-12-2013-Premier-League,,5f71b17b
+ENG-Premier League,1213,2013-05-12 Sunderland-Southampton,37.0,Sun,2013-05-12,,Sunderland,1–1,Southampton,,,Mike Dean,/en/matches/20e0dcb1/Sunderland-Southampton-May-12-2013-Premier-League,,20e0dcb1
+ENG-Premier League,1213,2013-05-14 Arsenal-Wigan Athletic,37.0,Tue,2013-05-14,,Arsenal,4–1,Wigan Athletic,,,Mike Dean,/en/matches/4c1184c5/Arsenal-Wigan-Athletic-May-14-2013-Premier-League,,4c1184c5
+ENG-Premier League,1213,2013-05-14 Reading-Manchester City,37.0,Tue,2013-05-14,,Reading,0–2,Manchester City,,,Martin Atkinson,/en/matches/c5c511b8/Reading-Manchester-City-May-14-2013-Premier-League,,c5c511b8
+ENG-Premier League,1213,2013-05-14 nan-nan,,,2013-05-14,,,,,,,,,,
+ENG-Premier League,1213,2013-05-19 Chelsea-Everton,38.0,Sun,2013-05-19,,Chelsea,2–1,Everton,,,Anthony Taylor,/en/matches/6d284af3/Chelsea-Everton-May-19-2013-Premier-League,,6d284af3
+ENG-Premier League,1213,2013-05-19 Liverpool-QPR,38.0,Sun,2013-05-19,,Liverpool,1–0,QPR,,,Martin Atkinson,/en/matches/a72eca48/Liverpool-Queens-Park-Rangers-May-19-2013-Premier-League,,a72eca48
+ENG-Premier League,1213,2013-05-19 Manchester City-Norwich City,38.0,Sun,2013-05-19,,Manchester City,2–3,Norwich City,,,Mark Halsey,/en/matches/6cf976af/Manchester-City-Norwich-City-May-19-2013-Premier-League,,6cf976af
+ENG-Premier League,1213,2013-05-19 Newcastle Utd-Arsenal,38.0,Sun,2013-05-19,,Newcastle Utd,0–1,Arsenal,,,Howard Webb,/en/matches/ac027510/Newcastle-United-Arsenal-May-19-2013-Premier-League,,ac027510
+ENG-Premier League,1213,2013-05-19 Southampton-Stoke City,38.0,Sun,2013-05-19,,Southampton,1–1,Stoke City,,,Lee Probert,/en/matches/e5e71be4/Southampton-Stoke-City-May-19-2013-Premier-League,,e5e71be4
+ENG-Premier League,1213,2013-05-19 Swansea City-Fulham,38.0,Sun,2013-05-19,,Swansea City,0–3,Fulham,,,Lee Mason,/en/matches/aec8b69f/Swansea-City-Fulham-May-19-2013-Premier-League,,aec8b69f
+ENG-Premier League,1213,2013-05-19 Tottenham-Sunderland,38.0,Sun,2013-05-19,,Tottenham,1–0,Sunderland,,,Andre Marriner,/en/matches/cfe691e4/Tottenham-Hotspur-Sunderland-May-19-2013-Premier-League,,cfe691e4
+ENG-Premier League,1213,2013-05-19 West Brom-Manchester Utd,38.0,Sun,2013-05-19,,West Brom,5–5,Manchester Utd,,,Michael Oliver,/en/matches/2ae38953/West-Bromwich-Albion-Manchester-United-May-19-2013-Premier-League,,2ae38953
+ENG-Premier League,1213,2013-05-19 West Ham-Reading,38.0,Sun,2013-05-19,,West Ham,4–2,Reading,,,Mike Dean,/en/matches/c152be76/West-Ham-United-Reading-May-19-2013-Premier-League,,c152be76
+ENG-Premier League,1213,2013-05-19 Wigan Athletic-Aston Villa,38.0,Sun,2013-05-19,,Wigan Athletic,2–2,Aston Villa,,,Neil Swarbrick,/en/matches/8761b727/Wigan-Athletic-Aston-Villa-May-19-2013-Premier-League,,8761b727

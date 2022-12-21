@@ -1,0 +1,681 @@
+,,,,Nation,Pos,Age,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes
+,,,,,,,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
+league,season,team,player,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1415,Arsenal,Aaron Ramsey,WAL,MF,23.0,29,23,2007.0,22.3,6.0,5.0,6.0,0.0,0.0,6.0,0.0,0.27,0.22,0.49,0.27,0.49
+ENG-Premier League,1415,Arsenal,Abou Diaby,FRA,MF,28.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Arsenal,Ainsley Maitland-Niles,ENG,"DF,FW",16.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Alex Oxlade-Chamberlain,ENG,MF,20.0,23,17,1490.0,16.6,1.0,1.0,1.0,0.0,0.0,4.0,0.0,0.06,0.06,0.12,0.06,0.12
+ENG-Premier League,1415,Arsenal,Alexis Sánchez,CHI,"FW,MF",25.0,35,34,2942.0,32.7,16.0,8.0,16.0,0.0,1.0,4.0,0.0,0.49,0.24,0.73,0.49,0.73
+ENG-Premier League,1415,Arsenal,Calum Chambers,ENG,"DF,MF",19.0,23,17,1573.0,17.5,1.0,0.0,1.0,0.0,0.0,8.0,1.0,0.06,0.0,0.06,0.06,0.06
+ENG-Premier League,1415,Arsenal,Chuba Akpom,ENG,FW,18.0,3,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Danny Welbeck,ENG,"FW,MF",23.0,25,18,1663.0,18.5,4.0,4.0,4.0,0.0,0.0,3.0,0.0,0.22,0.22,0.43,0.22,0.43
+ENG-Premier League,1415,Arsenal,David Ospina,COL,GK,25.0,18,18,1620.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Emiliano Martínez,ARG,GK,21.0,4,3,302.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Francis Coquelin,FRA,"DF,MF",23.0,22,19,1661.0,18.5,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Gabriel Paulista,BRA,DF,23.0,6,4,350.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Héctor Bellerín,ESP,"DF,MF",19.0,20,17,1563.0,17.4,2.0,1.0,2.0,0.0,0.0,5.0,0.0,0.12,0.06,0.17,0.12,0.17
+ENG-Premier League,1415,Arsenal,Jack Wilshere,ENG,MF,22.0,14,9,729.0,8.1,2.0,1.0,2.0,0.0,0.0,4.0,0.0,0.25,0.12,0.37,0.25,0.37
+ENG-Premier League,1415,Arsenal,Joel Campbell,CRC,"FW,MF",22.0,4,0,41.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Kieran Gibbs,ENG,"DF,MF",24.0,22,18,1659.0,18.4,0.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.16,0.16,0.0,0.16
+ENG-Premier League,1415,Arsenal,Laurent Koscielny,FRA,DF,28.0,27,26,2287.0,25.4,3.0,0.0,3.0,0.0,0.0,4.0,0.0,0.12,0.0,0.12,0.12,0.12
+ENG-Premier League,1415,Arsenal,Lukas Podolski,GER,"FW,MF",29.0,7,0,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Mathieu Debuchy,FRA,DF,29.0,10,10,805.0,8.9,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.11,0.0,0.11,0.11,0.11
+ENG-Premier League,1415,Arsenal,Mathieu Flamini,FRA,MF,30.0,23,15,1460.0,16.2,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.06,0.06,0.12,0.06,0.12
+ENG-Premier League,1415,Arsenal,Matt Macey,ENG,GK,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Arsenal,Mesut Özil,GER,MF,25.0,22,21,1856.0,20.6,4.0,5.0,4.0,0.0,0.0,0.0,0.0,0.19,0.24,0.44,0.19,0.44
+ENG-Premier League,1415,Arsenal,Mikel Arteta,ESP,MF,32.0,7,6,447.0,5.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.2,0.0,0.2
+ENG-Premier League,1415,Arsenal,Nacho Monreal,ESP,DF,28.0,28,26,2311.0,25.7,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.04,0.04,0.0,0.04
+ENG-Premier League,1415,Arsenal,Olivier Giroud,FRA,FW,27.0,27,21,1862.0,20.7,14.0,3.0,14.0,0.0,0.0,5.0,1.0,0.68,0.15,0.82,0.68,0.82
+ENG-Premier League,1415,Arsenal,Opponent Total,,,27.0,38,418,3420.0,38.0,35.0,24.0,32.0,3.0,3.0,82.0,3.0,0.92,0.63,1.55,0.84,1.47
+ENG-Premier League,1415,Arsenal,Per Mertesacker,GER,DF,29.0,35,35,3150.0,35.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.03,0.03,0.0,0.03
+ENG-Premier League,1415,Arsenal,Santi Cazorla,ESP,MF,29.0,37,33,2990.0,33.2,7.0,11.0,1.0,6.0,6.0,5.0,0.0,0.21,0.33,0.54,0.03,0.36
+ENG-Premier League,1415,Arsenal,Semi Ajayi,NGA,"DF,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Arsenal,Squad Total,,,26.1,38,418,3420.0,38.0,69.0,47.0,63.0,6.0,7.0,0.0,0.0,1.82,1.24,3.05,1.66,2.89
+ENG-Premier League,1415,Arsenal,Theo Walcott,ENG,"FW,MF",25.0,14,4,447.0,5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,1.01,0.0,1.01,1.01,1.01
+ENG-Premier League,1415,Arsenal,Tomáš Rosický,CZE,MF,33.0,15,5,583.0,6.5,2.0,1.0,2.0,0.0,0.0,1.0,0.0,0.31,0.15,0.46,0.31,0.46
+ENG-Premier League,1415,Arsenal,Wojciech Szczęsny,POL,GK,24.0,17,17,1498.0,16.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Arsenal,Yaya Sanogo,FRA,FW,21.0,3,2,138.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Alan Hutton,SCO,DF,29.0,30,27,2420.0,26.9,1.0,0.0,1.0,0.0,0.0,8.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Aston Villa,Aly Cissokho,FRA,DF,26.0,25,24,2128.0,23.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Andreas Weimann,AUT,"FW,MF",22.0,31,20,1775.0,19.7,3.0,2.0,3.0,0.0,0.0,5.0,0.0,0.15,0.1,0.25,0.15,0.25
+ENG-Premier League,1415,Aston Villa,André Green,ENG,"FW,MF",16.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Aston Villa,Ashley Westwood,ENG,MF,24.0,27,25,2149.0,23.9,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.04,0.04,0.0,0.04
+ENG-Premier League,1415,Aston Villa,Brad Guzan,USA,GK,29.0,34,34,3060.0,34.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Callum Robinson,IRL,"FW,MF",19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Aston Villa,Carles Gil,ESP,"FW,MF",21.0,5,4,359.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.25,0.25,0.0,0.25
+ENG-Premier League,1415,Aston Villa,Carlos Sánchez,COL,MF,28.0,28,20,1988.0,22.1,1.0,0.0,1.0,0.0,0.0,7.0,1.0,0.05,0.0,0.05,0.05,0.05
+ENG-Premier League,1415,Aston Villa,Charles N'Zogbia,FRA,"DF,FW",28.0,27,19,1421.0,15.8,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.13,0.13,0.0,0.13
+ENG-Premier League,1415,Aston Villa,Chris Herd,AUS,"DF,MF",25.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Aston Villa,Christian Benteke,BEL,FW,23.0,29,26,2379.0,26.4,13.0,2.0,12.0,1.0,1.0,1.0,1.0,0.49,0.08,0.57,0.45,0.53
+ENG-Premier League,1415,Aston Villa,Ciaran Clark,IRL,"DF,MF",24.0,25,22,1991.0,22.1,1.0,2.0,1.0,0.0,0.0,9.0,1.0,0.05,0.09,0.14,0.05,0.14
+ENG-Premier League,1415,Aston Villa,Darren Bent,ENG,FW,30.0,7,0,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Fabian Delph,ENG,"DF,MF",24.0,28,27,2434.0,27.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,0.11,0.11,0.0,0.11
+ENG-Premier League,1415,Aston Villa,Gabby Agbonlahor,ENG,"FW,MF",27.0,34,30,2693.0,29.9,6.0,1.0,6.0,0.0,0.0,7.0,1.0,0.2,0.03,0.23,0.2,0.23
+ENG-Premier League,1415,Aston Villa,Jack Grealish,ENG,"FW,MF",18.0,17,7,821.0,9.1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.11,0.11,0.0,0.11
+ENG-Premier League,1415,Aston Villa,Jed Steer,ENG,GK,21.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Joe Cole,ENG,MF,32.0,12,3,284.0,3.2,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.32,0.32,0.63,0.32,0.63
+ENG-Premier League,1415,Aston Villa,Jores Okore,DEN,DF,21.0,23,22,2010.0,22.3,1.0,0.0,1.0,0.0,0.0,6.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Aston Villa,Karim El Ahmadi,MAR,MF,29.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Aston Villa,Kieran Richardson,ENG,"DF,MF",29.0,22,16,1345.0,14.9,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.07,0.07,0.0,0.07
+ENG-Premier League,1415,Aston Villa,Leandro Bacuna,CUW,"DF,MF",22.0,19,10,983.0,10.9,0.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.46,0.46,0.0,0.46
+ENG-Premier League,1415,Aston Villa,Lewis Kinsella,ENG,DF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Aston Villa,Matthew Lowton,ENG,DF,25.0,12,8,756.0,8.4,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Nathan Baker,ENG,DF,23.0,11,8,764.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Opponent Total,,,27.0,38,418,3420.0,38.0,56.0,37.0,52.0,4.0,4.0,69.0,3.0,1.47,0.97,2.45,1.37,2.34
+ENG-Premier League,1415,Aston Villa,Philippe Senderos,SUI,DF,29.0,8,7,633.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Riccardo Calder,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Aston Villa,Ron Vlaar,NED,DF,29.0,20,19,1647.0,18.3,0.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.05,0.05,0.0,0.05
+ENG-Premier League,1415,Aston Villa,Rushian Hepburn-Murphy,ENG,FW,15.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Scott Sinclair,ENG,"FW,MF",25.0,9,5,463.0,5.1,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.19,0.0,0.19,0.19,0.19
+ENG-Premier League,1415,Aston Villa,Shay Given,IRL,GK,38.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Aston Villa,Squad Total,,,26.3,38,418,3420.0,38.0,31.0,23.0,30.0,1.0,1.0,0.0,0.0,0.82,0.61,1.42,0.79,1.39
+ENG-Premier League,1415,Aston Villa,Tom Cleverley,ENG,MF,24.0,31,31,2507.0,27.9,3.0,0.0,3.0,0.0,0.0,6.0,0.0,0.11,0.0,0.11,0.11,0.11
+ENG-Premier League,1415,Burnley,Ashley Barnes,ENG,FW,24.0,35,28,2416.0,26.8,5.0,2.0,5.0,0.0,0.0,5.0,1.0,0.19,0.07,0.26,0.19,0.26
+ENG-Premier League,1415,Burnley,Ben Mee,ENG,DF,24.0,33,32,2887.0,32.1,2.0,1.0,2.0,0.0,0.0,10.0,0.0,0.06,0.03,0.09,0.06,0.09
+ENG-Premier League,1415,Burnley,Cameron Dummigan,NIR,DF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Burnley,Daniel Lafferty,NIR,DF,25.0,1,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Danny Ings,ENG,FW,22.0,35,35,3024.0,33.6,11.0,4.0,10.0,1.0,1.0,6.0,0.0,0.33,0.12,0.45,0.3,0.42
+ENG-Premier League,1415,Burnley,David Jones,ENG,MF,29.0,36,36,3201.0,35.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Dean Marney,ENG,MF,30.0,20,20,1685.0,18.7,0.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.05,0.05,0.0,0.05
+ENG-Premier League,1415,Burnley,Fredrik Ulvestad,NOR,"DF,MF",22.0,2,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,George Boyd,SCO,"FW,MF",28.0,35,35,3005.0,33.4,5.0,2.0,5.0,0.0,0.0,7.0,0.0,0.15,0.06,0.21,0.15,0.21
+ENG-Premier League,1415,Burnley,Jason Shackell,ENG,DF,30.0,38,38,3346.0,37.2,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Kevin Long,IRL,DF,23.0,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Kieran Trippier,ENG,"DF,MF",23.0,38,38,3415.0,37.9,0.0,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.11,0.11,0.0,0.11
+ENG-Premier League,1415,Burnley,Lukas Jutkiewicz,ENG,FW,25.0,25,10,981.0,10.9,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.18,0.18,0.0,0.18
+ENG-Premier League,1415,Burnley,Marvin Sordell,ENG,FW,23.0,14,2,289.0,3.2,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Matt Gilks,SCO,GK,32.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Burnley,Matthew Taylor,ENG,"DF,MF",32.0,10,7,565.0,6.3,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16
+ENG-Premier League,1415,Burnley,Michael Duff,NIR,DF,36.0,21,21,1808.0,20.1,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Michael Keane,ENG,DF,21.0,21,17,1598.0,17.8,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.06,0.06,0.0,0.06
+ENG-Premier League,1415,Burnley,Michael Kightly,ENG,"FW,MF",28.0,17,10,948.0,10.5,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.09,0.19,0.28,0.09,0.28
+ENG-Premier League,1415,Burnley,Nathaniel Chalobah,ENG,"DF,MF",19.0,4,0,69.0,0.8,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Opponent Total,,,26.8,38,418,3420.0,38.0,51.0,38.0,48.0,3.0,5.0,67.0,2.0,1.34,1.0,2.34,1.26,2.26
+ENG-Premier League,1415,Burnley,Ross Wallace,SCO,"FW,MF",29.0,15,1,241.0,2.7,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.37,0.0,0.37,0.37,0.37
+ENG-Premier League,1415,Burnley,Sam Vokes,WAL,FW,24.0,15,5,567.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Scott Arfield,CAN,MF,25.0,37,36,3202.0,35.6,2.0,2.0,2.0,0.0,1.0,6.0,0.0,0.06,0.06,0.11,0.06,0.11
+ENG-Premier League,1415,Burnley,Squad Total,,,27.2,38,418,3420.0,38.0,27.0,22.0,26.0,1.0,2.0,0.0,0.0,0.71,0.58,1.29,0.68,1.26
+ENG-Premier League,1415,Burnley,Stephen Ward,IRL,"DF,FW",28.0,9,7,624.0,6.9,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Steven Hewitt,ENG,MF,20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Burnley,Steven Reid,IRL,"DF,MF",33.0,6,1,109.0,1.2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Burnley,Tom Heaton,ENG,GK,28.0,38,38,3420.0,38.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Andreas Christensen,DEN,DF,18.0,1,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,André Schürrle,GER,"FW,MF",23.0,14,5,436.0,4.8,3.0,0.0,3.0,0.0,0.0,2.0,0.0,0.62,0.0,0.62,0.62,0.62
+ENG-Premier League,1415,Chelsea,Branislav Ivanović,SRB,DF,30.0,38,38,3420.0,38.0,4.0,5.0,4.0,0.0,0.0,11.0,1.0,0.11,0.13,0.24,0.11,0.24
+ENG-Premier League,1415,Chelsea,Cesc Fàbregas,ESP,"FW,MF",27.0,34,33,2883.0,32.0,3.0,18.0,3.0,0.0,0.0,11.0,1.0,0.09,0.56,0.66,0.09,0.66
+ENG-Premier League,1415,Chelsea,César Azpilicueta,ESP,"DF,MF",24.0,29,29,2482.0,27.6,0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,0.11,0.11,0.0,0.11
+ENG-Premier League,1415,Chelsea,Didier Drogba,CIV,FW,36.0,28,8,869.0,9.7,4.0,1.0,4.0,0.0,0.0,5.0,0.0,0.41,0.1,0.52,0.41,0.52
+ENG-Premier League,1415,Chelsea,Diego Costa,ESP,FW,25.0,26,24,2068.0,23.0,20.0,3.0,19.0,1.0,1.0,8.0,0.0,0.87,0.13,1.0,0.83,0.96
+ENG-Premier League,1415,Chelsea,Dominic Solanke,ENG,FW,16.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,Eden Hazard,BEL,"FW,MF",23.0,38,38,3367.0,37.4,14.0,9.0,11.0,3.0,4.0,2.0,0.0,0.37,0.24,0.61,0.29,0.53
+ENG-Premier League,1415,Chelsea,Fernando Torres,ESP,FW,30.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,Filipe Luís,BRA,DF,28.0,15,9,942.0,10.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Gary Cahill,ENG,DF,28.0,36,33,2986.0,33.2,1.0,1.0,1.0,0.0,0.0,5.0,0.0,0.03,0.03,0.06,0.03,0.06
+ENG-Premier League,1415,Chelsea,Izzy Brown,ENG,"FW,MF",17.0,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Jamal Blackman,ENG,GK,20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,Jeremie Boga,CIV,"FW,MF",17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,John Obi Mikel,NGA,MF,27.0,18,6,702.0,7.8,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.13,0.13,0.0,0.13
+ENG-Premier League,1415,Chelsea,John Terry,ENG,DF,33.0,38,38,3420.0,38.0,5.0,0.0,5.0,0.0,0.0,2.0,0.0,0.13,0.0,0.13,0.13,0.13
+ENG-Premier League,1415,Chelsea,Juan Cuadrado,COL,"DF,FW",26.0,12,4,315.0,3.5,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Kurt Zouma,FRA,DF,19.0,15,7,647.0,7.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Lewis Baker,ENG,MF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,Loïc Rémy,FRA,FW,27.0,19,6,672.0,7.5,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.94,0.0,0.94,0.94,0.94
+ENG-Premier League,1415,Chelsea,Mark Schwarzer,AUS,GK,41.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,Mitchell Beeney,ENG,GK,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Chelsea,Mohamed Salah,EGY,"FW,MF",22.0,3,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Nathan Aké,NED,"DF,MF",19.0,1,0,18.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Nemanja Matić,SRB,MF,25.0,36,35,3123.0,34.7,1.0,3.0,1.0,0.0,0.0,10.0,1.0,0.03,0.09,0.12,0.03,0.12
+ENG-Premier League,1415,Chelsea,Opponent Total,,,26.8,38,418,3420.0,38.0,31.0,25.0,28.0,3.0,3.0,93.0,7.0,0.82,0.66,1.47,0.74,1.39
+ENG-Premier League,1415,Chelsea,Oscar,BRA,MF,22.0,28,26,2020.0,22.4,6.0,8.0,6.0,0.0,0.0,5.0,0.0,0.27,0.36,0.62,0.27,0.62
+ENG-Premier League,1415,Chelsea,Petr Čech,CZE,GK,32.0,7,6,607.0,6.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Ramires,BRA,MF,27.0,23,11,1107.0,12.3,2.0,4.0,2.0,0.0,0.0,4.0,0.0,0.16,0.33,0.49,0.16,0.49
+ENG-Premier League,1415,Chelsea,Ruben Loftus-Cheek,ENG,MF,18.0,3,2,132.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Squad Total,,,27.0,38,418,3420.0,38.0,72.0,59.0,68.0,4.0,5.0,0.0,0.0,1.89,1.55,3.45,1.79,3.34
+ENG-Premier League,1415,Chelsea,Thibaut Courtois,BEL,GK,22.0,32,32,2813.0,31.3,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Chelsea,Willian,BRA,"FW,MF",25.0,36,28,2402.0,26.7,2.0,3.0,2.0,0.0,0.0,3.0,0.0,0.07,0.11,0.19,0.07,0.19
+ENG-Premier League,1415,Crystal Palace,Adlène Guedioura,ALG,MF,28.0,7,0,127.0,1.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Adrian Mariappa,JAM,DF,27.0,12,8,843.0,9.4,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Andrew Johnson,ENG,FW,33.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Crystal Palace,Barry Bannan,SCO,MF,24.0,7,2,138.0,1.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Brede Hangeland,NOR,DF,33.0,14,12,1173.0,13.0,2.0,1.0,2.0,0.0,0.0,2.0,0.0,0.15,0.08,0.23,0.15,0.23
+ENG-Premier League,1415,Crystal Palace,Damien Delaney,IRL,DF,33.0,29,28,2434.0,27.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Dwight Gayle,ENG,FW,23.0,25,11,1097.0,12.2,5.0,1.0,4.0,1.0,1.0,1.0,0.0,0.41,0.08,0.49,0.33,0.41
+ENG-Premier League,1415,Crystal Palace,Fraizer Campbell,ENG,FW,26.0,20,13,1172.0,13.0,4.0,0.0,4.0,0.0,0.0,5.0,0.0,0.31,0.0,0.31,0.31,0.31
+ENG-Premier League,1415,Crystal Palace,Glenn Murray,ENG,FW,30.0,17,9,869.0,9.7,7.0,3.0,6.0,1.0,2.0,4.0,1.0,0.72,0.31,1.04,0.62,0.93
+ENG-Premier League,1415,Crystal Palace,Hiram Boateng,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Crystal Palace,Jake Gray,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Crystal Palace,James McArthur,SCO,MF,26.0,32,29,2601.0,28.9,2.0,0.0,2.0,0.0,1.0,6.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,Crystal Palace,Jason Puncheon,ENG,MF,28.0,37,31,2824.0,31.4,6.0,7.0,6.0,0.0,0.0,8.0,1.0,0.19,0.22,0.41,0.19,0.41
+ENG-Premier League,1415,Crystal Palace,Jerome Thomas,ENG,"FW,MF",31.0,1,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Joe Ledley,WAL,MF,27.0,32,30,2571.0,28.6,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,Crystal Palace,Joel Ward,ENG,"DF,MF",24.0,37,37,3330.0,37.0,1.0,0.0,1.0,0.0,0.0,4.0,0.0,0.03,0.0,0.03,0.03,0.03
+ENG-Premier League,1415,Crystal Palace,Jonny Williams,WAL,"FW,MF",20.0,2,0,36.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Jordon Mutch,ENG,MF,22.0,7,4,333.0,3.7,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Julián Speroni,ARG,GK,35.0,36,36,3204.0,35.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Kevin Doyle,IRL,FW,30.0,3,0,36.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Lee Chung-yong,KOR,"FW,MF",26.0,3,1,92.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Marouane Chamakh,MAR,FW,30.0,18,15,1149.0,12.8,2.0,0.0,2.0,0.0,0.0,4.0,0.0,0.16,0.0,0.16,0.16,0.16
+ENG-Premier League,1415,Crystal Palace,Martin Kelly,ENG,"DF,MF",24.0,31,27,2498.0,27.8,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.04,0.04,0.0,0.04
+ENG-Premier League,1415,Crystal Palace,Mile Jedinak,AUS,MF,29.0,24,24,2078.0,23.1,5.0,3.0,2.0,3.0,3.0,4.0,1.0,0.22,0.13,0.35,0.09,0.22
+ENG-Premier League,1415,Crystal Palace,Opponent Total,,,26.9,38,418,3420.0,38.0,51.0,31.0,47.0,4.0,6.0,68.0,1.0,1.34,0.82,2.16,1.24,2.05
+ENG-Premier League,1415,Crystal Palace,Paddy McCarthy,IRL,DF,31.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Crystal Palace,Pape Souaré,SEN,DF,24.0,9,7,605.0,6.7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Scott Dann,ENG,DF,27.0,34,34,2920.0,32.4,2.0,3.0,2.0,0.0,0.0,6.0,0.0,0.06,0.09,0.15,0.06,0.15
+ENG-Premier League,1415,Crystal Palace,Shola Ameobi,NGA,FW,32.0,4,0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Squad Total,,,27.8,38,418,3420.0,38.0,46.0,27.0,41.0,5.0,7.0,0.0,0.0,1.21,0.71,1.92,1.08,1.79
+ENG-Premier League,1415,Crystal Palace,Stuart O'Keefe,ENG,MF,23.0,2,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Wayne Hennessey,WAL,GK,27.0,3,2,216.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Wilfried Zaha,CIV,"FW,MF",21.0,31,23,1977.0,22.0,4.0,2.0,4.0,0.0,0.0,1.0,0.0,0.18,0.09,0.27,0.18,0.27
+ENG-Premier League,1415,Crystal Palace,Yannick Bolasie,COD,"FW,MF",25.0,34,31,2769.0,30.8,4.0,6.0,4.0,0.0,0.0,3.0,0.0,0.13,0.2,0.33,0.13,0.33
+ENG-Premier League,1415,Crystal Palace,Yaya Sanogo,FRA,FW,21.0,10,3,320.0,3.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Crystal Palace,Zeki Fryers,ENG,DF,21.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Aaron Lennon,ENG,"FW,MF",27.0,14,12,1068.0,11.9,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.17,0.0,0.17,0.17,0.17
+ENG-Premier League,1415,Everton,Aiden McGeady,IRL,"FW,MF",28.0,16,10,884.0,9.8,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.1,0.2,0.31,0.1,0.31
+ENG-Premier League,1415,Everton,Antolín Alcaraz,PAR,DF,32.0,8,6,527.0,5.9,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Arouna Koné,CIV,FW,30.0,12,7,601.0,6.7,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.15,0.15,0.3,0.15,0.3
+ENG-Premier League,1415,Everton,Brendan Galloway,ZIM,DF,18.0,2,2,173.0,1.9,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Bryan Oviedo,CRC,"DF,MF",24.0,6,2,320.0,3.6,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Christian Atsu,GHA,"FW,MF",22.0,5,1,113.0,1.3,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.0,0.8
+ENG-Premier League,1415,Everton,Conor McAleny,ENG,"FW,MF",21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Everton,Darron Gibson,IRL,MF,26.0,9,3,416.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Gareth Barry,ENG,MF,33.0,33,33,2823.0,31.4,0.0,2.0,0.0,0.0,0.0,11.0,1.0,0.0,0.06,0.06,0.0,0.06
+ENG-Premier League,1415,Everton,James McCarthy,IRL,MF,23.0,28,27,2400.0,26.7,2.0,1.0,2.0,0.0,0.0,7.0,0.0,0.07,0.04,0.11,0.07,0.11
+ENG-Premier League,1415,Everton,Joel Robles,ESP,GK,24.0,7,6,585.0,6.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,John Stones,ENG,DF,20.0,23,23,2043.0,22.7,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Everton,Kevin Mirallas,BEL,"FW,MF",26.0,29,18,1420.0,15.8,7.0,1.0,7.0,0.0,1.0,3.0,0.0,0.44,0.06,0.51,0.44,0.51
+ENG-Premier League,1415,Everton,Leighton Baines,ENG,DF,29.0,31,31,2773.0,30.8,2.0,9.0,0.0,2.0,3.0,4.0,0.0,0.06,0.29,0.36,0.0,0.29
+ENG-Premier League,1415,Everton,Leon Osman,ENG,MF,33.0,21,13,1279.0,14.2,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.14,0.14,0.28,0.14,0.28
+ENG-Premier League,1415,Everton,Luke Garbutt,ENG,"DF,MF",21.0,4,3,287.0,3.2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Muhamed Bešić,BIH,"DF,MF",21.0,23,15,1284.0,14.3,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Opponent Total,,,26.8,38,418,3420.0,38.0,48.0,31.0,44.0,4.0,4.0,87.0,3.0,1.26,0.82,2.08,1.16,1.97
+ENG-Premier League,1415,Everton,Phil Jagielka,ENG,"DF,MF",31.0,37,37,3285.0,36.5,4.0,0.0,4.0,0.0,0.0,1.0,0.0,0.11,0.0,0.11,0.11,0.11
+ENG-Premier League,1415,Everton,Romelu Lukaku,BEL,FW,21.0,36,32,2870.0,31.9,10.0,5.0,8.0,2.0,2.0,1.0,0.0,0.31,0.16,0.47,0.25,0.41
+ENG-Premier League,1415,Everton,Ross Barkley,ENG,MF,20.0,29,22,1961.0,21.8,2.0,2.0,2.0,0.0,1.0,1.0,0.0,0.09,0.09,0.18,0.09,0.18
+ENG-Premier League,1415,Everton,Russell Griffiths,ENG,GK,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Everton,Ryan Ledson,ENG,MF,16.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Everton,Samuel Eto'o,CMR,FW,33.0,14,8,787.0,8.7,3.0,1.0,3.0,0.0,0.0,1.0,0.0,0.34,0.11,0.46,0.34,0.46
+ENG-Premier League,1415,Everton,Squad Total,,,27.9,38,418,3420.0,38.0,47.0,31.0,43.0,4.0,7.0,0.0,0.0,1.24,0.82,2.05,1.13,1.95
+ENG-Premier League,1415,Everton,Steven Naismith,SCO,"FW,MF",27.0,31,22,2057.0,22.9,7.0,0.0,7.0,0.0,0.0,8.0,0.0,0.31,0.0,0.31,0.31,0.31
+ENG-Premier League,1415,Everton,Steven Pienaar,RSA,MF,32.0,9,3,317.0,3.5,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.57,0.57,0.0,0.57
+ENG-Premier League,1415,Everton,Sylvain Distin,FRA,DF,36.0,13,12,1080.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Séamus Coleman,IRL,"DF,MF",25.0,35,34,3066.0,34.1,3.0,2.0,3.0,0.0,0.0,5.0,0.0,0.09,0.06,0.15,0.09,0.15
+ENG-Premier League,1415,Everton,Tim Howard,USA,GK,35.0,32,32,2835.0,31.5,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Tony Hibbert,ENG,DF,33.0,4,4,329.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Everton,Tyias Browning,CHN,DF,20.0,2,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Abel Hernández,URU,FW,23.0,25,15,1313.0,14.6,4.0,1.0,3.0,1.0,1.0,2.0,0.0,0.27,0.07,0.34,0.21,0.27
+ENG-Premier League,1415,Hull City,Ahmed Elmohamady,EGY,"DF,MF",26.0,38,38,3419.0,38.0,2.0,5.0,2.0,0.0,0.0,4.0,0.0,0.05,0.13,0.18,0.05,0.18
+ENG-Premier League,1415,Hull City,Alex Bruce,NIR,DF,29.0,22,17,1449.0,16.1,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.06,0.06,0.0,0.06
+ENG-Premier League,1415,Hull City,Allan McGregor,SCO,GK,32.0,26,26,2340.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Andrew Robertson,SCO,"DF,MF",20.0,24,17,1526.0,17.0,0.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,0.12,0.12,0.0,0.12
+ENG-Premier League,1415,Hull City,Curtis Davies,ENG,DF,29.0,21,21,1812.0,20.1,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Dame N'Doye,SEN,FW,29.0,15,13,1195.0,13.3,5.0,1.0,5.0,0.0,0.0,3.0,0.0,0.38,0.08,0.45,0.38,0.45
+ENG-Premier League,1415,Hull City,David Meyler,IRL,MF,25.0,28,19,1730.0,19.2,1.0,1.0,1.0,0.0,0.0,7.0,1.0,0.05,0.05,0.1,0.05,0.1
+ENG-Premier League,1415,Hull City,Eldin Jakupović,SUI,GK,29.0,3,2,228.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Gastón Ramírez,URU,"FW,MF",23.0,22,11,990.0,11.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,0.09,0.18,0.27,0.09,0.27
+ENG-Premier League,1415,Hull City,George Boyd,SCO,"FW,MF",28.0,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Harry Maguire,ENG,DF,21.0,3,0,94.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Hatem Ben Arfa,FRA,"FW,MF",27.0,8,5,383.0,4.3,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Jake Livermore,ENG,MF,24.0,35,35,3028.0,33.6,1.0,1.0,1.0,0.0,0.0,10.0,0.0,0.03,0.03,0.06,0.03,0.06
+ENG-Premier League,1415,Hull City,James Chester,WAL,DF,25.0,23,23,1872.0,20.8,2.0,0.0,2.0,0.0,0.0,5.0,1.0,0.1,0.0,0.1,0.1,0.1
+ENG-Premier League,1415,Hull City,Liam Rosenior,ENG,DF,30.0,13,5,581.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Maynor Figueroa,HON,DF,31.0,3,2,209.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Michael Dawson,ENG,DF,30.0,28,28,2432.0,27.0,1.0,0.0,1.0,0.0,0.0,7.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Hull City,Mohamed Diamé,SEN,MF,27.0,12,10,877.0,9.7,4.0,0.0,4.0,0.0,0.0,2.0,0.0,0.41,0.0,0.41,0.41,0.41
+ENG-Premier League,1415,Hull City,Nikica Jelavić,CRO,FW,28.0,26,21,1805.0,20.1,8.0,1.0,8.0,0.0,0.0,3.0,0.0,0.4,0.05,0.45,0.4,0.45
+ENG-Premier League,1415,Hull City,Opponent Total,,,27.1,38,418,3420.0,38.0,50.0,34.0,49.0,1.0,3.0,77.0,4.0,1.32,0.89,2.21,1.29,2.18
+ENG-Premier League,1415,Hull City,Paul McShane,IRL,DF,28.0,20,19,1694.0,18.8,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.05,0.0,0.05,0.05,0.05
+ENG-Premier League,1415,Hull City,Robbie Brady,IRL,"DF,FW",22.0,27,17,1759.0,19.5,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.1,0.0,0.1
+ENG-Premier League,1415,Hull City,Robert Snodgrass,SCO,"FW,MF",26.0,1,1,39.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Rory Watson,ENG,GK,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Hull City,Sone Aluko,NGA,"FW,MF",25.0,25,13,1242.0,13.8,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,Hull City,Squad Total,,,27.4,38,418,3420.0,38.0,32.0,22.0,31.0,1.0,1.0,0.0,0.0,0.84,0.58,1.42,0.82,1.39
+ENG-Premier League,1415,Hull City,Stephen Quinn,IRL,"FW,MF",28.0,28,17,1639.0,18.2,1.0,3.0,1.0,0.0,0.0,3.0,1.0,0.05,0.16,0.22,0.05,0.22
+ENG-Premier League,1415,Hull City,Steve Harper,ENG,GK,39.0,10,10,852.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Tom Huddlestone,ENG,MF,27.0,31,30,2541.0,28.2,0.0,2.0,0.0,0.0,0.0,7.0,2.0,0.0,0.07,0.07,0.0,0.07
+ENG-Premier League,1415,Hull City,Tom Ince,ENG,"FW,MF",22.0,7,3,301.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Hull City,Yannick Sagbo,CIV,FW,26.0,4,0,59.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Adam Smith,ENG,GK,21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Leicester City,Andrej Kramarić,CRO,"FW,MF",23.0,13,6,577.0,6.4,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.31,0.31,0.62,0.31,0.62
+ENG-Premier League,1415,Leicester City,Andy King,WAL,MF,25.0,24,16,1376.0,15.3,2.0,0.0,2.0,0.0,0.0,1.0,0.0,0.13,0.0,0.13,0.13,0.13
+ENG-Premier League,1415,Leicester City,Anthony Knockaert,FRA,"FW,MF",22.0,9,3,335.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Ben Hamer,ENG,GK,26.0,8,8,720.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Chris Wood,NZL,FW,22.0,7,0,114.0,1.3,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.79,0.0,0.79,0.79,0.79
+ENG-Premier League,1415,Leicester City,Danny Drinkwater,ENG,MF,24.0,23,16,1488.0,16.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Danny Simpson,ENG,DF,27.0,14,13,1185.0,13.2,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,David Nugent,ENG,FW,29.0,29,16,1711.0,19.0,5.0,2.0,4.0,1.0,1.0,3.0,0.0,0.26,0.11,0.37,0.21,0.32
+ENG-Premier League,1415,Leicester City,Dean Hammond,ENG,MF,31.0,12,9,778.0,8.6,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Esteban Cambiasso,ARG,MF,33.0,31,27,2415.0,26.8,5.0,1.0,5.0,0.0,0.0,1.0,0.0,0.19,0.04,0.22,0.19,0.22
+ENG-Premier League,1415,Leicester City,Gary Taylor-Fletcher,ENG,"FW,MF",33.0,1,0,18.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Jamie Vardy,ENG,FW,27.0,34,26,2241.0,24.9,5.0,8.0,5.0,0.0,0.0,5.0,0.0,0.2,0.32,0.52,0.2,0.52
+ENG-Premier League,1415,Leicester City,Jeffrey Schlupp,GHA,"DF,FW",21.0,32,30,2531.0,28.1,3.0,2.0,3.0,0.0,0.0,4.0,0.0,0.11,0.07,0.18,0.11,0.18
+ENG-Premier League,1415,Leicester City,Kasper Schmeichel,DEN,GK,27.0,24,24,2160.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Leonardo Ulloa,ARG,FW,28.0,37,29,2398.0,26.6,11.0,3.0,9.0,2.0,2.0,3.0,0.0,0.41,0.11,0.53,0.34,0.45
+ENG-Premier League,1415,Leicester City,Liam Moore,JAM,DF,21.0,11,10,937.0,10.4,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Marc Albrighton,ENG,"DF,FW",24.0,18,10,1031.0,11.5,2.0,3.0,2.0,0.0,0.0,3.0,0.0,0.17,0.26,0.44,0.17,0.44
+ENG-Premier League,1415,Leicester City,Marcin Wasilewski,POL,DF,34.0,25,22,1989.0,22.1,1.0,0.0,1.0,0.0,0.0,6.0,0.0,0.05,0.0,0.05,0.05,0.05
+ENG-Premier League,1415,Leicester City,Mark Schwarzer,AUS,GK,41.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Matthew Upson,ENG,DF,35.0,5,5,373.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Matty James,ENG,MF,23.0,27,20,1895.0,21.1,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.05,0.05,0.0,0.05
+ENG-Premier League,1415,Leicester City,Nick Powell,ENG,"FW,MF",20.0,3,0,43.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Opponent Total,,,26.9,38,418,3420.0,38.0,50.0,32.0,47.0,3.0,4.0,63.0,6.0,1.32,0.84,2.16,1.24,2.08
+ENG-Premier League,1415,Leicester City,Paul Konchesky,ENG,"DF,FW",33.0,26,26,2246.0,25.0,1.0,1.0,1.0,0.0,0.0,4.0,2.0,0.04,0.04,0.08,0.04,0.08
+ENG-Premier League,1415,Leicester City,Ritchie De Laet,BEL,DF,25.0,26,20,1883.0,20.9,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.05,0.05,0.0,0.05
+ENG-Premier League,1415,Leicester City,Riyad Mahrez,ALG,"FW,MF",23.0,30,25,2079.0,23.1,4.0,3.0,4.0,0.0,0.0,0.0,0.0,0.17,0.13,0.3,0.17,0.3
+ENG-Premier League,1415,Leicester City,Robert Huth,GER,DF,29.0,14,14,1178.0,13.1,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.08,0.0,0.08,0.08,0.08
+ENG-Premier League,1415,Leicester City,Squad Total,,,27.9,38,418,3420.0,38.0,45.0,29.0,42.0,3.0,3.0,0.0,0.0,1.18,0.76,1.95,1.11,1.87
+ENG-Premier League,1415,Leicester City,Tom Hopper,ENG,FW,20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Leicester City,Tom Lawrence,WAL,"FW,MF",20.0,3,0,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Leicester City,Wes Morgan,JAM,DF,30.0,37,37,3286.0,36.5,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.05,0.05,0.11,0.05,0.11
+ENG-Premier League,1415,Liverpool,Adam Lallana,ENG,"FW,MF",26.0,27,23,1779.0,19.8,5.0,3.0,5.0,0.0,0.0,4.0,0.0,0.25,0.15,0.4,0.25,0.4
+ENG-Premier League,1415,Liverpool,Alberto Moreno,ESP,"DF,MF",22.0,28,26,2254.0,25.0,2.0,0.0,2.0,0.0,0.0,6.0,0.0,0.08,0.0,0.08,0.08,0.08
+ENG-Premier League,1415,Liverpool,Brad Jones,AUS,GK,32.0,3,3,195.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Cameron Brannagan,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Liverpool,Daniel Sturridge,ENG,"FW,MF",24.0,12,7,752.0,8.4,4.0,1.0,4.0,0.0,0.0,0.0,0.0,0.48,0.12,0.6,0.48,0.6
+ENG-Premier League,1415,Liverpool,Danny Ward,WAL,GK,21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Liverpool,Dejan Lovren,CRO,DF,25.0,26,22,2037.0,22.6,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Emre Can,GER,"DF,MF",20.0,27,23,2065.0,22.9,1.0,0.0,1.0,0.0,0.0,3.0,1.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Liverpool,Fabio Borini,ITA,"FW,MF",23.0,12,3,397.0,4.4,1.0,1.0,1.0,0.0,0.0,2.0,1.0,0.23,0.23,0.45,0.23,0.45
+ENG-Premier League,1415,Liverpool,Glen Johnson,ENG,DF,29.0,19,15,1332.0,14.8,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,Liverpool,Javier Manquillo,ESP,DF,20.0,10,10,759.0,8.4,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Jerome Sinclair,ENG,FW,17.0,2,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Joe Allen,WAL,MF,24.0,21,16,1470.0,16.3,1.0,0.0,1.0,0.0,0.0,3.0,0.0,0.06,0.0,0.06,0.06,0.06
+ENG-Premier League,1415,Liverpool,Jordan Henderson,ENG,MF,24.0,37,36,3256.0,36.2,6.0,9.0,5.0,1.0,1.0,6.0,0.0,0.17,0.25,0.41,0.14,0.39
+ENG-Premier League,1415,Liverpool,Jordan Rossiter,ENG,MF,17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Liverpool,Jordan Williams,WAL,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Liverpool,Jordon Ibe,ENG,"FW,MF",18.0,12,7,617.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,José Enrique,ESP,DF,28.0,4,2,205.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Kolo Touré,CIV,DF,33.0,11,7,667.0,7.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Lazar Marković,SRB,"FW,MF",20.0,19,11,934.0,10.4,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.19,0.1,0.29,0.19,0.29
+ENG-Premier League,1415,Liverpool,Lucas Leiva,BRA,MF,27.0,20,16,1313.0,14.6,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Mamadou Sakho,FRA,DF,24.0,16,15,1419.0,15.8,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Mario Balotelli,ITA,FW,23.0,16,10,939.0,10.4,1.0,0.0,1.0,0.0,0.0,5.0,0.0,0.1,0.0,0.1,0.1,0.1
+ENG-Premier League,1415,Liverpool,Martin Škrtel,SVK,DF,29.0,33,33,2970.0,33.0,1.0,0.0,1.0,0.0,0.0,8.0,0.0,0.03,0.0,0.03,0.03,0.03
+ENG-Premier League,1415,Liverpool,Opponent Total,,,26.8,38,418,3420.0,38.0,47.0,29.0,46.0,1.0,3.0,87.0,4.0,1.24,0.76,2.0,1.21,1.97
+ENG-Premier League,1415,Liverpool,Philippe Coutinho,BRA,"FW,MF",22.0,35,32,2792.0,31.0,5.0,5.0,5.0,0.0,0.0,3.0,0.0,0.16,0.16,0.32,0.16,0.32
+ENG-Premier League,1415,Liverpool,Raheem Sterling,ENG,"FW,MF",19.0,35,34,3045.0,33.8,7.0,7.0,7.0,0.0,0.0,5.0,0.0,0.21,0.21,0.41,0.21,0.41
+ENG-Premier League,1415,Liverpool,Rickie Lambert,ENG,FW,32.0,25,7,839.0,9.3,2.0,2.0,2.0,0.0,0.0,2.0,0.0,0.21,0.21,0.43,0.21,0.43
+ENG-Premier League,1415,Liverpool,Sheyi Ojo,ENG,"FW,MF",17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Liverpool,Simon Mignolet,BEL,GK,26.0,36,35,3225.0,35.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Liverpool,Squad Total,,,25.2,38,418,3420.0,38.0,48.0,30.0,43.0,5.0,6.0,0.0,0.0,1.26,0.79,2.05,1.13,1.92
+ENG-Premier League,1415,Liverpool,Steven Gerrard,ENG,MF,34.0,29,25,2236.0,24.8,9.0,1.0,5.0,4.0,5.0,7.0,1.0,0.36,0.04,0.4,0.2,0.24
+ENG-Premier League,1415,Liverpool,Suso,ESP,"FW,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester City,Aleksandar Kolarov,SRB,DF,28.0,21,16,1489.0,16.5,2.0,3.0,2.0,0.0,0.0,4.0,0.0,0.12,0.18,0.3,0.12,0.3
+ENG-Premier League,1415,Manchester City,Angeliño,ESP,"DF,MF",17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester City,Bacary Sagna,FRA,DF,31.0,9,8,741.0,8.2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,David Silva,ESP,"FW,MF",28.0,32,32,2646.0,29.4,12.0,7.0,12.0,0.0,0.0,8.0,0.0,0.41,0.24,0.65,0.41,0.65
+ENG-Premier League,1415,Manchester City,Dedryck Boyata,BEL,DF,23.0,2,1,92.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,Edin Džeko,BIH,FW,28.0,22,11,932.0,10.4,4.0,2.0,4.0,0.0,0.0,1.0,0.0,0.39,0.19,0.58,0.39,0.58
+ENG-Premier League,1415,Manchester City,Eliaquim Mangala,FRA,DF,23.0,25,24,2189.0,24.3,0.0,2.0,0.0,0.0,0.0,4.0,1.0,0.0,0.08,0.08,0.0,0.08
+ENG-Premier League,1415,Manchester City,Fernandinho,BRA,"DF,MF",29.0,33,25,2267.0,25.2,3.0,3.0,3.0,0.0,0.0,7.0,0.0,0.12,0.12,0.24,0.12,0.24
+ENG-Premier League,1415,Manchester City,Fernando,BRA,MF,27.0,25,22,1879.0,20.9,2.0,2.0,2.0,0.0,0.0,6.0,0.0,0.1,0.1,0.19,0.1,0.19
+ENG-Premier League,1415,Manchester City,Frank Lampard,ENG,MF,36.0,32,10,1002.0,11.1,6.0,1.0,6.0,0.0,0.0,1.0,0.0,0.54,0.09,0.63,0.54,0.63
+ENG-Premier League,1415,Manchester City,Gaël Clichy,FRA,DF,29.0,23,23,2057.0,22.9,1.0,3.0,1.0,0.0,0.0,1.0,0.0,0.04,0.13,0.18,0.04,0.18
+ENG-Premier League,1415,Manchester City,James Milner,ENG,"DF,MF",28.0,32,18,1749.0,19.4,5.0,7.0,5.0,0.0,0.0,6.0,0.0,0.26,0.36,0.62,0.26,0.62
+ENG-Premier League,1415,Manchester City,Jesús Navas,ESP,"DF,MF",28.0,35,23,2254.0,25.0,0.0,8.0,0.0,0.0,0.0,3.0,0.0,0.0,0.32,0.32,0.0,0.32
+ENG-Premier League,1415,Manchester City,Joe Hart,ENG,GK,27.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,José Pozo,ESP,"FW,MF",18.0,3,1,137.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,Martín Demichelis,ARG,"DF,MF",33.0,31,28,2562.0,28.5,1.0,0.0,1.0,0.0,0.0,6.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Manchester City,Opponent Total,,,26.9,38,418,3420.0,38.0,35.0,22.0,32.0,3.0,4.0,59.0,3.0,0.92,0.58,1.5,0.84,1.42
+ENG-Premier League,1415,Manchester City,Pablo Zabaleta,ARG,"DF,MF",29.0,29,29,2586.0,28.7,1.0,4.0,1.0,0.0,0.0,7.0,1.0,0.03,0.14,0.17,0.03,0.17
+ENG-Premier League,1415,Manchester City,Samir Nasri,FRA,"FW,MF",27.0,24,18,1569.0,17.4,2.0,5.0,2.0,0.0,0.0,5.0,0.0,0.11,0.29,0.4,0.11,0.4
+ENG-Premier League,1415,Manchester City,Scott Sinclair,ENG,"FW,MF",25.0,2,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,Sergio Agüero,ARG,FW,26.0,33,30,2531.0,28.1,26.0,8.0,21.0,5.0,6.0,4.0,0.0,0.92,0.28,1.21,0.75,1.03
+ENG-Premier League,1415,Manchester City,Squad Total,,,28.6,38,418,3420.0,38.0,82.0,61.0,75.0,7.0,8.0,0.0,0.0,2.16,1.61,3.76,1.97,3.58
+ENG-Premier League,1415,Manchester City,Stevan Jovetić,MNE,"FW,MF",24.0,17,9,784.0,8.7,5.0,3.0,5.0,0.0,0.0,0.0,0.0,0.57,0.34,0.92,0.57,0.92
+ENG-Premier League,1415,Manchester City,Thierry Ambrose,GLP,"FW,MF",17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester City,Vincent Kompany,BEL,DF,28.0,25,23,2034.0,22.6,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,Wilfried Bony,CIV,FW,25.0,10,2,302.0,3.4,2.0,1.0,2.0,0.0,0.0,1.0,0.0,0.6,0.3,0.89,0.6,0.89
+ENG-Premier League,1415,Manchester City,Willy Caballero,ARG,GK,32.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester City,Yaya Touré,CIV,MF,31.0,29,27,2353.0,26.1,10.0,2.0,8.0,2.0,2.0,5.0,0.0,0.38,0.08,0.46,0.31,0.38
+ENG-Premier League,1415,Manchester Utd,Adnan Januzaj,BEL,"FW,MF",19.0,18,7,856.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Ander Herrera,ESP,MF,24.0,26,19,1870.0,20.8,6.0,4.0,6.0,0.0,0.0,6.0,0.0,0.29,0.19,0.48,0.29,0.48
+ENG-Premier League,1415,Manchester Utd,Anders Lindegaard,DEN,GK,30.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester Utd,Anderson,BRA,MF,26.0,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Andreas Pereira,BRA,MF,18.0,1,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Antonio Valencia,ECU,"DF,MF",28.0,32,29,2580.0,28.7,0.0,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.1,0.1,0.0,0.1
+ENG-Premier League,1415,Manchester Utd,Ashley Young,ENG,"DF,FW",29.0,26,23,2065.0,22.9,2.0,5.0,2.0,0.0,0.0,5.0,0.0,0.09,0.22,0.31,0.09,0.31
+ENG-Premier League,1415,Manchester Utd,Ben Amos,ENG,GK,24.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester Utd,Chris Smalling,ENG,DF,24.0,25,21,1879.0,20.9,4.0,0.0,4.0,0.0,0.0,2.0,1.0,0.19,0.0,0.19,0.19,0.19
+ENG-Premier League,1415,Manchester Utd,Daley Blind,NED,"DF,MF",24.0,25,25,2169.0,24.1,2.0,2.0,2.0,0.0,0.0,4.0,0.0,0.08,0.08,0.17,0.08,0.17
+ENG-Premier League,1415,Manchester Utd,Danny Welbeck,ENG,"FW,MF",23.0,2,0,46.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Darren Fletcher,SCO,MF,30.0,11,4,369.0,4.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,David de Gea,ESP,GK,23.0,37,37,3313.0,36.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,James Wilson,ENG,"FW,MF",18.0,13,2,357.0,4.0,1.0,0.0,1.0,0.0,0.0,3.0,0.0,0.25,0.0,0.25,0.25,0.25
+ENG-Premier League,1415,Manchester Utd,Javier Hernández,MEX,FW,26.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Jesse Lingard,ENG,"FW,MF",21.0,1,1,23.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Jonny Evans,NIR,DF,26.0,14,12,1090.0,12.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Juan Mata,ESP,"FW,MF",26.0,33,27,2303.0,25.6,9.0,4.0,8.0,1.0,1.0,2.0,0.0,0.35,0.16,0.51,0.31,0.47
+ENG-Premier League,1415,Manchester Utd,Luke Shaw,ENG,"DF,MF",19.0,16,15,1121.0,12.5,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Marcos Rojo,ARG,DF,24.0,22,20,1762.0,19.6,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Marnick Vermijl,BEL,DF,22.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester Utd,Marouane Fellaini,BEL,MF,26.0,27,19,1831.0,20.3,6.0,0.0,6.0,0.0,0.0,5.0,1.0,0.29,0.0,0.29,0.29,0.29
+ENG-Premier League,1415,Manchester Utd,Michael Carrick,ENG,MF,33.0,18,16,1457.0,16.2,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.06,0.12,0.19,0.06,0.19
+ENG-Premier League,1415,Manchester Utd,Michael Keane,ENG,DF,21.0,1,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Nani,POR,"FW,MF",27.0,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Opponent Total,,,27.0,38,418,3420.0,38.0,36.0,25.0,33.0,3.0,4.0,73.0,4.0,0.95,0.66,1.61,0.87,1.53
+ENG-Premier League,1415,Manchester Utd,Paddy McNair,NIR,"DF,MF",19.0,16,12,1027.0,11.4,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Phil Jones,ENG,"DF,MF",22.0,22,22,1876.0,20.8,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Radamel Falcao,COL,FW,28.0,26,14,1287.0,14.3,4.0,4.0,4.0,0.0,0.0,2.0,0.0,0.28,0.28,0.56,0.28,0.56
+ENG-Premier League,1415,Manchester Utd,Rafael,BRA,"DF,MF",24.0,10,6,592.0,6.6,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Reece James,ENG,"DF,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester Utd,Robin van Persie,NED,FW,30.0,27,25,2108.0,23.4,10.0,2.0,9.0,1.0,2.0,5.0,0.0,0.43,0.09,0.51,0.38,0.47
+ENG-Premier League,1415,Manchester Utd,Shinji Kagawa,JPN,"FW,MF",25.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester Utd,Squad Total,,,26.0,38,418,3420.0,38.0,60.0,41.0,57.0,3.0,5.0,0.0,0.0,1.58,1.08,2.66,1.5,2.58
+ENG-Premier League,1415,Manchester Utd,Tom Cleverley,ENG,MF,24.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Tom Thorpe,ENG,DF,21.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Tyler Blackett,ENG,DF,20.0,11,6,654.0,7.3,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Víctor Valdés,ESP,GK,32.0,2,1,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Manchester Utd,Wayne Rooney,ENG,"FW,MF",28.0,33,33,2873.0,31.9,12.0,5.0,11.0,1.0,2.0,5.0,1.0,0.38,0.16,0.53,0.34,0.5
+ENG-Premier League,1415,Manchester Utd,Will Keane,IRL,"FW,MF",21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Manchester Utd,Ángel Di María,ARG,"FW,MF",26.0,27,20,1639.0,18.2,3.0,10.0,3.0,0.0,0.0,1.0,0.0,0.16,0.55,0.71,0.16,0.71
+ENG-Premier League,1415,Newcastle Utd,Adam Armstrong,ENG,"FW,MF",17.0,11,1,211.0,2.3,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.43,0.43,0.0,0.43
+ENG-Premier League,1415,Newcastle Utd,Ayoze Pérez,ESP,"FW,MF",21.0,36,25,2369.0,26.3,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.27,0.0,0.27,0.27,0.27
+ENG-Premier League,1415,Newcastle Utd,Cheick Tioté,CIV,MF,28.0,11,10,895.0,9.9,0.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.2,0.2,0.0,0.2
+ENG-Premier League,1415,Newcastle Utd,Daryl Janmaat,NED,DF,25.0,37,37,3251.0,36.1,1.0,6.0,1.0,0.0,0.0,8.0,1.0,0.03,0.17,0.19,0.03,0.19
+ENG-Premier League,1415,Newcastle Utd,Davide Santon,ITA,DF,23.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Newcastle Utd,Emmanuel Rivière,FRA,FW,24.0,23,15,1209.0,13.4,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.07,0.07,0.15,0.07,0.15
+ENG-Premier League,1415,Newcastle Utd,Fabricio Coloccini,ARG,"DF,MF",32.0,32,32,2836.0,31.5,1.0,0.0,1.0,0.0,0.0,3.0,1.0,0.03,0.0,0.03,0.03,0.03
+ENG-Premier League,1415,Newcastle Utd,Facundo Ferreyra,ARG,FW,23.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Newcastle Utd,Freddie Woodman,ENG,GK,17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Newcastle Utd,Gabriel Obertan,FRA,"FW,MF",25.0,13,8,652.0,7.2,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.14,0.28,0.41,0.14,0.41
+ENG-Premier League,1415,Newcastle Utd,Haris Vučkić,SVN,"FW,MF",21.0,1,0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Jack Colback,ENG,MF,24.0,35,35,3128.0,34.8,4.0,6.0,4.0,0.0,0.0,12.0,0.0,0.12,0.17,0.29,0.12,0.29
+ENG-Premier League,1415,Newcastle Utd,Jak Alnwick,ENG,GK,21.0,6,5,495.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Jamie Sterry,ENG,DF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Newcastle Utd,Jonás Gutiérrez,ARG,MF,31.0,10,6,638.0,7.1,1.0,1.0,1.0,0.0,0.0,4.0,0.0,0.14,0.14,0.28,0.14,0.28
+ENG-Premier League,1415,Newcastle Utd,Massadio Haïdara,MLI,"DF,MF",21.0,15,12,1101.0,12.2,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.08,0.0,0.08
+ENG-Premier League,1415,Newcastle Utd,Mehdi Abeid,ALG,MF,21.0,13,7,664.0,7.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Mike Williamson,ENG,DF,30.0,31,27,2420.0,26.9,1.0,1.0,1.0,0.0,0.0,7.0,2.0,0.04,0.04,0.07,0.04,0.07
+ENG-Premier League,1415,Newcastle Utd,Moussa Sissoko,FRA,MF,24.0,34,34,3031.0,33.7,4.0,2.0,4.0,0.0,0.0,9.0,2.0,0.12,0.06,0.18,0.12,0.18
+ENG-Premier League,1415,Newcastle Utd,Olivier Kemen,FRA,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Newcastle Utd,Opponent Total,,,26.9,38,418,3420.0,38.0,62.0,48.0,58.0,4.0,4.0,92.0,0.0,1.63,1.26,2.89,1.53,2.79
+ENG-Premier League,1415,Newcastle Utd,Papiss Cissé,SEN,FW,29.0,22,11,1158.0,12.9,11.0,1.0,10.0,1.0,1.0,1.0,0.0,0.85,0.08,0.93,0.78,0.85
+ENG-Premier League,1415,Newcastle Utd,Paul Dummett,WAL,DF,22.0,25,24,2107.0,23.4,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Remie Streete,ENG,DF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Newcastle Utd,Rob Elliot,IRL,GK,28.0,3,3,225.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Rolando Aarons,ENG,MF,18.0,4,0,132.0,1.5,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.68,0.0,0.68,0.68,0.68
+ENG-Premier League,1415,Newcastle Utd,Ryan Taylor,ENG,"DF,MF",29.0,14,11,906.0,10.1,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,0.1,0.0,0.1
+ENG-Premier League,1415,Newcastle Utd,Rémy Cabella,FRA,"FW,MF",24.0,31,21,1943.0,21.6,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.05,0.09,0.14,0.05,0.14
+ENG-Premier League,1415,Newcastle Utd,Sammy Ameobi,ENG,"FW,MF",22.0,25,15,1418.0,15.8,2.0,2.0,2.0,0.0,0.0,2.0,0.0,0.13,0.13,0.25,0.13,0.25
+ENG-Premier League,1415,Newcastle Utd,Siem de Jong,NED,"FW,MF",25.0,4,1,149.0,1.7,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6,0.0,0.6,0.6,0.6
+ENG-Premier League,1415,Newcastle Utd,Squad Total,,,25.9,38,418,3420.0,38.0,40.0,30.0,39.0,1.0,1.0,0.0,0.0,1.05,0.79,1.84,1.03,1.82
+ENG-Premier League,1415,Newcastle Utd,Steven Taylor,ENG,DF,28.0,10,7,653.0,7.3,1.0,0.0,1.0,0.0,0.0,3.0,1.0,0.14,0.0,0.14,0.14,0.14
+ENG-Premier League,1415,Newcastle Utd,Tim Krul,NED,GK,26.0,30,30,2700.0,30.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Vurnon Anita,CUW,"DF,MF",25.0,19,17,1266.0,14.1,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Newcastle Utd,Yoan Gouffran,FRA,"FW,MF",28.0,31,24,1965.0,21.8,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.09,0.05,0.14,0.09,0.14
+ENG-Premier League,1415,Newcastle Utd,Ľubomír Šatka,SVK,DF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,QPR,Aaron Mitchell,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,QPR,Adel Taarabt,MAR,"FW,MF",25.0,7,3,297.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Alejandro Faurlín,ARG,MF,27.0,2,1,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Alex McCarthy,ENG,GK,24.0,3,2,237.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Armand Traoré,SEN,"DF,MF",24.0,16,7,786.0,8.7,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Bobby Zamora,ENG,FW,33.0,31,19,1779.0,19.8,3.0,4.0,3.0,0.0,0.0,4.0,0.0,0.15,0.2,0.35,0.15,0.35
+ENG-Premier League,1415,QPR,Brandon Comley,MSR,MF,18.0,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Brian Murphy,IRL,GK,31.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,QPR,Charlie Austin,ENG,FW,25.0,35,35,3066.0,34.1,18.0,6.0,15.0,3.0,5.0,5.0,1.0,0.53,0.18,0.7,0.44,0.62
+ENG-Premier League,1415,QPR,Clint Hill,ENG,DF,35.0,19,15,1406.0,15.6,1.0,0.0,1.0,0.0,0.0,4.0,0.0,0.06,0.0,0.06,0.06,0.06
+ENG-Premier League,1415,QPR,Cole Kpekawa,ENG,DF,18.0,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Danny Simpson,ENG,DF,27.0,1,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Darnell Furlong,ENG,"DF,MF",18.0,3,3,225.0,2.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Eduardo Vargas,CHI,"FW,MF",24.0,21,16,1382.0,15.4,3.0,2.0,3.0,0.0,0.0,1.0,0.0,0.2,0.13,0.33,0.2,0.33
+ENG-Premier League,1415,QPR,Frankie Sutherland,IRL,"DF,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,QPR,Joey Barton,ENG,MF,31.0,28,27,2349.0,26.1,1.0,3.0,1.0,0.0,0.0,11.0,1.0,0.04,0.11,0.15,0.04,0.15
+ENG-Premier League,1415,QPR,Jordon Mutch,ENG,MF,22.0,9,6,520.0,5.8,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.17,0.17,0.0,0.17
+ENG-Premier League,1415,QPR,Junior Hoilett,CAN,"FW,MF",24.0,22,9,886.0,9.8,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Karl Henry,ENG,"DF,MF",31.0,33,27,2504.0,27.8,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Leroy Fer,NED,MF,24.0,29,27,2360.0,26.2,6.0,2.0,6.0,0.0,0.0,4.0,0.0,0.23,0.08,0.31,0.23,0.31
+ENG-Premier League,1415,QPR,Loïc Rémy,FRA,FW,27.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Matt Phillips,SCO,"FW,MF",23.0,25,20,1821.0,20.2,3.0,8.0,3.0,0.0,0.0,1.0,0.0,0.15,0.4,0.54,0.15,0.54
+ENG-Premier League,1415,QPR,Mauricio Isla,CHI,"DF,MF",26.0,26,24,2130.0,23.7,0.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.08,0.08,0.0,0.08
+ENG-Premier League,1415,QPR,Mauro Zárate,ARG,"FW,MF",27.0,4,0,75.0,0.8,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Michael Doughty,WAL,MF,21.0,3,0,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Michael Petrasso,CAN,"DF,MF",19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,QPR,Nedum Onuoha,ENG,DF,27.0,23,22,1927.0,21.4,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Niko Kranjčar,CRO,MF,29.0,22,11,1119.0,12.4,2.0,1.0,2.0,0.0,0.0,2.0,0.0,0.16,0.08,0.24,0.16,0.24
+ENG-Premier League,1415,QPR,Opponent Total,,,27.0,38,418,3420.0,38.0,70.0,51.0,68.0,2.0,4.0,50.0,3.0,1.84,1.34,3.18,1.79,3.13
+ENG-Premier League,1415,QPR,Reece Grego-Cox,IRL,"FW,MF",17.0,4,1,144.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Richard Dunne,IRL,DF,34.0,23,22,1870.0,20.8,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Rio Ferdinand,ENG,DF,35.0,11,11,990.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Robert Green,ENG,GK,34.0,36,36,3183.0,35.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Sandro,BRA,MF,25.0,17,17,1209.0,13.4,1.0,0.0,1.0,0.0,0.0,6.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,QPR,Shaun Wright-Phillips,ENG,"FW,MF",32.0,4,1,129.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,QPR,Squad Total,,,28.2,38,418,3420.0,38.0,39.0,29.0,36.0,3.0,5.0,0.0,0.0,1.03,0.76,1.79,0.95,1.71
+ENG-Premier League,1415,QPR,Steven Caulker,SLE,DF,22.0,35,34,3015.0,33.5,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.03,0.0,0.03,0.03,0.03
+ENG-Premier League,1415,QPR,Yun Suk-young,KOR,"DF,MF",24.0,23,19,1722.0,19.1,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Dominic Gape,ENG,MF,19.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Dušan Tadić,SRB,"FW,MF",25.0,31,24,2056.0,22.8,4.0,8.0,3.0,1.0,2.0,2.0,0.0,0.18,0.35,0.53,0.13,0.48
+ENG-Premier League,1415,Southampton,Eljero Elia,NED,"FW,MF",27.0,16,9,787.0,8.7,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.23,0.0,0.23,0.23,0.23
+ENG-Premier League,1415,Southampton,Emmanuel Mayuka,ZAM,FW,23.0,5,0,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Filip Đuričić,SRB,"FW,MF",22.0,9,3,329.0,3.7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Florin Gardoș,ROU,"DF,MF",25.0,10,5,574.0,6.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Fraser Forster,ENG,GK,26.0,30,30,2623.0,29.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Gastón Ramírez,URU,"FW,MF",23.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Graziano Pellè,ITA,FW,29.0,38,37,3281.0,36.5,12.0,2.0,12.0,0.0,0.0,6.0,0.0,0.33,0.05,0.38,0.33,0.38
+ENG-Premier League,1415,Southampton,Harrison Reed,ENG,MF,19.0,9,5,460.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Jack Cork,ENG,"DF,MF",25.0,12,5,481.0,5.3,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.37,0.0,0.37,0.37,0.37
+ENG-Premier League,1415,Southampton,Jack Stephens,ENG,DF,20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Southampton,Jake Flannigan,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Southampton,Jake Hesketh,ENG,"FW,MF",18.0,2,1,52.0,0.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,James Ward-Prowse,ENG,MF,19.0,25,16,1477.0,16.4,1.0,6.0,0.0,1.0,1.0,0.0,1.0,0.06,0.37,0.43,0.0,0.37
+ENG-Premier League,1415,Southampton,Jason McCarthy,ENG,"DF,MF",18.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Jos Hooiveld,NED,"DF,MF",31.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Southampton,José Fonte,POR,DF,30.0,37,37,3330.0,37.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.03,0.03,0.0,0.03
+ENG-Premier League,1415,Southampton,Kelvin Davis,ENG,GK,37.0,7,6,617.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Lloyd Isgrove,WAL,MF,21.0,1,0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Matt Targett,ENG,"DF,MF",18.0,6,3,226.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Maya Yoshida,JPN,DF,25.0,22,18,1692.0,18.8,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.05,0.05,0.11,0.05,0.11
+ENG-Premier League,1415,Southampton,Morgan Schneiderlin,FRA,MF,24.0,26,24,2186.0,24.3,4.0,1.0,4.0,0.0,0.0,6.0,1.0,0.16,0.04,0.21,0.16,0.21
+ENG-Premier League,1415,Southampton,Nathaniel Clyne,ENG,DF,23.0,35,35,3146.0,35.0,2.0,0.0,2.0,0.0,0.0,4.0,0.0,0.06,0.0,0.06,0.06,0.06
+ENG-Premier League,1415,Southampton,Opponent Total,,,26.9,38,418,3420.0,38.0,33.0,25.0,31.0,2.0,2.0,54.0,3.0,0.87,0.66,1.53,0.82,1.47
+ENG-Premier League,1415,Southampton,Paulo Gazzaniga,ARG,GK,22.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Ryan Bertrand,ENG,"DF,MF",24.0,34,34,3054.0,33.9,2.0,2.0,2.0,0.0,0.0,3.0,1.0,0.06,0.06,0.12,0.06,0.12
+ENG-Premier League,1415,Southampton,Ryan Seager,ENG,FW,18.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Southampton,Sadio Mané,SEN,"FW,MF",22.0,30,24,2132.0,23.7,10.0,3.0,10.0,0.0,0.0,5.0,0.0,0.42,0.13,0.55,0.42,0.55
+ENG-Premier League,1415,Southampton,Sam Gallagher,ENG,"FW,MF",18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Southampton,Sam McQueen,ENG,MF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Southampton,Saphir Taïder,ALG,MF,22.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Southampton,Shane Long,IRL,FW,27.0,32,16,1545.0,17.2,5.0,5.0,5.0,0.0,0.0,2.0,0.0,0.29,0.29,0.58,0.29,0.58
+ENG-Premier League,1415,Southampton,Squad Total,,,26.0,38,418,3420.0,38.0,49.0,32.0,47.0,2.0,3.0,0.0,0.0,1.29,0.84,2.13,1.24,2.08
+ENG-Premier League,1415,Southampton,Steven Davis,NIR,MF,29.0,35,32,2637.0,29.3,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.07,0.07,0.0,0.07
+ENG-Premier League,1415,Southampton,Toby Alderweireld,BEL,DF,25.0,26,26,2261.0,25.1,1.0,0.0,1.0,0.0,0.0,3.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Southampton,Victor Wanyama,KEN,MF,23.0,32,26,2360.0,26.2,3.0,1.0,3.0,0.0,0.0,10.0,0.0,0.11,0.04,0.15,0.11,0.15
+ENG-Premier League,1415,Stoke City,Andy Wilkinson,ENG,DF,29.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Stoke City,Asmir Begović,BIH,GK,27.0,35,35,3150.0,35.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Bojan Krkić,ESP,"FW,MF",23.0,16,14,1203.0,13.4,4.0,1.0,3.0,1.0,1.0,2.0,0.0,0.3,0.07,0.37,0.22,0.3
+ENG-Premier League,1415,Stoke City,Charlie Adam,SCO,MF,28.0,29,15,1511.0,16.8,7.0,1.0,6.0,1.0,1.0,5.0,0.0,0.42,0.06,0.48,0.36,0.42
+ENG-Premier League,1415,Stoke City,Dionatan Teixeira,BRA,DF,22.0,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Erik Pieters,NED,"DF,MF",25.0,31,29,2562.0,28.5,0.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,0.07,0.07,0.0,0.07
+ENG-Premier League,1415,Stoke City,Geoff Cameron,USA,"DF,MF",29.0,27,21,2138.0,23.8,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.04,0.04,0.0,0.04
+ENG-Premier League,1415,Stoke City,Glenn Whelan,IRL,MF,30.0,28,26,2258.0,25.1,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Jack Butland,ENG,GK,21.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Jonathan Walters,IRL,"FW,MF",30.0,32,28,2419.0,26.9,8.0,4.0,8.0,0.0,0.0,5.0,0.0,0.3,0.15,0.45,0.3,0.45
+ENG-Premier League,1415,Stoke City,Mame Biram Diouf,SEN,"FW,MF",26.0,34,28,2433.0,27.0,11.0,3.0,11.0,0.0,0.0,7.0,0.0,0.41,0.11,0.52,0.41,0.52
+ENG-Premier League,1415,Stoke City,Marc Muniesa,ESP,"DF,MF",22.0,19,14,1389.0,15.4,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Marc Wilson,IRL,"DF,MF",26.0,27,25,2123.0,23.6,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Marko Arnautović,AUT,"FW,MF",25.0,29,20,1918.0,21.3,1.0,5.0,1.0,0.0,0.0,2.0,0.0,0.05,0.23,0.28,0.05,0.28
+ENG-Premier League,1415,Stoke City,Ollie Shenton,ENG,MF,16.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Opponent Total,,,27.1,38,418,3420.0,38.0,45.0,28.0,40.0,5.0,5.0,67.0,5.0,1.18,0.74,1.92,1.05,1.79
+ENG-Premier League,1415,Stoke City,Oussama Assaidi,MAR,"FW,MF",25.0,9,1,231.0,2.6,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.39,0.39,0.0,0.39
+ENG-Premier League,1415,Stoke City,Peter Crouch,ENG,FW,33.0,33,17,1685.0,18.7,8.0,2.0,8.0,0.0,0.0,4.0,0.0,0.43,0.11,0.53,0.43,0.53
+ENG-Premier League,1415,Stoke City,Peter Odemwingie,NGA,FW,33.0,7,1,194.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Phil Bardsley,SCO,DF,29.0,25,24,2082.0,23.1,0.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.04,0.04,0.0,0.04
+ENG-Premier League,1415,Stoke City,Philipp Wollscheid,GER,DF,25.0,12,12,1006.0,11.2,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Robert Huth,GER,DF,29.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Ryan Shawcross,ENG,DF,26.0,32,32,2831.0,31.5,2.0,1.0,2.0,0.0,0.0,7.0,0.0,0.06,0.03,0.1,0.06,0.1
+ENG-Premier League,1415,Stoke City,Squad Total,,,27.4,38,418,3420.0,38.0,47.0,30.0,44.0,3.0,3.0,0.0,0.0,1.24,0.79,2.03,1.16,1.95
+ENG-Premier League,1415,Stoke City,Stephen Ireland,IRL,MF,27.0,17,11,933.0,10.4,0.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.29,0.29,0.0,0.29
+ENG-Premier League,1415,Stoke City,Steve Sidwell,ENG,MF,31.0,12,5,450.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Stoke City,Steven Nzonzi,FRA,MF,25.0,38,38,3374.0,37.5,3.0,2.0,3.0,0.0,0.0,2.0,0.0,0.08,0.05,0.13,0.08,0.13
+ENG-Premier League,1415,Stoke City,Thomas Sørensen,DEN,GK,38.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Stoke City,Victor Moses,NGA,"DF,FW",23.0,19,19,1444.0,16.0,3.0,3.0,2.0,1.0,1.0,3.0,0.0,0.19,0.19,0.37,0.12,0.31
+ENG-Premier League,1415,Stoke City,Wilson Palacios,HON,MF,30.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Adam Johnson,ENG,MF,27.0,32,23,2079.0,23.1,4.0,1.0,3.0,1.0,1.0,2.0,0.0,0.17,0.04,0.22,0.13,0.17
+ENG-Premier League,1415,Sunderland,Anthony Réveillère,FRA,DF,34.0,16,15,1327.0,14.7,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.14,0.0,0.14
+ENG-Premier League,1415,Sunderland,Billy Jones,ENG,DF,27.0,14,14,1254.0,13.9,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Cabral,SUI,MF,25.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Charalampos Mavrias,GRE,"FW,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Connor Wickham,ENG,"FW,MF",21.0,36,31,2768.0,30.8,5.0,1.0,5.0,0.0,0.0,8.0,0.0,0.16,0.03,0.2,0.16,0.2
+ENG-Premier League,1415,Sunderland,Costel Pantilimon,ROU,GK,27.0,28,28,2520.0,28.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Danny Graham,ENG,FW,28.0,14,7,627.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.14,0.0,0.14,0.14,0.14
+ENG-Premier League,1415,Sunderland,Duncan Watmore,ENG,"FW,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Emanuele Giaccherini,ITA,"FW,MF",29.0,8,2,308.0,3.4,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,George Honeyman,ENG,MF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Jack Rodwell,ENG,"DF,MF",23.0,23,17,1483.0,16.5,3.0,0.0,3.0,0.0,0.0,5.0,0.0,0.18,0.0,0.18,0.18,0.18
+ENG-Premier League,1415,Sunderland,Jermain Defoe,ENG,FW,31.0,17,17,1451.0,16.1,4.0,0.0,4.0,0.0,0.0,1.0,0.0,0.25,0.0,0.25,0.25,0.25
+ENG-Premier League,1415,Sunderland,John O'Shea,IRL,"DF,MF",33.0,37,37,3270.0,36.3,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Jordan Pickford,ENG,GK,20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Jordi Gómez,ESP,MF,29.0,29,22,1941.0,21.6,4.0,2.0,1.0,3.0,3.0,7.0,0.0,0.19,0.09,0.28,0.05,0.14
+ENG-Premier League,1415,Sunderland,Jozy Altidore,USA,FW,24.0,11,2,311.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Lee Cattermole,ENG,MF,26.0,28,26,2357.0,26.2,1.0,0.0,1.0,0.0,0.0,14.0,0.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,Sunderland,Liam Agnew,ENG,MF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Liam Bridcutt,SCO,"DF,MF",25.0,18,10,912.0,10.1,0.0,2.0,0.0,0.0,0.0,7.0,1.0,0.0,0.2,0.2,0.0,0.2
+ENG-Premier League,1415,Sunderland,Mikael Mandron,FRA,FW,19.0,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Opponent Total,,,27.0,38,418,3420.0,38.0,49.0,33.0,45.0,4.0,4.0,71.0,4.0,1.29,0.87,2.16,1.18,2.05
+ENG-Premier League,1415,Sunderland,Patrick van Aanholt,NED,DF,23.0,28,26,2307.0,25.6,0.0,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.2,0.2,0.0,0.2
+ENG-Premier League,1415,Sunderland,Ricky Álvarez,ARG,MF,26.0,13,5,497.0,5.5,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Santiago Vergini,ARG,DF,25.0,31,28,2620.0,29.1,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Seb Larsson,SWE,MF,29.0,36,36,3051.0,33.9,3.0,3.0,3.0,0.0,0.0,10.0,0.0,0.09,0.09,0.18,0.09,0.18
+ENG-Premier League,1415,Sunderland,Sebastián Coates,URU,DF,23.0,9,8,823.0,9.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Squad Total,,,27.8,38,417,3420.0,38.0,30.0,20.0,26.0,4.0,4.0,0.0,0.0,0.79,0.53,1.32,0.68,1.21
+ENG-Premier League,1415,Sunderland,Steven Fletcher,SCO,FW,27.0,30,20,1784.0,19.8,5.0,2.0,5.0,0.0,0.0,4.0,0.0,0.25,0.1,0.35,0.25,0.35
+ENG-Premier League,1415,Sunderland,Thomas Robson,ENG,"DF,MF",18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Sunderland,Valentin Roberge,FRA,DF,27.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Vito Mannone,ITA,GK,26.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Wes Brown,ENG,DF,34.0,25,23,1993.0,22.1,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Sunderland,Will Buckley,ENG,"FW,MF",24.0,22,9,876.0,9.7,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.21,0.21,0.0,0.21
+ENG-Premier League,1415,Swansea City,Ashley Williams,WAL,DF,29.0,37,37,3330.0,37.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Bafétimbi Gomis,FRA,FW,28.0,31,18,1648.0,18.3,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.38,0.0,0.38,0.38,0.38
+ENG-Premier League,1415,Swansea City,David Cornell,WAL,GK,23.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Swansea City,Dwight Tiendalli,NED,DF,28.0,3,1,129.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Federico Fernández,ARG,DF,25.0,28,27,2475.0,27.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Gerhard Tremmel,GER,GK,35.0,2,1,112.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Gylfi Sigurðsson,ISL,"FW,MF",24.0,32,32,2682.0,29.8,7.0,10.0,7.0,0.0,0.0,2.0,0.0,0.23,0.34,0.57,0.23,0.57
+ENG-Premier League,1415,Swansea City,Jack Cork,ENG,"DF,MF",25.0,15,15,1324.0,14.7,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,Swansea City,Jay Fulton,SCO,MF,20.0,2,1,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Jazz Richards,WAL,"DF,MF",23.0,10,7,636.0,7.1,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.14,0.14,0.0,0.14
+ENG-Premier League,1415,Swansea City,Jefferson Montero,ECU,"FW,MF",24.0,30,15,1577.0,17.5,1.0,7.0,1.0,0.0,0.0,0.0,0.0,0.06,0.4,0.46,0.06,0.46
+ENG-Premier League,1415,Swansea City,Jonjo Shelvey,ENG,MF,22.0,31,28,2449.0,27.2,3.0,5.0,2.0,1.0,1.0,9.0,1.0,0.11,0.18,0.29,0.07,0.26
+ENG-Premier League,1415,Swansea City,Jordi Amat,ESP,DF,22.0,10,7,588.0,6.5,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Josh Sheehan,WAL,MF,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Swansea City,Ki Sung-yueng,KOR,MF,25.0,33,30,2689.0,29.9,8.0,1.0,8.0,0.0,0.0,4.0,0.0,0.27,0.03,0.3,0.27,0.3
+ENG-Premier League,1415,Swansea City,Kyle Bartley,ENG,DF,23.0,7,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Kyle Naughton,ENG,DF,25.0,10,10,856.0,9.5,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.11,0.11,0.0,0.11
+ENG-Premier League,1415,Swansea City,Leon Britton,ENG,MF,31.0,9,7,534.0,5.9,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Liam Shephard,WAL,"DF,MF",19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Swansea City,Marvin Emnes,NED,"FW,MF",26.0,17,3,514.0,5.7,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Matt Grimes,ENG,MF,19.0,3,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Modou Barrow,GAM,"FW,MF",21.0,11,1,286.0,3.2,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.31,0.31,0.0,0.31
+ENG-Premier League,1415,Swansea City,Nathan Dyer,ENG,"FW,MF",26.0,32,23,1862.0,20.7,3.0,3.0,3.0,0.0,0.0,2.0,0.0,0.15,0.15,0.29,0.15,0.29
+ENG-Premier League,1415,Swansea City,Neil Taylor,WAL,"DF,MF",25.0,34,34,2998.0,33.3,0.0,2.0,0.0,0.0,0.0,9.0,0.0,0.0,0.06,0.06,0.0,0.06
+ENG-Premier League,1415,Swansea City,Nélson Oliveira,POR,FW,22.0,10,4,389.0,4.3,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.23,0.0,0.23,0.23,0.23
+ENG-Premier League,1415,Swansea City,Opponent Total,,,26.8,38,418,3420.0,38.0,48.0,33.0,46.0,2.0,2.0,81.0,3.0,1.26,0.87,2.13,1.21,2.08
+ENG-Premier League,1415,Swansea City,Raheem Hanley,SKN,MF,20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Swansea City,Squad Total,,,26.6,38,418,3420.0,38.0,43.0,34.0,41.0,2.0,2.0,0.0,0.0,1.13,0.89,2.03,1.08,1.97
+ENG-Premier League,1415,Swansea City,Tom Carroll,ENG,MF,22.0,13,8,692.0,7.7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Wayne Routledge,ENG,"FW,MF",29.0,29,27,2310.0,25.7,3.0,1.0,3.0,0.0,0.0,1.0,1.0,0.12,0.04,0.16,0.12,0.16
+ENG-Premier League,1415,Swansea City,Wilfried Bony,CIV,FW,25.0,20,16,1297.0,14.4,9.0,2.0,8.0,1.0,1.0,3.0,1.0,0.62,0.14,0.76,0.56,0.69
+ENG-Premier League,1415,Swansea City,Àngel Rangel,ESP,DF,31.0,27,22,2037.0,22.6,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Swansea City,Łukasz Fabiański,POL,GK,29.0,37,37,3308.0,36.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Aaron Lennon,ENG,"FW,MF",27.0,9,3,279.0,3.1,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.65,0.65,0.0,0.65
+ENG-Premier League,1415,Tottenham,Andros Townsend,ENG,"FW,MF",23.0,17,10,749.0,8.3,2.0,2.0,1.0,1.0,1.0,2.0,0.0,0.24,0.24,0.48,0.12,0.36
+ENG-Premier League,1415,Tottenham,Ben Davies,WAL,"DF,MF",21.0,14,9,895.0,9.9,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,0.1,0.0,0.1
+ENG-Premier League,1415,Tottenham,Benjamin Stambouli,FRA,"DF,MF",23.0,12,4,459.0,5.1,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Brad Friedel,USA,,43.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Tottenham,Christian Eriksen,DEN,"FW,MF",22.0,38,37,3131.0,34.8,10.0,2.0,10.0,0.0,0.0,4.0,0.0,0.29,0.06,0.34,0.29,0.34
+ENG-Premier League,1415,Tottenham,Cristian Ceballos,ESP,"FW,MF",21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Tottenham,Danny Rose,ENG,"DF,MF",24.0,28,27,2367.0,26.3,3.0,5.0,3.0,0.0,0.0,7.0,0.0,0.11,0.19,0.3,0.11,0.3
+ENG-Premier League,1415,Tottenham,DeAndre Yedlin,USA,DF,21.0,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Dominic Ball,ENG,"DF,MF",18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Tottenham,Emmanuel Adebayor,TOG,FW,30.0,13,9,813.0,9.0,2.0,1.0,2.0,0.0,0.0,1.0,0.0,0.22,0.11,0.33,0.22,0.33
+ENG-Premier League,1415,Tottenham,Eric Dier,ENG,"DF,MF",20.0,28,25,2293.0,25.5,2.0,2.0,2.0,0.0,0.0,4.0,0.0,0.08,0.08,0.16,0.08,0.16
+ENG-Premier League,1415,Tottenham,Federico Fazio,ARG,DF,27.0,20,20,1777.0,19.7,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Harry Kane,ENG,FW,21.0,34,28,2581.0,28.7,21.0,4.0,19.0,2.0,3.0,4.0,0.0,0.73,0.14,0.87,0.66,0.8
+ENG-Premier League,1415,Tottenham,Harry Winks,ENG,MF,18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Tottenham,Hugo Lloris,FRA,GK,27.0,35,35,3063.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Jan Vertonghen,BEL,DF,27.0,32,31,2811.0,31.2,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Josh Onomah,ENG,"FW,MF",17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Tottenham,Kyle Naughton,ENG,DF,25.0,5,5,325.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Kyle Walker,ENG,DF,24.0,15,15,1306.0,14.5,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Lewis Holtby,GER,MF,23.0,1,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Michael Dawson,ENG,DF,30.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,Tottenham,Michel Vorm,NED,GK,30.0,4,3,357.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Mousa Dembélé,BEL,MF,27.0,26,10,1146.0,12.7,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.08,0.08,0.16,0.08,0.16
+ENG-Premier League,1415,Tottenham,Nabil Bentaleb,ALG,MF,19.0,26,25,2193.0,24.4,0.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,0.08,0.08,0.0,0.08
+ENG-Premier League,1415,Tottenham,Nacer Chadli,BEL,"FW,MF",24.0,35,28,2406.0,26.7,11.0,5.0,11.0,0.0,0.0,3.0,0.0,0.41,0.19,0.6,0.41,0.6
+ENG-Premier League,1415,Tottenham,Opponent Total,,,27.0,38,418,3420.0,38.0,52.0,34.0,47.0,5.0,7.0,79.0,4.0,1.37,0.89,2.26,1.24,2.13
+ENG-Premier League,1415,Tottenham,Paulinho,BRA,MF,26.0,15,3,489.0,5.4,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.18,0.18,0.0,0.18
+ENG-Premier League,1415,Tottenham,Roberto Soldado,ESP,FW,29.0,24,7,804.0,8.9,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.11,0.11,0.22,0.11,0.22
+ENG-Premier League,1415,Tottenham,Ryan Mason,ENG,MF,23.0,31,29,2312.0,25.7,1.0,4.0,1.0,0.0,0.0,10.0,0.0,0.04,0.16,0.19,0.04,0.19
+ENG-Premier League,1415,Tottenham,Squad Total,,,24.4,38,418,3420.0,38.0,56.0,40.0,53.0,3.0,5.0,0.0,0.0,1.47,1.05,2.53,1.39,2.45
+ENG-Premier League,1415,Tottenham,Vlad Chiricheș,ROU,DF,24.0,10,8,708.0,7.9,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Younès Kaboul,FRA,DF,28.0,11,11,990.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,Tottenham,Érik Lamela,ARG,"FW,MF",22.0,33,25,2299.0,25.5,2.0,7.0,2.0,0.0,0.0,6.0,0.0,0.08,0.27,0.35,0.08,0.35
+ENG-Premier League,1415,Tottenham,Étienne Capoue,FRA,MF,26.0,12,11,897.0,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Adil Nabi,ENG,"FW,MF",20.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Brom,Alex Palmer,ENG,GK,17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Brom,Andre Wisdom,ENG,DF,21.0,24,22,1972.0,21.9,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.05,0.05,0.0,0.05
+ENG-Premier League,1415,West Brom,Ben Foster,ENG,GK,31.0,28,28,2485.0,27.6,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Boaz Myhill,WAL,GK,31.0,11,10,935.0,10.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Brown Ideye,NGA,FW,25.0,24,13,1301.0,14.5,4.0,2.0,4.0,0.0,0.0,2.0,0.0,0.28,0.14,0.42,0.28,0.42
+ENG-Premier League,1415,West Brom,Callum McManaman,ENG,"FW,MF",23.0,8,5,345.0,3.8,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.26,0.26,0.0,0.26
+ENG-Premier League,1415,West Brom,Chris Baird,NIR,"DF,MF",32.0,19,9,806.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Chris Brunt,NIR,"DF,MF",29.0,34,33,2894.0,32.2,2.0,9.0,2.0,0.0,0.0,5.0,0.0,0.06,0.28,0.34,0.06,0.34
+ENG-Premier League,1415,West Brom,Claudio Yacob,ARG,MF,27.0,20,16,1393.0,15.5,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Craig Dawson,ENG,DF,24.0,29,29,2590.0,28.8,2.0,0.0,2.0,0.0,0.0,6.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,West Brom,Craig Gardner,ENG,MF,27.0,35,30,2678.0,29.8,3.0,4.0,3.0,0.0,0.0,10.0,0.0,0.1,0.13,0.24,0.1,0.24
+ENG-Premier League,1415,West Brom,Cristian Gamboa,CRC,"DF,MF",24.0,10,1,242.0,2.7,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.37,0.37,0.0,0.37
+ENG-Premier League,1415,West Brom,Darren Fletcher,SCO,MF,30.0,15,15,1350.0,15.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.07,0.0,0.07,0.07,0.07
+ENG-Premier League,1415,West Brom,Gareth McAuley,NIR,DF,34.0,24,24,2072.0,23.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,0.04,0.0,0.04,0.04,0.04
+ENG-Premier League,1415,West Brom,Georgios Samaras,GRE,"FW,MF",29.0,5,0,72.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Graham Dorrans,SCO,"FW,MF",27.0,21,19,1587.0,17.6,1.0,3.0,1.0,0.0,1.0,5.0,0.0,0.06,0.17,0.23,0.06,0.23
+ENG-Premier League,1415,West Brom,Jack Rose,ENG,GK,19.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Brom,James Morrison,SCO,"FW,MF",28.0,33,29,2552.0,28.4,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.07,0.04,0.11,0.07,0.11
+ENG-Premier League,1415,West Brom,Jason Davidson,AUS,"DF,MF",23.0,2,1,102.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Joleon Lescott,ENG,DF,31.0,34,34,3060.0,34.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.03,0.06,0.09,0.03,0.09
+ENG-Premier League,1415,West Brom,Jonas Olsson,SWE,DF,31.0,13,9,825.0,9.2,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.11,0.0,0.11,0.11,0.11
+ENG-Premier League,1415,West Brom,Liam O'Neil,ENG,"DF,MF",21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Brom,Luke Daniels,ENG,GK,26.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Brom,Opponent Total,,,26.8,38,418,3420.0,38.0,51.0,32.0,46.0,5.0,7.0,49.0,2.0,1.34,0.84,2.18,1.21,2.05
+ENG-Premier League,1415,West Brom,Saido Berahino,BDI,"FW,MF",20.0,38,32,2924.0,32.5,14.0,1.0,10.0,4.0,4.0,2.0,0.0,0.43,0.03,0.46,0.31,0.34
+ENG-Premier League,1415,West Brom,Sebastián Blanco,ARG,"FW,MF",26.0,3,0,39.0,0.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Silvestre Varela,POR,"FW,MF",29.0,7,3,336.0,3.7,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.27,0.0,0.27,0.27,0.27
+ENG-Premier League,1415,West Brom,Squad Total,,,28.0,38,418,3420.0,38.0,37.0,29.0,33.0,4.0,5.0,0.0,0.0,0.97,0.76,1.74,0.87,1.63
+ENG-Premier League,1415,West Brom,Stéphane Sessègnon,BEN,"FW,MF",30.0,28,20,1761.0,19.6,1.0,3.0,1.0,0.0,0.0,5.0,0.0,0.05,0.15,0.2,0.05,0.2
+ENG-Premier League,1415,West Brom,Sébastien Pocognoli,BEL,"DF,MF",26.0,15,15,1209.0,13.4,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Brom,Tyler Roberts,WAL,"FW,MF",15.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Brom,Victor Anichebe,NGA,FW,26.0,21,11,1035.0,11.5,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.26,0.09,0.35,0.26,0.35
+ENG-Premier League,1415,West Brom,Youssouf Mulumbu,COD,MF,27.0,17,10,899.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Aaron Cresswell,ENG,"DF,MF",24.0,38,38,3420.0,38.0,2.0,4.0,2.0,0.0,0.0,5.0,0.0,0.05,0.11,0.16,0.05,0.16
+ENG-Premier League,1415,West Ham,Adrián,ESP,GK,27.0,38,38,3392.0,37.7,0.0,0.0,,,,3.0,1.0,0.0,0.0,0.0,,
+ENG-Premier League,1415,West Ham,Alex Song,CMR,"DF,MF",26.0,28,25,2245.0,24.9,0.0,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.12,0.12,0.0,0.12
+ENG-Premier League,1415,West Ham,Andy Carroll,ENG,FW,25.0,14,12,1024.0,11.4,5.0,1.0,5.0,0.0,0.0,2.0,0.0,0.44,0.09,0.53,0.44,0.53
+ENG-Premier League,1415,West Ham,Carl Jenkinson,ENG,DF,22.0,32,29,2669.0,29.7,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.07,0.07,0.0,0.07
+ENG-Premier League,1415,West Ham,Carlton Cole,ENG,FW,30.0,23,8,912.0,10.1,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2,0.2,0.2
+ENG-Premier League,1415,West Ham,Cheikhou Kouyaté,SEN,"DF,MF",24.0,31,30,2657.0,29.5,4.0,2.0,4.0,0.0,0.0,5.0,0.0,0.14,0.07,0.2,0.14,0.2
+ENG-Premier League,1415,West Ham,Diafra Sakho,SEN,FW,24.0,23,20,1754.0,19.5,10.0,2.0,10.0,0.0,0.0,2.0,0.0,0.51,0.1,0.62,0.51,0.62
+ENG-Premier League,1415,West Ham,Diego Poyet,URU,MF,19.0,3,1,91.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Elliot Lee,ENG,"FW,MF",19.0,1,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Enner Valencia,ECU,"FW,MF",24.0,32,25,2101.0,23.3,4.0,3.0,4.0,0.0,0.0,2.0,0.0,0.17,0.13,0.3,0.17,0.3
+ENG-Premier League,1415,West Ham,Guy Demel,CIV,"DF,MF",33.0,6,3,258.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,James Collins,WAL,DF,30.0,27,21,1882.0,20.9,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,James Tomkins,ENG,"DF,MF",25.0,22,20,1852.0,20.6,1.0,3.0,1.0,0.0,0.0,6.0,0.0,0.05,0.15,0.19,0.05,0.19
+ENG-Premier League,1415,West Ham,Joey O'Brien,IRL,"DF,MF",28.0,9,6,526.0,5.8,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Josh Cullen,IRL,"DF,MF",18.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Ham,Jussi Jääskeläinen,FIN,GK,39.0,1,0,28.0,0.3,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,
+ENG-Premier League,1415,West Ham,Kevin Nolan,ENG,MF,32.0,29,19,1749.0,19.4,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.05,0.05,0.1,0.05,0.1
+ENG-Premier League,1415,West Ham,Manny Onariase,NGA,DF,17.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Ham,Mark Noble,ENG,MF,27.0,28,27,2301.0,25.6,2.0,3.0,1.0,1.0,2.0,4.0,0.0,0.08,0.12,0.2,0.04,0.16
+ENG-Premier League,1415,West Ham,Matt Jarvis,ENG,MF,28.0,11,4,416.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Mauro Zárate,ARG,"FW,MF",27.0,7,5,412.0,4.6,2.0,1.0,2.0,0.0,0.0,1.0,0.0,0.44,0.22,0.66,0.44,0.66
+ENG-Premier League,1415,West Ham,Mohamed Diamé,SEN,MF,27.0,3,0,57.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Morgan Amalfitano,FRA,MF,29.0,24,14,1184.0,13.2,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.23,0.08,0.3,0.23,0.3
+ENG-Premier League,1415,West Ham,Nenê,BRA,"FW,MF",33.0,8,0,135.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Opponent Total,,,26.9,38,418,3420.0,38.0,45.0,28.0,43.0,2.0,5.0,64.0,7.0,1.18,0.74,1.92,1.13,1.87
+ENG-Premier League,1415,West Ham,Ravel Morrison,JAM,MF,21.0,1,0,34.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Reece Burke,ENG,DF,17.0,5,4,415.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Reece Oxford,ENG,DF,15.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Ham,Ricardo Vaz Tê,POR,"FW,MF",27.0,4,3,223.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENG-Premier League,1415,West Ham,Sebastian Lletget,USA,MF,21.0,0,0,,,,,,,,,,,,,,
+ENG-Premier League,1415,West Ham,Squad Total,,,26.8,38,418,3420.0,38.0,43.0,34.0,42.0,1.0,2.0,0.0,0.0,1.13,0.89,2.03,1.11,2.0
+ENG-Premier League,1415,West Ham,Stewart Downing,ENG,"FW,MF",30.0,37,37,3312.0,36.8,6.0,8.0,6.0,0.0,0.0,3.0,0.0,0.16,0.22,0.38,0.16,0.38
+ENG-Premier League,1415,West Ham,Winston Reid,NZL,DF,26.0,30,29,2502.0,27.8,1.0,0.0,1.0,0.0,0.0,10.0,0.0,0.04,0.0,0.04,0.04,0.04

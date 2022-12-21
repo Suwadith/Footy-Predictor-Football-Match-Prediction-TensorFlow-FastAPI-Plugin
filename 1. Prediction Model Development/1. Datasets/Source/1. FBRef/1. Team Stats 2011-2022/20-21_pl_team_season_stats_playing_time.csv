@@ -1,0 +1,23 @@
+,,,# Pl,Age,Playing Time,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),url
+,,,,,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,onxG,onxGA,xG+/-,xG+/-90,
+league,season,team,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2021,Arsenal,29,25.9,38,3420,90,100,38.0,418,84,301,114,19,201,1.61,55,39,16,0.42,53.5,44.3,9.2,0.24,/en/squads/18bb7c10/2020-2021/Arsenal-Stats
+ENG-Premier League,2021,Aston Villa,24,25.2,38,3420,90,100,38.0,418,86,324,91,17,229,1.45,55,46,9,0.24,52.9,52.9,0.1,0.0,/en/squads/8602292d/2020-2021/Aston-Villa-Stats
+ENG-Premier League,2021,Brighton,27,25.8,38,3420,90,100,38.0,418,85,305,108,20,208,1.08,40,46,-6,-0.16,51.6,37.7,13.9,0.37,/en/squads/d07537b9/2020-2021/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2021,Burnley,25,28.3,38,3420,90,100,38.0,418,86,339,81,19,235,1.03,33,55,-22,-0.58,39.9,57.6,-17.7,-0.47,/en/squads/943e8050/2020-2021/Burnley-Stats
+ENG-Premier League,2021,Chelsea,27,26.0,38,3420,90,100,38.0,418,84,308,108,22,208,1.76,58,36,22,0.58,64.0,32.8,31.2,0.82,/en/squads/cff3d9bb/2020-2021/Chelsea-Stats
+ENG-Premier League,2021,Crystal Palace,24,29.1,38,3420,90,100,38.0,418,86,321,95,17,208,1.16,41,66,-25,-0.66,32.4,57.5,-25.0,-0.66,/en/squads/47c64c55/2020-2021/Crystal-Palace-Stats
+ENG-Premier League,2021,Everton,29,26.3,38,3420,90,100,38.0,418,85,310,106,19,206,1.55,47,48,-1,-0.03,47.1,52.0,-4.9,-0.13,/en/squads/d3fd31cc/2020-2021/Everton-Stats
+ENG-Premier League,2021,Fulham,28,25.2,38,3420,90,100,38.0,418,85,306,110,19,203,0.74,27,53,-26,-0.68,41.3,52.9,-11.7,-0.31,/en/squads/fd962109/2020-2021/Fulham-Stats
+ENG-Premier League,2021,Leeds United,23,26.1,38,3420,90,100,38.0,418,83,312,107,25,209,1.55,62,54,8,0.21,57.5,62.9,-5.4,-0.14,/en/squads/5bfb9659/2020-2021/Leeds-United-Stats
+ENG-Premier League,2021,Leicester City,27,26.5,38,3420,90,100,38.0,418,85,320,99,22,216,1.74,68,50,18,0.47,56.0,47.7,8.3,0.22,/en/squads/a2d435b3/2020-2021/Leicester-City-Stats
+ENG-Premier League,2021,Liverpool,28,26.8,38,3420,90,100,38.0,418,85,314,104,19,212,1.82,68,42,26,0.68,72.6,45.3,27.3,0.72,/en/squads/822bd0ba/2020-2021/Liverpool-Stats
+ENG-Premier League,2021,Manchester City,24,26.1,38,3420,90,100,38.0,418,86,339,77,22,240,2.26,83,32,51,1.34,73.3,31.4,42.0,1.1,/en/squads/b8fd03ef/2020-2021/Manchester-City-Stats
+ENG-Premier League,2021,Manchester Utd,29,25.6,38,3420,90,100,38.0,418,86,318,99,18,219,1.95,73,44,29,0.76,60.2,42.2,18.0,0.47,/en/squads/19538871/2020-2021/Manchester-United-Stats
+ENG-Premier League,2021,Newcastle Utd,27,27.1,38,3420,90,100,38.0,418,85,306,109,19,209,1.18,46,62,-16,-0.42,41.0,54.0,-13.0,-0.34,/en/squads/b2b47a98/2020-2021/Newcastle-United-Stats
+ENG-Premier League,2021,Sheffield Utd,27,26.7,38,3420,90,100,38.0,418,83,315,103,25,198,0.61,20,63,-43,-1.13,31.4,62.4,-31.0,-0.82,/en/squads/1df6b87e/2020-2021/Sheffield-United-Stats
+ENG-Premier League,2021,Southampton,29,26.6,38,3420,90,100,38.0,418,85,314,101,19,215,1.13,47,68,-21,-0.55,42.4,54.2,-11.8,-0.31,/en/squads/33c895d4/2020-2021/Southampton-Stats
+ENG-Premier League,2021,Tottenham,24,27.2,38,3420,90,100,38.0,418,85,305,112,20,204,1.63,68,45,23,0.61,54.5,49.5,5.0,0.13,/en/squads/361ca564/2020-2021/Tottenham-Hotspur-Stats
+ENG-Premier League,2021,West Brom,30,26.4,38,3420,90,100,38.0,418,84,311,104,22,211,0.68,35,76,-41,-1.08,33.8,67.7,-34.0,-0.89,/en/squads/60c6b05f/2020-2021/West-Bromwich-Albion-Stats
+ENG-Premier League,2021,West Ham,24,27.8,38,3420,90,100,38.0,418,86,316,99,17,214,1.71,62,47,15,0.39,53.9,48.3,5.6,0.15,/en/squads/7c21e445/2020-2021/West-Ham-United-Stats
+ENG-Premier League,2021,Wolves,27,26.3,38,3420,90,100,38.0,418,85,313,106,19,204,1.18,36,52,-16,-0.42,39.9,45.8,-6.0,-0.16,/en/squads/8cec06e1/2020-2021/Wolverhampton-Wanderers-Stats

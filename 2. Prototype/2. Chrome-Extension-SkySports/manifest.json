@@ -1,0 +1,30 @@
+{
+    "name": "Footy Sky Predictor",
+    "description": "Get EPL Match Predictions",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "host_permissions": [
+        "https://www.skysports.com/premier-league-results",
+        "https://www.skysports.com/premier-league-fixtures",
+        "http://localhost:8000/*"
+    ],
+
+    "content_security_policy": {
+        "extension_pages": "script-src http://localhost;  object-src http://localhost;"
+      },
+
+    "background": {
+        "service_worker": "background.js"
+    },
+
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "storage",
+        "scripting"
+    ],
+    
+    "author": "Suwadith"
+
+  }
