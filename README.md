@@ -50,3 +50,7 @@ To fix this, the Predictions.csv file inside the API’s source folder has to be
 
 
 ![image](https://user-images.githubusercontent.com/20539850/208999434-5cb64446-aa29-4ca5-a067-a94589265436.png)
+
+
+
+> Note: This project was developed as a prototype for my Master's dissertation at Middlesex University
